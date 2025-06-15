@@ -177,6 +177,12 @@ DTEND;TZID=Europe/London:20250626T140000
 DESCRIPTION:Barton Peveri Tryouts, arrive 15 mins early. Football Trials
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[HIGH PRIORITY] Refereee Update for 2025 Season !!
+DTSTART;TZID=Europe/London:20250626T193000
+DTEND;TZID=Europe/London:20250626T203000
+DESCRIPTION:The Chandlers Ford Central Club, 2 Winchester Road, Eastleigh SO53 2FZ
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Peter Symonds Taster
 DTSTART;TZID=Europe/London:20250627T090000
 DTEND;TZID=Europe/London:20250627T144500
