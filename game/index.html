@@ -75,25 +75,21 @@
     }
 
     /* ── Lane dividers ── */
-    /* Each .lane-divider is positioned inside #road at 25%, 50%, 75% */
     .lane-divider {
       position: absolute;
       left: 0;
-      /* double-wide so animation can loop seamlessly */
       width: 200%;
       height: 8px;
       display: flex;
       animation: scroll-road 1.4s linear infinite;
     }
 
-    /* Centre divider is solid white (highway median style) */
     .lane-divider.solid .lane-dash {
       width: 100%;
       height: 8px;
       background: #ffffff;
     }
 
-    /* Dashed white lane lines */
     .lane-divider.dashed .lane-dash {
       width: 100px;
       height: 8px;
@@ -112,7 +108,6 @@
     .tree-row {
       position: absolute;
       left: 0;
-      /* double wide to allow seamless loop */
       width: 200%;
       display: flex;
       align-items: flex-end;
@@ -126,8 +121,7 @@
     }
 
     #trees-top {
-      /* sits just above the road, anchored to bottom of top verge */
-      bottom: 72%; /* = 100% - 28% road top */
+      bottom: 72%;
     }
 
     #trees-bottom {
@@ -161,7 +155,7 @@
       background: #6b4226;
     }
 
-    /* ── Road surface texture (subtle) ── */
+    /* ── Road surface texture ── */
     #road-texture {
       position: absolute;
       top: 28%; left: 0;
@@ -182,16 +176,102 @@
       to   { transform: translateX(-4px); }
     }
 
-    /* ── HUD ── */
-    #hud {
+    /* ── Frog character ── */
+    #frog {
       position: absolute;
-      top: 16px; left: 20px;
-      color: #e0e0e0;
-      font-size: 20px;
-      font-weight: bold;
-      text-shadow: 0 0 8px #000;
-      z-index: 20;
-      letter-spacing: 1px;
+      width: 52px;
+      height: 44px;
+      z-index: 30;
+      /* centred on its own anchor point */
+      transform: translate(-50%, -50%);
+      transition: transform 0.05s;
+    }
+
+    /* frog body */
+    #frog .body {
+      position: absolute;
+      width: 38px; height: 30px;
+      background: #3cb043;
+      border-radius: 50% 50% 45% 45%;
+      top: 10px; left: 7px;
+      box-shadow: inset 0 -4px 6px rgba(0,0,0,0.3);
+    }
+
+    /* belly */
+    #frog .belly {
+      position: absolute;
+      width: 24px; height: 18px;
+      background: #a8e063;
+      border-radius: 50%;
+      top: 16px; left: 14px;
+    }
+
+    /* eyes */
+    #frog .eye {
+      position: absolute;
+      width: 14px; height: 14px;
+      background: #3cb043;
+      border-radius: 50%;
+      top: 2px;
+    }
+    #frog .eye.left  { left: 6px; }
+    #frog .eye.right { right: 6px; }
+
+    #frog .eye::after {
+      content: '';
+      position: absolute;
+      width: 8px; height: 8px;
+      background: #111;
+      border-radius: 50%;
+      top: 3px; left: 3px;
+      box-shadow: 2px 1px 0 1px #fff;
+    }
+
+    /* front legs */
+    #frog .leg-fl {
+      position: absolute;
+      width: 10px; height: 16px;
+      background: #3cb043;
+      border-radius: 0 0 5px 5px;
+      top: 26px; left: 0px;
+      transform: rotate(-20deg);
+    }
+    #frog .leg-fr {
+      position: absolute;
+      width: 10px; height: 16px;
+      background: #3cb043;
+      border-radius: 0 0 5px 5px;
+      top: 26px; right: 0px;
+      transform: rotate(20deg);
+    }
+
+    /* back legs */
+    #frog .leg-bl {
+      position: absolute;
+      width: 14px; height: 12px;
+      background: #3cb043;
+      border-radius: 0 0 8px 8px;
+      top: 36px; left: 2px;
+      transform: rotate(-30deg);
+    }
+    #frog .leg-br {
+      position: absolute;
+      width: 14px; height: 12px;
+      background: #3cb043;
+      border-radius: 0 0 8px 8px;
+      top: 36px; right: 2px;
+      transform: rotate(30deg);
+    }
+
+    /* hop animation */
+    @keyframes hop {
+      0%   { transform: translate(-50%, -50%) scale(1,   1);   }
+      30%  { transform: translate(-50%, -50%) scale(0.85, 1.2); }
+      60%  { transform: translate(-50%, -50%) scale(1.1, 0.9); }
+      100% { transform: translate(-50%, -50%) scale(1,   1);   }
+    }
+    #frog.hopping {
+      animation: hop 0.18s ease-out forwards;
     }
   </style>
 </head>
@@ -199,31 +279,34 @@
   <div id="game-container">
     <div id="sky"></div>
     <div id="verge-top"></div>
-
-    <!-- Road surface texture overlay -->
     <div id="road-texture"></div>
-
-    <!-- Road with lane markings injected by JS -->
     <div id="road"></div>
-
     <div id="verge-bottom"></div>
 
-    <!-- Tree rows -->
     <div class="tree-row" id="trees-top"></div>
     <div class="tree-row" id="trees-bottom"></div>
 
-    <div id="hud">&#9679; HIGHWAY 1 &nbsp;|&nbsp; 70 mph</div>
+    <!-- Frog -->
+    <div id="frog">
+      <div class="eye left"></div>
+      <div class="eye right"></div>
+      <div class="body">
+        <div class="belly"></div>
+      </div>
+      <div class="leg-fl"></div>
+      <div class="leg-fr"></div>
+      <div class="leg-bl"></div>
+      <div class="leg-br"></div>
+    </div>
   </div>
 
   <script>
+    /* ── Lane markings ── */
     const road = document.getElementById('road');
 
-    // 4 lanes = 3 dividers at 25%, 50%, 75% of road height
-    // Centre divider (50%) = solid double-white median
-    // Outer dividers (25%, 75%) = dashed white lane lines
     const dividers = [
       { pct: 25, type: 'dashed' },
-      { pct: 50, type: 'solid'  },  // highway centre median
+      { pct: 50, type: 'solid'  },
       { pct: 75, type: 'dashed' },
     ];
 
@@ -233,19 +316,16 @@
       wrapper.style.top = `calc(${pct}% - 4px)`;
 
       if (type === 'dashed') {
-        // fill double-width with dashes
         for (let i = 0; i < 28; i++) {
           const dash = document.createElement('div');
           dash.className = 'lane-dash';
           wrapper.appendChild(dash);
         }
       } else {
-        // solid: one wide bar (double width handled by parent)
         const bar = document.createElement('div');
         bar.className = 'lane-dash';
         wrapper.appendChild(bar);
 
-        // second solid line just below for double-line median
         const wrapper2 = document.createElement('div');
         wrapper2.className = `lane-divider ${type}`;
         wrapper2.style.top = `calc(${pct}% + 6px)`;
@@ -258,7 +338,7 @@
       road.appendChild(wrapper);
     });
 
-    // Trees — build enough to fill double-width seamlessly
+    /* ── Trees ── */
     function buildTrees(rowId, count, scale) {
       const row = document.getElementById(rowId);
       for (let i = 0; i < count; i++) {
@@ -275,9 +355,79 @@
         row.appendChild(tree);
       }
     }
-
     buildTrees('trees-top', 22, 1);
     buildTrees('trees-bottom', 22, 1.2);
+
+    /* ── Frog controller ── */
+    const frog = document.getElementById('frog');
+    const SPEED = 4;          // px per frame
+    const FROG_W = 52;
+    const FROG_H = 44;
+
+    // Road bounds: top 28vh + 7px edge, bottom 84vh - 7px edge
+    function roadBounds() {
+      const h = window.innerHeight;
+      const w = window.innerWidth;
+      return {
+        minX: FROG_W / 2,
+        maxX: w - FROG_W / 2,
+        minY: h * 0.28 + 7  + FROG_H / 2,
+        maxY: h * 0.84 - 7  - FROG_H / 2,
+      };
+    }
+
+    // Start in the centre of the road, horizontally centred
+    let fx = window.innerWidth  / 2;
+    let fy = window.innerHeight * 0.28 + (window.innerHeight * 0.56) / 2;
+
+    frog.style.left = fx + 'px';
+    frog.style.top  = fy + 'px';
+
+    const keys = {};
+    document.addEventListener('keydown', e => {
+      keys[e.key] = true;
+      // prevent page scroll
+      if (['ArrowUp','ArrowDown','ArrowLeft','ArrowRight'].includes(e.key)) {
+        e.preventDefault();
+      }
+    });
+    document.addEventListener('keyup',   e => { keys[e.key] = false; });
+
+    let hopTimer = null;
+    function triggerHop() {
+      frog.classList.remove('hopping');
+      void frog.offsetWidth; // reflow to restart animation
+      frog.classList.add('hopping');
+      clearTimeout(hopTimer);
+      hopTimer = setTimeout(() => frog.classList.remove('hopping'), 200);
+    }
+
+    let moving = false;
+
+    function gameLoop() {
+      const b = roadBounds();
+      let dx = 0, dy = 0;
+
+      if (keys['ArrowLeft'])  dx -= SPEED;
+      if (keys['ArrowRight']) dx += SPEED;
+      if (keys['ArrowUp'])    dy -= SPEED;
+      if (keys['ArrowDown'])  dy += SPEED;
+
+      if (dx !== 0 || dy !== 0) {
+        fx = Math.min(b.maxX, Math.max(b.minX, fx + dx));
+        fy = Math.min(b.maxY, Math.max(b.minY, fy + dy));
+        frog.style.left = fx + 'px';
+        frog.style.top  = fy + 'px';
+
+        if (!moving) { triggerHop(); moving = true; }
+      } else {
+        moving = false;
+      }
+
+      requestAnimationFrame(gameLoop);
+    }
+
+    gameLoop();
   </script>
 </body>
 </html>
