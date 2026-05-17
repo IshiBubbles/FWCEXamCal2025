@@ -5,559 +5,422 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Highway Game</title>
   <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
+    * { margin:0; padding:0; box-sizing:border-box; }
+    body { background:#000; overflow:hidden; font-family:Arial,sans-serif; }
 
-    body { background: #000; overflow: hidden; font-family: Arial, sans-serif; }
-
-    #game-container {
-      position: relative;
-      width: 100vw; height: 100vh;
-      overflow: hidden;
+    #gc {
+      position:relative;
+      width:100vw; height:100vh;
+      overflow:hidden;
     }
 
-    /* Sky */
     #sky {
-      position: absolute; top: 0; left: 0;
-      width: 100%; height: 20%;
-      background: linear-gradient(to bottom, #050d18, #0d2540, #1a4a7a);
+      position:absolute; top:0; left:0; width:100%; height:20%;
+      background:linear-gradient(to bottom,#050d18,#0d2540,#1a4a7a);
     }
+    #verge-top  { position:absolute; top:20%; left:0; width:100%; height:8%;  background:#2e5022; }
+    #verge-bot  { position:absolute; top:84%; left:0; width:100%; height:16%; background:#2e5022; }
 
-    /* Verges */
-    #verge-top {
-      position: absolute; top: 20%; left: 0;
-      width: 100%; height: 8%;
-      background: #2e5022;
-    }
-    #verge-bottom {
-      position: absolute; top: 84%; left: 0;
-      width: 100%; height: 16%;
-      background: #2e5022;
-    }
-
-    /* Road */
     #road {
-      position: absolute; top: 28%; left: 0;
-      width: 100%; height: 56%;
-      background: #1e1e1e;
+      position:absolute; top:28%; left:0; width:100%; height:56%;
+      background:#1e1e1e;
     }
-    #road::before {
-      content: ''; position: absolute; top: 0; left: 0;
-      width: 100%; height: 7px; background: #e8c840;
-    }
-    #road::after {
-      content: ''; position: absolute; bottom: 0; left: 0;
-      width: 100%; height: 7px; background: #e8c840;
-    }
+    #road::before { content:''; position:absolute; top:0;    left:0; width:100%; height:7px; background:#e8c840; }
+    #road::after  { content:''; position:absolute; bottom:0; left:0; width:100%; height:7px; background:#e8c840; }
 
-    /* Lane dividers */
-    .lane-divider {
-      position: absolute; left: 0;
-      width: 200%; height: 8px;
-      display: flex;
-      animation: scroll-road 1.4s linear infinite;
+    .lane-div {
+      position:absolute; left:0; width:200%; height:8px;
+      display:flex;
+      animation:scroll-road 1.4s linear infinite;
     }
-    .lane-divider.solid .lane-dash { width: 100%; height: 8px; background: #fff; }
-    .lane-divider.dashed .lane-dash {
-      width: 100px; height: 8px; background: #fff;
-      margin-right: 80px; flex-shrink: 0; border-radius: 3px;
-    }
-    @keyframes scroll-road {
-      from { transform: translateX(0); }
-      to   { transform: translateX(-180px); }
-    }
+    .lane-div.solid  .ld { width:100%;  height:8px; background:#fff; }
+    .lane-div.dashed .ld { width:100px; height:8px; background:#fff; margin-right:80px; flex-shrink:0; border-radius:3px; }
+    @keyframes scroll-road { from{transform:translateX(0)} to{transform:translateX(-180px)} }
 
-    /* Trees */
     .tree-row {
-      position: absolute; left: 0; width: 200%;
-      display: flex; align-items: flex-end; gap: 120px;
-      animation: scroll-scenery 4s linear infinite;
+      position:absolute; left:0; width:200%;
+      display:flex; align-items:flex-end; gap:120px;
+      animation:scroll-trees 4s linear infinite;
     }
-    @keyframes scroll-scenery {
-      from { transform: translateX(0); }
-      to   { transform: translateX(-50%); }
-    }
-    #trees-top    { bottom: 72%; }
-    #trees-bottom { top: 84.5%; }
-    .tree { flex-shrink: 0; display: flex; flex-direction: column; align-items: center; }
+    @keyframes scroll-trees { from{transform:translateX(0)} to{transform:translateX(-50%)} }
+    #trees-top { bottom:72%; }
+    #trees-bot { top:84.5%; }
+    .tree { flex-shrink:0; display:flex; flex-direction:column; align-items:center; }
     .tree-top { width:0;height:0;border-left:22px solid transparent;border-right:22px solid transparent;border-bottom:52px solid #2a6628; }
     .tree-mid { width:0;height:0;border-left:30px solid transparent;border-right:30px solid transparent;border-bottom:42px solid #337730;margin-top:-20px; }
     .tree-trunk { width:12px;height:20px;background:#6b4226; }
 
-    /* Road texture */
-    #road-texture {
-      position: absolute; top: 28%; left: 0;
-      width: 200%; height: 56%;
-      background-image: repeating-linear-gradient(
-        90deg, transparent 0px, transparent 3px,
-        rgba(255,255,255,0.015) 3px, rgba(255,255,255,0.015) 4px
-      );
-      animation: scroll-texture 0.08s linear infinite;
-      pointer-events: none;
+    /* ── Vehicles ── */
+    .veh {
+      position:absolute;
+      z-index:20;
+      border-radius:5px;
+      pointer-events:none;
     }
-    @keyframes scroll-texture {
-      from { transform: translateX(0); }
-      to   { transform: translateX(-4px); }
-    }
-
-    /* Vehicles */
-    .vehicle {
-      position: absolute;
-      z-index: 20;
-      pointer-events: none;
+    .veh-label {
+      position:absolute;
+      top:50%; left:50%;
+      transform:translate(-50%,-50%);
+      font-size:11px; font-weight:bold; color:#000; opacity:0.5;
+      pointer-events:none;
     }
 
-    /* Frog */
+    /* ── Frog ── */
     #frog {
-      position: absolute;
-      width: 52px; height: 44px;
-      z-index: 30;
-      transform: translate(-50%, -50%);
+      position:absolute; z-index:30;
+      width:52px; height:44px;
+      transform:translate(-50%,-50%);
     }
-    #frog .body {
-      position: absolute;
-      width: 38px; height: 30px;
-      background: #3cb043;
-      border-radius: 50% 50% 45% 45%;
-      top: 10px; left: 7px;
-      box-shadow: inset 0 -4px 6px rgba(0,0,0,0.3);
+    .fbody {
+      position:absolute;
+      width:38px; height:30px;
+      background:#cc2200;
+      border-radius:50% 50% 45% 45%;
+      top:10px; left:7px;
+      box-shadow:inset 0 -4px 6px rgba(0,0,0,0.3);
     }
-    #frog .belly {
-      position: absolute;
-      width: 24px; height: 18px;
-      background: #a8e063; border-radius: 50%;
-      top: 16px; left: 14px;
+    .fbelly {
+      position:absolute;
+      width:24px; height:18px;
+      background:#ff7755; border-radius:50%;
+      top:16px; left:14px;
     }
-    #frog .eye {
-      position: absolute;
-      width: 14px; height: 14px;
-      background: #3cb043; border-radius: 50%; top: 2px;
+    .feye {
+      position:absolute;
+      width:14px; height:14px;
+      background:#cc2200; border-radius:50%; top:2px;
     }
-    #frog .eye.left  { left: 6px; }
-    #frog .eye.right { right: 6px; }
-    #frog .eye::after {
-      content: '';
-      position: absolute;
-      width: 8px; height: 8px;
-      background: #111; border-radius: 50%;
-      top: 3px; left: 3px;
-      box-shadow: 2px 1px 0 1px #fff;
+    .feye.L { left:6px; } .feye.R { right:6px; }
+    .feye::after {
+      content:''; position:absolute;
+      width:8px; height:8px; background:#111; border-radius:50%;
+      top:3px; left:3px; box-shadow:2px 1px 0 1px #fff;
     }
-    #frog .leg-fl { position:absolute;width:10px;height:16px;background:#3cb043;border-radius:0 0 5px 5px;top:26px;left:0;transform:rotate(-20deg); }
-    #frog .leg-fr { position:absolute;width:10px;height:16px;background:#3cb043;border-radius:0 0 5px 5px;top:26px;right:0;transform:rotate(20deg); }
-    #frog .leg-bl { position:absolute;width:14px;height:12px;background:#3cb043;border-radius:0 0 8px 8px;top:36px;left:2px;transform:rotate(-30deg); }
-    #frog .leg-br { position:absolute;width:14px;height:12px;background:#3cb043;border-radius:0 0 8px 8px;top:36px;right:2px;transform:rotate(30deg); }
+    .fleg { position:absolute; background:#cc2200; border-radius:0 0 5px 5px; }
+    .fleg.fl { width:10px;height:16px; top:26px; left:0;   transform:rotate(-20deg); }
+    .fleg.fr { width:10px;height:16px; top:26px; right:0;  transform:rotate(20deg); }
+    .fleg.bl { width:14px;height:12px; top:36px; left:2px; transform:rotate(-30deg); border-radius:0 0 8px 8px; }
+    .fleg.br { width:14px;height:12px; top:36px; right:2px;transform:rotate(30deg);  border-radius:0 0 8px 8px; }
 
     @keyframes hop {
-      0%   { transform: translate(-50%,-50%) scale(1,1); }
-      35%  { transform: translate(-50%,-50%) scale(0.82,1.22); }
-      65%  { transform: translate(-50%,-50%) scale(1.12,0.88); }
-      100% { transform: translate(-50%,-50%) scale(1,1); }
+      0%  {transform:translate(-50%,-50%) scale(1,1)}
+      35% {transform:translate(-50%,-50%) scale(.82,1.22)}
+      65% {transform:translate(-50%,-50%) scale(1.12,.88)}
+      100%{transform:translate(-50%,-50%) scale(1,1)}
     }
-    #frog.hopping { animation: hop 0.18s ease-out forwards; }
+    #frog.hopping { animation:hop .18s ease-out forwards; }
+    @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:.15} }
+    #frog.inv { animation:blink .3s linear infinite; }
 
-    @keyframes blink { 0%,49%{opacity:1}50%,100%{opacity:0.15} }
-    #frog.invincible { animation: blink 0.3s linear infinite; }
-
-    /* Splat */
+    /* ── Splat ── */
     .splat {
-      position: absolute; z-index: 35;
-      transform: translate(-50%, -50%);
-      pointer-events: none;
+      position:absolute; z-index:35;
+      transform:translate(-50%,-50%);
+      pointer-events:none;
+      animation:splatPop .25s ease-out forwards;
     }
-    .splat-blob {
-      position: absolute;
-      background: #3cb043; border-radius: 50%;
-      top: 50%; left: 50%;
-      transform: translate(-50%, -50%);
-    }
-    .splat-x {
-      position: absolute; top: 50%; left: 50%;
-      transform: translate(-50%, -50%);
-      font-size: 22px; color: #ff2222;
-      font-weight: 900; text-shadow: 0 0 4px #000;
-    }
+    .sblob { position:absolute; background:#cc2200; border-radius:50%; top:50%; left:50%; transform:translate(-50%,-50%); }
+    .sx { position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); font-size:22px; color:#ff0; font-weight:900; }
     @keyframes splatPop {
-      from { opacity:0; transform:translate(-50%,-50%) scale(0.2); }
-      40%  { opacity:1; transform:translate(-50%,-50%) scale(1.2); }
-      100% { opacity:1; transform:translate(-50%,-50%) scale(1); }
+      from{opacity:0;transform:translate(-50%,-50%) scale(.2)}
+      40% {opacity:1;transform:translate(-50%,-50%) scale(1.2)}
+      100%{opacity:1;transform:translate(-50%,-50%) scale(1)}
     }
-    .splat { animation: splatPop 0.25s ease-out forwards; }
 
-    /* Lives HUD */
-    #lives-hud {
-      position: absolute; top: 14px; right: 18px;
-      z-index: 40; display: flex; gap: 6px; align-items: center;
+    /* ── HUD ── */
+    #hud {
+      position:absolute; top:14px; right:18px;
+      z-index:40; display:flex; gap:6px;
     }
-    .life-icon {
-      font-size: 30px;
-      filter: drop-shadow(0 0 4px rgba(0,0,0,0.8));
-      transition: all 0.3s;
-    }
-    .life-icon.lost { filter: grayscale(1) brightness(0.4); transform: scale(0.75); }
+    .licon { font-size:30px; filter:drop-shadow(0 0 4px rgba(0,0,0,.8)); transition:all .3s; }
+    .licon.lost { filter:grayscale(1) brightness(.35); transform:scale(.75); }
 
-    /* Game Over */
-    #gameover {
-      display: none;
-      position: absolute; inset: 0; z-index: 50;
-      background: rgba(0,0,0,0.72);
-      flex-direction: column; justify-content: center; align-items: center; gap: 24px;
+    /* ── Game Over ── */
+    #go {
+      display:none; position:absolute; inset:0; z-index:50;
+      background:rgba(0,0,0,.72);
+      flex-direction:column; justify-content:center; align-items:center; gap:24px;
     }
-    #gameover h1 { color:#ff4444;font-size:72px;font-weight:900;letter-spacing:4px;text-shadow:0 0 20px #f00,0 4px 0 #800; }
-    #gameover p  { color:#ccc;font-size:22px; }
-    #gameover button {
-      padding:14px 48px;font-size:22px;font-weight:bold;
-      background:#3cb043;color:#fff;border:none;border-radius:8px;
-      cursor:pointer;letter-spacing:1px;box-shadow:0 4px 0 #1e6b22;
+    #go h1 { color:#f44; font-size:72px; font-weight:900; letter-spacing:4px; text-shadow:0 0 20px #f00,0 4px 0 #800; }
+    #go p  { color:#ccc; font-size:22px; }
+    #go button {
+      padding:14px 48px; font-size:22px; font-weight:bold;
+      background:#cc2200; color:#fff; border:none; border-radius:8px;
+      cursor:pointer; box-shadow:0 4px 0 #801000;
     }
-    #gameover button:active { transform: translateY(2px); }
   </style>
 </head>
 <body>
-<div id="game-container">
+<div id="gc">
   <div id="sky"></div>
   <div id="verge-top"></div>
-  <div id="road-texture"></div>
   <div id="road"></div>
-  <div id="verge-bottom"></div>
+  <div id="verge-bot"></div>
   <div class="tree-row" id="trees-top"></div>
-  <div class="tree-row" id="trees-bottom"></div>
+  <div class="tree-row" id="trees-bot"></div>
 
   <div id="frog">
-    <div class="eye left"></div>
-    <div class="eye right"></div>
-    <div class="body"><div class="belly"></div></div>
-    <div class="leg-fl"></div><div class="leg-fr"></div>
-    <div class="leg-bl"></div><div class="leg-br"></div>
+    <div class="feye L"></div><div class="feye R"></div>
+    <div class="fbody"><div class="fbelly"></div></div>
+    <div class="fleg fl"></div><div class="fleg fr"></div>
+    <div class="fleg bl"></div><div class="fleg br"></div>
   </div>
 
-  <div id="lives-hud">
-    <span class="life-icon" id="life-2">🐸</span>
-    <span class="life-icon" id="life-1">🐸</span>
-    <span class="life-icon" id="life-0">🐸</span>
+  <div id="hud">
+    <span class="licon" id="l2">🐸</span>
+    <span class="licon" id="l1">🐸</span>
+    <span class="licon" id="l0">🐸</span>
   </div>
 
-  <div id="gameover">
+  <div id="go">
     <h1>GAME OVER</h1>
     <p>Your frog got splattered 3 times!</p>
-    <button onclick="restartGame()">Try Again</button>
+    <button onclick="restart()">Try Again</button>
   </div>
 </div>
 
 <script>
-/* ── Road markings ── */
+// ── Road markings ──────────────────────────────────
 const road = document.getElementById('road');
-[{pct:25,type:'dashed'},{pct:50,type:'solid'},{pct:75,type:'dashed'}].forEach(({pct,type}) => {
+[{p:25,t:'dashed'},{p:50,t:'solid'},{p:75,t:'dashed'}].forEach(({p,t}) => {
   const mk = top => {
     const d = document.createElement('div');
-    d.className = 'lane-divider ' + type;
+    d.className = 'lane-div ' + t;
     d.style.top = top;
-    if (type === 'dashed') {
-      for (let i=0;i<28;i++){const s=document.createElement('div');s.className='lane-dash';d.appendChild(s);}
-    } else {
-      const s = document.createElement('div'); s.className='lane-dash'; d.appendChild(s);
-    }
+    const n = t==='dashed' ? 28 : 1;
+    for (let i=0;i<n;i++){const s=document.createElement('div');s.className='ld';d.appendChild(s);}
     road.appendChild(d);
   };
-  mk('calc('+pct+'% - 4px)');
-  if (type==='solid') mk('calc('+pct+'% + 6px)');
+  mk(`calc(${p}% - 4px)`);
+  if (t==='solid') mk(`calc(${p}% + 6px)`);
 });
 
-/* ── Trees ── */
-function buildTrees(id, n, scale) {
+// ── Trees ─────────────────────────────────────────
+function buildTrees(id, n, sc) {
   const row = document.getElementById(id);
   for (let i=0;i<n;i++){
     const t=document.createElement('div'); t.className='tree';
-    t.style.transform='scale('+(scale*(0.7+Math.random()*0.6))+')';
+    t.style.transform=`scale(${sc*(0.7+Math.random()*0.6)})`;
     t.style.transformOrigin='bottom center';
     t.innerHTML='<div class="tree-top"></div><div class="tree-mid"></div><div class="tree-trunk"></div>';
     row.appendChild(t);
   }
 }
 buildTrees('trees-top',22,1);
-buildTrees('trees-bottom',22,1.2);
+buildTrees('trees-bot',22,1.2);
 
-/* ── Game state ── */
-const gc        = document.getElementById('game-container');
-const frogEl    = document.getElementById('frog');
-const gameOverEl= document.getElementById('gameover');
-
-let lives=3, isDead=false, isInvincible=false;
-let vehicles=[], frogX, frogY, frogDir=1;
-const keys={};
-
-/* ── Geometry ── */
+// ── Geometry ──────────────────────────────────────
+const gc = document.getElementById('gc');
 function roadBounds(){
-  const h=window.innerHeight, w=window.innerWidth;
-  return { top:h*0.28+7, bottom:h*0.84-7, w };
+  return { top: innerHeight*0.28+7, bot: innerHeight*0.84-7, W: innerWidth };
 }
-function laneCenterY(lane){
-  const {top,bottom}=roadBounds();
-  const lh=(bottom-top)/4;
-  return top+lh*lane+lh/2;
+function laneY(lane) {
+  const {top,bot} = roadBounds();
+  const lh = (bot-top)/4;
+  return top + lh*lane + lh/2;
 }
 
-/* ── Vehicle definitions ── */
-// w and h are the full element size (including wheels)
-const VDEFS = {
-  car:   { w:90,  h:44, speedMin:2.5, speedMax:5.5  },
-  truck: { w:170, h:54, speedMin:1.5, speedMax:3.0  },
-  moto:  { w:52,  h:36, speedMin:4.5, speedMax:8.5  },
+// ── Vehicle types ──────────────────────────────────
+const TYPES = {
+  car:   { w:88,  h:32, speedMin:2.5, speedMax:5.5  },
+  truck: { w:160, h:44, speedMin:1.5, speedMax:3.0  },
+  moto:  { w:50,  h:24, speedMin:4.5, speedMax:8.5  },
 };
-const COLORS = ['#e74c3c','#3498db','#f39c12','#9b59b6','#1abc9c','#e67e22','#2ecc71','#ecf0f1','#e84393','#16a085'];
+const VCOLS = ['#e74c3c','#3498db','#f39c12','#9b59b6','#1abc9c','#e67e22','#2ecc71','#fff','#e84393'];
 
-function rndCol(){ return COLORS[Math.floor(Math.random()*COLORS.length)]; }
+function pickType(){ const r=Math.random(); return r<.55?'car':r<.78?'truck':'moto'; }
 
-function makeVehicleEl(type){
-  const el = document.createElement('div');
-  el.className = 'vehicle';
-  const col = rndCol();
-
-  if (type === 'car') {
-    el.style.cssText = 'width:90px;height:44px;position:relative;';
-    const body = document.createElement('div');
-    body.style.cssText = 'position:absolute;left:0;top:6px;width:90px;height:28px;background:'+col+';border-radius:5px;box-shadow:2px 2px 6px rgba(0,0,0,0.5);';
-    const roof = document.createElement('div');
-    roof.style.cssText = 'position:absolute;left:20px;top:-16px;width:46px;height:20px;background:'+col+';border-radius:5px 5px 0 0;filter:brightness(0.8);';
-    const win1 = document.createElement('div');
-    win1.style.cssText = 'position:absolute;left:3px;top:3px;width:16px;height:12px;background:#b8edf5;border-radius:2px;opacity:0.9;';
-    const win2 = document.createElement('div');
-    win2.style.cssText = 'position:absolute;right:3px;top:3px;width:16px;height:12px;background:#b8edf5;border-radius:2px;opacity:0.9;';
-    roof.appendChild(win1); roof.appendChild(win2);
-    const hlight = document.createElement('div');
-    hlight.style.cssText = 'position:absolute;left:1px;top:10px;width:8px;height:7px;background:#fff8a0;border-radius:1px;';
-    const tlight = document.createElement('div');
-    tlight.style.cssText = 'position:absolute;right:1px;top:10px;width:8px;height:7px;background:#ff4444;border-radius:1px;';
-    body.appendChild(roof); body.appendChild(hlight); body.appendChild(tlight);
-    const wl = document.createElement('div');
-    wl.style.cssText = 'position:absolute;left:8px;top:28px;width:18px;height:18px;background:#111;border-radius:50%;box-shadow:inset 0 0 0 4px #555;';
-    const wr = document.createElement('div');
-    wr.style.cssText = 'position:absolute;right:8px;top:28px;width:18px;height:18px;background:#111;border-radius:50%;box-shadow:inset 0 0 0 4px #555;';
-    el.appendChild(body); el.appendChild(wl); el.appendChild(wr);
-
-  } else if (type === 'truck') {
-    el.style.cssText = 'width:170px;height:54px;position:relative;';
-    const trailer = document.createElement('div');
-    trailer.style.cssText = 'position:absolute;left:44px;top:4px;width:126px;height:38px;background:'+col+';border-radius:4px;box-shadow:2px 2px 6px rgba(0,0,0,0.5);';
-    const stripe = document.createElement('div');
-    stripe.style.cssText = 'position:absolute;top:0;left:0;right:0;height:7px;background:rgba(255,255,255,0.12);border-radius:4px 4px 0 0;';
-    const tlight = document.createElement('div');
-    tlight.style.cssText = 'position:absolute;right:2px;top:14px;width:9px;height:7px;background:#ff4444;border-radius:1px;';
-    trailer.appendChild(stripe); trailer.appendChild(tlight);
-    const cab = document.createElement('div');
-    cab.style.cssText = 'position:absolute;left:0;top:2px;width:52px;height:40px;background:'+col+';filter:brightness(0.78);border-radius:5px;box-shadow:2px 2px 6px rgba(0,0,0,0.5);';
-    const cwin = document.createElement('div');
-    cwin.style.cssText = 'position:absolute;left:4px;top:5px;width:32px;height:18px;background:#b8edf5;border-radius:2px;opacity:0.9;';
-    const hlight = document.createElement('div');
-    hlight.style.cssText = 'position:absolute;left:1px;top:26px;width:9px;height:7px;background:#fff8a0;border-radius:1px;';
-    cab.appendChild(cwin); cab.appendChild(hlight);
-    el.appendChild(trailer); el.appendChild(cab);
-    ['6px','68px','88px','right:6px'].forEach((pos,i) => {
-      const w = document.createElement('div');
-      const lr = pos.startsWith('right') ? 'right:6px' : 'left:'+pos;
-      w.style.cssText = 'position:absolute;'+lr+';top:38px;width:18px;height:18px;background:#111;border-radius:50%;box-shadow:inset 0 0 0 4px #555;';
-      el.appendChild(w);
-    });
-
-  } else { // moto
-    const hCol = rndCol();
-    el.style.cssText = 'width:52px;height:36px;position:relative;';
-    const frame = document.createElement('div');
-    frame.style.cssText = 'position:absolute;left:6px;top:14px;width:40px;height:5px;background:#777;border-radius:2px;';
-    const rider = document.createElement('div');
-    rider.style.cssText = 'position:absolute;left:14px;top:4px;width:20px;height:14px;background:#333;border-radius:4px;';
-    const helmet = document.createElement('div');
-    helmet.style.cssText = 'position:absolute;left:16px;top:0px;width:14px;height:14px;background:'+hCol+';border-radius:50%;';
-    const hl = document.createElement('div');
-    hl.style.cssText = 'position:absolute;left:1px;top:17px;width:7px;height:5px;background:#fff8a0;border-radius:50%;';
-    const tl = document.createElement('div');
-    tl.style.cssText = 'position:absolute;right:1px;top:17px;width:5px;height:5px;background:#ff4444;border-radius:50%;';
-    el.appendChild(frame); el.appendChild(rider); el.appendChild(helmet);
-    el.appendChild(hl); el.appendChild(tl);
-    ['left:0','right:0'].forEach(pos => {
-      const w = document.createElement('div');
-      w.style.cssText = 'position:absolute;'+pos+';top:20px;width:18px;height:18px;background:#111;border-radius:50%;box-shadow:inset 0 0 0 4px #555;';
-      el.appendChild(w);
-    });
-  }
+// ── Make a vehicle element (simple solid rect, NO children, NO position override) ──
+function makeVeh(type) {
+  const def = TYPES[type];
+  const col = VCOLS[Math.floor(Math.random()*VCOLS.length)];
+  const el  = document.createElement('div');
+  el.className = 'veh';  // position:absolute comes from CSS class only
+  el.style.width  = def.w + 'px';
+  el.style.height = def.h + 'px';
+  el.style.background = col;
+  el.style.boxShadow  = '0 3px 8px rgba(0,0,0,0.6)';
+  // tiny label so we can see type
+  const lbl = document.createElement('span');
+  lbl.className = 'veh-label';
+  lbl.textContent = type;
+  el.appendChild(lbl);
   return el;
 }
 
-/* ── Spawn a vehicle ── */
-function pickType(){
-  const r=Math.random();
-  return r<0.55?'car':r<0.78?'truck':'moto';
-}
+// ── Vehicles array ─────────────────────────────────
+let vehicles = [];
 
-function doSpawn(lane, startX){
-  const type = pickType();
-  const def  = VDEFS[type];
-  if (startX===undefined) startX = window.innerWidth + def.w + 10;
+function addVeh(lane, startX) {
+  const type  = pickType();
+  const def   = TYPES[type];
   const speed = def.speedMin + Math.random()*(def.speedMax-def.speedMin);
-  const el = makeVehicleEl(type);
+  if (startX === undefined) startX = innerWidth + def.w + 20;
+  const el = makeVeh(type);
+  const topY = laneY(lane) - def.h/2;
   el.style.left = startX + 'px';
-  el.style.top  = (laneCenterY(lane) - def.h/2) + 'px';
+  el.style.top  = topY    + 'px';
   gc.appendChild(el);
-  vehicles.push({el, lane, speed, x:startX, w:def.w, h:def.h});
+  vehicles.push({ el, lane, speed, x:startX, w:def.w, h:def.h, topY });
 }
 
-function spawnVehicle(){
-  const lanes=[0,1,2,3].sort(()=>Math.random()-0.5);
-  for (const lane of lanes){
-    const crowded = vehicles.some(v => v.lane===lane && v.x > window.innerWidth - 200);
-    if (!crowded){ doSpawn(lane); return; }
+function spawn() {
+  // try lanes in shuffled order, skip if crowded at right edge
+  const lanes = [0,1,2,3].sort(()=>Math.random()-.5);
+  for (const lane of lanes) {
+    if (!vehicles.some(v => v.lane===lane && v.x > innerWidth-180)) {
+      addVeh(lane);
+      return;
+    }
   }
 }
 
-// Pre-seed: mix of on-screen and off-screen so traffic is immediate
-function initTraffic(){
-  const W = window.innerWidth;
-  // negative / small x = already on screen or entering; large x = off-screen queue
-  [
-    {lane:0, x:W*0.15}, {lane:2, x:W*0.40},
-    {lane:1, x:W*0.65}, {lane:3, x:W*0.85},
-    {lane:0, x:W*1.10}, {lane:2, x:W*1.35},
-    {lane:1, x:W*1.70}, {lane:3, x:W*2.00},
-  ].forEach(({lane,x}) => doSpawn(lane, x));
+function seedTraffic() {
+  // place vehicles at various x positions — some on-screen, some approaching
+  const W = innerWidth;
+  [ [0, W*0.1], [2, W*0.35], [1, W*0.6], [3, W*0.82],
+    [0, W*1.1], [2, W*1.4],  [1, W*1.7], [3, W*2.0] ]
+    .forEach(([lane,x]) => addVeh(lane, x));
 }
 
-/* ── Update vehicles ── */
-function updateVehicles(){
-  for (let i=vehicles.length-1;i>=0;i--){
-    const v=vehicles[i];
+function moveVehicles() {
+  for (let i=vehicles.length-1; i>=0; i--) {
+    const v = vehicles[i];
     v.x -= v.speed;
-    v.el.style.left = v.x+'px';
-    if (v.x+v.w < 0){ v.el.remove(); vehicles.splice(i,1); }
+    v.el.style.left = v.x + 'px';
+    if (v.x + v.w < 0) { v.el.remove(); vehicles.splice(i,1); }
   }
 }
 
-/* ── Collision ── */
-function rectsOverlap(ax,ay,aw,ah,bx,by,bw,bh){
-  return ax<bx+bw && ax+aw>bx && ay<by+bh && ay+ah>by;
+// ── Spawn timer ────────────────────────────────────
+function schedSpawn() {
+  if (document.getElementById('go').style.display !== 'flex') spawn();
+  setTimeout(schedSpawn, 700 + Math.random()*1100);
 }
-function checkCollision(){
-  if (isDead||isInvincible) return;
-  const fL=frogX-14, fT=frogY-10, fW=28, fH=24;
-  for (const v of vehicles){
-    const vL=v.x+5, vT=laneCenterY(v.lane)-v.h/2+5, vW=v.w-10, vH=v.h-14;
-    if (rectsOverlap(fL,fT,fW,fH,vL,vT,vW,vH)){ hitFrog(); return; }
+
+// ── Collision ──────────────────────────────────────
+let isDead=false, isInv=false;
+function checkHit() {
+  if (isDead||isInv) return;
+  const fL=frogX-13, fT=frogY-9, fW=26, fH=22;
+  for (const v of vehicles) {
+    if (fL < v.x+v.w-4 && fL+fW > v.x+4 && fT < v.topY+v.h-4 && fT+fH > v.topY+4) {
+      smash(); return;
+    }
   }
 }
 
-/* ── Splat ── */
-function showSplat(x,y){
+// ── Splat & lives ──────────────────────────────────
+let lives = 3;
+function hudUpdate() {
+  for (let i=0;i<3;i++) document.getElementById('l'+i).classList.toggle('lost',i>=lives);
+}
+
+function splat(x,y) {
   const s=document.createElement('div'); s.className='splat';
   s.style.left=x+'px'; s.style.top=y+'px';
-  [{w:54,h:42,ox:0,oy:0},{w:20,h:16,ox:-32,oy:-10},{w:16,h:14,ox:34,oy:-14},
-   {w:18,h:14,ox:8,oy:-30},{w:14,h:18,ox:-18,oy:26},{w:12,h:10,ox:28,oy:22},
-   {w:10,h:8,ox:-10,oy:32},{w:8,h:6,ox:40,oy:8}
-  ].forEach(({w,h,ox,oy})=>{
-    const b=document.createElement('div'); b.className='splat-blob';
+  [{w:54,h:40,ox:0,oy:0},{w:18,h:14,ox:-30,oy:-10},{w:14,h:12,ox:32,oy:-12},
+   {w:16,h:12,ox:6,oy:-28},{w:12,h:16,ox:-16,oy:24},{w:10,h:8,ox:26,oy:20}]
+  .forEach(({w,h,ox,oy}) => {
+    const b=document.createElement('div'); b.className='sblob';
     b.style.width=w+'px'; b.style.height=h+'px';
     b.style.marginLeft=(ox-w/2)+'px'; b.style.marginTop=(oy-h/2)+'px';
     s.appendChild(b);
   });
-  const x2=document.createElement('div'); x2.className='splat-x'; x2.textContent='✕';
+  const x2=document.createElement('div'); x2.className='sx'; x2.textContent='✕';
   s.appendChild(x2); gc.appendChild(s); return s;
 }
 
-/* ── Lives ── */
-function updateLivesHUD(){
-  for (let i=0;i<3;i++)
-    document.getElementById('life-'+i).classList.toggle('lost',i>=lives);
-}
-
-function hitFrog(){
-  isDead=true; frogEl.style.display='none';
-  const splat=showSplat(frogX,frogY);
-  lives--; updateLivesHUD();
+function smash() {
+  isDead=true;
+  document.getElementById('frog').style.display='none';
+  const s = splat(frogX,frogY);
+  lives--; hudUpdate();
   setTimeout(()=>{
-    splat.remove();
-    if (lives<=0) { gameOverEl.style.display='flex'; }
-    else { respawnFrog(); }
-  },1400);
+    s.remove();
+    if (lives<=0) { document.getElementById('go').style.display='flex'; }
+    else { respawn(); }
+  }, 1400);
 }
 
-function respawnFrog(){
-  isDead=false; isInvincible=true;
-  frogEl.style.display=''; frogEl.classList.add('invincible');
-  frogStart();
-  setTimeout(()=>{ isInvincible=false; frogEl.classList.remove('invincible'); },2000);
+function respawn() {
+  isDead=false; isInv=true;
+  const f=document.getElementById('frog');
+  f.style.display=''; f.classList.add('inv');
+  frogReset();
+  setTimeout(()=>{ isInv=false; f.classList.remove('inv'); }, 2000);
 }
 
-/* ── Restart ── */
-function restartGame(){
-  vehicles.forEach(v=>v.el.remove()); vehicles=[];
-  lives=3; isDead=false; isInvincible=false;
-  updateLivesHUD();
-  gameOverEl.style.display='none';
-  frogEl.style.display=''; frogEl.classList.remove('invincible');
-  frogStart(); initTraffic();
-}
+// ── Frog ──────────────────────────────────────────
+let frogX, frogY, frogDir=1;
+const keys={};
+const fEl = document.getElementById('frog');
 
-/* ── Frog ── */
-function frogStart(){
-  const {top,bottom,w}=roadBounds();
-  frogX=w/2; frogY=(top+bottom)/2;
-  frogEl.style.left=frogX+'px'; frogEl.style.top=frogY+'px';
-  frogEl.style.transform='translate(-50%,-50%)';
+function frogReset() {
+  const {top,bot,W} = roadBounds();
+  frogX=W/2; frogY=(top+bot)/2;
+  fEl.style.left=frogX+'px'; fEl.style.top=frogY+'px';
+  fEl.style.transform='translate(-50%,-50%)';
   frogDir=1;
 }
 
-/* ── Input ── */
 document.addEventListener('keydown',e=>{
   keys[e.key]=true;
   if(['ArrowUp','ArrowDown','ArrowLeft','ArrowRight'].includes(e.key)) e.preventDefault();
 });
 document.addEventListener('keyup',e=>{ keys[e.key]=false; });
 
-/* ── Spawn scheduler ── */
-function scheduleSpawn(){
-  if (gameOverEl.style.display!=='flex') spawnVehicle();
-  setTimeout(scheduleSpawn, 700+Math.random()*1200);
+let moving=false, hopTmr=null;
+function hop() {
+  fEl.classList.remove('hopping'); void fEl.offsetWidth;
+  fEl.classList.add('hopping');
+  clearTimeout(hopTmr);
+  hopTmr=setTimeout(()=>fEl.classList.remove('hopping'),200);
 }
 
-/* ── Game loop ── */
-const FSPEED=4;
-let isMoving=false, hopTimer=null;
-
-function triggerHop(){
-  frogEl.classList.remove('hopping');
-  void frogEl.offsetWidth;
-  frogEl.classList.add('hopping');
-  clearTimeout(hopTimer);
-  hopTimer=setTimeout(()=>frogEl.classList.remove('hopping'),200);
+// ── Restart ───────────────────────────────────────
+function restart() {
+  vehicles.forEach(v=>v.el.remove()); vehicles=[];
+  lives=3; isDead=false; isInv=false; hudUpdate();
+  document.getElementById('go').style.display='none';
+  fEl.style.display=''; fEl.classList.remove('inv');
+  frogReset(); seedTraffic();
 }
 
-frogStart();
-updateLivesHUD();
-initTraffic();
-setTimeout(scheduleSpawn, 1500);
-
-function gameLoop(){
-  if (gameOverEl.style.display!=='flex'){
-    if (!isDead){
-      const {top,bottom,w}=roadBounds();
+// ── Game loop ─────────────────────────────────────
+const SPEED=4;
+function loop() {
+  const go = document.getElementById('go');
+  if (go.style.display!=='flex') {
+    if (!isDead) {
+      const {top,bot,W}=roadBounds();
       let dx=0,dy=0;
-      if(keys['ArrowLeft'])  dx-=FSPEED;
-      if(keys['ArrowRight']) dx+=FSPEED;
-      if(keys['ArrowUp'])    dy-=FSPEED;
-      if(keys['ArrowDown'])  dy+=FSPEED;
-      if(dx!==0||dy!==0){
-        frogX=Math.min(w-26,  Math.max(26,       frogX+dx));
-        frogY=Math.min(bottom-22,Math.max(top+22,frogY+dy));
+      if(keys.ArrowLeft)  dx-=SPEED;
+      if(keys.ArrowRight) dx+=SPEED;
+      if(keys.ArrowUp)    dy-=SPEED;
+      if(keys.ArrowDown)  dy+=SPEED;
+      if(dx||dy){
+        frogX = Math.min(W-26,  Math.max(26,      frogX+dx));
+        frogY = Math.min(bot-22, Math.max(top+22, frogY+dy));
         if(dx>0) frogDir=1; else if(dx<0) frogDir=-1;
-        frogEl.style.left=frogX+'px';
-        frogEl.style.top=frogY+'px';
-        frogEl.style.transform='translate(-50%,-50%) scaleX('+frogDir+')';
-        if(!isMoving){triggerHop();isMoving=true;}
-      } else { isMoving=false; }
+        fEl.style.left = frogX+'px';
+        fEl.style.top  = frogY+'px';
+        fEl.style.transform = `translate(-50%,-50%) scaleX(${frogDir})`;
+        if(!moving){hop();moving=true;}
+      } else moving=false;
     }
-    updateVehicles();
-    checkCollision();
+    moveVehicles();
+    checkHit();
   }
-  requestAnimationFrame(gameLoop);
+  requestAnimationFrame(loop);
 }
-gameLoop();
+
+// ── Boot ──────────────────────────────────────────
+frogReset();
+hudUpdate();
+seedTraffic();
+setTimeout(schedSpawn, 1500);
+loop();
 </script>
 </body>
 </html>
