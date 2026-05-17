@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Road Game</title>
+  <title>Highway Game</title>
   <style>
     * {
       margin: 0;
@@ -12,132 +12,126 @@
     }
 
     body {
-      background: #1a1a2e;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
+      background: #000;
       overflow: hidden;
       font-family: Arial, sans-serif;
     }
 
     #game-container {
       position: relative;
-      width: 900px;
-      height: 500px;
+      width: 100vw;
+      height: 100vh;
       overflow: hidden;
-      border: 3px solid #444;
-      border-radius: 8px;
     }
 
-    /* Sky */
+    /* ── Sky ── */
     #sky {
       position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 40%;
-      background: linear-gradient(to bottom, #0d1b2a, #1a3a5c);
+      top: 0; left: 0;
+      width: 100%; height: 20%;
+      background: linear-gradient(to bottom, #050d18, #0d2540, #1a4a7a);
     }
 
-    /* Ground above road */
-    #ground-top {
+    /* ── Top verge (grass) ── */
+    #verge-top {
       position: absolute;
-      top: 40%;
-      left: 0;
-      width: 100%;
-      height: 12%;
-      background: #3a5a2a;
+      top: 20%; left: 0;
+      width: 100%; height: 8%;
+      background: #2e5022;
     }
 
-    /* Road */
+    /* ── Road (4 lanes) ── */
     #road {
       position: absolute;
-      top: 52%;
-      left: 0;
-      width: 100%;
-      height: 28%;
-      background: #2c2c2c;
+      top: 28%; left: 0;
+      width: 100%; height: 56%;
+      background: #1e1e1e;
     }
 
-    /* Road edge lines */
+    /* solid yellow edge top */
     #road::before {
       content: '';
       position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 6px;
+      top: 0; left: 0;
+      width: 100%; height: 7px;
       background: #e8c840;
     }
 
+    /* solid yellow edge bottom */
     #road::after {
       content: '';
       position: absolute;
-      bottom: 0;
-      left: 0;
-      width: 100%;
-      height: 6px;
+      bottom: 0; left: 0;
+      width: 100%; height: 7px;
       background: #e8c840;
     }
 
-    /* Ground below road */
-    #ground-bottom {
+    /* ── Bottom verge (grass) ── */
+    #verge-bottom {
       position: absolute;
-      top: 80%;
-      left: 0;
-      width: 100%;
-      height: 20%;
-      background: #3a5a2a;
+      top: 84%; left: 0;
+      width: 100%; height: 16%;
+      background: #2e5022;
     }
 
-    /* Dashed centre line */
-    .dash-container {
+    /* ── Lane dividers ── */
+    /* Each .lane-divider is positioned inside #road at 25%, 50%, 75% */
+    .lane-divider {
       position: absolute;
-      top: 50%;
-      transform: translateY(-50%);
       left: 0;
+      /* double-wide so animation can loop seamlessly */
       width: 200%;
+      height: 8px;
       display: flex;
-      animation: scroll-road 0.6s linear infinite;
+      animation: scroll-road 1.4s linear infinite;
     }
 
-    .dash {
-      width: 80px;
+    /* Centre divider is solid white (highway median style) */
+    .lane-divider.solid .lane-dash {
+      width: 100%;
       height: 8px;
       background: #ffffff;
-      margin-right: 60px;
+    }
+
+    /* Dashed white lane lines */
+    .lane-divider.dashed .lane-dash {
+      width: 100px;
+      height: 8px;
+      background: #ffffff;
+      margin-right: 80px;
       flex-shrink: 0;
-      border-radius: 4px;
+      border-radius: 3px;
     }
 
     @keyframes scroll-road {
-      from { transform: translateY(-50%) translateX(0); }
-      to   { transform: translateY(-50%) translateX(-140px); }
+      from { transform: translateX(0); }
+      to   { transform: translateX(-180px); }
     }
 
-    /* Trees */
+    /* ── Trees on verges ── */
     .tree-row {
       position: absolute;
       left: 0;
+      /* double wide to allow seamless loop */
       width: 200%;
       display: flex;
-      gap: 160px;
-      animation: scroll-scenery 3s linear infinite;
-    }
-
-    #trees-top {
-      top: 30%;
-      transform: translateY(-100%);
-    }
-
-    #trees-bottom {
-      top: 82%;
+      align-items: flex-end;
+      gap: 120px;
+      animation: scroll-scenery 4s linear infinite;
     }
 
     @keyframes scroll-scenery {
       from { transform: translateX(0); }
       to   { transform: translateX(-50%); }
+    }
+
+    #trees-top {
+      /* sits just above the road, anchored to bottom of top verge */
+      bottom: 72%; /* = 100% - 28% road top */
+    }
+
+    #trees-bottom {
+      top: 84.5%;
     }
 
     .tree {
@@ -148,71 +142,142 @@
     }
 
     .tree-top {
-      width: 0;
-      height: 0;
-      border-left: 16px solid transparent;
-      border-right: 16px solid transparent;
-      border-bottom: 36px solid #2d6a2d;
+      width: 0; height: 0;
+      border-left: 22px solid transparent;
+      border-right: 22px solid transparent;
+      border-bottom: 52px solid #2a6628;
+    }
+
+    .tree-mid {
+      width: 0; height: 0;
+      border-left: 30px solid transparent;
+      border-right: 30px solid transparent;
+      border-bottom: 42px solid #337730;
+      margin-top: -20px;
     }
 
     .tree-trunk {
-      width: 8px;
-      height: 14px;
-      background: #7a4f2a;
+      width: 12px; height: 20px;
+      background: #6b4226;
     }
 
+    /* ── Road surface texture (subtle) ── */
+    #road-texture {
+      position: absolute;
+      top: 28%; left: 0;
+      width: 200%; height: 56%;
+      background-image: repeating-linear-gradient(
+        90deg,
+        transparent 0px,
+        transparent 3px,
+        rgba(255,255,255,0.015) 3px,
+        rgba(255,255,255,0.015) 4px
+      );
+      animation: scroll-texture 0.08s linear infinite;
+      pointer-events: none;
+    }
+
+    @keyframes scroll-texture {
+      from { transform: translateX(0); }
+      to   { transform: translateX(-4px); }
+    }
+
+    /* ── HUD ── */
     #hud {
       position: absolute;
-      top: 12px;
-      left: 16px;
-      color: #fff;
-      font-size: 18px;
+      top: 16px; left: 20px;
+      color: #e0e0e0;
+      font-size: 20px;
       font-weight: bold;
-      text-shadow: 0 0 6px #000;
-      z-index: 10;
+      text-shadow: 0 0 8px #000;
+      z-index: 20;
+      letter-spacing: 1px;
     }
   </style>
 </head>
 <body>
   <div id="game-container">
     <div id="sky"></div>
-    <div id="ground-top"></div>
+    <div id="verge-top"></div>
+
+    <!-- Road surface texture overlay -->
+    <div id="road-texture"></div>
+
+    <!-- Road with lane markings injected by JS -->
+    <div id="road"></div>
+
+    <div id="verge-bottom"></div>
 
     <!-- Tree rows -->
     <div class="tree-row" id="trees-top"></div>
     <div class="tree-row" id="trees-bottom"></div>
 
-    <div id="road">
-      <div class="dash-container" id="dashes"></div>
-    </div>
-
-    <div id="ground-bottom"></div>
-
-    <div id="hud">Speed: 60 mph</div>
+    <div id="hud">&#9679; HIGHWAY 1 &nbsp;|&nbsp; 70 mph</div>
   </div>
 
   <script>
-    // Build dashes
-    const dashContainer = document.getElementById('dashes');
-    for (let i = 0; i < 20; i++) {
-      const d = document.createElement('div');
-      d.className = 'dash';
-      dashContainer.appendChild(d);
-    }
+    const road = document.getElementById('road');
 
-    // Build trees
-    function buildTrees(rowId, count) {
+    // 4 lanes = 3 dividers at 25%, 50%, 75% of road height
+    // Centre divider (50%) = solid double-white median
+    // Outer dividers (25%, 75%) = dashed white lane lines
+    const dividers = [
+      { pct: 25, type: 'dashed' },
+      { pct: 50, type: 'solid'  },  // highway centre median
+      { pct: 75, type: 'dashed' },
+    ];
+
+    dividers.forEach(({ pct, type }) => {
+      const wrapper = document.createElement('div');
+      wrapper.className = `lane-divider ${type}`;
+      wrapper.style.top = `calc(${pct}% - 4px)`;
+
+      if (type === 'dashed') {
+        // fill double-width with dashes
+        for (let i = 0; i < 28; i++) {
+          const dash = document.createElement('div');
+          dash.className = 'lane-dash';
+          wrapper.appendChild(dash);
+        }
+      } else {
+        // solid: one wide bar (double width handled by parent)
+        const bar = document.createElement('div');
+        bar.className = 'lane-dash';
+        wrapper.appendChild(bar);
+
+        // second solid line just below for double-line median
+        const wrapper2 = document.createElement('div');
+        wrapper2.className = `lane-divider ${type}`;
+        wrapper2.style.top = `calc(${pct}% + 6px)`;
+        const bar2 = document.createElement('div');
+        bar2.className = 'lane-dash';
+        wrapper2.appendChild(bar2);
+        road.appendChild(wrapper2);
+      }
+
+      road.appendChild(wrapper);
+    });
+
+    // Trees — build enough to fill double-width seamlessly
+    function buildTrees(rowId, count, scale) {
       const row = document.getElementById(rowId);
       for (let i = 0; i < count; i++) {
         const tree = document.createElement('div');
         tree.className = 'tree';
-        tree.innerHTML = '<div class="tree-top"></div><div class="tree-trunk"></div>';
+        const s = scale * (0.7 + Math.random() * 0.6);
+        tree.style.transform = `scale(${s})`;
+        tree.style.transformOrigin = 'bottom center';
+        tree.innerHTML = `
+          <div class="tree-top"></div>
+          <div class="tree-mid"></div>
+          <div class="tree-trunk"></div>
+        `;
         row.appendChild(tree);
       }
     }
 
-    buildTrees('trees-top', 14);
-    buildTrees('trees-bottom', 14);
+    buildTrees('trees-top', 22, 1);
+    buildTrees('trees-bottom', 22, 1.2);
   </script>
 </body>
 </html>
