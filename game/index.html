@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Road Game</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background: #1a1a2e;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      overflow: hidden;
+      font-family: Arial, sans-serif;
+    }
+
+    #game-container {
+      position: relative;
+      width: 900px;
+      height: 500px;
+      overflow: hidden;
+      border: 3px solid #444;
+      border-radius: 8px;
+    }
+
+    /* Sky */
+    #sky {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 40%;
+      background: linear-gradient(to bottom, #0d1b2a, #1a3a5c);
+    }
+
+    /* Ground above road */
+    #ground-top {
+      position: absolute;
+      top: 40%;
+      left: 0;
+      width: 100%;
+      height: 12%;
+      background: #3a5a2a;
+    }
+
+    /* Road */
+    #road {
+      position: absolute;
+      top: 52%;
+      left: 0;
+      width: 100%;
+      height: 28%;
+      background: #2c2c2c;
+    }
+
+    /* Road edge lines */
+    #road::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 6px;
+      background: #e8c840;
+    }
+
+    #road::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 6px;
+      background: #e8c840;
+    }
+
+    /* Ground below road */
+    #ground-bottom {
+      position: absolute;
+      top: 80%;
+      left: 0;
+      width: 100%;
+      height: 20%;
+      background: #3a5a2a;
+    }
+
+    /* Dashed centre line */
+    .dash-container {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      left: 0;
+      width: 200%;
+      display: flex;
+      animation: scroll-road 0.6s linear infinite;
+    }
+
+    .dash {
+      width: 80px;
+      height: 8px;
+      background: #ffffff;
+      margin-right: 60px;
+      flex-shrink: 0;
+      border-radius: 4px;
+    }
+
+    @keyframes scroll-road {
+      from { transform: translateY(-50%) translateX(0); }
+      to   { transform: translateY(-50%) translateX(-140px); }
+    }
+
+    /* Trees */
+    .tree-row {
+      position: absolute;
+      left: 0;
+      width: 200%;
+      display: flex;
+      gap: 160px;
+      animation: scroll-scenery 3s linear infinite;
+    }
+
+    #trees-top {
+      top: 30%;
+      transform: translateY(-100%);
+    }
+
+    #trees-bottom {
+      top: 82%;
+    }
+
+    @keyframes scroll-scenery {
+      from { transform: translateX(0); }
+      to   { transform: translateX(-50%); }
+    }
+
+    .tree {
+      flex-shrink: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .tree-top {
+      width: 0;
+      height: 0;
+      border-left: 16px solid transparent;
+      border-right: 16px solid transparent;
+      border-bottom: 36px solid #2d6a2d;
+    }
+
+    .tree-trunk {
+      width: 8px;
+      height: 14px;
+      background: #7a4f2a;
+    }
+
+    #hud {
+      position: absolute;
+      top: 12px;
+      left: 16px;
+      color: #fff;
+      font-size: 18px;
+      font-weight: bold;
+      text-shadow: 0 0 6px #000;
+      z-index: 10;
+    }
+  </style>
+</head>
+<body>
+  <div id="game-container">
+    <div id="sky"></div>
+    <div id="ground-top"></div>
+
+    <!-- Tree rows -->
+    <div class="tree-row" id="trees-top"></div>
+    <div class="tree-row" id="trees-bottom"></div>
+
+    <div id="road">
+      <div class="dash-container" id="dashes"></div>
+    </div>
+
+    <div id="ground-bottom"></div>
+
+    <div id="hud">Speed: 60 mph</div>
+  </div>
+
+  <script>
+    // Build dashes
+    const dashContainer = document.getElementById('dashes');
+    for (let i = 0; i < 20; i++) {
+      const d = document.createElement('div');
+      d.className = 'dash';
+      dashContainer.appendChild(d);
+    }
+
+    // Build trees
+    function buildTrees(rowId, count) {
+      const row = document.getElementById(rowId);
+      for (let i = 0; i < count; i++) {
+        const tree = document.createElement('div');
+        tree.className = 'tree';
+        tree.innerHTML = '<div class="tree-top"></div><div class="tree-trunk"></div>';
+        row.appendChild(tree);
+      }
+    }
+
+    buildTrees('trees-top', 14);
+    buildTrees('trees-bottom', 14);
+  </script>
+</body>
+</html>
