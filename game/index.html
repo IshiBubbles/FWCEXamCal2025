@@ -7,359 +7,381 @@
   <meta http-equiv="Pragma" content="no-cache">
   <title>Highway Game</title>
   <style>
-    * { margin:0; padding:0; box-sizing:border-box; }
-    body { background:#000; overflow:hidden; font-family:Arial,sans-serif; }
+    *{margin:0;padding:0;box-sizing:border-box}
+    body{background:#000;overflow:hidden;font-family:Arial,sans-serif}
+    #gc{position:relative;width:100vw;height:100vh;overflow:hidden}
 
-    #gc {
-      position:relative;
-      width:100vw; height:100vh;
-      overflow:hidden;
-    }
+    #sky{position:absolute;top:0;left:0;width:100%;height:20%;
+      background:linear-gradient(to bottom,#050d18,#0d2540,#1a4a7a)}
+    #vt{position:absolute;top:20%;left:0;width:100%;height:8%;background:#2e5022}
+    #vb{position:absolute;top:84%;left:0;width:100%;height:16%;background:#2e5022}
+    #road{position:absolute;top:28%;left:0;width:100%;height:56%;background:#1e1e1e}
+    #road::before{content:'';position:absolute;top:0;left:0;width:100%;height:7px;background:#e8c840}
+    #road::after {content:'';position:absolute;bottom:0;left:0;width:100%;height:7px;background:#e8c840}
 
-    #sky {
-      position:absolute; top:0; left:0; width:100%; height:20%;
-      background:linear-gradient(to bottom,#050d18,#0d2540,#1a4a7a);
-    }
-    #verge-top  { position:absolute; top:20%; left:0; width:100%; height:8%;  background:#2e5022; }
-    #verge-bot  { position:absolute; top:84%; left:0; width:100%; height:16%; background:#2e5022; }
+    .ldiv{position:absolute;left:0;width:200%;height:8px;display:flex;animation:scr 1.4s linear infinite}
+    .ldiv.solid  .ld{width:100%;height:8px;background:#fff}
+    .ldiv.dashed .ld{width:100px;height:8px;background:#fff;margin-right:80px;flex-shrink:0;border-radius:3px}
+    @keyframes scr{from{transform:translateX(0)}to{transform:translateX(-180px)}}
 
-    #road {
-      position:absolute; top:28%; left:0; width:100%; height:56%;
-      background:#1e1e1e;
-    }
-    #road::before { content:''; position:absolute; top:0;    left:0; width:100%; height:7px; background:#e8c840; }
-    #road::after  { content:''; position:absolute; bottom:0; left:0; width:100%; height:7px; background:#e8c840; }
+    .trow{position:absolute;left:0;width:200%;display:flex;align-items:flex-end;gap:120px;
+      animation:strees 4s linear infinite}
+    @keyframes strees{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+    #tt{bottom:72%} #tb{top:84.5%}
+    .tree{flex-shrink:0;display:flex;flex-direction:column;align-items:center}
+    .tt{width:0;height:0;border-left:22px solid transparent;border-right:22px solid transparent;border-bottom:52px solid #2a6628}
+    .tm{width:0;height:0;border-left:30px solid transparent;border-right:30px solid transparent;border-bottom:42px solid #337730;margin-top:-20px}
+    .tk{width:12px;height:20px;background:#6b4226}
 
-    .lane-div {
-      position:absolute; left:0; width:200%; height:8px;
-      display:flex;
-      animation:scroll-road 1.4s linear infinite;
-    }
-    .lane-div.solid  .ld { width:100%;  height:8px; background:#fff; }
-    .lane-div.dashed .ld { width:100px; height:8px; background:#fff; margin-right:80px; flex-shrink:0; border-radius:3px; }
-    @keyframes scroll-road { from{transform:translateX(0)} to{transform:translateX(-180px)} }
+    .veh{position:absolute;z-index:20;pointer-events:none}
 
-    .tree-row {
-      position:absolute; left:0; width:200%;
-      display:flex; align-items:flex-end; gap:120px;
-      animation:scroll-trees 4s linear infinite;
-    }
-    @keyframes scroll-trees { from{transform:translateX(0)} to{transform:translateX(-50%)} }
-    #trees-top { bottom:72%; }
-    #trees-bot { top:84.5%; }
-    .tree { flex-shrink:0; display:flex; flex-direction:column; align-items:center; }
-    .tree-top { width:0;height:0;border-left:22px solid transparent;border-right:22px solid transparent;border-bottom:52px solid #2a6628; }
-    .tree-mid { width:0;height:0;border-left:30px solid transparent;border-right:30px solid transparent;border-bottom:42px solid #337730;margin-top:-20px; }
-    .tree-trunk { width:12px;height:20px;background:#6b4226; }
+    #frog{position:absolute;z-index:30;width:52px;height:44px;transform:translate(-50%,-50%)}
+    .fb{position:absolute;width:38px;height:30px;background:#cc2200;border-radius:50% 50% 45% 45%;top:10px;left:7px;box-shadow:inset 0 -4px 6px rgba(0,0,0,.3)}
+    .fy{position:absolute;width:24px;height:18px;background:#ff7755;border-radius:50%;top:16px;left:14px}
+    .fe{position:absolute;width:14px;height:14px;background:#cc2200;border-radius:50%;top:2px}
+    .fe.L{left:6px}.fe.R{right:6px}
+    .fe::after{content:'';position:absolute;width:8px;height:8px;background:#111;border-radius:50%;top:3px;left:3px;box-shadow:2px 1px 0 1px #fff}
+    .fl{position:absolute;background:#cc2200}
+    .fl.a{width:10px;height:16px;border-radius:0 0 5px 5px;top:26px;left:0;transform:rotate(-20deg)}
+    .fl.b{width:10px;height:16px;border-radius:0 0 5px 5px;top:26px;right:0;transform:rotate(20deg)}
+    .fl.c{width:14px;height:12px;border-radius:0 0 8px 8px;top:36px;left:2px;transform:rotate(-30deg)}
+    .fl.d{width:14px;height:12px;border-radius:0 0 8px 8px;top:36px;right:2px;transform:rotate(30deg)}
 
-    /* ── Vehicles ── */
-    .veh {
-      position:absolute;
-      z-index:20;
-      border-radius:5px;
-      pointer-events:none;
-    }
-    .veh-label {
-      position:absolute;
-      top:50%; left:50%;
-      transform:translate(-50%,-50%);
-      font-size:11px; font-weight:bold; color:#000; opacity:0.5;
-      pointer-events:none;
-    }
+    @keyframes hop{0%{transform:translate(-50%,-50%) scale(1,1)}35%{transform:translate(-50%,-50%) scale(.82,1.22)}65%{transform:translate(-50%,-50%) scale(1.12,.88)}100%{transform:translate(-50%,-50%) scale(1,1)}}
+    #frog.hop{animation:hop .18s ease-out forwards}
+    @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:.15}}
+    #frog.inv{animation:blink .3s linear infinite}
 
-    /* ── Frog ── */
-    #frog {
-      position:absolute; z-index:30;
-      width:52px; height:44px;
-      transform:translate(-50%,-50%);
-    }
-    .fbody {
-      position:absolute;
-      width:38px; height:30px;
-      background:#cc2200;
-      border-radius:50% 50% 45% 45%;
-      top:10px; left:7px;
-      box-shadow:inset 0 -4px 6px rgba(0,0,0,0.3);
-    }
-    .fbelly {
-      position:absolute;
-      width:24px; height:18px;
-      background:#ff7755; border-radius:50%;
-      top:16px; left:14px;
-    }
-    .feye {
-      position:absolute;
-      width:14px; height:14px;
-      background:#cc2200; border-radius:50%; top:2px;
-    }
-    .feye.L { left:6px; } .feye.R { right:6px; }
-    .feye::after {
-      content:''; position:absolute;
-      width:8px; height:8px; background:#111; border-radius:50%;
-      top:3px; left:3px; box-shadow:2px 1px 0 1px #fff;
-    }
-    .fleg { position:absolute; background:#cc2200; border-radius:0 0 5px 5px; }
-    .fleg.fl { width:10px;height:16px; top:26px; left:0;   transform:rotate(-20deg); }
-    .fleg.fr { width:10px;height:16px; top:26px; right:0;  transform:rotate(20deg); }
-    .fleg.bl { width:14px;height:12px; top:36px; left:2px; transform:rotate(-30deg); border-radius:0 0 8px 8px; }
-    .fleg.br { width:14px;height:12px; top:36px; right:2px;transform:rotate(30deg);  border-radius:0 0 8px 8px; }
+    .splat{position:absolute;z-index:35;transform:translate(-50%,-50%);pointer-events:none;animation:sp .25s ease-out forwards}
+    .sb{position:absolute;background:#cc2200;border-radius:50%;top:50%;left:50%;transform:translate(-50%,-50%)}
+    .sx{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:22px;color:#ff0;font-weight:900}
+    @keyframes sp{from{opacity:0;transform:translate(-50%,-50%) scale(.2)}40%{opacity:1;transform:translate(-50%,-50%) scale(1.2)}100%{opacity:1;transform:translate(-50%,-50%) scale(1)}}
 
-    @keyframes hop {
-      0%  {transform:translate(-50%,-50%) scale(1,1)}
-      35% {transform:translate(-50%,-50%) scale(.82,1.22)}
-      65% {transform:translate(-50%,-50%) scale(1.12,.88)}
-      100%{transform:translate(-50%,-50%) scale(1,1)}
-    }
-    #frog.hopping { animation:hop .18s ease-out forwards; }
-    @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:.15} }
-    #frog.inv { animation:blink .3s linear infinite; }
+    #hud{position:absolute;top:14px;right:18px;z-index:40;display:flex;gap:6px}
+    .li{font-size:30px;filter:drop-shadow(0 0 4px rgba(0,0,0,.8));transition:all .3s}
+    .li.lost{filter:grayscale(1) brightness(.35);transform:scale(.75)}
 
-    /* ── Splat ── */
-    .splat {
-      position:absolute; z-index:35;
-      transform:translate(-50%,-50%);
-      pointer-events:none;
-      animation:splatPop .25s ease-out forwards;
-    }
-    .sblob { position:absolute; background:#cc2200; border-radius:50%; top:50%; left:50%; transform:translate(-50%,-50%); }
-    .sx { position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); font-size:22px; color:#ff0; font-weight:900; }
-    @keyframes splatPop {
-      from{opacity:0;transform:translate(-50%,-50%) scale(.2)}
-      40% {opacity:1;transform:translate(-50%,-50%) scale(1.2)}
-      100%{opacity:1;transform:translate(-50%,-50%) scale(1)}
-    }
-
-    /* ── HUD ── */
-    #hud {
-      position:absolute; top:14px; right:18px;
-      z-index:40; display:flex; gap:6px;
-    }
-    .licon { font-size:30px; filter:drop-shadow(0 0 4px rgba(0,0,0,.8)); transition:all .3s; }
-    .licon.lost { filter:grayscale(1) brightness(.35); transform:scale(.75); }
-
-    /* ── Game Over ── */
-    #go {
-      display:none; position:absolute; inset:0; z-index:50;
-      background:rgba(0,0,0,.72);
-      flex-direction:column; justify-content:center; align-items:center; gap:24px;
-    }
-    #go h1 { color:#f44; font-size:72px; font-weight:900; letter-spacing:4px; text-shadow:0 0 20px #f00,0 4px 0 #800; }
-    #go p  { color:#ccc; font-size:22px; }
-    #go button {
-      padding:14px 48px; font-size:22px; font-weight:bold;
-      background:#cc2200; color:#fff; border:none; border-radius:8px;
-      cursor:pointer; box-shadow:0 4px 0 #801000;
-    }
+    #go{display:none;position:absolute;inset:0;z-index:50;background:rgba(0,0,0,.72);
+      flex-direction:column;justify-content:center;align-items:center;gap:24px}
+    #go h1{color:#f44;font-size:72px;font-weight:900;letter-spacing:4px;text-shadow:0 0 20px #f00,0 4px 0 #800}
+    #go p{color:#ccc;font-size:22px}
+    #go button{padding:14px 48px;font-size:22px;font-weight:bold;background:#cc2200;color:#fff;border:none;border-radius:8px;cursor:pointer;box-shadow:0 4px 0 #801000}
   </style>
 </head>
 <body>
 <div id="gc">
-  <div id="sky"></div>
-  <div id="verge-top"></div>
+  <div id="sky"></div><div id="vt"></div>
   <div id="road"></div>
-  <div id="verge-bot"></div>
-  <div class="tree-row" id="trees-top"></div>
-  <div class="tree-row" id="trees-bot"></div>
+  <div id="vb"></div>
+  <div class="trow" id="tt"></div>
+  <div class="trow" id="tb"></div>
 
   <div id="frog">
-    <div class="feye L"></div><div class="feye R"></div>
-    <div class="fbody"><div class="fbelly"></div></div>
-    <div class="fleg fl"></div><div class="fleg fr"></div>
-    <div class="fleg bl"></div><div class="fleg br"></div>
+    <div class="fe L"></div><div class="fe R"></div>
+    <div class="fb"><div class="fy"></div></div>
+    <div class="fl a"></div><div class="fl b"></div>
+    <div class="fl c"></div><div class="fl d"></div>
   </div>
 
   <div id="hud">
-    <span class="licon" id="l2">🐸</span>
-    <span class="licon" id="l1">🐸</span>
-    <span class="licon" id="l0">🐸</span>
+    <span class="li" id="l2">🐸</span>
+    <span class="li" id="l1">🐸</span>
+    <span class="li" id="l0">🐸</span>
   </div>
-
   <div id="go">
-    <h1>GAME OVER</h1>
-    <p>Your frog got splattered 3 times!</p>
+    <h1>GAME OVER</h1><p>Your frog got splattered 3 times!</p>
     <button onclick="restart()">Try Again</button>
   </div>
 </div>
 
 <script>
-// ── Road markings ──────────────────────────────────
+/* ── Helpers ─────────────────────────────────── */
+const gc  = document.getElementById('gc');
+const fEl = document.getElementById('frog');
+const goEl= document.getElementById('go');
+
+// Create an absolutely-positioned div with given style properties
+function D(s) {
+  const el = document.createElement('div');
+  el.style.position = 'absolute';
+  for (const [k,v] of Object.entries(s))
+    el.style[k] = (typeof v === 'number') ? v+'px' : v;
+  return el;
+}
+
+/* ── Road markings ───────────────────────────── */
 const road = document.getElementById('road');
 [{p:25,t:'dashed'},{p:50,t:'solid'},{p:75,t:'dashed'}].forEach(({p,t}) => {
   const mk = top => {
     const d = document.createElement('div');
-    d.className = 'lane-div ' + t;
-    d.style.top = top;
-    const n = t==='dashed' ? 28 : 1;
-    for (let i=0;i<n;i++){const s=document.createElement('div');s.className='ld';d.appendChild(s);}
+    d.className = 'ldiv '+t; d.style.top = top;
+    for (let i=0;i<(t==='dashed'?28:1);i++){const s=document.createElement('div');s.className='ld';d.appendChild(s);}
     road.appendChild(d);
   };
   mk(`calc(${p}% - 4px)`);
   if (t==='solid') mk(`calc(${p}% + 6px)`);
 });
 
-// ── Trees ─────────────────────────────────────────
-function buildTrees(id, n, sc) {
-  const row = document.getElementById(id);
-  for (let i=0;i<n;i++){
-    const t=document.createElement('div'); t.className='tree';
+/* ── Trees ───────────────────────────────────── */
+function buildTrees(id,n,sc){
+  const row=document.getElementById(id);
+  for(let i=0;i<n;i++){
+    const t=document.createElement('div');t.className='tree';
     t.style.transform=`scale(${sc*(0.7+Math.random()*0.6)})`;
     t.style.transformOrigin='bottom center';
-    t.innerHTML='<div class="tree-top"></div><div class="tree-mid"></div><div class="tree-trunk"></div>';
+    t.innerHTML='<div class="tt"></div><div class="tm"></div><div class="tk"></div>';
     row.appendChild(t);
   }
 }
-buildTrees('trees-top',22,1);
-buildTrees('trees-bot',22,1.2);
+buildTrees('tt',22,1); buildTrees('tb',22,1.2);
 
-// ── Geometry ──────────────────────────────────────
-const gc = document.getElementById('gc');
-function roadBounds(){
+/* ── Geometry ────────────────────────────────── */
+function rb() {
   return { top: innerHeight*0.28+7, bot: innerHeight*0.84-7, W: innerWidth };
 }
 function laneY(lane) {
-  const {top,bot} = roadBounds();
-  const lh = (bot-top)/4;
+  const {top,bot}=rb(), lh=(bot-top)/4;
   return top + lh*lane + lh/2;
 }
+function laneH() {
+  const {top,bot}=rb(); return (bot-top)/4;
+}
 
-// ── Vehicle types ──────────────────────────────────
-const TYPES = {
-  car:   { w:88,  h:32, speedMin:2.5, speedMax:5.5  },
-  truck: { w:160, h:44, speedMin:1.5, speedMax:3.0  },
-  moto:  { w:50,  h:24, speedMin:4.5, speedMax:8.5  },
-};
-const VCOLS = ['#e74c3c','#3498db','#f39c12','#9b59b6','#1abc9c','#e67e22','#2ecc71','#fff','#e84393'];
+/* ── Vehicle colours ─────────────────────────── */
+const CAR_COLS = [
+  ['#e74c3c','#c0392b'],['#3498db','#2471a3'],['#f39c12','#d68910'],
+  ['#9b59b6','#7d3c98'],['#1abc9c','#148f77'],['#e67e22','#ca6f1e'],
+  ['#2ecc71','#27ae60'],['#ecf0f1','#aab7b8'],['#fd79a8','#c0447b'],
+];
+const TRUCK_COLS = [
+  ['#e74c3c','#922b21'],['#2c3e50','#1a252f'],['#27ae60','#1e8449'],
+  ['#d35400','#7d3c00'],['#8e44ad','#6c3483'],['#f1c40f','#9a7d0a'],
+];
+const MOTO_HELMS = ['#e74c3c','#3498db','#f1c40f','#1abc9c','#9b59b6','#e67e22'];
 
-function pickType(){ const r=Math.random(); return r<.55?'car':r<.78?'truck':'moto'; }
+/* ── Vehicle element builders ────────────────── */
+function makeCarEl(w, h) {
+  const [bc,cc] = CAR_COLS[Math.floor(Math.random()*CAR_COLS.length)];
+  const el = document.createElement('div');
+  el.className = 'veh';
+  el.style.width = w+'px'; el.style.height = h+'px';
 
-// ── Make a vehicle element (simple solid rect, NO children, NO position override) ──
-function makeVeh(type) {
-  const def = TYPES[type];
-  const col = VCOLS[Math.floor(Math.random()*VCOLS.length)];
-  const el  = document.createElement('div');
-  el.className = 'veh';  // position:absolute comes from CSS class only
-  el.style.width  = def.w + 'px';
-  el.style.height = def.h + 'px';
-  el.style.background = col;
-  el.style.boxShadow  = '0 3px 8px rgba(0,0,0,0.6)';
-  // tiny label so we can see type
-  const lbl = document.createElement('span');
-  lbl.className = 'veh-label';
-  lbl.textContent = type;
-  el.appendChild(lbl);
+  const wR  = Math.round(h*0.16);
+  const bH  = Math.round(h*0.46);
+  const bY  = h - bH - Math.round(h*0.06);
+  const cabH= Math.round(h*0.40);
+  const cabW= Math.round(w*0.48);
+  const cabX= Math.round(w*0.24);
+
+  // shadow
+  el.appendChild(D({bottom:0,left:Math.round(w*0.06),width:Math.round(w*0.88),height:3,background:'rgba(0,0,0,.3)',borderRadius:'50%'}));
+  // body
+  el.appendChild(D({left:0,top:bY,width:w,height:bH,background:bc,borderRadius:'4px',boxShadow:'inset 0 -5px 10px rgba(0,0,0,.2)'}));
+  // cabin
+  const cab = D({left:cabX,top:bY-cabH+5,width:cabW,height:cabH,background:cc,borderRadius:'6px 6px 0 0'});
+  const wW=Math.round(cabW*.37), wH=Math.round(cabH*.62);
+  cab.appendChild(D({left:4,top:5,width:wW,height:wH,background:'#b8edf5',borderRadius:'2px',opacity:'.9'}));
+  cab.appendChild(D({left:cabW-wW-4,top:5,width:wW,height:wH,background:'#b8edf5',borderRadius:'2px',opacity:'.9'}));
+  el.appendChild(cab);
+  // wheels
+  const wY = bY+bH-wR;
+  const wGap = Math.round(w*0.14);
+  el.appendChild(D({left:wGap-wR,top:wY,width:wR*2,height:wR*2,background:'#111',borderRadius:'50%',boxShadow:`inset 0 0 0 ${Math.round(wR*.42)}px #555`}));
+  el.appendChild(D({left:w-wGap-wR,top:wY,width:wR*2,height:wR*2,background:'#111',borderRadius:'50%',boxShadow:`inset 0 0 0 ${Math.round(wR*.42)}px #555`}));
+  // lights
+  const lW=Math.round(w*.07), lH=Math.round(bH*.32), lY=bY+Math.round(bH*.28);
+  el.appendChild(D({left:2,top:lY,width:lW,height:lH,background:'#fff8a0',borderRadius:'2px'}));
+  el.appendChild(D({left:w-lW-2,top:lY,width:lW,height:lH,background:'#ff4444',borderRadius:'2px'}));
   return el;
 }
 
-// ── Vehicles array ─────────────────────────────────
-let vehicles = [];
+function makeTruckEl(w, h) {
+  const [bc,cc] = TRUCK_COLS[Math.floor(Math.random()*TRUCK_COLS.length)];
+  const el = document.createElement('div');
+  el.className = 'veh';
+  el.style.width = w+'px'; el.style.height = h+'px';
 
-function addVeh(lane, startX) {
-  const type  = pickType();
-  const def   = TYPES[type];
-  const speed = def.speedMin + Math.random()*(def.speedMax-def.speedMin);
-  if (startX === undefined) startX = innerWidth + def.w + 20;
-  const el = makeVeh(type);
-  const topY = laneY(lane) - def.h/2;
-  el.style.left = startX + 'px';
-  el.style.top  = topY    + 'px';
-  gc.appendChild(el);
-  vehicles.push({ el, lane, speed, x:startX, w:def.w, h:def.h, topY });
+  const wR   = Math.round(h*0.15);
+  const bH   = Math.round(h*0.48);
+  const bY   = h - bH - Math.round(h*0.06);
+  const cabW = Math.round(w*0.28);
+  const traW = w - cabW - 2;
+  const traX = cabW + 2;
+
+  // shadow
+  el.appendChild(D({bottom:0,left:Math.round(w*.03),width:Math.round(w*.94),height:3,background:'rgba(0,0,0,.3)',borderRadius:'50%'}));
+  // trailer body
+  const tra = D({left:traX,top:bY,width:traW,height:bH,background:bc,borderRadius:'0 3px 3px 0'});
+  // trailer stripes
+  for(let i=0;i<3;i++) tra.appendChild(D({left:Math.round(traW*(.15+i*.28)),top:4,width:2,height:bH-8,background:'rgba(0,0,0,.15)'}));
+  // taillight
+  tra.appendChild(D({left:traW-5,top:Math.round(bH*.28),width:5,height:Math.round(bH*.3),background:'#ff4444',borderRadius:'0 2px 2px 0'}));
+  el.appendChild(tra);
+  // cab
+  const cabH = Math.round(h*0.56);
+  const cab = D({left:0,top:bY-cabH+bH,width:cabW,height:cabH,background:cc,borderRadius:'4px 0 0 3px',boxShadow:'inset -4px 0 8px rgba(0,0,0,.2)'});
+  const cwinW=Math.round(cabW*.7), cwinH=Math.round(cabH*.38);
+  cab.appendChild(D({left:4,top:6,width:cwinW,height:cwinH,background:'#b8edf5',borderRadius:'2px',opacity:'.9'}));
+  // headlight
+  cab.appendChild(D({left:2,top:Math.round(cabH*.55),width:Math.round(cabW*.15),height:Math.round(cabH*.2),background:'#fff8a0',borderRadius:'2px'}));
+  el.appendChild(cab);
+  // wheels — 2 under cab, 2 under rear of trailer
+  const wY=bY+bH-wR;
+  [[wR, 'cab'],[cabW-wR*2-4,'cab'],[traX+Math.round(traW*.28),'tra'],[traX+traW-wR*2-4,'tra']].forEach(([lx])=>{
+    el.appendChild(D({left:lx,top:wY,width:wR*2,height:wR*2,background:'#111',borderRadius:'50%',boxShadow:`inset 0 0 0 ${Math.round(wR*.42)}px #555`}));
+  });
+  return el;
 }
 
-function spawn() {
-  // try lanes in shuffled order, skip if crowded at right edge
-  const lanes = [0,1,2,3].sort(()=>Math.random()-.5);
-  for (const lane of lanes) {
-    if (!vehicles.some(v => v.lane===lane && v.x > innerWidth-180)) {
-      addVeh(lane);
+function makeMotoEl(w, h) {
+  const hCol = MOTO_HELMS[Math.floor(Math.random()*MOTO_HELMS.length)];
+  const el = document.createElement('div');
+  el.className = 'veh';
+  el.style.width = w+'px'; el.style.height = h+'px';
+
+  const wR = Math.round(h*0.26);
+  const wY = h - wR*2;
+  // wheels
+  el.appendChild(D({left:0,top:wY,width:wR*2,height:wR*2,background:'#111',borderRadius:'50%',boxShadow:`inset 0 0 0 ${Math.round(wR*.4)}px #555`}));
+  el.appendChild(D({left:w-wR*2,top:wY,width:wR*2,height:wR*2,background:'#111',borderRadius:'50%',boxShadow:`inset 0 0 0 ${Math.round(wR*.4)}px #555`}));
+  // frame (thin diagonal line via border)
+  const fY = wY+wR; // wheel centre Y
+  el.appendChild(D({left:wR,top:Math.round(h*.35),width:w-wR*2,height:Math.round(h*.14),background:'#777',borderRadius:'2px'}));
+  // front fork
+  el.appendChild(D({left:2,top:Math.round(h*.3),width:Math.round(w*.14),height:Math.round(h*.35),background:'#888',borderRadius:'2px',transform:'rotate(-10deg)',transformOrigin:'top center'}));
+  // rider body
+  const rW=Math.round(w*.35), rH=Math.round(h*.32);
+  el.appendChild(D({left:Math.round(w*.32),top:Math.round(h*.12),width:rW,height:rH,background:'#333',borderRadius:'4px'}));
+  // helmet
+  const helR=Math.round(h*.2);
+  el.appendChild(D({left:Math.round(w*.38),top:0,width:helR*2,height:helR*2,background:hCol,borderRadius:'50%'}));
+  // lights
+  el.appendChild(D({left:2,top:wY+Math.round(wR*.7),width:Math.round(w*.1),height:Math.round(wR*.5),background:'#fff8a0',borderRadius:'50%'}));
+  el.appendChild(D({left:w-Math.round(w*.1)-2,top:wY+Math.round(wR*.7),width:Math.round(w*.1),height:Math.round(wR*.5),background:'#ff4444',borderRadius:'50%'}));
+  return el;
+}
+
+/* ── Vehicle spawning & physics ──────────────── */
+const SPEED = { car:[2.5,5.5], truck:[1.2,2.8], moto:[4.5,9] };
+const RATIO = { car:2.4, truck:4.0, moto:1.5 }; // w/h ratio
+const HFRAC = { car:0.78, truck:0.84, moto:0.62 }; // h as fraction of lane height
+
+let vehicles = [];
+
+function pickType(){ const r=Math.random(); return r<.55?'car':r<.78?'truck':'moto'; }
+
+function vehDims(type) {
+  const lh = laneH();
+  const h  = Math.round(lh * HFRAC[type]);
+  const w  = Math.round(h  * RATIO[type]);
+  return {w,h};
+}
+
+function addVeh(lane, startX) {
+  const type = pickType();
+  const {w,h} = vehDims(type);
+  const [sMin,sMax] = SPEED[type];
+  const speed = sMin + Math.random()*(sMax-sMin);
+  if (startX === undefined) startX = innerWidth + w + 20;
+
+  const el = (type==='car') ? makeCarEl(w,h) : (type==='truck') ? makeTruckEl(w,h) : makeMotoEl(w,h);
+  const initY = laneY(lane) - h/2;
+  el.style.left = startX+'px';
+  el.style.top  = initY+'px';
+  gc.appendChild(el);
+  vehicles.push({ el, type, w, h, speed, baseSpeed:speed,
+    x:startX, currentY:initY, targetY:initY,
+    lane, targetLane:lane, cooldown:0 });
+}
+
+function seedTraffic() {
+  const W = innerWidth;
+  [[0,W*.10],[2,W*.34],[1,W*.58],[3,W*.80],
+   [0,W*1.1],[2,W*1.40],[1,W*1.75],[3,W*2.0]]
+    .forEach(([lane,x]) => addVeh(lane, x));
+}
+
+/* ── Overtaking logic ────────────────────────── */
+function tryOvertake(v) {
+  if (v.cooldown > 0) return;
+  // find a slower vehicle close ahead in the same target lane
+  const blocker = vehicles.find(u =>
+    u!==v && u.targetLane===v.targetLane &&
+    u.x < v.x && (v.x-(u.x+u.w)) < v.w*1.8 && u.speed < v.speed*0.88
+  );
+  if (!blocker) return;
+
+  // try adjacent lanes (prefer the faster/outer lane = lower index)
+  const opts = [];
+  if (v.targetLane > 0) opts.push(v.targetLane-1);
+  if (v.targetLane < 3) opts.push(v.targetLane+1);
+
+  for (const nl of opts) {
+    const clear = !vehicles.some(u =>
+      u!==v && u.targetLane===nl && Math.abs(u.x-v.x) < v.w+80
+    );
+    if (clear) {
+      v.targetLane = nl;
+      v.targetY = laneY(nl) - v.h/2;
+      v.cooldown = 220;
       return;
     }
   }
 }
 
-function seedTraffic() {
-  // place vehicles at various x positions — some on-screen, some approaching
-  const W = innerWidth;
-  [ [0, W*0.1], [2, W*0.35], [1, W*0.6], [3, W*0.82],
-    [0, W*1.1], [2, W*1.4],  [1, W*1.7], [3, W*2.0] ]
-    .forEach(([lane,x]) => addVeh(lane, x));
-}
-
+/* ── Move vehicles each frame ────────────────── */
 function moveVehicles() {
   for (let i=vehicles.length-1; i>=0; i--) {
     const v = vehicles[i];
-    v.x -= v.speed;
-    v.el.style.left = v.x + 'px';
-    if (v.x + v.w < 0) { v.el.remove(); vehicles.splice(i,1); }
+    v.cooldown = Math.max(0, v.cooldown-1);
+
+    // Gap keeping: don't drive into the vehicle directly ahead
+    const ahead = vehicles.find(u =>
+      u!==v && u.targetLane===v.targetLane &&
+      u.x < v.x && (v.x-(u.x+u.w)) < 6
+    );
+    const effSpeed = ahead ? Math.min(v.speed, ahead.speed) : v.speed;
+    v.x -= effSpeed;
+
+    v.el.style.left = v.x+'px';
+
+    // Smooth lane-change Y animation
+    const dy = v.targetY - v.currentY;
+    if (Math.abs(dy) > 0.5) {
+      v.currentY += dy * 0.055;
+      v.el.style.top = v.currentY+'px';
+    } else if (dy !== 0) {
+      v.currentY = v.targetY;
+      v.el.style.top = v.currentY+'px';
+    }
+
+    tryOvertake(v);
+
+    if (v.x+v.w < 0) { v.el.remove(); vehicles.splice(i,1); }
   }
 }
 
-// ── Spawn timer ────────────────────────────────────
+/* ── Spawn scheduler ─────────────────────────── */
 function schedSpawn() {
-  if (document.getElementById('go').style.display !== 'flex') spawn();
-  setTimeout(schedSpawn, 700 + Math.random()*1100);
-}
-
-// ── Collision ──────────────────────────────────────
-let isDead=false, isInv=false;
-function checkHit() {
-  if (isDead||isInv) return;
-  const fL=frogX-13, fT=frogY-9, fW=26, fH=22;
-  for (const v of vehicles) {
-    if (fL < v.x+v.w-4 && fL+fW > v.x+4 && fT < v.topY+v.h-4 && fT+fH > v.topY+4) {
-      smash(); return;
+  if (goEl.style.display!=='flex') {
+    const lanes=[0,1,2,3].sort(()=>Math.random()-.5);
+    for (const lane of lanes) {
+      if (!vehicles.some(u=>u.lane===lane && u.x>innerWidth-200)) {
+        addVeh(lane); break;
+      }
     }
   }
+  setTimeout(schedSpawn, 700+Math.random()*1100);
 }
 
-// ── Splat & lives ──────────────────────────────────
-let lives = 3;
-function hudUpdate() {
-  for (let i=0;i<3;i++) document.getElementById('l'+i).classList.toggle('lost',i>=lives);
-}
-
-function splat(x,y) {
-  const s=document.createElement('div'); s.className='splat';
-  s.style.left=x+'px'; s.style.top=y+'px';
-  [{w:54,h:40,ox:0,oy:0},{w:18,h:14,ox:-30,oy:-10},{w:14,h:12,ox:32,oy:-12},
-   {w:16,h:12,ox:6,oy:-28},{w:12,h:16,ox:-16,oy:24},{w:10,h:8,ox:26,oy:20}]
-  .forEach(({w,h,ox,oy}) => {
-    const b=document.createElement('div'); b.className='sblob';
-    b.style.width=w+'px'; b.style.height=h+'px';
-    b.style.marginLeft=(ox-w/2)+'px'; b.style.marginTop=(oy-h/2)+'px';
-    s.appendChild(b);
-  });
-  const x2=document.createElement('div'); x2.className='sx'; x2.textContent='✕';
-  s.appendChild(x2); gc.appendChild(s); return s;
-}
-
-function smash() {
-  isDead=true;
-  document.getElementById('frog').style.display='none';
-  const s = splat(frogX,frogY);
-  lives--; hudUpdate();
-  setTimeout(()=>{
-    s.remove();
-    if (lives<=0) { document.getElementById('go').style.display='flex'; }
-    else { respawn(); }
-  }, 1400);
-}
-
-function respawn() {
-  isDead=false; isInv=true;
-  const f=document.getElementById('frog');
-  f.style.display=''; f.classList.add('inv');
-  frogReset();
-  setTimeout(()=>{ isInv=false; f.classList.remove('inv'); }, 2000);
-}
-
-// ── Frog ──────────────────────────────────────────
+/* ── Frog ────────────────────────────────────── */
 let frogX, frogY, frogDir=1;
-const keys={};
-const fEl = document.getElementById('frog');
+const keys = {};
+let lives=3, isDead=false, isInv=false;
+let moving=false, hopTmr=null;
 
 function frogReset() {
-  const {top,bot,W} = roadBounds();
+  const {top,bot,W}=rb();
   frogX=W/2; frogY=(top+bot)/2;
   fEl.style.left=frogX+'px'; fEl.style.top=frogY+'px';
   fEl.style.transform='translate(-50%,-50%)';
@@ -372,42 +394,87 @@ document.addEventListener('keydown',e=>{
 });
 document.addEventListener('keyup',e=>{ keys[e.key]=false; });
 
-let moving=false, hopTmr=null;
-function hop() {
-  fEl.classList.remove('hopping'); void fEl.offsetWidth;
-  fEl.classList.add('hopping');
+function hop(){
+  fEl.classList.remove('hop'); void fEl.offsetWidth;
+  fEl.classList.add('hop');
   clearTimeout(hopTmr);
-  hopTmr=setTimeout(()=>fEl.classList.remove('hopping'),200);
+  hopTmr=setTimeout(()=>fEl.classList.remove('hop'),200);
 }
 
-// ── Restart ───────────────────────────────────────
-function restart() {
+/* ── Collision ───────────────────────────────── */
+function checkHit(){
+  if(isDead||isInv) return;
+  const fL=frogX-13, fT=frogY-9, fW=26, fH=22;
+  for (const v of vehicles){
+    if(fL < v.x+v.w-4 && fL+fW > v.x+4 && fT < v.currentY+v.h-5 && fT+fH > v.currentY+5){
+      smash(); return;
+    }
+  }
+}
+
+/* ── Lives & splat ───────────────────────────── */
+function hudUpdate(){
+  for(let i=0;i<3;i++) document.getElementById('l'+i).classList.toggle('lost',i>=lives);
+}
+
+function mkSplat(x,y){
+  const s=document.createElement('div'); s.className='splat';
+  s.style.left=x+'px'; s.style.top=y+'px';
+  [{w:54,h:40,ox:0,oy:0},{w:18,h:14,ox:-30,oy:-10},{w:14,h:12,ox:32,oy:-12},
+   {w:16,h:12,ox:6,oy:-28},{w:12,h:16,ox:-16,oy:24},{w:10,h:8,ox:26,oy:20}]
+  .forEach(({w,h,ox,oy})=>{
+    const b=document.createElement('div'); b.className='sb';
+    b.style.width=w+'px'; b.style.height=h+'px';
+    b.style.marginLeft=(ox-w/2)+'px'; b.style.marginTop=(oy-h/2)+'px';
+    s.appendChild(b);
+  });
+  const x2=document.createElement('div');x2.className='sx';x2.textContent='✕';
+  s.appendChild(x2); gc.appendChild(s); return s;
+}
+
+function smash(){
+  isDead=true; fEl.style.display='none';
+  const s=mkSplat(frogX,frogY);
+  lives--; hudUpdate();
+  setTimeout(()=>{
+    s.remove();
+    if(lives<=0) goEl.style.display='flex';
+    else respawn();
+  },1400);
+}
+
+function respawn(){
+  isDead=false; isInv=true;
+  fEl.style.display=''; fEl.classList.add('inv');
+  frogReset();
+  setTimeout(()=>{ isInv=false; fEl.classList.remove('inv'); },2000);
+}
+
+function restart(){
   vehicles.forEach(v=>v.el.remove()); vehicles=[];
   lives=3; isDead=false; isInv=false; hudUpdate();
-  document.getElementById('go').style.display='none';
+  goEl.style.display='none';
   fEl.style.display=''; fEl.classList.remove('inv');
   frogReset(); seedTraffic();
 }
 
-// ── Game loop ─────────────────────────────────────
-const SPEED=4;
-function loop() {
-  const go = document.getElementById('go');
-  if (go.style.display!=='flex') {
-    if (!isDead) {
-      const {top,bot,W}=roadBounds();
+/* ── Game loop ───────────────────────────────── */
+const FSPEED=4;
+function loop(){
+  if(goEl.style.display!=='flex'){
+    if(!isDead){
+      const {top,bot,W}=rb();
       let dx=0,dy=0;
-      if(keys.ArrowLeft)  dx-=SPEED;
-      if(keys.ArrowRight) dx+=SPEED;
-      if(keys.ArrowUp)    dy-=SPEED;
-      if(keys.ArrowDown)  dy+=SPEED;
+      if(keys.ArrowLeft) dx-=FSPEED;
+      if(keys.ArrowRight)dx+=FSPEED;
+      if(keys.ArrowUp)   dy-=FSPEED;
+      if(keys.ArrowDown) dy+=FSPEED;
       if(dx||dy){
-        frogX = Math.min(W-26,  Math.max(26,      frogX+dx));
-        frogY = Math.min(bot-22, Math.max(top+22, frogY+dy));
-        if(dx>0) frogDir=1; else if(dx<0) frogDir=-1;
-        fEl.style.left = frogX+'px';
-        fEl.style.top  = frogY+'px';
-        fEl.style.transform = `translate(-50%,-50%) scaleX(${frogDir})`;
+        frogX=Math.min(W-26,  Math.max(26,      frogX+dx));
+        frogY=Math.min(bot-22, Math.max(top+22, frogY+dy));
+        if(dx>0)frogDir=1; else if(dx<0)frogDir=-1;
+        fEl.style.left=frogX+'px'; fEl.style.top=frogY+'px';
+        fEl.style.transform=`translate(-50%,-50%) scaleX(${frogDir})`;
         if(!moving){hop();moving=true;}
       } else moving=false;
     }
@@ -417,11 +484,9 @@ function loop() {
   requestAnimationFrame(loop);
 }
 
-// ── Boot ──────────────────────────────────────────
-frogReset();
-hudUpdate();
-seedTraffic();
-setTimeout(schedSpawn, 1500);
+/* ── Boot ────────────────────────────────────── */
+frogReset(); hudUpdate(); seedTraffic();
+setTimeout(schedSpawn,1500);
 loop();
 </script>
 </body>
