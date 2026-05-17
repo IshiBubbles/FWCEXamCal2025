@@ -481,10 +481,8 @@
     let isDead = false;
     let isInvincible = false;
     let vehicles = [];
-    let frameCount = 0;
-    let nextSpawn = 80;
     let frogX, frogY;
-    let frogDir = 1; // 1 = face right, -1 = face left
+    let frogDir = 1;
     let keys = {};
 
     /* ── Lane geometry ── */
@@ -528,37 +526,55 @@
       return 'moto';
     }
 
-    function spawnVehicle() {
-      const type = pickType();
-      const def  = VDEFS[type];
-      const lane = Math.floor(Math.random() * 4);
-
-      // Don't crowd — check if a vehicle in this lane is still near the right edge
-      if (vehicles.some(v => v.lane === lane && v.x > window.innerWidth * 0.65)) return;
-
-      const speed = def.speedMin + Math.random() * (def.speedMax - def.speedMin);
-
-      let svg;
+    function makeSVG(type) {
       if (type === 'car') {
         const [b, c] = CAR_PALETTES[Math.floor(Math.random() * CAR_PALETTES.length)];
-        svg = carSVG(b, c);
+        return carSVG(b, c);
       } else if (type === 'truck') {
         const [b, c] = TRUCK_PALETTES[Math.floor(Math.random() * TRUCK_PALETTES.length)];
-        svg = truckSVG(b, c);
+        return truckSVG(b, c);
       } else {
-        svg = motoSVG();
+        return motoSVG();
       }
+    }
+
+    // Place a vehicle at a specific x (defaults to just off right edge)
+    function doSpawn(lane, startX) {
+      const type  = pickType();
+      const def   = VDEFS[type];
+      const speed = def.speedMin + Math.random() * (def.speedMax - def.speedMin);
+      if (startX === undefined) startX = window.innerWidth + def.w + 10;
 
       const el = document.createElement('div');
       el.className = 'vehicle';
-      el.innerHTML = svg;
-
-      const startX = window.innerWidth + def.w;
+      el.innerHTML = makeSVG(type);
       el.style.left = startX + 'px';
       el.style.top  = (laneCenterY(lane) - def.h / 2) + 'px';
       gc.appendChild(el);
+      vehicles.push({ el, lane, speed, x: startX, w: def.w, h: def.h });
+    }
 
-      vehicles.push({ el, type, lane, speed, x: startX, w: def.w, h: def.h });
+    // Try every lane (shuffled); spawn in the first one that isn't crowded near the entry point
+    function spawnVehicle() {
+      const lanes = [0, 1, 2, 3].sort(() => Math.random() - 0.5);
+      for (const lane of lanes) {
+        // Only block if a vehicle is still very close to the right edge (within 220px)
+        const crowded = vehicles.some(v => v.lane === lane && v.x > window.innerWidth - 220);
+        if (!crowded) { doSpawn(lane); return; }
+      }
+      // All lanes crowded at entry — skip this tick
+    }
+
+    // Pre-seed traffic so vehicles are visible immediately
+    function initTraffic() {
+      const W = window.innerWidth;
+      // Stagger starting positions: some just entering, some mid-screen, some far right
+      [
+        { lane: 0, xFrac: 1.05 }, { lane: 2, xFrac: 1.15 },
+        { lane: 1, xFrac: 1.45 }, { lane: 3, xFrac: 1.60 },
+        { lane: 0, xFrac: 1.90 }, { lane: 2, xFrac: 2.10 },
+        { lane: 1, xFrac: 2.50 }, { lane: 3, xFrac: 2.80 },
+      ].forEach(({ lane, xFrac }) => doSpawn(lane, W * xFrac));
     }
 
     function updateVehicles() {
@@ -684,13 +700,12 @@
       lives = 3;
       isDead = false;
       isInvincible = false;
-      frameCount = 0;
-      nextSpawn = 80;
       updateLivesHUD();
       gameOverEl.style.display = 'none';
       frogEl.style.display = '';
       frogEl.classList.remove('invincible');
       frogStart();
+      initTraffic();
     }
 
     /* ══════════════════════════════════════════
@@ -717,44 +732,44 @@
       hopTimer = setTimeout(() => frogEl.classList.remove('hopping'), 200);
     }
 
+    // Spawn scheduler — runs independently of frame loop
+    function scheduleSpawn() {
+      if (gameOverEl.style.display !== 'flex') spawnVehicle();
+      setTimeout(scheduleSpawn, 700 + Math.random() * 1300);
+    }
+
     frogStart();
     updateLivesHUD();
+    initTraffic();
+    setTimeout(scheduleSpawn, 1200); // first scheduled spawn after pre-seed clears a bit
 
     function gameLoop() {
-      frameCount++;
-
-      if (!isDead && !gameOverEl.style.display !== 'flex') {
+      if (gameOverEl.style.display !== 'flex') {
         // ── Move frog ──
-        const { top, bottom, w } = roadBounds();
-        let dx = 0, dy = 0;
-        if (keys['ArrowLeft'])  dx -= SPEED;
-        if (keys['ArrowRight']) dx += SPEED;
-        if (keys['ArrowUp'])    dy -= SPEED;
-        if (keys['ArrowDown'])  dy += SPEED;
+        if (!isDead) {
+          const { top, bottom, w } = roadBounds();
+          let dx = 0, dy = 0;
+          if (keys['ArrowLeft'])  dx -= SPEED;
+          if (keys['ArrowRight']) dx += SPEED;
+          if (keys['ArrowUp'])    dy -= SPEED;
+          if (keys['ArrowDown'])  dy += SPEED;
 
-        if (dx !== 0 || dy !== 0) {
-          frogX = Math.min(w - 26,     Math.max(26,       frogX + dx));
-          frogY = Math.min(bottom - 22, Math.max(top + 22, frogY + dy));
-          if (dx > 0) frogDir = 1;
-          else if (dx < 0) frogDir = -1;
-          frogEl.style.left = frogX + 'px';
-          frogEl.style.top  = frogY + 'px';
-          frogEl.style.setProperty('--sx', frogDir);
-          if (!isMoving) { triggerHop(); isMoving = true; }
-        } else {
-          isMoving = false;
+          if (dx !== 0 || dy !== 0) {
+            frogX = Math.min(w - 26,      Math.max(26,       frogX + dx));
+            frogY = Math.min(bottom - 22, Math.max(top + 22, frogY + dy));
+            if (dx > 0) frogDir = 1;
+            else if (dx < 0) frogDir = -1;
+            frogEl.style.left = frogX + 'px';
+            frogEl.style.top  = frogY + 'px';
+            frogEl.style.transform = `translate(-50%, -50%) scaleX(${frogDir})`;
+            if (!isMoving) { triggerHop(); isMoving = true; }
+          } else {
+            isMoving = false;
+          }
         }
 
-        // ── Spawn vehicles ──
-        if (frameCount >= nextSpawn) {
-          spawnVehicle();
-          nextSpawn = frameCount + 40 + Math.floor(Math.random() * 80);
-        }
-
-        // ── Move vehicles ──
+        // ── Move vehicles & check collisions ──
         updateVehicles();
-
-        // ── Collision ──
         checkCollision();
       }
 
