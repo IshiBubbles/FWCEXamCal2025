@@ -3,6 +3,104 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+SUMMARY:EAC 2026 - Session 1 (Morning)
+DTSTART;TZID=Europe/London:20260810T100000
+DTEND;TZID=Europe/London:20260810T143000
+LOCATION:Alexander Stadium, Birmingham
+DESCRIPTION:European Athletics Championships 2026 - Session 1 - Monday Morning
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EAC 2026 - Session 2 (Evening)
+DTSTART;TZID=Europe/London:20260810T193000
+DTEND;TZID=Europe/London:20260810T223000
+LOCATION:Alexander Stadium, Birmingham
+DESCRIPTION:European Athletics Championships 2026 - Session 2 - Monday Evening
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EAC 2026 - Session 3 (Morning)
+DTSTART;TZID=Europe/London:20260811T100000
+DTEND;TZID=Europe/London:20260811T143000
+LOCATION:Alexander Stadium, Birmingham
+DESCRIPTION:European Athletics Championships 2026 - Session 3 - Tuesday Morning
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EAC 2026 - Session 4 (Evening)
+DTSTART;TZID=Europe/London:20260811T193000
+DTEND;TZID=Europe/London:20260811T223000
+LOCATION:Alexander Stadium, Birmingham
+DESCRIPTION:European Athletics Championships 2026 - Session 4 - Tuesday Evening
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EAC 2026 - Session 5 (Morning)
+DTSTART;TZID=Europe/London:20260812T100000
+DTEND;TZID=Europe/London:20260812T143000
+LOCATION:Alexander Stadium, Birmingham
+DESCRIPTION:European Athletics Championships 2026 - Session 5 - Wednesday Morning
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EAC 2026 - Session 6 (Evening)
+DTSTART;TZID=Europe/London:20260812T193000
+DTEND;TZID=Europe/London:20260812T223000
+LOCATION:Alexander Stadium, Birmingham
+DESCRIPTION:European Athletics Championships 2026 - Session 6 - Wednesday Evening
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EAC 2026 - Session 7 (Morning)
+DTSTART;TZID=Europe/London:20260813T100000
+DTEND;TZID=Europe/London:20260813T143000
+LOCATION:Alexander Stadium, Birmingham
+DESCRIPTION:European Athletics Championships 2026 - Session 7 - Thursday Morning
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EAC 2026 - Session 8 (Evening)
+DTSTART;TZID=Europe/London:20260813T193000
+DTEND;TZID=Europe/London:20260813T223000
+LOCATION:Alexander Stadium, Birmingham
+DESCRIPTION:European Athletics Championships 2026 - Session 8 - Thursday Evening
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EAC 2026 - Session 9 (Morning)
+DTSTART;TZID=Europe/London:20260814T100000
+DTEND;TZID=Europe/London:20260814T143000
+LOCATION:Alexander Stadium, Birmingham
+DESCRIPTION:European Athletics Championships 2026 - Session 9 - Friday Morning
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EAC 2026 - Session 10 (Evening)
+DTSTART;TZID=Europe/London:20260814T193000
+DTEND;TZID=Europe/London:20260814T223000
+LOCATION:Alexander Stadium, Birmingham
+DESCRIPTION:European Athletics Championships 2026 - Session 10 - Friday Evening
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EAC 2026 - Session 11 (Morning)
+DTSTART;TZID=Europe/London:20260815T100000
+DTEND;TZID=Europe/London:20260815T143000
+LOCATION:Alexander Stadium, Birmingham
+DESCRIPTION:European Athletics Championships 2026 - Session 11 - Saturday Morning
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EAC 2026 - Session 12 (Evening)
+DTSTART;TZID=Europe/London:20260815T193000
+DTEND;TZID=Europe/London:20260815T223000
+LOCATION:Alexander Stadium, Birmingham
+DESCRIPTION:European Athletics Championships 2026 - Session 12 - Saturday Evening
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EAC 2026 - Marathons (Morning)
+DTSTART;TZID=Europe/London:20260816T083000
+DTEND;TZID=Europe/London:20260816T120000
+LOCATION:Birmingham City Streets
+DESCRIPTION:European Athletics Championships 2026 - Marathons (W & M) - Sunday Morning
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EAC 2026 - Session 13 (Evening)
+DTSTART;TZID=Europe/London:20260816T193000
+DTEND;TZID=Europe/London:20260816T223000
+LOCATION:Alexander Stadium, Birmingham
+DESCRIPTION:European Athletics Championships 2026 - Session 13 - Sunday Evening
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Quinn Kestrels Welcome
 DTSTART;TZID=Europe/London:20260905T120000
 DTEND;TZID=Europe/London:20260905T153000
