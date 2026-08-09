@@ -1,0 +1,79 @@
+name: Fraser Career Watch (daily)
+
+# Runs the fraser-career-watch skill daily and emails the result to aconduct@proton.me.
+#
+# One-time setup required before this can run (see README note in career-watch/ or the
+# session that created this file) — add two repository secrets:
+#   ANTHROPIC_API_KEY  - a Claude API key from https://console.anthropic.com
+#   RESEND_API_KEY     - a free API key from https://resend.com
+#
+# IMPORTANT: GitHub only fires `schedule` triggers from the repository's default branch.
+# This workflow must be merged to the default branch (not left on a feature branch) for
+# the daily cron to actually run. Use "Run workflow" (workflow_dispatch) to test it first.
+#
+# The github_token input below is passed explicitly (rather than left for
+# claude-code-action to source its own via the Claude GitHub App) to avoid a known bug
+# where that default auth path fails specifically on schedule-triggered runs
+# (anthropics/claude-code-action#814). Passing our own token skips that code path.
+
+on:
+  schedule:
+    - cron: "17 6 * * *" # ~06:17 UTC daily = ~07:17 UK time in summer (BST), ~06:17 in winter (GMT)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fraser-career-watch
+  cancel-in-progress: false
+
+jobs:
+  career-watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      - name: Run the fraser-career-watch skill
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          prompt: "/fraser-career-watch"
+          claude_args: |
+            --model claude-sonnet-5
+            --max-turns 40
+            --allowedTools "WebSearch,WebFetch,Read,Write,Edit"
+
+      - name: Send today's digest by email (Resend)
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: |
+          set -euo pipefail
+          if [ ! -s career-watch/digests/latest-email.html ]; then
+            echo "No latest-email.html produced by the skill run - nothing to send." >&2
+            exit 1
+          fi
+          html_body=$(jq -Rs . < career-watch/digests/latest-email.html)
+          subject="Fraser's Career Watch — $(date -u +%F)"
+          curl -fsS https://api.resend.com/emails \
+            -H "Authorization: Bearer ${RESEND_API_KEY}" \
+            -H "Content-Type: application/json" \
+            -d "{\"from\":\"Fraser Career Watch <onboarding@resend.dev>\",\"to\":[\"aconduct@proton.me\"],\"subject\":\"${subject}\",\"html\":${html_body}}"
+
+      - name: Commit updated state and digest files
+        run: |
+          set -euo pipefail
+          git config user.name "fraser-career-watch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add career-watch/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Fraser Career Watch: daily update $(date -u +%F)"
+            git push
+          fi
