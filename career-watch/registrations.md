@@ -13,15 +13,15 @@ Sites and accounts Fraser should register on now (Phase 1), so alerts start arri
 - [ ] [Indeed](https://www.indeed.co.uk) — for the general/retail search track
 
 ## Track 1 — Engineering apprenticeships (named employer talent pools)
-- [ ] [Airbus careers](https://www.airbus.com/en/careers) — register interest / job alert
-- [ ] [BAE Systems careers](https://www.baesystems.com/en/careers) — register interest / job alert
-- [ ] [QinetiQ careers](https://www.qinetiq.com/en/careers) — register interest / job alert
-- [ ] [AWE careers](https://www.awe.co.uk/careers) — register interest / job alert
-- [ ] [Dyson Institute](https://www.dysoninstitute.ac.uk) — register interest for next application window
-- [ ] [Network Rail early careers](https://www.earlycareers.networkrail.co.uk) — register interest for 2027 round
+- [x] [Airbus careers](https://www.airbus.com/en/careers) — register interest / job alert
+- [ ] [BAE Systems careers](https://www.baesystems.com/en/careers) — no alert option available; site states applications open January 2027
+- [ ] [QinetiQ careers](https://www.qinetiq.com/en/careers) — no alerts or information found on their site
+- [x] [AWE careers](https://www.awe.co.uk/careers) — register interest / job alert
+- [ ] ~~[Dyson Institute](https://www.dysoninstitute.ac.uk)~~ — not interested, dropped
+- [x] [Network Rail early careers](https://www.earlycareers.networkrail.co.uk) — register interest for 2027 round
 
 ## Track 2 — Pilot
-- [ ] [British Airways future pilots](https://careers.ba.com/future-pilots) — Speedbird Pilot Academy updates
+- [x] [British Airways future pilots](https://careers.ba.com/future-pilots) — signed up, 75% through the practice test
 - [ ] [British Airways apprentices](https://careers.ba.com/apprentices) — BA's separate engineering apprenticeships
 - [ ] Jet2FlightPath — check jet2.com careers for registration/interest options
 - [ ] TUI cadet pilot scheme — check tui careers for registration/interest options

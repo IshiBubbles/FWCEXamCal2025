@@ -19,13 +19,13 @@
     "level": "Advanced / Degree",
     "location": "Various UK sites",
     "cycle": "September 2027",
-    "status": "date_not_yet_confirmed",
-    "opens": null,
+    "status": "confirmed_dates",
+    "opens": "2027-01-01",
     "closes": null,
-    "date_confidence": "prior-cycle-based: 2026 cohort opened early Nov 2025, so 2027 likely opens ~early Nov 2026",
+    "date_confidence": "confirmed directly from BAE's own site (Adam checked 2026-08-09): applications open January 2027. No alert/notify option available on their site, so this needs manual re-checking rather than relying on an alert.",
     "link": "https://www.baesystems.com/en/careers/careers-in-the-uk/apprenticeships/degree",
     "first_seen": "2026-08-09",
-    "notes": null
+    "notes": "Supersedes the earlier ~Nov 2026 estimate, which was extrapolated from the prior cycle."
   },
   {
     "employer": "QinetiQ",
@@ -61,13 +61,13 @@
     "level": "Degree",
     "location": "Malmesbury, Wiltshire",
     "cycle": "September 2027",
-    "status": "date_not_yet_confirmed",
+    "status": "not_interested",
     "opens": null,
     "closes": null,
     "date_confidence": "no 2027 date found - historically opens autumn for following Sept intake",
     "link": "https://www.dysoninstitute.ac.uk/undergraduate-programme/applying/",
     "first_seen": "2026-08-09",
-    "notes": "Apply direct, not via UCAS. Needs AAB incl. A in Maths, A in a STEM subject, B in anything else. 4 stages: application, online assessment, virtual interview, assessment day."
+    "notes": "Fraser has decided he's not interested in this one (as of 2026-08-09) - kept in the record but should be excluded from active recommended actions in the digest unless that changes."
   },
   {
     "employer": "Network Rail",
