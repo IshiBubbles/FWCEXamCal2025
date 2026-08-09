@@ -1,0 +1,72 @@
+[
+  {
+    "employer": "Skills England / IfATE (standard, not a single employer)",
+    "role": "First Officer Pilot apprenticeship standard (ST0523)",
+    "level": "Level 6",
+    "location": "Employer-dependent",
+    "cycle": null,
+    "status": "standard_approved_no_confirmed_live_vacancy",
+    "opens": null,
+    "closes": null,
+    "date_confidence": "standard exists and is approved; no live employer vacancy against it confirmed as of 2026-08-09",
+    "link": "https://skillsengland.education.gov.uk/apprenticeship-standards/st0523-v1-0",
+    "first_seen": "2026-08-09",
+    "notes": "24 months, funded up to GBP27,000, backed by BA/easyJet/Virgin/BALPA. Needs frozen ATPL or MPL, CAA/EASA Class 1 medical. Age 18+ for MPL route, 21+ for full ATPL route - employers set their own specific bar. Check GOV.UK Find an Apprenticeship directly for live vacancies against this standard."
+  },
+  {
+    "employer": "British Airways",
+    "role": "Speedbird Pilot Academy (cadet, fully funded)",
+    "level": "Cadet programme",
+    "location": "UK",
+    "cycle": null,
+    "status": "applied_in_progress",
+    "opens": null,
+    "closes": null,
+    "date_confidence": "check careers.ba.com directly for current application windows",
+    "link": "https://careers.ba.com/future-pilots",
+    "first_seen": "2026-08-09",
+    "notes": "GCSE-level stated entry (Maths, English, Science) though A-level Maths/Physics strongly useful. Fraser signed up 2026-08-09 and is 75% through the online practice test."
+  },
+  {
+    "employer": "British Airways",
+    "role": "Engineering apprenticeships (separate from pilot cadet scheme)",
+    "level": "Advanced / Degree",
+    "location": "UK",
+    "cycle": null,
+    "status": "ongoing_scheme",
+    "opens": null,
+    "closes": null,
+    "date_confidence": "check careers.ba.com directly",
+    "link": "https://careers.ba.com/apprentices",
+    "first_seen": "2026-08-09",
+    "notes": null
+  },
+  {
+    "employer": "Jet2",
+    "role": "Jet2FlightPath cadet scheme (fully funded)",
+    "level": "Cadet programme",
+    "location": "UK",
+    "cycle": null,
+    "status": "ongoing_scheme",
+    "opens": null,
+    "closes": null,
+    "date_confidence": "check jet2.com careers directly for current application windows",
+    "link": null,
+    "first_seen": "2026-08-09",
+    "notes": "5 GCSEs grade 4+ incl. Maths and a science stated as entry requirement."
+  },
+  {
+    "employer": "TUI",
+    "role": "TUI cadet pilot scheme (mostly funded)",
+    "level": "Cadet programme",
+    "location": "UK",
+    "cycle": null,
+    "status": "ongoing_scheme",
+    "opens": null,
+    "closes": null,
+    "date_confidence": "check tui careers directly for current application windows",
+    "link": null,
+    "first_seen": "2026-08-09",
+    "notes": "Cadet responsible for personal travel/living costs; training itself mostly funded."
+  }
+]

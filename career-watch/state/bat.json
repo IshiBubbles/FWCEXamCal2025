@@ -1,0 +1,30 @@
+[
+  {
+    "employer": "British American Tobacco",
+    "role": "Packaging Innovation - 12-month undergraduate placement (materials science / packaging technology / product design)",
+    "level": "Undergraduate placement (NOT a school-leaver apprenticeship)",
+    "location": "Southampton (R&D centre)",
+    "cycle": "starts 1 Sept 2026",
+    "status": "not_a_school_leaver_route",
+    "opens": null,
+    "closes": null,
+    "date_confidence": "confirmed as a placement programme, requires current university enrolment",
+    "link": "https://careers.bat.com/en/early-careers",
+    "first_seen": "2026-08-09",
+    "notes": "Flagging clearly: this is the concrete opportunity found at BAT's Southampton site, but it needs Fraser to already be at university - it is not an apprenticeship. Do not present this as a school-leaver apprenticeship opening."
+  },
+  {
+    "employer": "British American Tobacco",
+    "role": "General early careers hub (apprenticeships, placements, grad schemes - mixed)",
+    "level": "Mixed",
+    "location": "Various UK sites",
+    "cycle": null,
+    "status": "watch_hub",
+    "opens": null,
+    "closes": null,
+    "date_confidence": "no confirmed school-leaver apprenticeship at a UK site as of 2026-08-09; a past Mechatronics Apprenticeship listing (Hampshire, closed May 2024) shows BAT has run this type of role before",
+    "link": "https://careers.bat.com/en/search-jobs",
+    "first_seen": "2026-08-09",
+    "notes": "Check this hub directly each run; also monitor Gradcracker/Higherin/RateMyApprenticeship BAT profiles for anything genuinely apprenticeship-labelled."
+  }
+]
