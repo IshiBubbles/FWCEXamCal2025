@@ -1,24 +1,22 @@
-name: Fraser Career Watch (daily)
+name: Fraser Career Watch (manual)
 
-# Runs the fraser-career-watch skill daily and emails the result to aconduct@proton.me.
+# Runs the fraser-career-watch skill and emails the result to aconduct@proton.me.
 #
-# One-time setup required before this can run (see README note in career-watch/ or the
-# session that created this file) — add two repository secrets:
+# Manual-only for now, by request: this has no `schedule` trigger, so it never runs on
+# its own. Trigger it from the Actions tab ("Run workflow") or via the GitHub API/CLI
+# whenever a run is wanted. A daily `schedule:` trigger can be added back later (note it
+# only fires from the repository's default branch, which this workflow is now on).
+#
+# One-time setup required before this can run — add two repository secrets:
 #   ANTHROPIC_API_KEY  - a Claude API key from https://console.anthropic.com
 #   RESEND_API_KEY     - a free API key from https://resend.com
-#
-# IMPORTANT: GitHub only fires `schedule` triggers from the repository's default branch.
-# This workflow must be merged to the default branch (not left on a feature branch) for
-# the daily cron to actually run. Use "Run workflow" (workflow_dispatch) to test it first.
 #
 # The github_token input below is passed explicitly (rather than left for
 # claude-code-action to source its own via the Claude GitHub App) to avoid a known bug
 # where that default auth path fails specifically on schedule-triggered runs
-# (anthropics/claude-code-action#814). Passing our own token skips that code path.
+# (anthropics/claude-code-action#814). Kept for whenever a schedule trigger is re-added.
 
 on:
-  schedule:
-    - cron: "17 6 * * *" # ~06:17 UTC daily = ~07:17 UK time in summer (BST), ~06:17 in winter (GMT)
   workflow_dispatch:
 
 permissions:
