@@ -35,7 +35,7 @@ SUMMARY:EAC 2026 - Session 5 (Morning)
 DTSTART;TZID=Europe/London:20260812T103500
 DTEND;TZID=Europe/London:20260812T133000
 LOCATION:Alexander Stadium, Birmingham
-DESCRIPTION:European Athletics Championships 2026 - Session 5 - Wednesday Morning\n10:35 100m Decathlon (M)\n10:40 Discus Throw (M)\n11:05 400m (W)\n11:20 Long Jump Decathlon (M)\n11:40 200m (M)\n12:00 Discus Throw (W)\n12:20 800m (M) - SF\n12:40 Shot Put Heptathlon (W)\n12:55 400m Hurdles (W) - SF
+DESCRIPTION:European Athletics Championships 2026 - Session 5 - Wednesday Morning\n10:35 100m Decathlon (M)\n10:40 Discus Throw (M)\n11:05 400m (W)\n11:20 Long Jump Heptathlon (W)\n11:40 200m (M)\n12:00 Discus Throw (M)\n12:20 800m (M) - SF\n12:40 Shot Put Heptathlon (W)\n12:55 400m Hurdles (W) - SF
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EAC 2026 - Session 6 (Evening)
@@ -63,7 +63,7 @@ SUMMARY:EAC 2026 - Session 9 (Morning)
 DTSTART;TZID=Europe/London:20260814T103500
 DTEND;TZID=Europe/London:20260814T130000
 LOCATION:Alexander Stadium, Birmingham
-DESCRIPTION:European Athletics Championships 2026 - Session 9 - Friday Morning\n10:35 100m Hurdles Heptathlon (W)\n10:40 Javelin Throw (W) - Group A\n10:50 Pole Vault (W)\n11:05 4 x 400m Relay (M)\n11:25 High Jump Heptathlon (W)\n11:35 4 x 400m Relay (W)\n12:00 Javelin Throw (W) - Group B\n12:05 1500m (M)
+DESCRIPTION:European Athletics Championships 2026 - Session 9 - Friday Morning\n10:35 100m Hurdles Heptathlon (M)\n10:40 Javelin Throw (W) - Group A\n10:50 Pole Vault (W)\n11:05 4 x 400m Relay (M)\n11:25 High Jump Heptathlon (W)\n11:35 4 x 400m Relay (W)\n12:00 Javelin Throw (W) - Group B\n12:05 1500m (M)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EAC 2026 - Session 10 (Evening)
