@@ -11,6 +11,8 @@ At-a-glance status for every named employer/scheme across the four tracks. Updat
 | AWE | ✅ Registered for alerts |
 | Dyson Institute | ❌ Not interested — dropped from active consideration |
 | Network Rail | ✅ Registered |
+| ExxonMobil Fawley | Applications go live February 2027 |
+| Rolls Royce | No dates yet |
 
 ## Track 2 — Pilot
 | Employer/scheme | Status |
@@ -30,4 +32,4 @@ At-a-glance status for every named employer/scheme across the four tracks. Updat
 | Career Launch apprenticeship | Not yet actioned (2027 window not yet open) |
 
 ---
-Last updated: 2026-08-09.
+Last updated: 2026-08-10.
