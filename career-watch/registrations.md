@@ -8,7 +8,7 @@ Sites and accounts Fraser should register on now (Phase 1), so alerts start arri
 - [ ] [UCAS](https://www.ucas.com) account created (degree safety-net route, independent of the apprenticeship search)
 - [ ] [Amazing Apprenticeships](https://amazingapprenticeships.com) — vacancy bulletin + weekly alert signup
 - [ ] [RateMyApprenticeship](https://www.ratemyapprenticeship.co.uk) — job alerts by sector/location
-- [ ] [Gradcracker](https://www.gradcracker.com) — STEM alert/newsletter signup
+- [x] [Gradcracker](https://www.gradcracker.com) — STEM alert/newsletter signup — following 90+ employers, alerts active
 - [ ] [Higherin](https://www.higherin.com) — apprenticeship alerts by sector
 - [ ] [Indeed](https://www.indeed.co.uk) — for the general/retail search track
 

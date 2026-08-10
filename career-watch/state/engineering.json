@@ -11,6 +11,7 @@
     "date_confidence": "approximate - re-verify closer to October 2026",
     "link": "https://www.airbus.com/en/careers/students-and-graduates/apprentices/apprenticeships-in-the-united-kingdom",
     "first_seen": "2026-08-09",
+    "gradcracker_alert": true,
     "notes": "Craft/Technician needs 5 GCSEs grade 4/C+ incl. Maths, English, Science; Degree apprenticeships also need A-levels/BTEC."
   },
   {
@@ -25,6 +26,7 @@
     "date_confidence": "confirmed directly from BAE's own site (Adam checked 2026-08-09): applications open January 2027. No alert/notify option available on their site, so this needs manual re-checking rather than relying on an alert.",
     "link": "https://www.baesystems.com/en/careers/careers-in-the-uk/apprenticeships/degree",
     "first_seen": "2026-08-09",
+    "gradcracker_alert": true,
     "notes": "Supersedes the earlier ~Nov 2026 estimate, which was extrapolated from the prior cycle."
   },
   {
@@ -53,6 +55,7 @@
     "date_confidence": "no 2027 date found",
     "link": "https://www.awe.co.uk/engineer/",
     "first_seen": "2026-08-09",
+    "gradcracker_alert": true,
     "notes": "Requires 18+ by a set date and British citizenship for security clearance - eligibility gate to double check, not universal."
   },
   {
@@ -81,6 +84,7 @@
     "date_confidence": "confirmed by Adam 2026-08-10: applications go live February 2027",
     "link": "https://www.exxonmobil.co.uk/en/careers",
     "first_seen": "2026-08-10",
+    "gradcracker_alert": true,
     "notes": "Fawley is one of the UK's largest refineries — proximity to Southampton makes this a strong local option. Re-check the careers site from January 2027 as no alert option confirmed."
   },
   {
@@ -95,6 +99,7 @@
     "date_confidence": "no dates found as of 2026-08-10 - check periodically",
     "link": "https://www.rolls-royce.com/careers/early-careers.aspx",
     "first_seen": "2026-08-10",
+    "gradcracker_alert": true,
     "notes": null
   },
   {
@@ -109,6 +114,7 @@
     "date_confidence": "2026 round already closed; register interest for 2027",
     "link": "https://www.earlycareers.networkrail.co.uk/programme/apprenticeships/",
     "first_seen": "2026-08-09",
+    "gradcracker_alert": true,
     "notes": null
   }
 ]
