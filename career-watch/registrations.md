@@ -3,9 +3,9 @@
 Sites and accounts Fraser should register on now (Phase 1), so alerts start arriving automatically instead of relying on manual checking. Tick a box only once it's genuinely done — the daily digest reads this file to report status, so an inaccurate tick just produces a misleading digest.
 
 ## General / all-track
-- [ ] GOV.UK One Login created at [findapprenticeship.service.gov.uk](https://www.findapprenticeship.service.gov.uk)
+- [ ] GOV.UK One Login created — then browse at [apprenticeships.gov.uk](https://www.apprenticeships.gov.uk/apprentices/browse-apprenticeships)
 - [ ] Saved search set up on GOV.UK Find an Apprenticeship: Southampton, 15-mile radius, all sectors, email alerts on
-- [ ] [UCAS](https://www.ucas.com) account created (degree safety-net route, independent of the apprenticeship search)
+- [ ] [UCAS Apprenticeships](https://www.ucas.com/apprenticeships) account created — UCAS's dedicated apprenticeship search, good for degree-level roles
 - [ ] [Amazing Apprenticeships](https://amazingapprenticeships.com) — vacancy bulletin + weekly alert signup
 - [ ] [RateMyApprenticeship](https://www.ratemyapprenticeship.co.uk) — job alerts by sector/location
 - [x] [Gradcracker](https://www.gradcracker.com) — STEM alert/newsletter signup — following 90+ employers, alerts active

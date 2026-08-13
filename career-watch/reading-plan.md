@@ -6,6 +6,11 @@ Four tracks: **Engineering apprenticeships**, **Pilot**, **British American Toba
 
 Most September-2027-start application windows genuinely aren't open yet. The job right now is reading enough to know what each path actually involves day to day, and registering everywhere so alerts start arriving with zero deadline pressure — not applying yet.
 
+### Useful search sites
+- [**apprenticeships.gov.uk**](https://www.apprenticeships.gov.uk/apprentices/browse-apprenticeships) — official UK government apprenticeship browser (same underlying data as GOV.UK Find an Apprenticeship, slightly different interface — worth bookmarking alongside the saved-search alert)
+- [**UCAS Apprenticeships**](https://www.ucas.com/apprenticeships) — UCAS's dedicated apprenticeship search, good for degree-level and higher apprenticeships that can be harder to surface on the government tool
+- **BBC article — to read:** [https://www.bbc.co.uk/news/articles/c51xenx7pvqo](https://www.bbc.co.uk/news/articles/c51xenx7pvqo) — added 2026-08-13, content TBC (update this line once read)
+
 ### Reading list (do this before narrowing down)
 - **Engineering apprenticeships:** [Prospects.ac.uk — engineering apprenticeship routes](https://www.prospects.ac.uk), Airbus's own ["What are my options?" degree apprenticeship guide](https://www.airbus.com/sites/g/files/jlcbta136/files/2024-01/degree_level_apprenticeships_entry_requirements.pdf), Dyson Institute's [programme overview](https://www.dysoninstitute.ac.uk/undergraduate/the-programme/).
 - **Pilot:** [Prospects.ac.uk — how to become a pilot in the UK](https://www.prospects.ac.uk/jobs-and-work-experience/job-sectors/transport-and-logistics/how-to-become-a-pilot-in-the-uk/), [Leading Edge Aviation — from A-levels to the flightdeck](https://leadingedgeaviation.com/blog/from-a-levels-to-pilot-training/), the "First Officer Pilot" apprenticeship standard itself on [Skills England](https://skillsengland.education.gov.uk/apprenticeship-standards/st0523-v1-0) — read what it actually requires (frozen ATPL/MPL, Class 1 medical, age 18/21 depending on route) before assuming it's the easy way in.
