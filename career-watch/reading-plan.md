@@ -9,7 +9,7 @@ Most September-2027-start application windows genuinely aren't open yet. The job
 ### Useful search sites
 - [**apprenticeships.gov.uk**](https://www.apprenticeships.gov.uk/apprentices/browse-apprenticeships) — official UK government apprenticeship browser (same underlying data as GOV.UK Find an Apprenticeship, slightly different interface — worth bookmarking alongside the saved-search alert)
 - [**UCAS Apprenticeships**](https://www.ucas.com/apprenticeships) — UCAS's dedicated apprenticeship search, good for degree-level and higher apprenticeships that can be harder to surface on the government tool
-- **BBC article — to read:** [https://www.bbc.co.uk/news/articles/c51xenx7pvqo](https://www.bbc.co.uk/news/articles/c51xenx7pvqo) — added 2026-08-13, content TBC (update this line once read)
+- [**BBC — What are the different levels of apprenticeship?**](https://www.bbc.co.uk/news/articles/c51xenx7pvqo) — good short explainer: Level 2 (GCSE standard) through Degree Level 6/7 (bachelor's/master's); notes rise in higher apprenticeships; links to official search tools and mentions RateMyApprenticeship as a review site. Worth Fraser reading once to understand the framework before diving into specific roles.
 
 ### Reading list (do this before narrowing down)
 - **Engineering apprenticeships:** [Prospects.ac.uk — engineering apprenticeship routes](https://www.prospects.ac.uk), Airbus's own ["What are my options?" degree apprenticeship guide](https://www.airbus.com/sites/g/files/jlcbta136/files/2024-01/degree_level_apprenticeships_entry_requirements.pdf), Dyson Institute's [programme overview](https://www.dysoninstitute.ac.uk/undergraduate/the-programme/).
