@@ -6,7 +6,10 @@ Four tracks: **Engineering apprenticeships**, **Pilot**, **British American Toba
 
 Most September-2027-start application windows genuinely aren't open yet. The job right now is reading enough to know what each path actually involves day to day, and registering everywhere so alerts start arriving with zero deadline pressure — not applying yet.
 
-### Useful search sites
+### Useful search sites — check when application windows open (Phase 2/3)
+- [**Destination Nuclear Careers Portal — apprenticeships**](https://destinationnuclearcareersportal.co.uk/jobs?opportunity_type=apprenticeship_graduate) — nuclear-sector-specific job board; directly relevant given AWE, Sellafield, UKAEA, NDA Group, and Sizewell C are all in the GradCracker follow list. Check this when Phase 2 opens (autumn 2026) as nuclear roles often don't surface on the general GOV.UK sweep.
+
+
 - [**apprenticeships.gov.uk**](https://www.apprenticeships.gov.uk/apprentices/browse-apprenticeships) — official UK government apprenticeship browser (same underlying data as GOV.UK Find an Apprenticeship, slightly different interface — worth bookmarking alongside the saved-search alert)
 - [**UCAS Apprenticeships**](https://www.ucas.com/apprenticeships) — UCAS's dedicated apprenticeship search, good for degree-level and higher apprenticeships that can be harder to surface on the government tool
 - [**BBC — What are the different levels of apprenticeship?**](https://www.bbc.co.uk/news/articles/c51xenx7pvqo) — good short explainer: Level 2 (GCSE standard) through Degree Level 6/7 (bachelor's/master's); notes rise in higher apprenticeships; links to official search tools and mentions RateMyApprenticeship as a review site. Worth Fraser reading once to understand the framework before diving into specific roles.

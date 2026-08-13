@@ -12,6 +12,9 @@ Sites and accounts Fraser should register on now (Phase 1), so alerts start arri
 - [ ] [Higherin](https://www.higherin.com) — apprenticeship alerts by sector
 - [ ] [Indeed](https://www.indeed.co.uk) — for the general/retail search track
 
+## Sector-specific portals — check when Phase 2 opens (autumn 2026)
+- [ ] [Destination Nuclear Careers Portal](https://destinationnuclearcareersportal.co.uk/jobs?opportunity_type=apprenticeship_graduate) — nuclear apprenticeships and graduate schemes; covers AWE, Sellafield, UKAEA, NDA Group, Sizewell C and more in one place
+
 ## Track 1 — Engineering apprenticeships (named employer talent pools)
 - [x] [Airbus careers](https://www.airbus.com/en/careers) — register interest / job alert
 - [ ] [BAE Systems careers](https://www.baesystems.com/en/careers) — no alert option available; site states applications open January 2027
