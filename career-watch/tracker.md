@@ -5,12 +5,45 @@ At-a-glance status for every named employer/scheme across the four tracks. Updat
 ## Track 1 — Engineering apprenticeships
 | Employer | Status |
 |---|---|
-| Airbus | ✅ Subscribed to alerts |
-| BAE Systems | No alert option available on their site. Site states applications open **January 2027**. |
+| Airbus | ✅ Subscribed to alerts · also following on GradCracker |
+| BAE Systems | No alert option available on their site. Site states applications open **January 2027**. Also following on GradCracker. |
 | QinetiQ | No alerts or information found on their site — keep checking periodically. |
-| AWE | ✅ Registered for alerts |
+| AWE | ✅ Registered for alerts · also following on GradCracker |
 | Dyson Institute | ❌ Not interested — dropped from active consideration |
-| Network Rail | ✅ Registered |
+| Network Rail | ✅ Registered · also following on GradCracker |
+| ExxonMobil Fawley | Applications go live February 2027 · also following on GradCracker |
+| Rolls-Royce | No dates yet · also following on GradCracker |
+
+### GradCracker — followed employers (alerts active)
+
+Fraser is following the companies below on [GradCracker](https://www.gradcracker.com). Alerts will land automatically whenever any of them post relevant early-careers opportunities; no further action needed unless a specific opening is worth pursuing.
+
+| Company | Company | Company | Company |
+|---|---|---|---|
+| 3M | ABB Ltd | AECOM | Airbus |
+| Amazon | Amentum | Arup | AtkinsRéalis |
+| Aureos | AWE | Babcock International Group | BAE Systems |
+| Balfour Beatty | Binnies | BIP.Verco | BMT |
+| Bouygues UK | bp | British Airways | British American Tobacco |
+| Capgemini Engineering | Caterpillar UK Ltd | Cisco | Colas Rail |
+| Costain Group | Cummins | DNV | Dstl |
+| Eaton Industries | EDF | Edwards | ExxonMobil |
+| Farrans Construction | Frazer-Nash Consultancy | Galliford Try | GE Aerospace |
+| GE Vernova | GSK | Haskoning | Hoare Lea |
+| Honeywell Aerospace | INEOS | JLR | Johnson Matthey |
+| KBR | Kier Group | Laing O'Rourke | Leonardo |
+| Mace Construct | Martin-Baker | MBDA UK | McLaren Automotive |
+| Medical Research Council | MI5 / MI6 / GCHQ | Midsummer Energy Ltd | Morgan Advanced Materials |
+| Mott MacDonald | MWH Treatment | National Gas | National Grid |
+| National Highways | NATS | NESO | Network Rail |
+| NSG Environmental | Nuclear Decommissioning Authority | Nuclear Graduates | OCU Group |
+| Perenco | Procter & Gamble | RINA Consulting | Roke |
+| Rolls-Royce | Royal Air Force | RWE | ScottishPower |
+| Seaway7 | Sellafield Ltd | Severn Trent | Shell |
+| Siemens | Sizewell C | Southern Water | SSE |
+| Stantec | Tarmac | Tesco | Thales |
+| Thames Water | Thornton Tomasetti | UK Atomic Energy Authority | UK National Nuclear Laboratory |
+| Unilever | United Utilities | Veolia UK | |
 
 ## Track 2 — Pilot
 | Employer/scheme | Status |
@@ -30,4 +63,4 @@ At-a-glance status for every named employer/scheme across the four tracks. Updat
 | Career Launch apprenticeship | Not yet actioned (2027 window not yet open) |
 
 ---
-Last updated: 2026-08-09.
+Last updated: 2026-08-10. GradCracker alerts section added.
