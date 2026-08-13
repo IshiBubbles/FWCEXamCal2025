@@ -13,6 +13,10 @@ At-a-glance status for every named employer/scheme across the four tracks. Updat
 | Network Rail | ✅ Registered · also following on GradCracker |
 | ExxonMobil Fawley | Applications go live February 2027 · also following on GradCracker |
 | Rolls-Royce | No dates yet · also following on GradCracker |
+| GKN Aerospace | No dates yet — direct link logged: joinus.gknaerospace.com |
+| British Army | Open now — technical apprenticeships (Ammunition Technician, Intelligence Analyst, Network Engineer, Data Analyst), Level 4, £26,334, ongoing applications |
+| Dalkia Energy Services (EDF Group) | Open now for Sept 2026 starts — monitor for 2027 cycle. Energy services, part of EDF Group. |
+| Pell Frischmann Consultants | Open now for Sept 2026 — monitor for 2027. Electrical & Electronic Engineering L6 and Civil Engineering L4. |
 
 ### GradCracker — followed employers (alerts active)
 
@@ -62,5 +66,12 @@ Fraser is following the companies below on [GradCracker](https://www.gradcracker
 |---|---|
 | Career Launch apprenticeship | Not yet actioned (2027 window not yet open) |
 
+### Direct employer portal links (use when applying, supplement to GradCracker alerts)
+| Employer | Direct careers link |
+|---|---|
+| GKN Aerospace | https://joinus.gknaerospace.com |
+| National Grid | https://jobs.nationalgrid.com/uk/early-careers/apprenticeships |
+| AtkinsRéalis | https://careers.atkinsrealis.com/en |
+
 ---
-Last updated: 2026-08-10. GradCracker alerts section added.
+Last updated: 2026-08-13. Added British Army, Dalkia/EDF, Pell Frischmann, GKN Aerospace; direct portal links section; Amazing Apprenticeships resources.

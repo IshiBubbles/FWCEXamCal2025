@@ -116,5 +116,61 @@
     "first_seen": "2026-08-09",
     "gradcracker_alert": true,
     "notes": null
+  },
+  {
+    "employer": "GKN Aerospace",
+    "role": "Engineering apprenticeships (various)",
+    "level": "Advanced / Degree",
+    "location": "Various UK sites",
+    "cycle": "September 2027",
+    "status": "date_not_yet_confirmed",
+    "opens": null,
+    "closes": null,
+    "date_confidence": "no dates found as of 2026-08-13 - check periodically",
+    "link": "https://joinus.gknaerospace.com",
+    "first_seen": "2026-08-13",
+    "notes": "Aerospace manufacturer - aerostructures, engine systems, landing gear. Direct portal logged."
+  },
+  {
+    "employer": "British Army",
+    "role": "Technical apprenticeships (Ammunition Technician, Intelligence Analyst, Network Engineer, Data Analyst)",
+    "level": "Level 4",
+    "location": "National",
+    "cycle": "Rolling",
+    "status": "ongoing_scheme",
+    "opens": null,
+    "closes": null,
+    "date_confidence": "open now, ongoing applications - no annual cycle",
+    "link": "https://www.army.mod.uk/careers/",
+    "first_seen": "2026-08-13",
+    "notes": "Appeared in Amazing Apprenticeships April 2026 listing. £26,334 starting salary. Ammunition Technician in particular is highly technical (EOD/weapons systems) and relevant to Fraser's defence interest. Apply via amapps.uk/apr26army5 (Ammo Tech), apr26army1 (Intel), apr26army4 (Network Eng), apr26army2 (Data Analyst)."
+  },
+  {
+    "employer": "Dalkia Energy Services (EDF Group)",
+    "role": "Construction Manager / Quantity Surveyor (degree apprenticeship)",
+    "level": "Level 6",
+    "location": "London",
+    "cycle": "September 2027",
+    "status": "prior_cycle_closed_next_tbc",
+    "opens": null,
+    "closes": null,
+    "date_confidence": "2026 cycle open now (closes May 2026) - 2027 cycle TBC, monitor from autumn 2026",
+    "link": "https://www.dalkia.co.uk/careers/",
+    "first_seen": "2026-08-13",
+    "notes": "Part of EDF Group. Energy services focus - relevant given Fraser's interest in energy sector. London-based."
+  },
+  {
+    "employer": "Pell Frischmann Consultants",
+    "role": "Electrical & Electronic Engineering L6 / Civil Engineering Senior Technician L4",
+    "level": "Level 4 / Level 6",
+    "location": "Croydon / London",
+    "cycle": "September 2027",
+    "status": "prior_cycle_closed_next_tbc",
+    "opens": null,
+    "closes": null,
+    "date_confidence": "2026 cycle open (closes June 2026) - 2027 cycle TBC",
+    "link": "https://www.pellfrischmann.com/careers/",
+    "first_seen": "2026-08-13",
+    "notes": "Engineering consultancy. Appeared twice in Amazing Apprenticeships April 2026 listing. Strong defence/infrastructure portfolio."
   }
 ]

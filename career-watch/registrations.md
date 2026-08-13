@@ -17,6 +17,10 @@ Sites and accounts Fraser should register on now (Phase 1), so alerts start arri
 
 ## Track 1 — Engineering apprenticeships (named employer talent pools)
 - [x] [Airbus careers](https://www.airbus.com/en/careers) — register interest / job alert
+- [ ] [GKN Aerospace](https://joinus.gknaerospace.com) — check for 2027 cycle
+- [ ] [AtkinsRéalis](https://careers.atkinsrealis.com/en) — also following on GradCracker; direct portal for applying
+- [ ] [National Grid early careers](https://jobs.nationalgrid.com/uk/early-careers/apprenticeships) — also following on GradCracker; direct portal confirmed
+- [ ] [British Army apprenticeships](https://www.army.mod.uk/careers/) — technical roles (Ammunition Technician, Intelligence Analyst, Network Engineer) open now, ongoing
 - [ ] [BAE Systems careers](https://www.baesystems.com/en/careers) — no alert option available; site states applications open January 2027
 - [ ] [QinetiQ careers](https://www.qinetiq.com/en/careers) — no alerts or information found on their site
 - [x] [AWE careers](https://www.awe.co.uk/careers) — register interest / job alert
