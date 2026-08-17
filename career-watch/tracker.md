@@ -57,17 +57,21 @@ Two structural risks worth understanding now:
 
 ## ⭐ Fraser's shortlisted roles — live opportunities of interest
 
-Fraser has identified the following specific roles worth pursuing. All are live "Register Your Interest" listings currently accepting expressions of interest:
+Fraser has identified five specific roles worth pursuing, all with a civil/infrastructure and sustainability theme.
+
+> 🔴 **Tetra Tech is a genuine live application, not a register-interest placeholder — this one needs a real application submitted, not just a form.** Treat it with the same urgency as the other confirmed autumn openings above. Confirm the closing date directly on the page before assuming there's time.
 
 | Employer | Role | Location | Link | Status |
 |---|---|---|---|---|
-| **Tetra Tech** | Degree Apprentice — Civil Engineer, Renewable Energy Infrastructure | UK-wide | [GradCracker](https://www.gradcracker.com/hub/1108/tetra-tech/degree-apprenticeship/81851/degree-apprentice-civil-engineer-renewable-energy-infrastructure) | 🟢 **Live now** |
-| **Transport for London** | Register Your Interest — Degree Apprenticeships 2027 | London | [Higherin](https://higherin.com/jobs/43598/transport-for-london/register-your-interest-degree-apprenticeships-2027) | 🟢 **Live now** |
-| **Arcadis** | Register Your Interest — Civil Engineer Degree Apprenticeship 2027 | UK-wide | [Higherin](https://higherin.com/jobs/43391/arcadis/register-your-interest-civil-engineer-degree-apprenticeship-2027) | 🟢 **Live now** |
-| **EDF Energy** | Register Your Interest — Degree Apprenticeship Programmes 2027 | Multiple (Hinkley, Sizewell) | [Higherin](https://higherin.com/jobs/42891/edf-energy/register-your-interest-degree-apprenticeship-programmes-2027) | 🟢 **Live now** |
-| **Network Rail** | Register Your Interest — Degree Apprenticeships 2027 | UK-wide | [Higherin](https://higherin.com/jobs/43329/network-rail/register-your-interest-degree-apprenticeships-2027) | 🟢 **Live now** |
+| **Tetra Tech** | Degree Apprentice — Civil Engineer, Renewable Energy Infrastructure | UK-wide | [GradCracker](https://www.gradcracker.com/hub/1108/tetra-tech/degree-apprenticeship/81851/degree-apprentice-civil-engineer-renewable-energy-infrastructure) | 🔴 **LIVE APPLICATION — apply now, not just register interest** |
+| **Transport for London** | Register Your Interest — Degree Apprenticeships 2027 | London | [Higherin](https://higherin.com/jobs/43598/transport-for-london/register-your-interest-degree-apprenticeships-2027) | 🟢 Register-interest form live |
+| **Arcadis** | Register Your Interest — Civil Engineer Degree Apprenticeship 2027 | UK-wide | [Higherin](https://higherin.com/jobs/43391/arcadis/register-your-interest-civil-engineer-degree-apprenticeship-2027) | 🟢 Register-interest form live |
+| **EDF Energy** | Register Your Interest — Degree Apprenticeship Programmes 2027 | Multiple (Hinkley, Sizewell) | [Higherin](https://higherin.com/jobs/42891/edf-energy/register-your-interest-degree-apprenticeship-programmes-2027) | 🟢 Register-interest form live |
+| **Network Rail** | Register Your Interest — Degree Apprenticeships 2027 | UK-wide | [Higherin](https://higherin.com/jobs/43329/network-rail/register-your-interest-degree-apprenticeships-2027) | 🟢 Register-interest form live |
 
-**Action:** Click through to each, register interest, and note the closure date if shown. These listings may be available for limited time or until capacity is reached.
+**Action — Tetra Tech first:** this is a real vacancy with a real deadline. Check the closing date on the page today and get the application moving — CV, personal statement, whatever it asks for. The other four are lower-urgency register-interest forms; do them this week but they don't have the same clock running.
+
+**Read on this pattern:** all five lean civil/infrastructure/sustainability rather than defence — worth noting since the tracker's broader Track 1 list skews heavily toward aerospace/defence. If this reflects genuine preference, it may be worth sourcing more employers in this specific niche (civil engineering + renewables/rail) rather than spreading effort across the full 93-employer GradCracker list.
 
 ---
 

@@ -44,8 +44,8 @@ Sites and accounts Fraser should register on, ordered by value. Tick a box only 
 
 ## 🌟 Fraser's shortlisted roles — register interest NOW
 
-- [ ] [Tetra Tech — Degree Apprentice Civil Engineer (Renewable Energy Infrastructure)](https://www.gradcracker.com/hub/1108/tetra-tech/degree-apprenticeship/81851/degree-apprentice-civil-engineer-renewable-energy-infrastructure)
-  *Live now on GradCracker. Click through and register interest if eligible.*
+- [ ] 🔴 **[Tetra Tech — Degree Apprentice Civil Engineer (Renewable Energy Infrastructure)](https://www.gradcracker.com/hub/1108/tetra-tech/degree-apprenticeship/81851/degree-apprentice-civil-engineer-renewable-energy-infrastructure)**
+  ⚠️ **This is a live, genuine application — not a register-interest form.** Check the closing date on the page immediately and submit a full application (CV, personal statement, etc). Highest urgency item in this list.
 - [ ] [Transport for London — Register Your Interest Degree Apprenticeships 2027](https://higherin.com/jobs/43598/transport-for-london/register-your-interest-degree-apprenticeships-2027)
   *Live now on Higherin. Register interest form.*
 - [ ] [Arcadis — Register Your Interest Civil Engineer Degree Apprenticeship 2027](https://higherin.com/jobs/43391/arcadis/register-your-interest-civil-engineer-degree-apprenticeship-2027)
