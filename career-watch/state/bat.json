@@ -1,30 +1,58 @@
 [
   {
     "employer": "British American Tobacco",
-    "role": "Packaging Innovation - 12-month undergraduate placement (materials science / packaging technology / product design)",
+    "role": "Undergraduate Intern / 12-month placement roles - Packaging Innovation, Packaging Future Materials & Sustainability, Applied Product Science, Modern Oral Future Platforms",
     "level": "Undergraduate placement (NOT a school-leaver apprenticeship)",
     "location": "Southampton (R&D centre)",
-    "cycle": "starts 1 Sept 2026",
+    "cycle": "12-month placements starting 1 Sept 2026",
     "status": "not_a_school_leaver_route",
     "opens": null,
     "closes": null,
-    "date_confidence": "confirmed as a placement programme, requires current university enrolment",
+    "date_confidence": "CONFIRMED 2026-08-17: these are explicitly titled 'Undergraduate Intern' / 'Placement' on BAT's own careers site and require current university enrolment. Multiple such roles exist at Southampton.",
     "link": "https://careers.bat.com/en/early-careers",
     "first_seen": "2026-08-09",
-    "notes": "Flagging clearly: this is the concrete opportunity found at BAT's Southampton site, but it needs Fraser to already be at university - it is not an apprenticeship. Do not present this as a school-leaver apprenticeship opening."
+    "notes": "DO NOT present these as apprenticeships. Requires Fraser to already be at university. Target degrees for the Packaging placement: materials science, packaging technology, design engineering, product design. Structure includes a mentor, line manager reviews, real business projects, and a dedicated Placement Team running onboarding, presentation skills, critical thinking and scientific poster sessions. Genuinely attractive - but only reachable via the university route, i.e. relevant in 2029-2030, not Sept 2027."
   },
   {
     "employer": "British American Tobacco",
-    "role": "General early careers hub (apprenticeships, placements, grad schemes - mixed)",
+    "role": "School-leaver apprenticeship (UK)",
+    "level": "n/a",
+    "location": "UK",
+    "cycle": null,
+    "status": "no_school_leaver_apprenticeship_found",
+    "opens": null,
+    "closes": null,
+    "date_confidence": "CONFIRMED NEGATIVE as far as available evidence allows (2026-08-17): no live UK school-leaver apprenticeship found at BAT. BAT's careers site presents early careers as internships, 12-month undergraduate placements and the Global Graduate Programme. The word 'apprenticeship' appears as a job-level filter on their search page and on third-party profiles, but no current UK apprenticeship vacancy was located.",
+    "link": "https://careers.bat.com/en/search-jobs?acm=ALL&alrpm=ALL&ascf=%5B%7B%22key%22:%22job_level%22,%22value%22:%22Internship%22%7D,%7B%22key%22:%22job_level%22,%22value%22:%22Apprenticeship%22%7D%5D",
+    "first_seen": "2026-08-17",
+    "notes": "BOTTOM LINE FOR FRASER: BAT is NOT currently a viable Sept 2027 school-leaver destination. Historical precedent exists - a Mechatronics Apprenticeship in Hampshire closed May 2024 - so BAT has run apprenticeships before and could again, which justifies keeping the watch active. But nothing to apply for and nothing announced. Do not let this track displace effort on the pilot cadet schemes or the engineering/Dstl apprenticeships."
+  },
+  {
+    "employer": "British American Tobacco",
+    "role": "Global Graduate Programme",
+    "level": "Graduate (completed degree required)",
+    "location": "UK / global",
+    "cycle": null,
+    "status": "not_a_school_leaver_route",
+    "opens": null,
+    "closes": null,
+    "date_confidence": "CONFIRMED: requires a completed degree. Interns have a chance of converting onto this programme.",
+    "link": "https://careers.bat.com/en/early-careers",
+    "first_seen": "2026-08-17",
+    "notes": "Logged only to keep the three BAT tiers cleanly separated: (a) apprenticeship = none found, (b) undergraduate placement = exists at Southampton but needs university enrolment, (c) graduate scheme = needs a finished degree."
+  },
+  {
+    "employer": "British American Tobacco",
+    "role": "General early careers hub (monitoring target)",
     "level": "Mixed",
     "location": "Various UK sites",
     "cycle": null,
     "status": "watch_hub",
     "opens": null,
     "closes": null,
-    "date_confidence": "no confirmed school-leaver apprenticeship at a UK site as of 2026-08-09; a past Mechatronics Apprenticeship listing (Hampshire, closed May 2024) shows BAT has run this type of role before",
+    "date_confidence": "n/a - monitoring entry",
     "link": "https://careers.bat.com/en/search-jobs",
     "first_seen": "2026-08-09",
-    "notes": "Check this hub directly each run; also monitor Gradcracker/Higherin/RateMyApprenticeship BAT profiles for anything genuinely apprenticeship-labelled."
+    "notes": "Check the BAT jobs hub each run with the Apprenticeship job-level filter applied. Also monitor Gradcracker, Higherin and RateMyApprenticeship BAT profiles for anything genuinely apprenticeship-labelled. Note the regulatory backdrop - the Tobacco and Vapes Act 2026 - which may affect BAT's UK hiring appetite."
   }
 ]

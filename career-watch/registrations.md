@@ -1,44 +1,88 @@
 # Registration Checklist
 
-Sites and accounts Fraser should register on now (Phase 1), so alerts start arriving automatically instead of relying on manual checking. Tick a box only once it's genuinely done — the daily digest reads this file to report status, so an inaccurate tick just produces a misleading digest.
+Sites and accounts Fraser should register on, ordered by value. Tick a box only once it's genuinely done — the digest reads this file, so an inaccurate tick just produces a misleading digest.
 
-## General / all-track
-- [ ] GOV.UK One Login created — then browse at [apprenticeships.gov.uk](https://www.apprenticeships.gov.uk/apprentices/browse-apprenticeships)
-- [ ] Saved search set up on GOV.UK Find an Apprenticeship: Southampton, 15-mile radius, all sectors, email alerts on
-- [ ] [UCAS Apprenticeships](https://www.ucas.com/apprenticeships) account created — UCAS's dedicated apprenticeship search, good for degree-level roles
-- [ ] [Amazing Apprenticeships](https://amazingapprenticeships.com) — vacancy bulletin + weekly alert signup
-- [ ] [RateMyApprenticeship](https://www.ratemyapprenticeship.co.uk) — job alerts by sector/location
-- [x] [Gradcracker](https://www.gradcracker.com) — STEM alert/newsletter signup — following 90+ employers, alerts active
-- [ ] [Higherin](https://www.higherin.com) — apprenticeship alerts by sector
-- [ ] [Indeed](https://www.indeed.co.uk) — for the general/retail search track
-
-## Sector-specific portals — check when Phase 2 opens (autumn 2026)
-- [ ] [Destination Nuclear Careers Portal](https://destinationnuclearcareersportal.co.uk/jobs?opportunity_type=apprenticeship_graduate) — nuclear apprenticeships and graduate schemes; covers AWE, Sellafield, UKAEA, NDA Group, Sizewell C and more in one place
-
-## Track 1 — Engineering apprenticeships (named employer talent pools)
-- [x] [Airbus careers](https://www.airbus.com/en/careers) — register interest / job alert
-- [ ] [GKN Aerospace](https://joinus.gknaerospace.com) — check for 2027 cycle
-- [ ] [AtkinsRéalis](https://careers.atkinsrealis.com/en) — also following on GradCracker; direct portal for applying
-- [ ] [National Grid early careers](https://jobs.nationalgrid.com/uk/early-careers/apprenticeships) — also following on GradCracker; direct portal confirmed
-- [ ] [British Army apprenticeships](https://www.army.mod.uk/careers/) — technical roles (Ammunition Technician, Intelligence Analyst, Network Engineer) open now, ongoing
-- [ ] [BAE Systems careers](https://www.baesystems.com/en/careers) — no alert option available; site states applications open January 2027
-- [ ] [QinetiQ careers](https://www.qinetiq.com/en/careers) — no alerts or information found on their site
-- [x] [AWE careers](https://www.awe.co.uk/careers) — register interest / job alert
-- [ ] ~~[Dyson Institute](https://www.dysoninstitute.ac.uk)~~ — not interested, dropped
-- [x] [Network Rail early careers](https://www.earlycareers.networkrail.co.uk) — register interest for 2027 round
-
-## Track 2 — Pilot
-- [x] [British Airways future pilots](https://careers.ba.com/future-pilots) — signed up, 75% through the practice test
-- [ ] [British Airways apprentices](https://careers.ba.com/apprentices) — BA's separate engineering apprenticeships
-- [ ] Jet2FlightPath — check jet2.com careers for registration/interest options
-- [ ] TUI cadet pilot scheme — check tui careers for registration/interest options
-
-## Track 3 — British American Tobacco
-- [ ] [BAT early careers](https://careers.bat.com/en/early-careers) — job alert signup
-- [ ] BAT profile follow on [Gradcracker](https://www.gradcracker.com/hub/779/british-american-tobacco), [Higherin](https://higherin.com/company-profile/28/bat), and [RateMyApprenticeship](https://www.ratemyapprenticeship.co.uk/company-profile/482/british-american-tobacco/jobs)
-
-## Track 4 — Civil Service
-- [ ] [Civil Service Careers](https://www.civil-service-careers.gov.uk/apprenticeships/career-launch) — check back for the 2027 Career Launch window and register interest if/when a notify option appears
+**Full refresh 17 August 2026.** With Phase 2 opening in weeks, everything in the "do first" block below is worth doing this month.
 
 ---
-Last updated: seeded 2026-08-09 from the first full research run. The daily watch reports on this file's checkbox state but does not tick boxes itself — only Fraser/Adam should update this file to reflect what's actually been done.
+
+## 🚨 Do first — highest value, all free, no application window needed
+
+- [ ] **SETA — register interest for September 2027** → [setatraining.co.uk/apprenticeships/current_vacancies.html](https://www.setatraining.co.uk/apprenticeships/current_vacancies.html)
+  *The single highest-value action available today. Local group training association at Millbrook, inside Southampton — one form puts him in front of multiple Solent engineering employers. Their September 2027 form is live now.*
+- [ ] **Higherin account** → [higherin.com](https://higherin.com)
+  *Biggest gap in the setup. Only place aggregating the live "Register Your Interest 2027" listings, plus 48,000+ apprentice reviews for choosing schemes and interview prep. Note: absorbed RateMyApprenticeship in Aug 2025 — same company, so this replaces that entry rather than adding to it.*
+- [ ] **UCAS Smart Alerts** → [ucas.com/apprenticeships/subscribe-alerts](https://www.ucas.com/apprenticeships/subscribe-alerts)
+  *Best filtering of any board. Set interest + location + travel radius.*
+- [ ] **Amazing Apprenticeships "Vacancy Snapshot"** → [amapps.uk/vacancies](https://amapps.uk/vacancies)
+  *This is how the October bumper Higher & Degree Listing arrives automatically.*
+- [ ] **GOV.UK Find an Apprenticeship — account + saved search** → [findapprenticeship.service.gov.uk](https://www.findapprenticeship.service.gov.uk)
+  *Southampton, 25-mile radius, all sectors, email alerts on.*
+- [ ] **2–3 Springpod virtual work experiences** → [springpod.com](https://www.springpod.com/virtual-work-experience/search)
+  *Free, 6–10 hrs each, certificate that genuinely counts on applications. Do these before the October rush.*
+- [x] **Gradcracker** → [gradcracker.com](https://www.gradcracker.com) — following 93 employers, alerts active
+  *Still worth adding: Babcock International, GKN Aerospace, WSP, L3Harris.*
+
+## Employer talent pools — 2027-specific, live right now
+- [ ] [Babcock International job alerts](https://earlycareers.babcockinternational.com/apply/register-for-job-alerts/) — **opens October 2026**
+- [ ] [MBDA](https://www.mbdacareers.co.uk/early-careers/apprenticeships) — 2027 register-interest live, dates unknown
+- [ ] [EDF Apprenticeship Talent Community](https://careers.edfenergy.com/apprenticeships) — **4-week window only in Jan/Feb, don't miss it**
+- [ ] [AtkinsRéalis Talent Community + Connectr mentoring](https://careers.atkinsrealis.com/uk-early-careers/apprenticeships)
+- [ ] [Sellafield register interest](https://talent.sellafieldsites.com/flows/register-your-interest-in-apprenticeship-opportunities-at-sellafield-ltd) — *Cumbria, relocation*
+- [ ] [UKAEA talent community](https://careers.ukaea.uk/early-careers/apprenticeships/) — earlycareerstalent@ukaea.uk
+- [ ] [National Grid](https://jobs.nationalgrid.com/uk/early-careers/apprenticeships) — 🔴 **opens September 2026.** Talent pool needs a CV upload; a simple one-page CV is fine at this stage
+- [x] [Airbus careers](https://www.airbus.com/en/careers) — registered. 🔴 **Opens October 2026, no closing date — apply week one**
+- [x] [AWE careers](https://www.awe.co.uk/careers) — registered. ⚠️ *18 by 31 Aug 2027 + British citizenship required*
+- [x] [Network Rail early careers](https://www.earlycareers.networkrail.co.uk) — registered for 2027
+- [ ] [GKN Aerospace](https://joinus.gknaerospace.com) — Isle of Wight and Bristol routes
+- [ ] [BAE Systems](https://www.baesystems.com/en/careers) — ⚠️ **no alert option exists**; GradCracker follow is the only alert. Check monthly from November 2026
+- [ ] [BAE Systems Insight Experience](https://www.baesystems.com/en/careers/careers-in-the-uk/apprenticeships/insight-experiences) — **Year 13 eligible, check dates early September**
+- [ ] [QinetiQ portal alerts](https://careers.qinetiq.com) — no info available, but QATS is at Boscombe Down near Salisbury
+- [ ] [L3Harris](https://www.l3harris.com/careers) — 🆕 Portsmouth defence employer
+- [ ] [ExxonMobil Fawley](https://www.exxonmobil-fawley.co.uk/to-apply/) — Feb 2027; watch for [open evenings](https://www.exxonmobil-fawley.co.uk/open-evenings/)
+- [ ] [Arup](https://www.arup.com/careers) — recruited in **Southampton** in 2026 at £27–28k
+
+## Rolling — apply any time, no window
+- [ ] [Royal Navy Accelerated Apprentice](https://www.royalnavy.mod.uk/careers/roles/accelerated-apprentice-scheme-weapon-engineering) — **the A-level route**: join two ranks higher
+- [ ] [British Army](https://www.army.mod.uk/careers) — Ammunition Technician, Intelligence Analyst, Network Engineer
+- [ ] [RAF apprenticeships](https://recruitment.raf.mod.uk/apprenticeships) — 23 roles
+
+## Other boards
+- [ ] [Not Going To Uni](https://notgoingtouni.co.uk/opportunity-type/degree-apprenticeship)
+- [ ] [GetMyFirstJob](https://www.getmyfirstjob.co.uk) — has a talent pool where employers match *you*
+- [ ] [Indeed](https://uk.indeed.com) — two saved searches at 25 miles: "degree apprenticeship engineering" and "engineering apprentice"
+- [ ] [Destination Nuclear Careers Portal](https://destinationnuclearcareersportal.co.uk/jobs?opportunity_type=apprenticeship_graduate)
+- [ ] [Careers in Defence](https://careersindefence.com) · [MOD apprenticeships](https://www.gov.uk/guidance/apprenticeship-opportunities-in-the-ministry-of-defence) · [DE&S](https://des.mod.uk/careers/apprenticeships/)
+- [ ] [Energy & Utilities Careers](https://www.energyutilitiesjobs.co.uk/apprenticeships/) · [APTUS](https://aptus-apprenticeship.uk)
+- ~~RateMyApprenticeship~~ — merged into Higherin (Aug 2025), no separate account needed
+
+## Track 2 — Pilot
+- [x] [British Airways future pilots](https://careers.ba.com/future-pilots) — practice test ~75% done
+  ⚠️ **Important:** the 2026 window closed 23 April 2026. The practice test is on BA's year-round *preparation* page and **carries nothing forward** — a fresh application is required in the next window, inferred ~mid-April 2027.
+- [ ] **Diarise ~mid-April 2027** for the BA Speedbird window
+- [ ] **Diarise early February 2027** for Jet2FlightPath — the 2026 window was only ~2.5 weeks
+- [ ] [British Airways engineering apprenticeships](https://careers.ba.com/apprentices) — **opens Autumn 2026**
+- [ ] [easyJet / CAE](https://www.cae.com/generationeasyjet) — 🟢 open now, but ⚠️ **~€115,000 self-funded**
+- ~~TUI cadet scheme~~ — suspended, no 2026 intake
+- ~~Virgin Future Flyers~~ — paused, under redevelopment
+- ~~ST0523 pilot apprenticeship~~ — **standard retired 1 July 2024, route does not exist**
+
+## Track 3 — British American Tobacco *(deprioritised)*
+- [ ] [BAT early careers](https://careers.bat.com/en/early-careers) — passive watch only
+  *Verified: BAT runs no UK school-leaver apprenticeship. Southampton offers undergraduate placements requiring existing university enrolment. Not a viable Sept 2027 destination.*
+
+## Track 4 — Civil Service
+- [ ] [Dstl](https://www.gradcracker.com/hub/120/dstl/search/degree-apprenticeships) — 🟢 **best fit in this track.** Porton Down ~35mi, recruits February. ⚠️ *dual nationality can disqualify*
+- [ ] [MI5 / MI6 / GCHQ](https://www.gradcracker.com/hub/1345/mi5-mi6-and-gchq/search/degree-apprenticeships) — needs 3 A-levels with 2 in STEM — Fraser qualifies
+- [ ] [MOD / Submarine Delivery Agency](https://des.mod.uk/careers/apprenticeships/)
+- [ ] Met Office (Exeter) and UK Space Agency — **not yet checked**, both strong Physics fits
+- [ ] [Civil Service Career Launch](https://www.civil-service-careers.gov.uk/apprenticeships/career-launch) — ⚠️ **eligibility blocker: requires "not in full-time education", so Fraser cannot apply until he leaves school.** Also only Level 3 Business Administrator and Birmingham/Manchester/London. Fallback, not a target.
+
+---
+
+## ⚠️ Two things to verify about Fraser himself
+- [ ] **Nationality status** — Dstl/MOD/GCHQ need UK nationality with **no dual nationality** + 5 years' residency; AWE needs British citizenship; BAE needs 5–10 years' continuous UK residency for many roles. If dual nationality applies, much of the defence track closes. Better known now than in February 2027.
+- [ ] **Date of birth against age gates** — AWE requires 18 by **31 August 2027**; ExxonMobil Fawley requires 18 at start of employment. Hard gates, not preferences.
+
+---
+Last updated: **17 August 2026** (full refresh). The watch reports on this file's checkbox state but never ticks boxes itself — only Fraser or Adam should do that.
