@@ -8,10 +8,10 @@ Sites and accounts Fraser should register on, ordered by value. Tick a box only 
 
 ## 🚨 Do first — highest value, all free, no application window needed
 
-- [ ] **SETA — register interest for September 2027** → [setatraining.co.uk/apprenticeships/current_vacancies.html](https://www.setatraining.co.uk/apprenticeships/current_vacancies.html)
-  *The single highest-value action available today. Local group training association at Millbrook, inside Southampton — one form puts him in front of multiple Solent engineering employers. Their September 2027 form is live now.*
 - [ ] **Higherin account** → [higherin.com](https://higherin.com)
   *Biggest gap in the setup. Only place aggregating the live "Register Your Interest 2027" listings, plus 48,000+ apprentice reviews for choosing schemes and interview prep. Note: absorbed RateMyApprenticeship in Aug 2025 — same company, so this replaces that entry rather than adding to it.*
+- [ ] **SETA — register interest for September 2027** → [setatraining.co.uk/apprenticeships/current_vacancies.html](https://www.setatraining.co.uk/apprenticeships/current_vacancies.html)
+  *Local group training association at Millbrook, inside Southampton. Craft/advanced level only (L3/4) — not degree-level. Register only if degree-level applications don't progress.*
 - [ ] **UCAS Smart Alerts** → [ucas.com/apprenticeships/subscribe-alerts](https://www.ucas.com/apprenticeships/subscribe-alerts)
   *Best filtering of any board. Set interest + location + travel radius.*
 - [ ] **Amazing Apprenticeships "Vacancy Snapshot"** → [amapps.uk/vacancies](https://amapps.uk/vacancies)
@@ -41,6 +41,19 @@ Sites and accounts Fraser should register on, ordered by value. Tick a box only 
 - [ ] [L3Harris](https://www.l3harris.com/careers) — 🆕 Portsmouth defence employer
 - [ ] [ExxonMobil Fawley](https://www.exxonmobil-fawley.co.uk/to-apply/) — Feb 2027; watch for [open evenings](https://www.exxonmobil-fawley.co.uk/open-evenings/)
 - [ ] [Arup](https://www.arup.com/careers) — recruited in **Southampton** in 2026 at £27–28k
+
+## 🌟 Fraser's shortlisted roles — register interest NOW
+
+- [ ] [Tetra Tech — Degree Apprentice Civil Engineer (Renewable Energy Infrastructure)](https://www.gradcracker.com/hub/1108/tetra-tech/degree-apprenticeship/81851/degree-apprentice-civil-engineer-renewable-energy-infrastructure)
+  *Live now on GradCracker. Click through and register interest if eligible.*
+- [ ] [Transport for London — Register Your Interest Degree Apprenticeships 2027](https://higherin.com/jobs/43598/transport-for-london/register-your-interest-degree-apprenticeships-2027)
+  *Live now on Higherin. Register interest form.*
+- [ ] [Arcadis — Register Your Interest Civil Engineer Degree Apprenticeship 2027](https://higherin.com/jobs/43391/arcadis/register-your-interest-civil-engineer-degree-apprenticeship-2027)
+  *Live now on Higherin. Register interest form.*
+- [ ] [EDF Energy — Register Your Interest Degree Apprenticeship Programmes 2027](https://higherin.com/jobs/42891/edf-energy/register-your-interest-degree-apprenticeship-programmes-2027)
+  *Live now on Higherin. Register interest form.*
+- [ ] [Network Rail — Register Your Interest Degree Apprenticeships 2027](https://higherin.com/jobs/43329/network-rail/register-your-interest-degree-apprenticeships-2027)
+  *Live now on Higherin. Register interest form. (Already registered via employer portal, but confirm on Higherin too.)*
 
 ## Rolling — apply any time, no window
 - [ ] [Royal Navy Accelerated Apprentice](https://www.royalnavy.mod.uk/careers/roles/accelerated-apprentice-scheme-weapon-engineering) — **the A-level route**: join two ranks higher
