@@ -48,7 +48,7 @@ Southampton/Portsmouth/Solent is a genuine defence cluster, so these are worth m
 
 | Site | URL | Why it matters |
 |---|---|---|
-| **SETA (Southampton Engineering Training Association)** | https://www.setatraining.co.uk | **Register-your-interest form for September 2027 is LIVE NOW.** Local group training association at Millbrook (SO15 0LJ) that places apprentices with Solent-area engineering employers and delivers their first year of training. Disciplines: electro-technical, instrumentation, machining, maintenance, welding, pipefitting, project control, CAD/design. Also runs open evenings and an annual Engineering Apprenticeship Jobs Fair (Feb). |
+| **SETA (Southampton Engineering Training Association)** | https://www.setatraining.co.uk | ⚠️ **Craft/advanced level only (L3/4) — not degree-level.** Local group training association at Millbrook (SO15 0LJ) that places apprentices with Solent-area engineering employers and delivers their first year of training. Disciplines: electro-technical, instrumentation, machining, maintenance, welding, pipefitting, project control, CAD/design. Register-your-interest form for Sept 2027 is live. Also runs open evenings and an annual Engineering Apprenticeship Jobs Fair (Feb). **For a candidate with three A-levels targeting degree apprenticeships, this is a fallback option only — better-fitting routes exist.** |
 | SETA current vacancies | https://www.setatraining.co.uk/apprenticeships/current_vacancies.html | Where the Sept 2027 interest form lives |
 | SETA open evenings | https://www.setatraining.co.uk/seta/events_open_evenings.html | Free, local, and exactly the kind of thing to attend in Year 13 |
 

@@ -46,13 +46,12 @@ Two structural risks worth understanding now:
 
 | Action | Where | Why |
 |---|---|---|
-| **1. SETA — register interest for Sept 2027** | [setatraining.co.uk](https://www.setatraining.co.uk/apprenticeships/current_vacancies.html) | **Highest-value action available.** Local group training association at Millbrook, inside Southampton. One form puts him in front of multiple Solent employers. Their Sept 2027 form is live *now*. |
-| **2. Higherin account** | [higherin.com](https://higherin.com) | **Biggest gap in the whole setup.** It's the only place aggregating the live "Register Your Interest 2027" listings, *and* it holds 48,000+ apprentice reviews. Note it absorbed RateMyApprenticeship in Aug 2025 — same company now. |
-| **3. UCAS Smart Alerts** | [ucas.com/apprenticeships/subscribe-alerts](https://www.ucas.com/apprenticeships/subscribe-alerts) | Best filtering of any board; single highest-value alert signup |
-| **4. Amazing Apprenticeships Vacancy Snapshot** | [amapps.uk/vacancies](https://amapps.uk/vacancies) | This is how the October bumper listing arrives automatically |
-| **5. GOV.UK Find an Apprenticeship account + saved search** | [findapprenticeship.service.gov.uk](https://www.findapprenticeship.service.gov.uk) | Southampton, 25 miles, all sectors |
-| **6. Register interest: Babcock · Network Rail · MBDA · EDF · AtkinsRéalis · Sellafield · UKAEA** | see resources.md §4 | All free, all 2027-specific, all live right now |
-| **7. 2–3 Springpod virtual work experiences** | [springpod.com](https://www.springpod.com/virtual-work-experience/search) | Free, 6–10 hrs, certificate that counts on applications. Do these before October. |
+| **1. Higherin account** | [higherin.com](https://higherin.com) | **Biggest gap in the whole setup.** It's the only place aggregating the live "Register Your Interest 2027" listings, *and* it holds 48,000+ apprentice reviews. Note it absorbed RateMyApprenticeship in Aug 2025 — same company now. |
+| **2. UCAS Smart Alerts** | [ucas.com/apprenticeships/subscribe-alerts](https://www.ucas.com/apprenticeships/subscribe-alerts) | Best filtering of any board; single highest-value alert signup |
+| **3. Amazing Apprenticeships Vacancy Snapshot** | [amapps.uk/vacancies](https://amapps.uk/vacancies) | This is how the October bumper listing arrives automatically |
+| **4. GOV.UK Find an Apprenticeship account + saved search** | [findapprenticeship.service.gov.uk](https://www.findapprenticeship.service.gov.uk) | Southampton, 25 miles, all sectors |
+| **5. Register interest: Babcock · Network Rail · MBDA · EDF · AtkinsRéalis · Sellafield · UKAEA** | see resources.md §4 | All free, all 2027-specific, all live right now |
+| **6. 2–3 Springpod virtual work experiences** | [springpod.com](https://www.springpod.com/virtual-work-experience/search) | Free, 6–10 hrs, certificate that counts on applications. Do these before October. |
 
 ---
 
@@ -102,10 +101,14 @@ Two structural risks worth understanding now:
 ### Local, information-poor, worth manual checking
 | Employer | Note |
 |---|---|
-| **SETA** | ✅ **Sept 2027 interest form LIVE — do this today.** Millbrook, Southampton. Craft/advanced level. |
 | **Arup** | Recruited Building Services Electrical L6 **and** Civil Engineering L4 **in Southampton** in 2026 at £27–28k — among the highest starting salaries found. Confirms annual Southampton cycles. |
 | **QinetiQ** | Still nothing verifiable — no listings, no dates, no announcements. **But QATS is at Boscombe Down near Salisbury, very commutable.** Worth persistent manual checking despite the vacuum. |
 | **L3Harris** | 🆕 Major Portsmouth-area defence employer (electronics, maritime autonomy). No cycle dates found. Not yet on GradCracker follows. |
+
+### Craft & advanced level — fallback, not primary target
+| Employer | Note |
+|---|---|
+| **SETA (Southampton Engineering Training Association)** | Millbrook, Southampton. **Craft/advanced (L3/4) disciplines only: electro-technical, instrumentation, machining, maintenance, welding, pipefitting, project control, CAD/design.** Sept 2027 interest form is live — but does **not** offer degree-level (L6) apprenticeships. **Not a primary target** for a candidate with three A-levels targeting degree-level routes. Worth revisiting only if degree-level applications do not progress. |
 
 ### Dropped / deprioritised
 **Dyson Institute** — Fraser not interested (Aug 2026). **Dalkia** and **Pell Frischmann** — roles found were construction/commercial rather than core engineering; lower priority.
