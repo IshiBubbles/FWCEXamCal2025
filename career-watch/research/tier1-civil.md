@@ -1151,17 +1151,126 @@ Not on the brief, but it surfaced twice and is geographically relevant: **AWE** 
 
 # Browser-check list
 
-The pages worth opening in a normal browser to paste in real person-spec wording, and the gaps
+The pages worth opening in a normal browser to paste in real person-spec wording, plus the gaps
 that block a decision. Grouped by which research pass produced them.
+
+> These items are also consolidated and prioritised across all rounds in
+> **`browser-checks.md`** — use that as the working list.
 
 ## Major contractors
 
+Every company below has at least one criteria item I could **not** capture verbatim. Open these manually. Priority order reflects how much the missing information matters for a Sept 2027 civil, site-based application.
 
+**Priority 1 — missing information that blocks a decision**
+
+| Company | What's missing | URL to open |
+|---|---|---|
+| BAM (BAM Nuttall) | England/Wales A-level and UCAS entry requirements for the Level 6 civil route; base for "Social Infrastructure South"; salary | https://www.bamcareers.com/uk/en/campaigns-apprenticeship-programme and https://www.findapprenticeship.service.gov.uk/apprenticeship/reference/2000003019 |
+| Galliford Try | Any specific entry requirements at all; whether a site-based (not design) Level 6 civil route exists in the south | https://careers.gallifordtry.co.uk/career-stage/apprenticeships/ and https://www.gradcracker.com/hub/449/galliford-try/search/degree-apprenticeships |
+| VolkerWessels UK | Actual A-level/UCAS/nationality/age requirements — the figures found were cross-contaminated with other employers and must not be reused; whether VolkerFitzpatrick runs a southern intake | https://www.volkerwessels.co.uk/en/workingforus/our-early-careers/apprenticeships and https://www.volkerwessels.co.uk/en/workingforus/our-jobs/apprentice-civil-engineer |
+| GRAHAM | England A-level/UCAS entry requirements; partner university for England; salary; exact 2027 opening date (2026 intake closed 9 Jan 2026) | https://www.graham.co.uk and https://targetjobs.co.uk/jobs/graham-academy-site-engineer-apprenticeship-2026-222270 |
+| Costain | Whether a **site-based** Level 6 civil route exists as distinct from the CAD/design Civil & Structural route; behavioural person spec; values wording | https://www.costain.com/careers/early-careers/apprenticeships/ and https://www.gradcracker.com/hub/249/costain-group/search/degree-apprenticeships |
+
+**Priority 2 — person spec / values wording not captured verbatim**
+
+| Company | What's missing | URL to open |
+|---|---|---|
+| Balfour Beatty | Degree-apprenticeship-specific person spec; partner university; salary; 2027 application window | https://www.balfourbeatty.com/careers/early-careers/apprentices/ |
+| Kier Group | Behavioural person spec / values bullets; salary; whether Infrastructure (not Building Structures/Planning) runs a site-based Southampton-area intake | https://jobs.kier.co.uk/apprenticeships and https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC1000300404 |
+| Laing O'Rourke | A single authoritative academic bar (two conflicting versions found); confirmation that University of Exeter is the provider; salary | https://careers.laingorourke.com/professional-apprenticeships and https://careers.laingorourke.com/explore-by-experience/professional-apprenticeships/development-and-application.aspx |
+| Skanska UK | Corporate values wording (could not confirm any); salary; 2027 window | https://skanska.avature.net/careers/ApplicationMethods?jobId=5944 and https://www.skanska.co.uk |
+| Mace Construct | Values wording (could not establish at all); partner university; salary | https://careers.macegroup.com/gb/en/apprentices and https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC1000347986 |
+| Bouygues UK | Verify the £20,000 salary, ABB/Maths-B requirement, AWE base and LSBU study — all unverified and partly cross-contaminated; behavioural person spec | https://careers.bouygues-construction.co.uk/job/degree-apprenticeship-civil-engineering |
+| Multiplex UK | Confirm there is genuinely **no** civil engineering route; behavioural person spec; salary | https://www.gradcracker.com/hub/844/multiplex/degree-apprenticeship/79455/degree-apprenticeship-programme-2026 |
+
+**Cross-cutting warning for whoever does the browser check.** The string *"Three A Levels grade BBC — must include Mathematics and a Science in either Chemistry or Physics (UCAS points: 112)"*, and the string *"aged 18 or over as of 31st August 2026 due to security clearance requirements... must be a British National"*, each appeared in search results attributed to **more than one** of these employers (VolkerWessels, Bouygues UK, Multiplex). Both most likely originate from a shared source — probably London South Bank University's entry standard and a single government vacancy page (VAC1000346204) respectively. **Do not treat either string as any one company's requirement until it is read on that company's own site.**
+
+**Also not found for ANY of the twelve:** a confirmed application window for a **September 2027** start. The best available guides are the 2026-cycle patterns: GRAHAM closed 9 January 2026; Multiplex closed 13 March 2026; Costain's apprenticeship vacancies opened in February; VolkerStevin held assessment centres in April. Practical implication for Fraser: the **autumn 2026 to March 2027** window is when this all happens, and GRAHAM's early-January deadline means the work of drafting a personal statement needs to be done before Christmas 2026, not in spring.
 
 ## Utilities and asset owners
 
+Open these manually. In every case below the company's **own person-spec wording could not be captured verbatim** from search snippets, which means it must not be quoted in an application or matched to a STAR example until confirmed.
 
+**Highest priority — a missing route, not just missing wording:**
+
+1. **Southern Water** — establish whether a **Level 6 Civil Engineering (or Project Management / Programme Delivery) degree apprenticeship** will exist for **September 2027**, and at which sites. This is the Southampton-local option and the whole question is unresolved.
+   - https://www.southernwater.co.uk/about-us/careers/apprentice-opportunities/
+   - https://www.gradcracker.com/hub/520/southern-water/search/degree-apprenticeships
+   - https://www.southernwater.co.uk/latest-news/southern-water-to-triple-early-careers-recruitment-in-2026/
+   - Also worth an email or phone call to their early-careers team in autumn 2026 — this is the one company where a direct enquiry is likely to beat any amount of searching.
+
+2. **United Utilities** — confirm whether a Level 6 **civil engineering** apprenticeship exists at all (only "degree apprenticeships in engineering" was confirmable), and get its real entry requirements. Note the entry spec and salary that surfaced in searches are **probably AWE's and Severn Trent's respectively** and must not be used.
+   - https://www.unitedutilities.com/corporate/careers/apprenticeships/
+   - https://www.unitedutilities.com/corporate/careers/apprenticeships/application-process/
+   - https://www.gradcracker.com/hub/77/united-utilities/search/degree-apprenticeships
+
+3. **Environment Agency** — confirm whether a **Civil Engineer Level 6** apprenticeship (as opposed to Environmental Practitioner Level 6) will run in the **early 2027** round, and get entry requirements, salary and length. Also verify the "mandatory upskilling provision for new starters in Flood & Coastal Risk Management Field Operations" claim, which if true is the single best piece of evidence for work setting in this whole round.
+   - https://environmentagencycareers.co.uk/early-careers/apprenticeships/
+   - https://environmentagencyjobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-2/spa-1/candidate/so/pm/1/pl/1/opp/32935-Environmental-Practitioner-Degree-Level-6-Apprenticeship-32935/en-GB
+   - https://www.gradcracker.com/hub/154/environment-agency
+
+**Stated criteria not captured verbatim:**
+
+4. **Severn Trent** — no company person-spec found at all; the 112-point/A-level-Maths requirement found is **NTU's**, not Severn Trent's.
+   - https://www.careers.severntrent.com/job/Register-Your-Interest-Apprenticeships-2027/1363942057/
+   - https://www.severntrent.com/careers/early-careers/application-advice/
+   - https://www.gradcracker.com/hub/414/severn-trent/degree-apprenticeship/78716/degree-apprentice-civil-engineer
+   - https://www.ntu.ac.uk/course/architecture-design-and-the-built-environment/app/beng-hons-level-6-civil-engineer-degree-apprenticeship
+
+5. **Network Rail** — need the actual values/behaviours list and the scheme page's own "what we're looking for", plus resolve **BSc vs BEng** and confirm the 2027 registration date.
+   - https://www.earlycareers.networkrail.co.uk/scheme/level-6-civil-engineering-apprenticeship/
+   - https://www.earlycareers.networkrail.co.uk/application-process-and-advice/
+
+6. **National Highways** — the criteria bullets are close to verbatim but unconfirmed, and the **A-level grade profile inside the 112-point requirement was garbled** in the snippet. Confirm the grade equivalence, whether any specific A-level subjects are required, the salary, and the 2027 application window.
+   - https://careers.nationalhighways.co.uk/graduates-placements-and-apprenticeships/apprenticeships/civil-engineering-degree-apprenticeship/
+   - https://nationalhighways.co.uk/careers/career-programmes/apprenticeships/
+
+7. **Thames Water** — entry requirements are confirmed, but the **"what you should bring to the role"** person-spec is not. Also confirm a 2027 intake exists given the ownership situation.
+   - https://jobs.thameswater.co.uk/
+   - https://www.gradcracker.com/hub/877/thames-water/degree-apprenticeship/79554/civil-engineering-degree-level-6-apprentice
+
+8. **Transport for London** — entry criteria came from a third-party guide and the £27,801 salary is unverified. TfL publishes an apprenticeship level-entry-criteria document.
+   - https://tfl.gov.uk/corporate/careers/civil-engineering-degree
+   - https://tfl.gov.uk/corporate/careers/engineering-apprenticeships
+   - https://stepupexpo.co.uk/media/com_jbusinessdirectory/attachments/companies/223/2025_TfL_apprentice_and_graduate_event_cheat_sheets__V2_-1717504306.pdf
+
+9. **Amey** — the "three A-Levels including Maths and a Physical Science" line and the programme copy read as verbatim but need confirming, and Amey's stated values and behavioural person-spec were not found. Also confirm whether **Coventry University** is still the delivery partner (that came from the 2021 launch release) and what 2027 locations will be.
+   - https://careers.amey.co.uk/
+   - https://www.amey.co.uk/media/news/2021/june/amey-consulting-launches-civil-engineering-degree-apprenticeship-programme/
+
+10. **Anglian Water** — the values and the "key accountabilities" list came via a third-party aggregator mirror of the vacancy, not from Anglian's own page, and the **salary is unknown**.
+    - https://anglianwatercareers.co.uk/degree-apprenticeships/
+
+11. **Veolia UK** — confirm whether any genuine **Level 6/7** engineering degree apprenticeship exists (the page refers to "Level 6/7 Degree Engineering" but no vacancy was found), and get its entry requirements. Also verify before use whether Veolia operates any Energy Recovery Facility in Hampshire.
+    - https://www.veolia.co.uk/careers/apprenticeships
+    - https://www.gradcracker.com/hub/508/veolia-uk/search/degree-apprenticeships
+
+12. **NATS** — confirm the entry requirements and salary bands for the **2027** intake, the exact application opening date, and definitively whether any Level 6 degree apprenticeship exists alongside the Level 4.
+    - https://www.nats.aero/careers/engineering/engineering-entry-level/
+    - https://www.nats.aero/careers/early-careers/
+
+**One cross-cutting warning for whoever does the browser pass:** several generic vacancy titles ("Civil Engineering Apprenticeship (Level 6 Degree)", "Civil Engineering Level 6 Degree Apprentice") are shared across Thames Water, AWE, Mott MacDonald, Severn Trent and others on findapprenticeship.service.gov.uk, and search snippets for them **cross-contaminate**. Always confirm the employer name on the page before copying any figure into an application.
 
 ## Specialist contractors
 
+Stated criteria could **not** be captured verbatim for any company in this round except a single WSP fragment. That is a direct consequence of the WebSearch-only constraint: search snippets are the engine's paraphrase, not the employer's wording. Before any of the bullets above are matched to STAR examples or quoted in an application, open these pages in a browser and lift the person-spec wording exactly.
 
+**Highest priority (real routes Fraser may actually apply to):**
+1. **WSP — Planning Development, Southampton** — https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC1000346490 — capture the "Skills"/"Qualities" panel verbatim, and confirm whether *any* site duty is listed.
+2. **WSP — Building Structures, Southampton** — https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC1000300404 — capture the duties list verbatim, especially the exact site-visit wording, plus salary and closing date. (A snippet says this closed 1 Apr 2025 — confirm.)
+3. **WSP apprenticeships** — https://www.wsp.com/en-gb/careers/apprenticeships — confirm A-level requirement, the November 2026 reopening date, salary, and the named partner university.
+4. **WSP — Guildford (Bridges)** — https://searchcareers.goconstruct.org/search/3697/wsp-uk-limited-civil-engineering-degree-apprenticeship-guildford-bridges — the field-heavy WSP alternative; capture duties and criteria.
+5. **John Sisk & Son early careers** — https://www.johnsiskandson.com/careers (and the London/Watford 2026 Apprenticeship Programme advert) — capture the "what we are looking for" panel, confirm the degree-level civil route, the real salary (ignore the aggregator estimate) and the 2027 deadline.
+6. **STRABAG UK apprenticeship** — https://karriere.strabag.com/uk/your-career-entry/apprenticeship and the Civil Engineering (Degree Apprentice) advert — capture the person-spec verbatim and **resolve the "Shirley" location ambiguity** (Solihull vs Southampton).
+7. **Tilbury Douglas apprenticeships** — https://www.tilburydouglas.co.uk/early-careers/apprenticeships/ and https://careers.tilburydouglas.co.uk/jobs/home/ — capture criteria verbatim and establish whether a **Level 6 civil engineering** (not construction management) route exists, and whether any 2027 intake is southern.
+8. **Colas Rail degree apprenticeships** — https://www.gradcracker.com/hub/486/colas-rail/additional-content/5327/our-degree-apprenticeship-programmes and https://colasrail.co.uk/apprenticeships-colas-rail-uk/ — confirm whether a Level 6 **civil/rail engineering** route exists and whether any placement is Eastleigh/Wessex-based.
+9. **MWH Treatment graduates and apprentices** — https://www.mwhtreatment.com/our-experts/graduates-and-apprentices/ — establish the apprenticeship **level**, entry requirements and whether any placement sits on the Southern Water / CMDP+ framework.
+10. **Balfour Beatty VINCI early careers** (the entity that actually recruits HS2 civil engineering apprentices) — https://balfourbeattyvinci.co.uk/ and Balfour Beatty group early careers — capture the civil engineering apprenticeship criteria, level and locations.
+
+**Lower priority (no route found — check only to confirm the negative):**
+11. **Farrans apprenticeships** — https://www.farrans.com/apprenticeships/ and https://www.workplus.app/explorer/employers/26/farrans — confirm whether any degree apprenticeship intake exists outside Northern Ireland.
+12. **Robertson early careers** — https://www.robertson.co.uk/careers/early-careers/apprenticeship — confirm the civil engineering strand's level, and whether any England-South intake exists.
+13. **Severfield apprenticeships** — https://www.severfield.com/careers/apprenticeships — confirm the absence of any degree-level engineering route.
+14. **Vista Civil Engineering careers** — https://www.vista-civils.co.uk/careers — confirm the absence of any degree apprenticeship.
+15. **Soil Engineering careers** — https://careers.soil-engineering.co.uk/ — confirm the absence of any apprenticeship scheme.
+16. **AWE Level 6 civil engineering apprenticeship** — https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC1000346204 — **confirm the employer attribution** and, if it is AWE, add to Fraser's shortlist as a near-Southampton Level 6 civil route.
