@@ -1398,54 +1398,54 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "CONFIRMED opens October 2026 for 2027 starts - strongest confirmed date in the tracker. NO closing date; may close without notice, so apply in the first days of October. Degree route needs A-levels (Fraser's Maths/Physics/Chemistry is a strong fit). Airbus Defence & Space has a PORTSMOUTH site - commutable. D&S roles carry security-clearance and nationality constraints. Already registered."
+    "notes": "PORTSMOUTH CONFIRMED 20 Aug 2026 - Airbus's own UK page names Portsmouth as offering a 'Degree or Technical Apprenticeship in systems and software engineering, project management, and electromechanical engineering'. ELECTROMECHANICAL is the word to hunt for on the vacancy. Window opens October 2026, runs to February, may close early without notice - apply in the first days. TRAP: the Spacecraft Engineering degree apprenticeship uses the University of Portsmouth but the 2025 vacancy was located at Airbus D&S CHIPPENHAM - a Portsmouth-badged degree is not a Portsmouth job. Also found: the Airbus/Solent Growth Partnership matching scheme routes near-miss candidates to local SMEs, so applying is close to a free option. VERIFIED 20 Aug 2026: Portsmouth is described by Airbus as 'a key centre for engineering in space and intelligence systems', a named Electromechanical Systems Engineering Degree Apprenticeship listing exists, and AIRBUS COVERS ALL FEES so the degree carries no student debt. THIS IS THE ONLY CONFIRMED LOCAL DEGREE-LEVEL APPRENTICESHIP IN THE ENTIRE SEARCH, which makes its October window the single most important date in the tracker."
   },
   {
     "name": "BAE Systems",
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "Portsmouth site. Advanced & Degree (5yr Engineering Degree Apprenticeship). Sources conflicted between Nov 2026 and Jan 2027 - treat as live from November 2026 and check monthly; being early costs nothing. Min 2 A-levels, some schemes want 3 incl. Maths + 96 UCAS points. BPSS required; many roles need 5-10 yrs continuous UK residency. NO notify option - GradCracker follow is the only alert."
+    "notes": "WINDOW SETTLED 20 Aug 2026: opens EARLY NOVEMBER 2026, closes end of February 2027. 'January 2027' is a mid-window date, not an opening. Corroborated three ways - snippets stating the 2027 intake opens in November and that 2026 opened early Nov 2025; the 2026 cycle deadline of 28 Feb 2026 with some roles closing 20 Feb; and independently by GOV.UK vacancy V05085's own 28 Feb 2026 closing date. WAITING UNTIL JANUARY RISKS ARRIVING AFTER EARLY CLOSURES. Min 2 A-levels, some schemes want 3 incl. Maths + 96 UCAS points. BPSS required. The 5-10 year continuous UK residency wording could NOT be attributed to any specific Portsmouth vacancy - do not assume it applies. No notify option; a Gradcracker follow is the only alert."
   },
   {
     "name": "BAE Systems Maritime Services",
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "state-file"
     ],
     "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "STRONGEST LOCAL DEFENCE OPTION - Portsmouth ~20mi, commutable. 251 extra Early Careers places announced, 173 split between GCSE and A-level entry. Royal Navy surface fleet, carriers, Type 45s, radar, underwater weapons. Window ASSUMED to follow the main BAE January cycle - verify separately, do not treat as confirmed."
+    "notes": "STRONGEST LOCAL FIND of the round, with one real caveat. Verbatim from GOV.UK vacancy V05085 (Level 4, 3 years, The Old Iron Foundry, HMNB Portsmouth, Sept 2026 start): 'installation, testing, commissioning, fault diagnosis, maintenance, overhaul and removal of electrical and data systems on maritime vessels, covering propulsion machinery, weapons, sensors, and auxiliary systems'. CAVEAT: the hands-on Portsmouth routes found are L3/L4; the Portsmouth DEGREE routes found are Project Management and Project Control, which are desk work. Its January window is REFUTED, not confirmed. RETRACTION: the '251 extra places / 173 split GCSE and A-level' figure is very likely STALE - it traces to a Portsmouth News URL whose own title reads 'deadline to apply is February 2023', while a different piece gives 126 new starters / 76 apprenticeships. Do not quote it."
   },
   {
     "name": "AWE",
     "tier": 3,
     "discipline": "other",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "Physics/radioactivity anchor, not a mechanical-career-pathway choice. CAD Tech, Electrical Maintenance, C&I, Electronic Design L6, Building Services L6, Technical Scientist, PM L6. Autumn 2026, exact date TBC. Must be 18 by 31 Aug of start year and British citizenship required - both confirmed clear for Fraser (Aug 2026). C&I route is the 16+ exception. Already registered."
+    "notes": "STRONGEST DEGREE-LEVEL FIT of the round. Aldermaston ~40mi. Found a NUCLEAR ENGINEERING (ELECTRICAL & MECHANICAL) route not in any prior list. GBP23,500 rising to GBP25,000. LSBU is confirmed as partner for Building Services and Civil only. The Electronic Design route runs two years building projects in a skills academy, then 6-month rotations. Autumn 2026, exact date unpublished. British citizenship and 18-by-31-August gates BOTH CONFIRMED SATISFIED - AWE's gate is nationality plus age, NOT a residency span, so do not merge it with BAE's. The Electronic Design partner university was NOT attributed (Bucks New and Newbury College appeared only as generic providers of that standard). PRACTICAL: 40 miles effectively requires a driving licence by Sept 2027."
   },
   {
     "name": "Tetra Tech",
@@ -1478,93 +1478,93 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "MOST PRECISELY DATED EMPLOYER IN THE TRACKER. Degree Apprenticeships 2027: Dowty & Feltham go live 8 Oct 2026, Cheltenham & Wales 20 Oct 2026, Prestwick 3 Nov 2026. Relocation required."
+    "notes": "Research 20 Aug 2026: still the most precisely dated employer in the tracker - Dowty and Feltham go live 8 October 2026, Cheltenham and Wales 20 October, Prestwick 3 November. Degree Apprenticeships 2027 across Advanced Manufacturing & Engineering, Supply Chain, Business Management and Engineering. GAP: the Dowty A-level grade requirement was DESCRIBED in snippets but never STATED - open the live advert before writing anything."
   },
   {
     "name": "Leonardo",
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Degree apprenticeships (STEM & business). Autumn 2026 inferred from GradCracker; Leonardo's own page looked stale (still cites autumn 2023). Treat with caution."
+    "notes": "MAJOR FIND 20 Aug 2026 - LEONARDO HAS A SOUTHAMPTON SITE: First Avenue, Millbrook Industrial Estate, SO15 0LG, ~400 staff, a centre of excellence for infra-red detectors since the 1950s, in a GBP10m facility opened 2014 that consolidated three south-coast sites. Leonardo's own apprenticeship material LISTS SOUTHAMPTON among its apprenticeship locations - but no Southampton-specific Level 6 vacancy could be found. ONE PHONE CALL COULD REORDER THE WHOLE SHORTLIST. Leonardo is NOT stale as previously feared - there are live 2026-intake vacancies (e.g. Aerospace Manufacturing Composites Apprentice L3, Yeovil). BUT DISCARD the 'autumn 2026' date: Gradcracker serves an identical template string for Leonardo, Amentum AND Capgemini Engineering, so it is platform boilerplate, not an employer announcement. VERIFICATION 20 Aug 2026 TEMPERS THE ABOVE: the Southampton site is confirmed (Millbrook Industrial Park, GBP10m facility 2014, ~400 staff, cooled MCT and uncooled pyroelectric detector work, ROIC design, device hybridisation, environmental test) and it does list roles 'from interns and apprentices to highly qualified professionals'. BUT the apprenticeship actually described is a THREE-YEAR MANUFACTURING APPRENTICESHIP AT LEVEL 3 - Engineering BTEC, NVQ Level 2 (PEO) and a Level 3 NVQ, building and testing infrared cameras under environmental stress. Local and genuinely hands-on, but NOT a degree route on the evidence. The local pattern holds again. Worth a call to ask whether a Level 6 runs from Southampton; do not assume it does."
   },
   {
     "name": "Frazer-Nash Consultancy",
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
-    "verdict": "active",
+    "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "L6 Digital & Tech Solutions. CYBER PATHWAY STUDIED VIA SOLENT UNIVERSITY - genuinely local. Autumn 2026 inferred. Needs National Security Vetting. Bristol/Plymouth sites + Solent study."
+    "notes": "Research 20 Aug 2026: the Solent claim HOLDS - Solent University is one of four provider options, one day a week in Southampton. But the DESK TAG SURVIVES the evidence: every pathway is cyber, software or project/programme management. Locally studied, but not the work Fraser describes wanting. Requires National Security Vetting."
   },
   {
     "name": "GKN Aerospace",
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "resources.md"
     ],
-    "verdict": "active",
+    "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Genuine DEGREE route available. Isle of Wight (Cowes) and Bristol - both viable. Expect Nov 2026-Feb 2027 (2026: IoW closed 10 Feb, Filton ~21 Feb). Not yet followed on GradCracker."
+    "notes": "OFF THE SHORTLIST 20 Aug 2026, three independent reasons. (1) The Red Jet takes 28 minutes but lands at WEST Cowes; GKN is at EAST Cowes, across the River Medina. (2) The Level 6 route is UWE Bristol, advertised at Patchway. (3) The Cowes routes found are Isle of Wight College Level 3 and Level 5. Not commutable, and the degree is not there anyway."
   },
   {
     "name": "L3Harris",
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "state-file"
     ],
-    "verdict": "active",
+    "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Major PORTSMOUTH-AREA defence employer (electronics, maritime autonomy). No cycle dates found. Not yet followed on GradCracker."
+    "notes": "Research 20 Aug 2026: Portchester, ~15mi - a 24,000 sq ft autonomous surface vessel production facility. But NO apprenticeship was found anywhere in the UK, only graduate schemes. A speculative email is the only route in."
   },
   {
     "name": "QinetiQ",
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "mixed",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "state-file"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Nothing verifiable - no listings, no dates, no announcements. BUT QATS is at Boscombe Down near Salisbury, very commutable. Worth persistent manual checking despite the information vacuum."
+    "notes": "THIRD CONSECUTIVE NULL on dates (20 Aug 2026) - no listings, no windows, no announcements across three rounds of searching. STOP SEARCHING. This round did establish QATS at Boscombe Down near Salisbury (very commutable), the four discipline names, and an address: earlycareers@qinetiq.com. Email them."
   },
   {
     "name": "MBDA UK",
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "L6 degree apprenticeships incl. Software Engineering. Missiles/defence, clearance gates. 2027 register-interest live, dates unknown."
+    "notes": "Research 20 Aug 2026: L6 degree apprenticeships including Software Engineering. Missiles and defence, so clearance gates apply. MBDA's residency clause is the ONLY one in this round attributed with confidence - it came from MBDA's own security-and-vetting page rather than a bleed."
   },
   {
     "name": "JLR",
@@ -1624,13 +1624,13 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "Research 20 Aug 2026: an Aircraft Maintenance Apprentice role at MIDDLE WALLOP, HAMPSHIRE (~25mi) - 36 months, with months 11-36 on the job at AAC Middle Wallop covering airframe, propulsion, electrical and avionics, supporting the AH-64E Apache. THE MOST LITERALLY BOOTS-ON-THE-GROUND ROUTE IN THE WHOLE DOSSIER. But it is LEVEL 3, not a degree apprenticeship - a genuine conflict with Fraser's target. An unattributed 'Aerospace Engineer Degree Apprenticeship (Level 6)' vacancy (VAC2000003368) surfaced in these searches and was NOT attributed to Boeing."
   },
   {
     "name": "Worcester Bosch Group",
@@ -1689,104 +1689,104 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "Research 20 Aug 2026: desk tag survives - the route is a software BSc with Sheffield Hallam, GBP20k, at Telford, Worthing or London. Note the Gradcracker 'opening Autumn 2026' string served for this employer is template boilerplate, not a real date."
   },
   {
     "name": "Honeywell Aerospace",
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
-    "verdict": "watch",
+    "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "BEST CONFIRMED HANDS-ON PLUS SOUTHERN option of the round. Yeovil, ~60mi. Level 6 apprenticeships genuinely run there - Electromechanical and R&D Engineer, both 4 years 10 months, one day a week at Yeovil College, and entry is only GCSEs plus TWO STEM A-LEVELS AT A-C, a low bar for Fraser. The site is the only Honeywell plant worldwide making aircraft life-support systems and leads the GBP14.1m ATI-funded Project STRATA. CAVEAT: check what degree a BTEC-delivered 'Level 6' actually awards."
   },
   {
     "name": "Amentum",
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "mixed",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "Research 20 Aug 2026: note the Gradcracker 'opening Autumn 2026' string served for this employer is template boilerplate shared with Leonardo and Capgemini Engineering, not a real date."
   },
   {
     "name": "Aureos",
     "tier": 3,
     "discipline": "mechanical",
-    "work_setting": "desk",
-    "dossier": false,
+    "work_setting": "site",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
-    "verdict": "watch",
+    "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "NOT A CONSULTANCY 20 Aug 2026 - Aureos is the former KELTBRAY INFRASTRUCTURE SERVICES, a GBP366.4m rail, overhead-line and highways contractor. That content maps to CIVIL (#1) and ELECTRICAL (#3), outdoors - potentially a strong fit. But four searches failed to establish level, title, provider, salary or ANY LOCATION. HIGHEST INFORMATION VALUE PER PHONE CALL anywhere in the project."
   },
   {
     "name": "RINA Consulting",
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "Research 20 Aug 2026: no apprenticeship route found, searches listed. LIVE TRAP: rina.org.uk is the ROYAL INSTITUTION OF NAVAL ARCHITECTS, a different organisation entirely, and its 'Partner Universities' page surfaced during searches - do not conflate them."
   },
   {
     "name": "DNV",
     "tier": 3,
     "discipline": "mechanical",
-    "work_setting": "desk",
-    "dossier": false,
+    "work_setting": "plant",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "SITE-EXPOSURE TEST OVERTURNED THE DESK ASSUMPTION 20 Aug 2026. Its one apprenticeship is Electro-mechanical Level 6 with the UNIVERSITY OF WARWICK (not Nottingham - a Nottingham page surfaced in searches and was refused), 5 years, GBP20k rising GBP2k/yr, based at the SPADEADAM TEST SITE doing gas explosion and fire testing and hydrogen rigs. Genuinely plant work, and the content serves Fraser's top three disciplines better than any aerospace route in this round. But Brampton, Cumbria is ~340mi and there is ONE place. Relocation only."
   },
   {
     "name": "BIP.Verco",
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
-    "verdict": "watch",
+    "verdict": "cut",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "Research 20 Aug 2026 - DROP. NO apprenticeship exists at all; graduate entry only, at Bath, London or Chorley."
   },
   {
     "name": "Martin-Baker",
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "resources.md"
     ],
-    "verdict": "watch",
+    "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "In resources.md aerospace & defence only - no state record, no checklist item anywhere before this register."
+    "notes": "RESEARCHED FROM SCRATCH 20 Aug 2026, having never been looked at before - the best NON-LOCAL mechanical option found. British manufacturer of ejection seats and aviation safety equipment, founded 1934, the world's leading producer. HQ Higher Denham near Uxbridge (~70mi, NOT commutable) on a company-owned 22-acre site, which is where the apprenticeships are; also Chalgrove Airfield (pyrotechnics) and Langford Lodge NI (rocket-sled test track). There IS a Level 6 tier, 4 years, an autumn 2027 window, and a NOTIFY OPTION. Mk16 seats selected for F-35 Lightning II. Publishes very little, so do not attempt a 'what you're working on now' paragraph from open sources."
   },
   {
     "name": "SETA",

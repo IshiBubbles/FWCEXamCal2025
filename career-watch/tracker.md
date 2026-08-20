@@ -65,14 +65,14 @@ Two structural risks worth understanding now:
 | **Sun 11 October 2026** | University of Southampton open day | ✅ Confirmed |
 | **20 October 2026** | GE Aerospace — Cheltenham & Wales | Confirmed |
 | **~21 October 2026** | EDT Year in Industry applications open | Historic pattern |
-| **November 2026** | **BAE Systems** — ⚠️ *see conflict below* | Disputed |
+| **Early November 2026** | **BAE Systems** — ✅ **window settled: opens early Nov, closes end Feb 2027** | Confirmed |
 | **November 2026** | **AtkinsRéalis** (closes end Feb) · **WSP** · GE Aerospace Prestwick (3 Nov) | Mixed |
 | **December 2026** | Babcock Intermediate/Higher/Modern · Rolls-Royce window may open | Inferred |
-| **January 2027** | **BAE Systems** — ⚠️ *see conflict below* · **EDF** (opened 26 Jan in 2026, 4-week window) · UKAEA possibly | Mixed |
+| **January 2027** | **EDF** (opened 26 Jan in 2026, 4-week window) · UKAEA possibly | Mixed |
 | **February 2027** | **ExxonMobil Fawley** · **Dstl** (stated pattern) · **SETA** employer vacancies · **Jet2FlightPath** (~2.5 week window) | Inferred |
 | **~April 2027** | **BA Speedbird** next window | Inferred from 4 consecutive mid-April openings |
 
-⚠️ **Unresolved conflict on BAE Systems.** One source has BAE's own degree-apprenticeship page stating **January 2027**; another has BAE opening **November 2026** for the 2027 intake. Both are quoting BAE. **Treat BAE as live from November 2026 and check monthly** — being early costs nothing, being late costs the application.
+✅ **BAE Systems conflict RESOLVED, 20 August 2026: the window opens EARLY NOVEMBER 2026 and closes at the end of February 2027.** "January 2027" was a mid-window date, not an opening. Corroborated three ways — snippets stating the 2027 intake opens in November and that the 2026 cycle opened early November 2025; the 2026 deadline of 28 February 2026 with some roles closing 20 February; and independently by GOV.UK vacancy V05085's own 28 February 2026 closing date. **Waiting until January risks arriving after roles have already closed — apply in November.**
 
 ---
 
@@ -170,7 +170,7 @@ Researched **20 August 2026** in response to his discipline ranking (civil #1). 
 ### Winter 2026 / early 2027
 | Employer | Status | Local? |
 |---|---|---|
-| **BAE Systems** | ⚠️ **Nov 2026 or Jan 2027 — sources conflict. Check monthly from November.** Min 2 A-levels; some schemes want 3 incl. Maths + 96 UCAS points. BPSS required; many roles need 5–10 yrs continuous UK residency. **No notify option — GradCracker follow is the only alert.** | Various |
+| **BAE Systems** | ✅ **Opens early Nov 2026, closes end Feb 2027 — settled.** Apply in November, not January. Min 2 A-levels; some schemes want 3 incl. Maths + 96 UCAS points. BPSS required; many roles need 5–10 yrs continuous UK residency. **No notify option — GradCracker follow is the only alert.** | Various |
 | **BAE Systems Maritime** | ⚠️ **Strongest local defence option.** 251 extra Early Careers places announced, **173 split between GCSE and A-level entry**. Royal Navy surface fleet, carriers, Type 45s, radar and underwater weapons. | **Portsmouth ~20mi — commutable** |
 | **EDF Energy** | Expect late Jan 2027. 2026 window was **26 Jan – 22 Feb: only 4 weeks.** Includes the **Nuclear Engineering Degree Apprenticeship (NEDA)**. Talent Community live — join now. | Hinkley/Sizewell |
 | **ExxonMobil Fawley** | Expect Feb 2027 (2026: Feb–12 Apr). 4 GCSEs incl. Maths/Science/English. **Must be 18 at start.** ⚠️ **Advanced/craft level, NOT degree** — weigh honestly against three A-levels. Runs open evenings. | **~10mi — closest option** |
@@ -281,6 +281,42 @@ instead of looking identical to a contractor's site role.
 Where the reasoning behind each tag lives: `career-watch/research/` — a dossier per company with
 what they do, what they are currently working on, their stated person-spec criteria, and an
 honest fit read.
+
+---
+
+## 📍 The local question, answered — Tier 3 research, 20 August 2026
+
+All 159 live employers outside pharma, nuclear and "other" have now been researched. The finding
+that matters most for Fraser's actual choices:
+
+> **Airbus Defence & Space at Portsmouth (~20mi) is the only confirmed local degree-level
+> apprenticeship in the entire search.** Airbus's own page names Portsmouth as offering a *"Degree or
+> Technical Apprenticeship in systems and software engineering, project management, and
+> **electromechanical** engineering"*, calls it *"a key centre for engineering in space and
+> intelligence systems"*, and **covers all fees**. **Its October 2026 window is therefore the single
+> most important date in this tracker.** Trap to avoid: the Spacecraft Engineering degree
+> apprenticeship is badged with the University of Portsmouth but the 2025 vacancy was located at
+> Airbus D&S *Chippenham* — a Portsmouth-badged degree is not a Portsmouth job.
+
+**Everything else local is either Level 3/4 or desk work.** That pattern has now held across every
+round without exception: WSP Southampton (design), Arup Southampton (L6 is Building Services, civil
+is only L4), ExxonMobil Fawley and SETA (L3/L4), SSEN depots (craft), Siemens Southampton (L3 rail),
+Roke Romsey at 8 miles (software only), Colas Rail Eastleigh at 7 miles (L6 is QS in Birmingham),
+Leonardo Southampton (L3 manufacturing), Boeing Middle Wallop (L3), GKN Cowes (not commutable, and
+the degree is at Bristol anyway).
+
+**Second-best local degree option: AWE, Aldermaston (~40mi)** — and this round found a **Nuclear
+Engineering (Electrical & Mechanical)** route that was not in any previous list, at £23,500 rising to
+£25,000. Practical consequence: 40 miles effectively **requires a driving licence by September 2027**,
+which lands alongside the BAM and GRAHAM licence requirements already noted. Book the test.
+
+**Two phone calls worth making**, because searching cannot answer them: **Leonardo Southampton** —
+does any Level 6 run from that site, or only the Level 3 manufacturing route? And **Aureos**, which
+turns out not to be a consultancy at all but the former Keltbray Infrastructure Services, a £366m
+rail, overhead-line and highways contractor — civil and electrical work, outdoors, but four searches
+could not establish its apprenticeship level, provider or **any location**.
+
+Full detail in [research/tier3-mechanical.md](research/tier3-mechanical.md).
 
 ---
 
