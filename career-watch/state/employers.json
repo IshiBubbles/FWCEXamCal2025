@@ -3,6 +3,7 @@
     "name": "Balfour Beatty",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "gradcracker",
       "higherin"
@@ -15,6 +16,7 @@
     "name": "Costain Group",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "gradcracker",
       "higherin"
@@ -27,6 +29,7 @@
     "name": "Kier Group",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "gradcracker",
       "higherin"
@@ -39,6 +42,7 @@
     "name": "Laing O'Rourke",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "gradcracker",
       "higherin"
@@ -51,6 +55,7 @@
     "name": "Mace Construct",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "gradcracker",
       "higherin"
@@ -63,6 +68,7 @@
     "name": "Galliford Try",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "gradcracker",
       "higherin"
@@ -75,6 +81,7 @@
     "name": "Network Rail",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "field",
     "sources": [
       "gradcracker",
       "higherin"
@@ -87,6 +94,7 @@
     "name": "Thames Water",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "field",
     "sources": [
       "gradcracker",
       "higherin"
@@ -99,6 +107,7 @@
     "name": "Severn Trent",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "field",
     "sources": [
       "gradcracker",
       "higherin"
@@ -111,6 +120,7 @@
     "name": "Southern Water",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "field",
     "sources": [
       "gradcracker",
       "higherin"
@@ -123,6 +133,7 @@
     "name": "Mott MacDonald",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "desk",
     "sources": [
       "gradcracker",
       "higherin"
@@ -135,6 +146,7 @@
     "name": "Arup",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "desk",
     "sources": [
       "gradcracker",
       "higherin"
@@ -147,6 +159,7 @@
     "name": "Arcadis",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "desk",
     "sources": [
       "gradcracker",
       "higherin"
@@ -159,6 +172,7 @@
     "name": "AtkinsRealis",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "desk",
     "sources": [
       "gradcracker",
       "higherin"
@@ -171,6 +185,7 @@
     "name": "Skanska",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "higherin"
     ],
@@ -182,6 +197,7 @@
     "name": "BAM",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "higherin"
     ],
@@ -193,6 +209,7 @@
     "name": "Transport for London",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "field",
     "sources": [
       "higherin"
     ],
@@ -204,6 +221,7 @@
     "name": "Anglian Water",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "field",
     "sources": [
       "higherin"
     ],
@@ -215,6 +233,7 @@
     "name": "Environment Agency",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "mixed",
     "sources": [
       "higherin"
     ],
@@ -226,6 +245,7 @@
     "name": "Amey",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "field",
     "sources": [
       "higherin"
     ],
@@ -237,6 +257,7 @@
     "name": "Colas Rail",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "gradcracker",
       "higherin"
@@ -249,6 +270,7 @@
     "name": "John Sisk & Son",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "higherin"
     ],
@@ -260,6 +282,7 @@
     "name": "AECOM",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "desk",
     "sources": [
       "gradcracker"
     ],
@@ -271,6 +294,7 @@
     "name": "Farrans Construction",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "gradcracker"
     ],
@@ -282,6 +306,7 @@
     "name": "GRAHAM",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "gradcracker"
     ],
@@ -293,6 +318,7 @@
     "name": "Multiplex",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "gradcracker"
     ],
@@ -304,6 +330,7 @@
     "name": "Robertson Group",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "gradcracker"
     ],
@@ -315,6 +342,7 @@
     "name": "Severfield",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "gradcracker"
     ],
@@ -326,6 +354,7 @@
     "name": "Soil Engineering",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "gradcracker"
     ],
@@ -337,6 +366,7 @@
     "name": "Stantec",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "desk",
     "sources": [
       "gradcracker"
     ],
@@ -348,6 +378,7 @@
     "name": "STRABAG UK and ZUBLIN",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "gradcracker"
     ],
@@ -359,6 +390,7 @@
     "name": "Thornton Tomasetti",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "desk",
     "sources": [
       "gradcracker"
     ],
@@ -370,6 +402,7 @@
     "name": "Tilbury Douglas",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "gradcracker"
     ],
@@ -381,6 +414,7 @@
     "name": "Vista Civil Engineering",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "gradcracker"
     ],
@@ -392,6 +426,7 @@
     "name": "VolkerWessels UK",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "gradcracker"
     ],
@@ -403,6 +438,7 @@
     "name": "Bouygues UK",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "gradcracker"
     ],
@@ -414,6 +450,7 @@
     "name": "National Highways",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "field",
     "sources": [
       "gradcracker"
     ],
@@ -425,6 +462,7 @@
     "name": "NATS",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "field",
     "sources": [
       "gradcracker"
     ],
@@ -436,6 +474,7 @@
     "name": "United Utilities",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "field",
     "sources": [
       "gradcracker"
     ],
@@ -447,6 +486,7 @@
     "name": "Veolia UK",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "plant",
     "sources": [
       "gradcracker"
     ],
@@ -458,6 +498,7 @@
     "name": "MWH Treatment",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "gradcracker"
     ],
@@ -469,6 +510,7 @@
     "name": "NSG Environmental",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "mixed",
     "sources": [
       "gradcracker"
     ],
@@ -480,6 +522,7 @@
     "name": "Binnies",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "desk",
     "sources": [
       "gradcracker"
     ],
@@ -491,6 +534,7 @@
     "name": "Haskoning",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "desk",
     "sources": [
       "gradcracker"
     ],
@@ -502,6 +546,7 @@
     "name": "Hoare Lea",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "desk",
     "sources": [
       "gradcracker"
     ],
@@ -513,6 +558,7 @@
     "name": "WSP",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "desk",
     "sources": [
       "resources.md"
     ],
@@ -524,6 +570,7 @@
     "name": "HS2",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "site",
     "sources": [
       "resources.md"
     ],
@@ -535,6 +582,7 @@
     "name": "Dalkia Energy Services",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "field",
     "sources": [
       "state-file"
     ],
@@ -546,6 +594,7 @@
     "name": "Pell Frischmann Consultants",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "desk",
     "sources": [
       "state-file"
     ],
@@ -557,6 +606,7 @@
     "name": "National Grid",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "field",
     "sources": [
       "gradcracker",
       "higherin"
@@ -569,6 +619,7 @@
     "name": "NESO",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "desk",
     "sources": [
       "gradcracker",
       "higherin"
@@ -581,6 +632,7 @@
     "name": "Siemens",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker",
       "higherin"
@@ -593,6 +645,7 @@
     "name": "Schneider Electric",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker",
       "higherin"
@@ -605,6 +658,7 @@
     "name": "ScottishPower",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "field",
     "sources": [
       "gradcracker",
       "higherin"
@@ -617,6 +671,7 @@
     "name": "Centrica",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "field",
     "sources": [
       "gradcracker",
       "higherin"
@@ -629,6 +684,7 @@
     "name": "E.ON UK",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "field",
     "sources": [
       "higherin"
     ],
@@ -640,6 +696,7 @@
     "name": "Eaton",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker",
       "higherin"
@@ -652,6 +709,7 @@
     "name": "RWE",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "field",
     "sources": [
       "gradcracker",
       "higherin"
@@ -664,6 +722,7 @@
     "name": "Thales",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "mixed",
     "sources": [
       "gradcracker",
       "higherin"
@@ -676,6 +735,7 @@
     "name": "Arm",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "desk",
     "sources": [
       "higherin"
     ],
@@ -687,6 +747,7 @@
     "name": "National Gas",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "field",
     "sources": [
       "gradcracker"
     ],
@@ -698,6 +759,7 @@
     "name": "GE Vernova",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker"
     ],
@@ -709,6 +771,7 @@
     "name": "SSE",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "field",
     "sources": [
       "gradcracker"
     ],
@@ -720,6 +783,7 @@
     "name": "Seaway7",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "site",
     "sources": [
       "gradcracker"
     ],
@@ -731,6 +795,7 @@
     "name": "Subsea7",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "site",
     "sources": [
       "gradcracker"
     ],
@@ -742,6 +807,7 @@
     "name": "JDR",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker"
     ],
@@ -753,6 +819,7 @@
     "name": "Midsummer Energy",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "site",
     "sources": [
       "gradcracker"
     ],
@@ -764,6 +831,7 @@
     "name": "Aegis Energy",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "site",
     "sources": [
       "gradcracker"
     ],
@@ -775,6 +843,7 @@
     "name": "ABB Ltd",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker"
     ],
@@ -786,6 +855,7 @@
     "name": "Roke",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "desk",
     "sources": [
       "gradcracker"
     ],
@@ -797,6 +867,7 @@
     "name": "BMT",
     "tier": 2,
     "discipline": "electrical",
+    "work_setting": "desk",
     "sources": [
       "gradcracker"
     ],
@@ -808,6 +879,7 @@
     "name": "ExxonMobil",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker"
     ],
@@ -819,6 +891,7 @@
     "name": "INEOS",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker"
     ],
@@ -830,6 +903,7 @@
     "name": "Johnson Matthey",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker"
     ],
@@ -841,6 +915,7 @@
     "name": "GSK",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "lab",
     "sources": [
       "gradcracker",
       "higherin"
@@ -853,6 +928,7 @@
     "name": "Unilever",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker",
       "higherin"
@@ -865,6 +941,7 @@
     "name": "Procter & Gamble",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker"
     ],
@@ -876,6 +953,7 @@
     "name": "BASF",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "higherin"
     ],
@@ -887,6 +965,7 @@
     "name": "Syngenta",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "higherin"
     ],
@@ -898,6 +977,7 @@
     "name": "PepsiCo",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "higherin"
     ],
@@ -909,6 +989,7 @@
     "name": "Nestle",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "higherin"
     ],
@@ -920,6 +1001,7 @@
     "name": "Coca-Cola Europacific Partners",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "higherin"
     ],
@@ -931,6 +1013,7 @@
     "name": "Britvic",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "higherin"
     ],
@@ -942,6 +1025,7 @@
     "name": "Church & Dwight",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "higherin"
     ],
@@ -953,6 +1037,7 @@
     "name": "Jacobs Douwe Egberts",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "higherin"
     ],
@@ -964,6 +1049,7 @@
     "name": "Cargill",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "higherin"
     ],
@@ -975,6 +1061,7 @@
     "name": "British American Tobacco",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "lab",
     "sources": [
       "gradcracker",
       "higherin"
@@ -987,6 +1074,7 @@
     "name": "Vertex Pharmaceuticals",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "lab",
     "sources": [
       "higherin"
     ],
@@ -998,6 +1086,7 @@
     "name": "Pfizer",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "lab",
     "sources": [
       "higherin"
     ],
@@ -1009,6 +1098,7 @@
     "name": "MSD",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "lab",
     "sources": [
       "higherin"
     ],
@@ -1020,6 +1110,7 @@
     "name": "Johnson & Johnson",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "lab",
     "sources": [
       "higherin"
     ],
@@ -1031,6 +1122,7 @@
     "name": "AstraZeneca",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "lab",
     "sources": [
       "higherin"
     ],
@@ -1042,6 +1134,7 @@
     "name": "CooperVision",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "lab",
     "sources": [
       "higherin"
     ],
@@ -1053,6 +1146,7 @@
     "name": "BOC, Linde",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker"
     ],
@@ -1064,6 +1158,7 @@
     "name": "Sulzer",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker"
     ],
@@ -1075,6 +1170,7 @@
     "name": "bp",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1087,6 +1183,7 @@
     "name": "Shell",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1099,6 +1196,7 @@
     "name": "EET Fuels",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker"
     ],
@@ -1110,6 +1208,7 @@
     "name": "Technip Energies",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "mixed",
     "sources": [
       "gradcracker"
     ],
@@ -1121,6 +1220,7 @@
     "name": "SLB",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "field",
     "sources": [
       "gradcracker"
     ],
@@ -1132,6 +1232,7 @@
     "name": "Kent",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "mixed",
     "sources": [
       "gradcracker"
     ],
@@ -1143,6 +1244,7 @@
     "name": "Fluor",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "mixed",
     "sources": [
       "gradcracker"
     ],
@@ -1154,6 +1256,7 @@
     "name": "Morgan Advanced Materials",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker"
     ],
@@ -1165,6 +1268,7 @@
     "name": "Edwards",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker"
     ],
@@ -1176,6 +1280,7 @@
     "name": "Institution of Chemical Engineers (IChemE)",
     "tier": 2,
     "discipline": "chemical",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker"
     ],
@@ -1187,6 +1292,7 @@
     "name": "Airbus",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker"
     ],
@@ -1198,6 +1304,7 @@
     "name": "BAE Systems",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1210,6 +1317,7 @@
     "name": "BAE Systems Maritime Services",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "plant",
     "sources": [
       "state-file"
     ],
@@ -1221,6 +1329,7 @@
     "name": "AWE",
     "tier": 3,
     "discipline": "other",
+    "work_setting": "plant",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1233,6 +1342,7 @@
     "name": "Tetra Tech",
     "tier": 1,
     "discipline": "civil",
+    "work_setting": "desk",
     "sources": [
       "gradcracker"
     ],
@@ -1244,6 +1354,7 @@
     "name": "Dyson Institute of Engineering and Technology",
     "tier": 0,
     "discipline": "mechanical",
+    "work_setting": "n/a",
     "sources": [
       "higherin"
     ],
@@ -1255,6 +1366,7 @@
     "name": "GE Aerospace",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1267,6 +1379,7 @@
     "name": "Leonardo",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1279,6 +1392,7 @@
     "name": "Frazer-Nash Consultancy",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "desk",
     "sources": [
       "gradcracker"
     ],
@@ -1290,6 +1404,7 @@
     "name": "GKN Aerospace",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "plant",
     "sources": [
       "resources.md"
     ],
@@ -1301,6 +1416,7 @@
     "name": "L3Harris",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "plant",
     "sources": [
       "state-file"
     ],
@@ -1312,6 +1428,7 @@
     "name": "QinetiQ",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "mixed",
     "sources": [
       "state-file"
     ],
@@ -1323,6 +1440,7 @@
     "name": "MBDA UK",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker"
     ],
@@ -1334,6 +1452,7 @@
     "name": "JLR",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "plant",
     "sources": [
       "higherin"
     ],
@@ -1345,6 +1464,7 @@
     "name": "JCB",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "plant",
     "sources": [
       "higherin"
     ],
@@ -1356,6 +1476,7 @@
     "name": "Cummins",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1368,6 +1489,7 @@
     "name": "Scania",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "plant",
     "sources": [
       "higherin"
     ],
@@ -1379,6 +1501,7 @@
     "name": "Boeing UK",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "plant",
     "sources": [
       "higherin"
     ],
@@ -1390,6 +1513,7 @@
     "name": "Worcester Bosch Group",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "plant",
     "sources": [
       "higherin"
     ],
@@ -1401,6 +1525,7 @@
     "name": "BSH",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "plant",
     "sources": [
       "higherin"
     ],
@@ -1412,6 +1537,7 @@
     "name": "ASSA ABLOY",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "plant",
     "sources": [
       "higherin"
     ],
@@ -1423,6 +1549,7 @@
     "name": "Caterpillar UK Ltd",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker"
     ],
@@ -1434,6 +1561,7 @@
     "name": "Capgemini Engineering",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "desk",
     "sources": [
       "gradcracker"
     ],
@@ -1445,6 +1573,7 @@
     "name": "Honeywell Aerospace",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "plant",
     "sources": [
       "gradcracker"
     ],
@@ -1456,6 +1585,7 @@
     "name": "Amentum",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "mixed",
     "sources": [
       "gradcracker"
     ],
@@ -1467,6 +1597,7 @@
     "name": "Aureos",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "desk",
     "sources": [
       "gradcracker"
     ],
@@ -1478,6 +1609,7 @@
     "name": "RINA Consulting",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "desk",
     "sources": [
       "gradcracker"
     ],
@@ -1489,6 +1621,7 @@
     "name": "DNV",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "desk",
     "sources": [
       "gradcracker"
     ],
@@ -1500,6 +1633,7 @@
     "name": "BIP.Verco",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "desk",
     "sources": [
       "gradcracker"
     ],
@@ -1511,6 +1645,7 @@
     "name": "Martin-Baker",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "plant",
     "sources": [
       "resources.md"
     ],
@@ -1522,6 +1657,7 @@
     "name": "SETA",
     "tier": 3,
     "discipline": "mechanical",
+    "work_setting": "plant",
     "sources": [
       "state-file"
     ],
@@ -1533,6 +1669,7 @@
     "name": "Sellafield Ltd",
     "tier": 4,
     "discipline": "nuclear",
+    "work_setting": "plant",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1545,6 +1682,7 @@
     "name": "Babcock International Group",
     "tier": 4,
     "discipline": "nuclear",
+    "work_setting": "plant",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1557,6 +1695,7 @@
     "name": "EDF Energy",
     "tier": 4,
     "discipline": "nuclear",
+    "work_setting": "plant",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1569,6 +1708,7 @@
     "name": "Rolls-Royce",
     "tier": 4,
     "discipline": "nuclear",
+    "work_setting": "plant",
     "sources": [
       "gradcracker"
     ],
@@ -1580,6 +1720,7 @@
     "name": "UK Atomic Energy Authority",
     "tier": 4,
     "discipline": "nuclear",
+    "work_setting": "mixed",
     "sources": [
       "gradcracker"
     ],
@@ -1591,6 +1732,7 @@
     "name": "Sizewell C",
     "tier": 4,
     "discipline": "nuclear",
+    "work_setting": "site",
     "sources": [
       "gradcracker"
     ],
@@ -1602,6 +1744,7 @@
     "name": "Ministry of Defence - Submarine Delivery Agency",
     "tier": 4,
     "discipline": "nuclear",
+    "work_setting": "mixed",
     "sources": [
       "higherin"
     ],
@@ -1613,6 +1756,7 @@
     "name": "UK National Nuclear Laboratory",
     "tier": 4,
     "discipline": "nuclear",
+    "work_setting": "lab",
     "sources": [
       "gradcracker"
     ],
@@ -1624,6 +1768,7 @@
     "name": "Nuclear Decommissioning Authority Group",
     "tier": 4,
     "discipline": "nuclear",
+    "work_setting": "mixed",
     "sources": [
       "gradcracker"
     ],
@@ -1635,6 +1780,7 @@
     "name": "Nuclear Graduates",
     "tier": 4,
     "discipline": "nuclear",
+    "work_setting": "mixed",
     "sources": [
       "gradcracker"
     ],
@@ -1646,6 +1792,7 @@
     "name": "Dstl",
     "tier": 5,
     "discipline": "other",
+    "work_setting": "lab",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1658,6 +1805,7 @@
     "name": "MI5, MI6 and GCHQ",
     "tier": 5,
     "discipline": "other",
+    "work_setting": "desk",
     "sources": [
       "gradcracker"
     ],
@@ -1669,6 +1817,7 @@
     "name": "British Army",
     "tier": 5,
     "discipline": "other",
+    "work_setting": "field",
     "sources": [
       "higherin"
     ],
@@ -1680,6 +1829,7 @@
     "name": "Royal Navy",
     "tier": 5,
     "discipline": "other",
+    "work_setting": "field",
     "sources": [
       "state-file"
     ],
@@ -1691,6 +1841,7 @@
     "name": "Royal Air Force",
     "tier": 5,
     "discipline": "other",
+    "work_setting": "field",
     "sources": [
       "gradcracker"
     ],
@@ -1702,6 +1853,7 @@
     "name": "3M",
     "tier": 5,
     "discipline": "other",
+    "work_setting": "plant",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1714,6 +1866,7 @@
     "name": "Maersk",
     "tier": 5,
     "discipline": "other",
+    "work_setting": "field",
     "sources": [
       "higherin"
     ],
@@ -1725,6 +1878,7 @@
     "name": "Perenco",
     "tier": 5,
     "discipline": "other",
+    "work_setting": "plant",
     "sources": [
       "gradcracker"
     ],
@@ -1736,6 +1890,7 @@
     "name": "OCU Group",
     "tier": 5,
     "discipline": "other",
+    "work_setting": "site",
     "sources": [
       "gradcracker"
     ],
@@ -1747,6 +1902,7 @@
     "name": "Medical Research Council",
     "tier": 5,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker"
     ],
@@ -1758,6 +1914,7 @@
     "name": "Met Office",
     "tier": 5,
     "discipline": "other",
+    "work_setting": "desk",
     "sources": [
       "resources.md"
     ],
@@ -1769,6 +1926,7 @@
     "name": "UK Space Agency",
     "tier": 5,
     "discipline": "other",
+    "work_setting": "desk",
     "sources": [
       "resources.md"
     ],
@@ -1780,6 +1938,7 @@
     "name": "HMRC",
     "tier": 5,
     "discipline": "other",
+    "work_setting": "desk",
     "sources": [
       "state-file"
     ],
@@ -1791,6 +1950,7 @@
     "name": "DVSA",
     "tier": 5,
     "discipline": "other",
+    "work_setting": "field",
     "sources": [
       "higherin"
     ],
@@ -1802,6 +1962,7 @@
     "name": "Civil Service Career Launch",
     "tier": 5,
     "discipline": "other",
+    "work_setting": "desk",
     "sources": [
       "state-file"
     ],
@@ -1813,6 +1974,7 @@
     "name": "Civil Service Fast Track",
     "tier": 5,
     "discipline": "other",
+    "work_setting": "desk",
     "sources": [
       "state-file"
     ],
@@ -1824,6 +1986,7 @@
     "name": "CBRE Group",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1836,6 +1999,7 @@
     "name": "Charles River",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1848,6 +2012,7 @@
     "name": "Barratt Redrow",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1860,6 +2025,7 @@
     "name": "FCDO Services",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1872,6 +2038,7 @@
     "name": "JLES Group",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1884,6 +2051,7 @@
     "name": "GTR/Govia Thameslink Railway",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1896,6 +2064,7 @@
     "name": "Knorr-Bremse Rail Systems",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1908,6 +2077,7 @@
     "name": "IMI",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1920,6 +2090,7 @@
     "name": "STFC",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1932,6 +2103,7 @@
     "name": "John Lewis Partnership",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1944,6 +2116,7 @@
     "name": "Specsavers",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1956,6 +2129,7 @@
     "name": "Boots",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1968,6 +2142,7 @@
     "name": "Cala Group",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1980,6 +2155,7 @@
     "name": "Ridge",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -1992,6 +2168,7 @@
     "name": "CBG Consultants",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2004,6 +2181,7 @@
     "name": "Cundall",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2016,6 +2194,7 @@
     "name": "Atelier Ten",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2028,6 +2207,7 @@
     "name": "Sygna",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2040,6 +2220,7 @@
     "name": "Tarmac",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2052,6 +2233,7 @@
     "name": "Holcim",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2064,6 +2246,7 @@
     "name": "Genuit Group",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2076,6 +2259,7 @@
     "name": "Epwin Group",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2088,6 +2272,7 @@
     "name": "Flannery Plant Hire",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2100,6 +2285,7 @@
     "name": "Stanmore",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2112,6 +2298,7 @@
     "name": "Creator Scaffold Designs",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2124,6 +2311,7 @@
     "name": "Aurora Energy Research",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2136,6 +2324,7 @@
     "name": "Ofgem",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2148,6 +2337,7 @@
     "name": "Risktec Solutions",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2160,6 +2350,7 @@
     "name": "KBC",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2172,6 +2363,7 @@
     "name": "Valpak",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2184,6 +2376,7 @@
     "name": "Zestec",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2196,6 +2389,7 @@
     "name": "Energy Innovation Centre",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2208,6 +2402,7 @@
     "name": "EnerHy CDT",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2220,6 +2415,7 @@
     "name": "Switch2 Energy",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2232,6 +2428,7 @@
     "name": "Amazon",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2244,6 +2441,7 @@
     "name": "Tesco",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2256,6 +2454,7 @@
     "name": "Aston Martin Aramco",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2268,6 +2467,7 @@
     "name": "Cisco",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2280,6 +2480,7 @@
     "name": "McLaren Automotive",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"
@@ -2292,6 +2493,7 @@
     "name": "Mercedes-AMG PETRONAS F1",
     "tier": 0,
     "discipline": "other",
+    "work_setting": "n/a",
     "sources": [
       "gradcracker",
       "higherin"

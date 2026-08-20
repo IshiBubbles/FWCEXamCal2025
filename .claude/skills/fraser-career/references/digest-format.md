@@ -24,7 +24,7 @@ CLOSING SOON (next 14 days)
 - {employer} — {role} — closes {date} — {link}
 
 NEW SINCE LAST RUN
-- {employer} — {role} (Tier {n}, {discipline}) — {level} — {town}, {n} mi — {link}
+- {employer} — {role} (Tier {n}, {discipline}, {work_setting}) — {level} — {town}, {n} mi — {link}
 
 TIER 1 AND 2 — what changed
 - {employer}: {what changed}
@@ -41,6 +41,10 @@ REGISTRATIONS — {n} of {n} done
 DO THESE NEXT
 1-3 concrete actions, most urgent first
 ```
+
+Show `work_setting` on every new opportunity, and flag it explicitly when a Tier 1 role turns
+out to be `desk` — that is the single most useful thing a digest can tell Fraser about a civil
+vacancy, because the tier alone hides it.
 
 Omit a section rather than writing "nothing to report" under it. An empty NEW SINCE LAST
 RUN is normal and is not a failure.

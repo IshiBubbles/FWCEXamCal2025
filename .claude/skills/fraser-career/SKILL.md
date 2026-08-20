@@ -6,10 +6,8 @@ allowed-tools: WebSearch, WebFetch, Read, Write, Edit
 
 # Fraser's Career
 
-One skill for the whole search. It replaces three that used to overlap: `fraser-career-watch`,
-`southampton-apprenticeship-watch` (an obsolete predecessor whose Excel state store no longer
-exists) and `fraser-statement-coach`. If either of those two still appears in a skill list,
-they are retired — this file is the current one.
+One skill for the whole search — the watch, the application register and the statement
+coaching in one place.
 
 ## Who this is for
 
@@ -43,6 +41,11 @@ every result, because relocation versus commute changes whether something is via
 
 Re-litigating these wastes the digest's most valuable space.
 
+- **Fraser wants to be a boots-on-the-ground engineer, not behind a desk** (confirmed Aug
+  2026). Site, plant and field work are the target; office-based design and consultancy work
+  are against the preference. Every employer row carries a `work_setting` tag for this. It is
+  a tag, not a veto — desk-based employers stay on the list, they are just not what he is
+  aiming at, and a digest should say so rather than presenting them neutrally.
 - **Nationality and date of birth both clear the eligibility gates** (confirmed Aug 2026).
   AWE's British-citizenship and 18-by-31-August requirements, Dstl/MOD/GCHQ's no-dual-nationality
   and 5-year-residency rules, and BAE's 5–10 year continuous residency rule are all satisfied.
@@ -72,6 +75,7 @@ Three files, three questions.
 | `career-watch/state/opportunities.json` | What is live, and when does it open and close? |
 | `career-watch/state/applications.json` | What has Fraser actually done? |
 | `career-watch/state/pilot.json` | The cadet schemes — separate because they carry cost, funding and medical fields |
+| `career-watch/research/*.md` | What each company does, what it is currently working on, and its stated person-spec criteria — the material an application is written from |
 
 `career-watch/state/archive/` holds superseded files. Do not read them for current state.
 
@@ -81,6 +85,11 @@ is `confirmed` · `inferred` · `unconfirmed` · `conflicting`, sitting alongsid
 `applied` · `rejected` · `offer` · `withdrawn`. `opens` uses `YYYY-MM-DD` when a day is
 known and `YYYY-MM` when only a month is — never invent a day to look precise, and never
 put a word like "autumn" in a date field; that belongs in `notes`.
+
+`work_setting` is one of `site` · `plant` · `field` · `mixed` · `desk` · `lab` (`n/a` for cut
+companies). Assign it from evidence about the actual apprenticeship route, not from the
+company's sector label — a contractor can run a desk-based design scheme and a consultancy can
+run a genuinely site-based one.
 
 `last_checked` on an employer row is what makes "have we ever looked at this one?" answerable
 for all 200, not just the researched 50. Update it whenever you check a company, even if
@@ -110,10 +119,18 @@ motivation, drafting, review, status check) and its own working file,
 use. Supporting references: `signs-of-ai-writing.md`, `strong-examples.md`,
 `statement-research.md`.
 
-Before a coaching session, read `applications.json` — coaching for an employer Fraser is
-actually applying to beats coaching in the abstract, and a deadline inside two weeks
-changes what is worth working on. This cross-awareness is the reason the coach lives here
-rather than in its own skill.
+**Start from the employer's own criteria, not from generic engineering virtues.** Before
+drafting for a named employer, read their dossier in `career-watch/research/` and
+`career-watch/research/criteria-index.md`, then work criterion by criterion: match each to a
+banked STAR moment and name the ones with no evidence behind them yet. Respect the provenance
+tags — a `[verbatim]` criterion is the employer's own wording and can be mirrored; a
+`[paraphrased]` one is a hint about what they want and must not be quoted back at them; a
+`[not found]` one means work from banked evidence and say the person-spec is unknown.
+**Never invent a criterion.**
+
+Also read `applications.json` — coaching for an employer Fraser is actually applying to beats
+coaching in the abstract, and a deadline inside two weeks changes what is worth working on.
+This cross-awareness is the reason the coach lives here rather than in its own skill.
 
 ## The watch routine
 
@@ -155,6 +172,9 @@ days. Append new opportunities with today's date; never delete closed ones — k
 history, just stop flagging them as new. Update `last_checked` on the employer rows you
 touched.
 
+If a new opportunity appears for a company with no dossier in `career-watch/research/`, write
+one — the research is what makes the opportunity actionable rather than just visible.
+
 Then write `career-watch/digests/YYYY-MM-DD.md`, `career-watch/digests/YYYY-MM-DD.html`,
 and overwrite `career-watch/digests/latest-email.html` with the same HTML. The workflow
 emails that fixed path, so its name cannot change. See `references/digest-format.md`.
@@ -190,8 +210,14 @@ CV upload — one page is enough), **Airbus opens October 2026** with no closing
 **Babcock opens October 2026**, **GE Aerospace 8 October** (Dowty and Feltham),
 **both WSP Southampton roles** — the only genuinely local degree-level civil matches found.
 
-**Registrations are the weak point: 5 of 65 items are ticked.** Of the four primary
-sources only Gradcracker is done. Higherin is not — and `registrations.md` itself calls it
-the biggest gap in the setup. The Amazing Apprenticeships subscription is not done either,
-which means October's bumper listing has to be remembered manually in the busiest month.
-Surface this in every digest with the count and the items that have a clock on them.
+**Registrations are still the weak point: 6 of 65 items are ticked.** Gradcracker and Amazing
+Apprenticeships are both done — the latter means October's bumper Higher & Degree listing will
+arrive automatically. **Higherin is still outstanding** and remains the biggest single gap:
+four of Fraser's five shortlisted roles came from it. GOV.UK Find an Apprenticeship is also
+outstanding. Surface the count and the items with a clock on them in every digest.
+
+**One tension to leave visible rather than resolve.** The boots-on-ground preference and the
+best local option point in opposite directions: WSP's two Southampton vacancies are the only
+genuinely local degree-level civil roles found anywhere, and they are design work. Adam's
+call (Aug 2026) is to keep them a priority but establish how much site time they actually
+carry before deciding. Do not quietly resolve this either way.

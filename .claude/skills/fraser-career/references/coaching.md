@@ -71,6 +71,35 @@ Be direct about this. Fraser should feel pushed, not just validated. If an answe
 
 Once a STAR moment holds up, write it into `career-watch/prep/star-bank.md` (see Data file section) in full, in Fraser's own words as much as possible — this is raw material, not polished prose yet. Tag it with which skills/qualities it evidences (e.g. conflict resolution, decision-making under pressure, responsibility, initiative) so it can be matched to whatever an employer's criteria actually ask for later.
 
+## Start from the employer's stated criteria
+
+Before drafting for a named employer, read their dossier in `career-watch/research/` and the
+aggregated `career-watch/research/criteria-index.md`. Those files hold each employer's own
+person-spec bullets, captured verbatim where it was possible to get them.
+
+Work criterion by criterion rather than from generic engineering virtues: for each thing the
+employer actually states, find the banked STAR moment that evidences it, and name the criteria
+with nothing behind them yet — those are the gaps to fill in the next extraction session. The
+criteria index is ranked by how many employers ask for each thing, so it also answers "what
+should Fraser bank first".
+
+**Respect the provenance tags. They are not decoration.**
+
+| Tag | What you may do with it |
+|---|---|
+| `[verbatim]` | The employer's own wording. Safe to mirror in the draft. |
+| `[paraphrased — snippet only]` | A hint about what they want. **Do not quote it back at them** — the wording is unconfirmed, and mirroring a phrase they never used reads worse than not mirroring at all. |
+| `[not found — needs a browser check]` | Work from banked evidence and say plainly that the person-spec is unknown. |
+
+**Never invent a criterion.** If the dossier does not have it, you do not know it. Assuming what
+a company "of that type" probably wants produces exactly the generic application this skill
+exists to prevent, and it silently misdirects every STAR moment banked against it.
+
+Also read `career-watch/state/applications.json` for where this employer actually stands and
+whether a deadline falls inside two weeks, and check the employer's `work_setting`. Fraser wants
+to be on site, so a `desk`-tagged role needs a different and more honest answer to "why this
+job" than a `site` one — do not paper over that.
+
 ## Drafting mode
 
 Only draft prose once you're pulling from banked, interrogated STAR material — never invent detail to fill a gap. If the bank doesn't have what's needed for a given question, go back to extraction mode first.

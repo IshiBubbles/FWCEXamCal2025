@@ -255,6 +255,35 @@ What BAT Southampton actually offers is **12-month undergraduate placements** (P
 
 ---
 
+## 🥾 Boots on the ground, not behind a desk
+
+Confirmed by Adam, **20 August 2026** — the most useful preference signal so far, and it cuts
+across the tier system. Fraser wants to be a **site engineer**, out on the job, rather than
+doing office-based design.
+
+Every row in `state/employers.json` now carries a `work_setting` tag: `site`, `plant`, `field`,
+`mixed`, `desk` or `lab`. Of the 159 live employers, **108 are boots-on-ground** (site, plant or
+field), 12 are mixed, and 39 are desk or lab. So the preference narrows the list usefully
+without gutting it.
+
+**It is a tag, not a veto.** Tier still leads and nothing was demoted for being desk-based —
+Arup, Arcadis, Mott MacDonald, AECOM, Stantec and the rest stay live options. The point is that
+the split is now visible, so a Tier 1 civil vacancy that turns out to be design work says so
+instead of looking identical to a contractor's site role.
+
+> ⚠️ **The one real tension: WSP.** Its two Southampton vacancies are the only genuinely local
+> degree-level civil engineering roles found anywhere in this search — and they are consultancy
+> design work (Planning Development; Building Structures). Local versus on-site pull in opposite
+> directions here. **Adam's call: keep them a priority, but establish how much site time they
+> actually involve before deciding.** That question is being researched. It should be Fraser's
+> decision made knowingly, not something a ranking rule quietly settles.
+
+Where the reasoning behind each tag lives: `career-watch/research/` — a dossier per company with
+what they do, what they are currently working on, their stated person-spec criteria, and an
+honest fit read.
+
+---
+
 ## ✅ Two things that were open, now settled
 
 Both of the eligibility gates flagged in the 17 August refresh were checked with Adam on

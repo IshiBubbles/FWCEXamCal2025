@@ -41,8 +41,8 @@ January, April.** October is the bumper edition — October 2025 carried 1,600+ 
 across 50+ employers including EDF and MBDA.
 
 The **Vacancy Snapshot** subscription at `amapps.uk/vacancies` is how that arrives
-automatically. It is not subscribed. Until it is, the densest listing of the entire cycle
-has to be remembered manually, in the month Fraser will be busiest.
+automatically, and it **is** subscribed (confirmed Aug 2026) — so the October edition should
+land without anyone having to remember it.
 
 Also useful: their step-by-step application guide, "get ready to apply" checklist, and
 employer-led webinars.

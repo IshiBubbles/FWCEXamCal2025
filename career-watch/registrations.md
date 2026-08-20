@@ -1,12 +1,13 @@
 # Registration Checklist
 
-> **Last synced: 20 August 2026.** 5 of 65 items ticked.
-> Of the four primary sources, only **Gradcracker** is done. **Higherin is still not set up**
-> and this file itself calls it the biggest gap in the whole setup — it is the only aggregator
-> of the live "Register Your Interest 2027" listings. **GOV.UK Find an Apprenticeship** and the
-> **Amazing Apprenticeships Vacancy Snapshot** are also outstanding; that last one is how
-> October's bumper listing (1,600+ vacancies) arrives automatically, so leaving it means
-> remembering it manually in the busiest month of the cycle.
+> **Last synced: 20 August 2026.** 6 of 65 items ticked.
+> Two of the four primary sources are done: **Gradcracker** (93 employers followed, alerts
+> active) and **Amazing Apprenticeships** (subscribed — the next Higher & Degree Vacancy
+> Listing is expected in October, and it is the bumper edition of the year).
+> Still outstanding: **Higherin**, which this file itself calls the biggest gap in the whole
+> setup — it is the only aggregator of the live "Register Your Interest 2027" listings and it
+> is where four of Fraser's five shortlisted roles came from. Also **GOV.UK Find an
+> Apprenticeship** (account plus a saved search, Southampton 25 miles).
 >
 > Re-sync this file before each phase boundary. The digest reports the checkbox state and never
 > ticks anything itself — only Fraser or Adam should tick.
@@ -25,7 +26,7 @@ Sites and accounts Fraser should register on, ordered by value. Tick a box only 
   *Local group training association at Millbrook, inside Southampton. Craft/advanced level only (L3/4) — not degree-level. Register only if degree-level applications don't progress.*
 - [ ] **UCAS Smart Alerts** → [ucas.com/apprenticeships/subscribe-alerts](https://www.ucas.com/apprenticeships/subscribe-alerts)
   *Best filtering of any board. Set interest + location + travel radius.*
-- [ ] **Amazing Apprenticeships "Vacancy Snapshot"** → [amapps.uk/vacancies](https://amapps.uk/vacancies)
+- [x] **Amazing Apprenticeships "Vacancy Snapshot"** → [amapps.uk/vacancies](https://amapps.uk/vacancies)
   *This is how the October bumper Higher & Degree Listing arrives automatically.*
 - [ ] **GOV.UK Find an Apprenticeship — account + saved search** → [findapprenticeship.service.gov.uk](https://www.findapprenticeship.service.gov.uk)
   *Southampton, 25-mile radius, all sectors, email alerts on.*
