@@ -111,6 +111,21 @@ Southampton/Portsmouth/Solent is a genuine defence cluster, so these are worth m
 | Pell Frischmann | https://www.pellfrischmann.com/careers |
 | Dalkia (EDF Group) | https://www.dalkia.co.uk/careers |
 | Siemens UK | https://www.siemens.com/uk/en/company/jobs.html |
+| **Tetra Tech** | https://www.gradcracker.com/hub/1108/tetra-tech/degree-apprenticeship/81851/degree-apprentice-civil-engineer-renewable-energy-infrastructure |
+| **Transport for London** | https://higherin.com/jobs/43598/transport-for-london/register-your-interest-degree-apprenticeships-2027 |
+| **Arcadis** | https://higherin.com/jobs/43391/arcadis/register-your-interest-civil-engineer-degree-apprenticeship-2027 |
+| **AECOM** | https://aecom.com/uk-ireland-apprentice-careers/ |
+| **Thames Water** | https://www.gradcracker.com/hub/877/thames-water/degree-apprenticeship/79554/civil-engineering-degree-level-6-apprentice |
+| **Balfour Beatty** | https://www.balfourbeatty.com/careers/early-careers/apprentices/ |
+| **Kier Group** | https://jobs.kier.co.uk/apprenticeships |
+| **Laing O'Rourke** | https://careers.laingorourke.com/professional-apprenticeships |
+| **Amey Consulting** | https://careers.amey.co.uk/go/Apprenticeship-Programmes/9148155/ |
+| **National Highways** | https://careers.nationalhighways.co.uk/graduates-placements-and-apprenticeships/apprenticeships/civil-engineering-degree-apprenticeship/ |
+| **Skanska UK** | https://www.skanska.co.uk/about-skanska/careers/early-careers/ |
+| **HS2** | https://www.hs2.org.uk/about-us/documents/hs2-apprentice-programme-frequently-asked-questions-faqs/ |
+| **Costain** | https://www.gradcracker.com/hub/249/costain-group/degree-apprenticeship/78975/degree-apprentice-civil-and-structural-engineer |
+| **Mace** | https://careers.macegroup.com/emerging-talent |
+| **Galliford Try** | https://careers.gallifordtry.co.uk/career-stage/apprenticeships/ |
 
 ## 5. Pilot pathway
 | Scheme | URL |

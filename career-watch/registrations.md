@@ -55,6 +55,37 @@ Sites and accounts Fraser should register on, ordered by value. Tick a box only 
 - [ ] [Network Rail — Register Your Interest Degree Apprenticeships 2027](https://higherin.com/jobs/43329/network-rail/register-your-interest-degree-apprenticeships-2027)
   *Live now on Higherin. Register interest form. (Already registered via employer portal, but confirm on Higherin too.)*
 
+## 🏗️ Civil engineering — expanded list (per discipline ranking, added 20 Aug 2026)
+
+- [ ] **[WSP — Civil Engineering Degree Apprentice, Southampton (Planning Development)](https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC1000346490)**
+  🟢 **Top priority — genuinely local, not relocation.** Found directly on GOV.UK.
+- [ ] **[WSP — Civil Engineering Degree Apprentice, Southampton (Building Structures)](https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC1000300404)**
+  🟢 Second Southampton-based WSP role — apply to both.
+- [ ] [AECOM — UK & Ireland apprentice careers](https://aecom.com/uk-ireland-apprentice-careers/)
+  Civil Engineering Apprentice (Water) found at Basingstoke — genuinely commutable (~35mi).
+- [ ] [Thames Water — Civil Engineering Level 6 Degree Apprentice](https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC2000020359)
+  Reading-based, hybrid. Eligibility (112 UCAS points incl. Maths + Chemistry/Physics) matches his A-levels well.
+- [ ] [Balfour Beatty — early careers apprentices](https://www.balfourbeatty.com/careers/early-careers/apprentices/)
+  Follow on [GradCracker](https://www.gradcracker.com/hub/92/balfour-beatty/search/degree-apprenticeships) — they explicitly offer an alert service.
+- [ ] [Kier Group — apprenticeships](https://jobs.kier.co.uk/apprenticeships)
+  £22,000/yr, needs 96 UCAS points incl. Maths or Physics.
+- [ ] [Laing O'Rourke — professional apprenticeships](https://careers.laingorourke.com/professional-apprenticeships)
+  Partnered with University of Exeter — South West bias.
+- [ ] [Amey Consulting — apprenticeship programmes](https://careers.amey.co.uk/go/Apprenticeship-Programmes/9148155/)
+  Recent roles in Crawley.
+- [ ] [National Highways — Civil Engineering Degree Apprenticeship](https://careers.nationalhighways.co.uk/graduates-placements-and-apprenticeships/apprenticeships/civil-engineering-degree-apprenticeship/)
+  ⚠️ Window unclear — check directly. Manages South East roads incl. M27/M3.
+- [ ] [Skanska UK — early careers](https://www.skanska.co.uk/about-skanska/careers/early-careers/)
+  ⚠️ Requires 3 years' continuous UK residency.
+- [ ] [HS2 — apprenticeships FAQ](https://www.hs2.org.uk/about-us/documents/hs2-apprentice-programme-frequently-asked-questions-faqs/)
+  ⚠️ Often runs via construction JV partners, not HS2 Ltd directly — check who's hiring.
+- [ ] [Costain — apprenticeships](https://www.gradcracker.com/hub/249/costain-group/degree-apprenticeship/78975/degree-apprentice-civil-and-structural-engineer)
+- [ ] [Mace — emerging talent](https://careers.macegroup.com/emerging-talent)
+  ⚠️ Mace Consult demerged from Mace Group (March 2026) — confirm which entity runs the scheme before applying.
+- [ ] [Galliford Try — apprenticeships](https://careers.gallifordtry.co.uk/career-stage/apprenticeships/)
+  Recent listing found was Scotland-based.
+- ~~Southern Water~~ — no Level 6 civil engineering degree apprenticeship could be confirmed to exist; only a closed Level 3 listing found.
+
 ## Rolling — apply any time, no window
 - [ ] [Royal Navy Accelerated Apprentice](https://www.royalnavy.mod.uk/careers/roles/accelerated-apprentice-scheme-weapon-engineering) — **the A-level route**: join two ranks higher
 - [ ] [British Army](https://www.army.mod.uk/careers) — Ammunition Technician, Intelligence Analyst, Network Engineer

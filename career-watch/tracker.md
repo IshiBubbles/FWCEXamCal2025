@@ -100,6 +100,42 @@ Fraser has identified five specific roles worth pursuing, all with a civil/infra
 
 ---
 
+## 🏗️ Civil engineering — expanded list, per Fraser's #1 discipline ranking
+
+Researched **20 August 2026** in response to his discipline ranking (civil #1). All confirmed to run a genuine Level 6 civil engineering degree apprenticeship (not just an "engineering" title that turns out mechanical/electrical) unless flagged otherwise. **Most 2027 windows have not yet published — treat all dates below as inferred from the 2026 cycle unless marked confirmed.**
+
+### Genuinely local or short-commute from Southampton
+| Employer | Status | Location |
+|---|---|---|
+| **WSP** | 🟢 **Best local match found.** Two Southampton-based Civil Engineering Degree Apprentice roles (Planning Development; Building Structures) — see Track 1 table above. | **Southampton — local** |
+| **AECOM** | Civil Engineering Apprentice (Water) found at Basingstoke, "Summer 2026 starts." UK & Ireland scheme runs L3–L6, up to 100 apprentices/year. | **Basingstoke, ~35mi — genuinely commutable** |
+
+### Relocation-with-lodging distance (worth considering, not a daily commute)
+| Employer | Status | Location |
+|---|---|---|
+| **Thames Water** | Confirmed L6 Civil Engineering Degree Apprentice, BEng (Hons) with LSBU, hybrid (4-day week + 1 training day). 2026 cohort started Sept 2026. Eligibility: 112 UCAS points incl. **Maths + Chemistry or Physics — matches his A-levels well.** | Reading, ~1–1.5hrs — borderline |
+| **Balfour Beatty** | Confirmed L6 Civil Engineer, ~5-year programme to BEng (Hons). Next window inferred **Autumn 2026** (unconfirmed). GradCracker alert service explicitly available. | Past roles found in **Woking** (~1hr) |
+| **Kier Group** | Confirmed Civil Engineer Degree Apprentice with Coventry University, £22,000/yr. Needs 96 UCAS points from 3 A-levels incl. **Maths or Physics**, 4 GCSEs incl. science/English/maths. | Past role at **Hinkley Point, Somerset** |
+| **Laing O'Rourke** | Confirmed Professional Apprenticeship — Technician Engineer (Civil Engineering), partnered with University of Exeter, block release, 5–6 year programme. Needs ABB (128 UCAS points) incl. Maths + a Science, preferably Physics. | South West bias via Exeter partnership |
+| **Amey Consulting** | Confirmed genuine Civil Engineering degree apprenticeship, partnered with Coventry University (some roles now London South Bank), 5-year programme to BEng Hons. | Recent roles in **Crawley** and York |
+
+### Relocation-only, no south coast link found
+| Employer | Status | Location |
+|---|---|---|
+| **National Highways** | Confirmed L6 Civil Engineering Degree Apprenticeship, leads to Chartered Civil Engineer. ⚠️ **Conflicting window information** — one source says Feb 2027, another suggests advertising from Sept 2026 for a Sept 2027 start. On GradCracker. Manages South East roads incl. M27/M3 corridor, but no confirmed Southampton office. | TBC — verify directly |
+| **Skanska UK** | Confirmed Degree Apprentice Civil Engineer, BEng at Coventry University, IEng/MICE route. Needs 112 UCAS points from 3 A-levels/T-Levels/BTECs, 5 GCSEs incl. Maths/English, **3 years' UK residency required.** UK-wide rotational (1–9 month site rotations), relocation allowance offered. | UK-wide — effectively relocation |
+| **HS2** | Apprenticeships continue despite project scope changes (2,000+ apprentices to date). 2026 recruitment opened **9 February 2026**. ⚠️ Often sits with construction partners/JVs (e.g. Balfour Beatty VINCI SYSTRA) rather than HS2 Ltd directly — check which entity is hiring. | Midlands/London-focused |
+| **Costain** | Confirmed Degree Apprentice Civil and Structural Engineer. 2026 cycle launched with ~170 positions across disciplines. On GradCracker. | Not specified — check current vacancies |
+| **Mace** | Civil Engineer degree apprenticeship exists (BSc Hons, ICE route) via Higherin/Student Ladder listings, but less clearly a standalone "civil engineering" title on Mace's own page. ⚠️ **Mace Consult demerged from Mace Group in March 2026 — verify which entity runs apprenticeships now** before applying. | Predominantly **London**-listed roles |
+| **Galliford Try** | Degree-level apprenticeship confirmed to exist; specific "civil engineering" title less clearly surfaced — a 2026 "Apprentice Civil Design Engineer" listing was found in **Scotland**. On GradCracker/Higherin. | No Hampshire presence found |
+
+### Checked and not confirmed to exist
+- **Southern Water** — only a Level 3 ICA Technician apprenticeship found (Millbrook, already closed). **No Level 6 civil engineering degree apprenticeship could be confirmed.** Don't rely on this one without direct verification.
+
+**Recommended next actions:** register interest / set GradCracker alerts on WSP (top priority — genuinely local), AECOM, Thames Water and Balfour Beatty now. Re-check National Highways, Skanska, HS2, Costain, Mace and Galliford Try directly on their own pages in October–November 2026, when 2027 cycles are more likely to have published.
+
+---
+
 ## Track 1 — Engineering apprenticeships
 
 ### Confirmed autumn 2026 openings
@@ -110,7 +146,7 @@ Fraser has identified five specific roles worth pursuing, all with a civil/infra
 | **Babcock International** | 🟠 Opens October 2026 (degree/graduate); December for other levels. Rolling assessment to ~May. Job alerts live. | Devonport/Bristol/Rosyth |
 | **GE Aerospace** | 🟠 Dowty & Feltham **8 Oct**, Cheltenham & Wales **20 Oct**, Prestwick **3 Nov** — most precisely dated employer in the tracker | Relocation |
 | **AtkinsRéalis** | 🟠 Autumn 2026, historically Nov open / end-Feb close. Talent Community + Connectr mentoring both live. | UK-wide |
-| **WSP** | 🟠 Reopens November 2026. Multiple L6 rail and building services routes. | Reading nearest |
+| **WSP** | 🟢 **Two Civil Engineering Degree Apprenticeship roles found directly in Southampton** (Planning Development; Building Structures) on GOV.UK Find an Apprenticeship. 2026 cycle ran Oct 2025–Apr 2026; reopening inferred **November 2026**. Needs BBC A-levels or equiv, GCSE C/5 English/Maths/Science, grade C min in Maths/Further Maths. | **✅ Southampton itself — genuinely local, not relocation** |
 
 ### Autumn 2026 stated but unconfirmed
 | Employer | Status | Local? |
