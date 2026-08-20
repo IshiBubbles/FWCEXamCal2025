@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tetratech_001",
+    "employer": "Tetra Tech",
+    "role": "Degree Apprentice – Civil Engineer, Renewable Energy Infrastructure",
+    "discipline": "civil",
+    "source": "gradcracker",
+    "source_url": "https://www.gradcracker.com/hub/1108/tetra-tech/degree-apprenticeship/81851/degree-apprentice-civil-engineer-renewable-energy-infrastructure",
+    "status": "not_started",
+    "applied_date": null,
+    "notes": "LIVE APPLICATION, not a register-interest form - needs a real submission with CV and personal statement. HIGHEST URGENCY in the whole tracker. Confirm the closing date directly on the page. (Corrected 20 Aug 2026: an earlier version of this file recorded this as already applied, which was not supported by tracker.md or registrations.md - both say it still needs submitting.)",
+    "tier": 1,
+    "last_updated": "2026-08-20"
+  },
+  {
+    "id": "tfl_001",
+    "employer": "Transport for London",
+    "role": "Register Your Interest — Degree Apprenticeships 2027",
+    "discipline": "civil",
+    "source": "higherin",
+    "source_url": "https://higherin.com/jobs/43598/transport-for-london/register-your-interest-degree-apprenticeships-2027",
+    "status": "not_started",
+    "applied_date": null,
+    "notes": "Register-interest form live. Degree-level infrastructure/engineering.",
+    "tier": 1,
+    "last_updated": "2026-08-20"
+  },
+  {
+    "id": "arcadis_001",
+    "employer": "Arcadis",
+    "role": "Register Your Interest — Civil Engineer Degree Apprenticeship 2027",
+    "discipline": "civil",
+    "source": "higherin",
+    "source_url": "https://higherin.com/jobs/43391/arcadis/register-your-interest-civil-engineer-degree-apprenticeship-2027",
+    "status": "not_started",
+    "applied_date": null,
+    "notes": "Register-interest form live. Consultancy-based role.",
+    "tier": 1,
+    "last_updated": "2026-08-20"
+  },
+  {
+    "id": "edf_001",
+    "employer": "EDF Energy",
+    "role": "Register Your Interest — Degree Apprenticeship Programmes 2027",
+    "discipline": "electrical",
+    "source": "higherin",
+    "source_url": "https://higherin.com/jobs/42891/edf-energy/register-your-interest-degree-apprenticeship-programmes-2027",
+    "status": "not_started",
+    "applied_date": null,
+    "notes": "Register-interest form live. Multiple locations (Hinkley, Sizewell). Degree-level.",
+    "tier": 2,
+    "last_updated": "2026-08-20"
+  },
+  {
+    "id": "networkrail_001",
+    "employer": "Network Rail",
+    "role": "Register Your Interest — Degree Apprenticeships 2027",
+    "discipline": "civil",
+    "source": "higherin",
+    "source_url": "https://higherin.com/jobs/43329/network-rail/register-your-interest-degree-apprenticeships-2027",
+    "status": "not_started",
+    "applied_date": null,
+    "notes": "Register-interest form live. Rail infrastructure, UK-wide locations.",
+    "tier": 1,
+    "last_updated": "2026-08-20"
+  }
+]

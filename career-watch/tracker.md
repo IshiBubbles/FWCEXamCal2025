@@ -6,6 +6,15 @@
 
 Companion files: **[resources.md](resources.md)** is the full bookmark backup · **[registrations.md](registrations.md)** is the action checklist · **[reading-plan.md](reading-plan.md)** is the phased plan.
 
+> 🗂️ **Where the data now lives (restructured 20 August 2026).** This file is the human-readable
+> narrative. The machine-readable state moved to a three-layer model under `state/`:
+> **`employers.json`** is the full universe of 200 companies with tier, discipline and a
+> `last_checked` date, so "have we ever looked at this one?" is answerable for all of them;
+> **`opportunities.json`** holds the live roles and their open/close dates; **`applications.json`**
+> records what Fraser has actually applied to. `pilot.json` stays separate because cadet schemes
+> carry cost and funding fields. Superseded files are in `state/archive/`.
+> The three skills that used to overlap are now one: **`fraser-career`**.
+
 ---
 
 ## 🧭 Fraser's discipline preference ranking (read Aug 2026)
@@ -246,10 +255,21 @@ What BAT Southampton actually offers is **12-month undergraduate placements** (P
 
 ---
 
-## 🔎 Two things to resolve now, not in February
+## ✅ Two things that were open, now settled
 
-1. **Verify Fraser's nationality status against the security gates.** Dstl, MOD and GCHQ require UK nationality with **no dual nationality** and 5 years' residency; AWE requires British citizenship; BAE needs 5–10 years' continuous UK residency for many roles. If dual nationality applies, a large part of the defence track evaporates — far better known now than in February 2027.
-2. **Check Fraser's date of birth against the age gates.** AWE requires 18 by **31 August 2027** for a 2027 start; ExxonMobil Fawley requires 18 at the start of employment. Both are hard gates, not preferences.
+Both of the eligibility gates flagged in the 17 August refresh were checked with Adam on
+**20 August 2026** and **both clear**. They are recorded here so they stop consuming
+attention in every digest.
+
+1. **Nationality.** No dual nationality; UK residency requirement met. This keeps the whole
+   defence and security track live — Dstl, MOD, GCHQ, AWE and BAE all had hard gates here
+   (no dual nationality plus 5 years' residency for the first three, British citizenship for
+   AWE, 5–10 years' continuous UK residency for many BAE roles).
+2. **Date of birth.** Clears the age gates — AWE's "18 by 31 August 2027" and ExxonMobil
+   Fawley's "18 at start of employment" are both satisfied.
+
+Nothing further to verify on either. If a scheme states a gate not covered above, check that
+one specifically rather than reopening these.
 
 ---
 

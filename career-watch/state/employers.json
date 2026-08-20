@@ -1,0 +1,2303 @@
+[
+  {
+    "name": "Balfour Beatty",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Confirmed L6 Civil Engineer, ~5yr to BEng (Hons). Past roles Woking (~1hr). Next window inferred autumn 2026. GradCracker alert service available."
+  },
+  {
+    "name": "Costain Group",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Confirmed Degree Apprentice Civil and Structural Engineer. 2026 cycle launched ~170 positions across disciplines."
+  },
+  {
+    "name": "Kier Group",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Confirmed Civil Engineer Degree Apprentice with Coventry University, GBP22,000/yr. Needs 96 UCAS points from 3 A-levels incl. Maths or Physics. Past role Hinkley Point."
+  },
+  {
+    "name": "Laing O'Rourke",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Confirmed Professional Apprenticeship Technician Engineer (Civil), University of Exeter, block release, 5-6 yrs. Needs ABB (128 UCAS) incl. Maths + a Science, preferably Physics. South West bias."
+  },
+  {
+    "name": "Mace Construct",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Civil Engineer degree apprenticeship exists (BSc Hons, ICE route) but less clearly a standalone title on Mace's own page. Mace Consult demerged from Mace Group March 2026 - verify which entity runs apprenticeships. London-listed roles."
+  },
+  {
+    "name": "Galliford Try",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Degree-level apprenticeship confirmed to exist; specific civil engineering title less clear. A 2026 Apprentice Civil Design Engineer listing was found in Scotland. No Hampshire presence found."
+  },
+  {
+    "name": "Network Rail",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "L3 Rail Eng Tech, L6 Elec/Electronic, L6 Civil, L6 Signalling, L6 DTS. 2027 register-interest live and already done via employer portal. Application dates TBC."
+  },
+  {
+    "name": "Thames Water",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Confirmed L6 Civil Engineering Degree Apprentice, BEng (Hons) with LSBU, hybrid 4-day week + 1 training day. 112 UCAS points incl. Maths + Chemistry or Physics - matches Fraser's A-levels well. Reading, ~1-1.5hrs. GOV.UK VAC2000020359."
+  },
+  {
+    "name": "Severn Trent",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Southern Water",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Only a Level 3 ICA Technician apprenticeship found (Millbrook, closed). No L6 civil engineering degree apprenticeship could be confirmed. Struck through in registrations.md; do not rely on without direct verification."
+  },
+  {
+    "name": "Mott MacDonald",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Consultancy - desk-based design. Confirm fit with Fraser before applying."
+  },
+  {
+    "name": "Arup",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Recruited Building Services Electrical L6 AND Civil Engineering L4 in Southampton in 2026 at GBP27-28k - among the highest starting salaries found, and confirms annual Southampton cycles. 2026 cycle closed May 2026."
+  },
+  {
+    "name": "Arcadis",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Register Your Interest - Civil Engineer Degree Apprenticeship 2027 live on Higherin. Consultancy caveat."
+  },
+  {
+    "name": "AtkinsRealis",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Apprenticeships Levels 3-7. Reopen autumn 2026 confirmed; Nov open / end-Feb close inferred from prior cycle. Talent Community + Connectr mentoring both live."
+  },
+  {
+    "name": "Skanska",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Confirmed Degree Apprentice Civil Engineer, BEng at Coventry University, IEng/MICE route. 112 UCAS points from 3 A-levels, 5 GCSEs incl. Maths/English. Requires 3 years UK residency. UK-wide rotational, relocation allowance offered."
+  },
+  {
+    "name": "BAM",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Tier 1 civil from the master list. No state record or bookmark existed before this register - needs a first check."
+  },
+  {
+    "name": "Transport for London",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Register Your Interest - Degree Apprenticeships 2027 live on Higherin."
+  },
+  {
+    "name": "Anglian Water",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Environment Agency",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Amey",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Amey Consulting confirmed genuine Civil Engineering degree apprenticeship, partnered with Coventry University (some roles London South Bank), 5-year programme to BEng Hons. Recent roles Crawley and York."
+  },
+  {
+    "name": "Colas Rail",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "John Sisk & Son",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Company generally is in scope; the QS-route roles specifically are not."
+  },
+  {
+    "name": "AECOM",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "HIGH PRIORITY GAP - was bookmark-only with no state record. Civil Engineering Apprentice (Water) found at Basingstoke ~35mi, genuinely commutable. UK & Ireland scheme runs L3-L6, up to 100 apprentices/year."
+  },
+  {
+    "name": "Farrans Construction",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "GRAHAM",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Multiplex",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Robertson Group",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Severfield",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Structural steel specialist."
+  },
+  {
+    "name": "Soil Engineering",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Geotechnical."
+  },
+  {
+    "name": "Stantec",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Consultancy caveat."
+  },
+  {
+    "name": "STRABAG UK and ZUBLIN",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Thornton Tomasetti",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Structural consultancy."
+  },
+  {
+    "name": "Tilbury Douglas",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Vista Civil Engineering",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "VolkerWessels UK",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Bouygues UK",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "National Highways",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Confirmed L6 Civil Engineering Degree Apprenticeship leading to Chartered Civil Engineer. CONFLICTING window info - one source says Feb 2027, another suggests advertising from Sept 2026 for a Sept 2027 start. Manages South East roads incl. M27/M3 corridor but no confirmed Southampton office."
+  },
+  {
+    "name": "NATS",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Air traffic infrastructure."
+  },
+  {
+    "name": "United Utilities",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Veolia UK",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "MWH Treatment",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "NSG Environmental",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Binnies",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Water/environmental consultancy."
+  },
+  {
+    "name": "Haskoning",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Consultancy caveat."
+  },
+  {
+    "name": "Hoare Lea",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Building services consultancy - check fit."
+  },
+  {
+    "name": "WSP",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "resources.md"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "BEST LOCAL MATCH FOUND. Two Civil Engineering Degree Apprentice roles directly in Southampton: Planning Development (GOV.UK VAC1000346490) and Building Structures (GOV.UK VAC1000300404). Apply to both. 2026 cycle ran Oct 2025-Apr 2026; reopening inferred Nov 2026. Needs BBC A-levels or equiv, GCSE C/5 English/Maths/Science, grade C min in Maths. Not yet followed on GradCracker."
+  },
+  {
+    "name": "HS2",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "resources.md"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Apprenticeships continue despite scope changes (2,000+ to date). 2026 recruitment opened 9 Feb 2026. Often sits with construction partners/JVs (e.g. Balfour Beatty VINCI SYSTRA) rather than HS2 Ltd directly - check which entity is hiring. Midlands/London focused."
+  },
+  {
+    "name": "Dalkia Energy Services",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "state-file"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "EDF Group. Roles found were construction/commercial (Construction Manager / Quantity Surveyor L6) rather than core engineering - lower priority. 2026 cycle closed May 2026."
+  },
+  {
+    "name": "Pell Frischmann Consultants",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "state-file"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Electrical & Electronic L6 / Civil Senior Technician L4. 2026 cycle closed June 2026. Deprioritised - roles were construction/commercial rather than core engineering."
+  },
+  {
+    "name": "National Grid",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "MOST TIME-CRITICAL ITEM. Higher & Degree Apprenticeships (power, electrical, digital) open September 2026. Needs A-levels. No visa sponsorship. Closes early if full - apply day one. Talent pool needs a CV upload (Beamery); one page is enough."
+  },
+  {
+    "name": "NESO",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Power System Engineer Higher Apprenticeship. Excellent Maths/Physics fit. Register-interest live, application dates unpublished."
+  },
+  {
+    "name": "Siemens",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "In resources.md but had no state record before this register."
+  },
+  {
+    "name": "Schneider Electric",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "ScottishPower",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Master list had this twice (Scottish Power / ScottishPower) - merged here."
+  },
+  {
+    "name": "Centrica",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "E.ON UK",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Eaton",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "RWE",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Master list open question: Higherin showed RWE Supply & Trading and RWEST as separate followed cards with different review counts. Treated as one company here - confirm on the Higherin account."
+  },
+  {
+    "name": "Thales",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Defence electronics - kept as Tier 2 rather than mechanical. Apprenticeships L2-6 incl. degree. Autumn 2026 inferred. Templecombe is nearest site (~60mi)."
+  },
+  {
+    "name": "Arm",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Master list open question: confirm whether they run a school-leaver/degree apprenticeship route rather than being grad/PhD-only for chip design."
+  },
+  {
+    "name": "National Gas",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "GE Vernova",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "SSE",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "In resources.md but had no state record before this register."
+  },
+  {
+    "name": "Seaway7",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Offshore wind."
+  },
+  {
+    "name": "Subsea7",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Offshore wind."
+  },
+  {
+    "name": "JDR",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Subsea cables."
+  },
+  {
+    "name": "Midsummer Energy",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Aegis Energy",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "EV/decarbonised transport infrastructure."
+  },
+  {
+    "name": "ABB Ltd",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Roke",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "BMT",
+    "tier": 2,
+    "discipline": "electrical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "ExxonMobil",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Fawley site is ~10mi - the closest option found. Maintenance Engineering (Instrumentation/Electrical/Mechanical), 3 yrs. Expect Feb 2027 (2026 window Feb-12 Apr). 4 GCSEs incl. Maths/Science/English. Must be 18 at start. ADVANCED/CRAFT LEVEL, NOT DEGREE - weigh honestly against three A-levels. Runs open evenings."
+  },
+  {
+    "name": "INEOS",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Johnson Matthey",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "GSK",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Pharma."
+  },
+  {
+    "name": "Unilever",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Kept per Adam - FMCG chemical production interest."
+  },
+  {
+    "name": "Procter & Gamble",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "BASF",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Syngenta",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "PepsiCo",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Kept per Adam."
+  },
+  {
+    "name": "Nestle",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Kept per Adam."
+  },
+  {
+    "name": "Coca-Cola Europacific Partners",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Kept per Adam."
+  },
+  {
+    "name": "Britvic",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Kept per Adam."
+  },
+  {
+    "name": "Church & Dwight",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Kept per Adam."
+  },
+  {
+    "name": "Jacobs Douwe Egberts",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Kept per Adam."
+  },
+  {
+    "name": "Cargill",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Kept per Adam."
+  },
+  {
+    "name": "British American Tobacco",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "not_a_route",
+    "last_checked": "2026-08-20",
+    "notes": "VERIFIED NOT A ROUTE (Aug 2026). No UK school-leaver apprenticeship exists - apprenticeship appears only as a job-level filter on their search page and on aggregator profiles. Southampton site is an R&D centre (factory closed 2006) offering 12-month UNDERGRADUATE PLACEMENTS requiring current university enrolment, plus a Global Graduate Programme requiring a completed degree. Precedent exists (Mechatronics Apprenticeship, Hampshire, closed May 2024) so the watch stays passive. Tobacco and Vapes Act 2026 may suppress UK hiring appetite."
+  },
+  {
+    "name": "Vertex Pharmaceuticals",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Pharma - kept per Adam's chemical-possibility call."
+  },
+  {
+    "name": "Pfizer",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Pharma."
+  },
+  {
+    "name": "MSD",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Pharma."
+  },
+  {
+    "name": "Johnson & Johnson",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Pharma."
+  },
+  {
+    "name": "AstraZeneca",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Pharma."
+  },
+  {
+    "name": "CooperVision",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Contact lens manufacturing."
+  },
+  {
+    "name": "BOC, Linde",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Industrial gases."
+  },
+  {
+    "name": "Sulzer",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "bp",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "In resources.md but had no state record before this register."
+  },
+  {
+    "name": "Shell",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "In resources.md but had no state record before this register."
+  },
+  {
+    "name": "EET Fuels",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Technip Energies",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "SLB",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Kent",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Fluor",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Morgan Advanced Materials",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Edwards",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Institution of Chemical Engineers (IChemE)",
+    "tier": 2,
+    "discipline": "chemical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Professional body, not an employer - reference only."
+  },
+  {
+    "name": "Airbus",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "CONFIRMED opens October 2026 for 2027 starts - strongest confirmed date in the tracker. NO closing date; may close without notice, so apply in the first days of October. Degree route needs A-levels (Fraser's Maths/Physics/Chemistry is a strong fit). Airbus Defence & Space has a PORTSMOUTH site - commutable. D&S roles carry security-clearance and nationality constraints. Already registered."
+  },
+  {
+    "name": "BAE Systems",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Portsmouth site. Advanced & Degree (5yr Engineering Degree Apprenticeship). Sources conflicted between Nov 2026 and Jan 2027 - treat as live from November 2026 and check monthly; being early costs nothing. Min 2 A-levels, some schemes want 3 incl. Maths + 96 UCAS points. BPSS required; many roles need 5-10 yrs continuous UK residency. NO notify option - GradCracker follow is the only alert."
+  },
+  {
+    "name": "BAE Systems Maritime Services",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "state-file"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "STRONGEST LOCAL DEFENCE OPTION - Portsmouth ~20mi, commutable. 251 extra Early Careers places announced, 173 split between GCSE and A-level entry. Royal Navy surface fleet, carriers, Type 45s, radar, underwater weapons. Window ASSUMED to follow the main BAE January cycle - verify separately, do not treat as confirmed."
+  },
+  {
+    "name": "AWE",
+    "tier": 3,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Physics/radioactivity anchor, not a mechanical-career-pathway choice. CAD Tech, Electrical Maintenance, C&I, Electronic Design L6, Building Services L6, Technical Scientist, PM L6. Autumn 2026, exact date TBC. Must be 18 by 31 Aug of start year and British citizenship required - both confirmed clear for Fraser (Aug 2026). C&I route is the 16+ exception. Already registered."
+  },
+  {
+    "name": "Tetra Tech",
+    "tier": 1,
+    "discipline": "civil",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "LIVE APPLICATION IN PROGRESS - Degree Apprentice Civil Engineer, Renewable Energy Infrastructure. This is a genuine vacancy with a real deadline, not a register-interest form. Confirm closing date directly on the page."
+  },
+  {
+    "name": "Dyson Institute of Engineering and Technology",
+    "tier": 0,
+    "discipline": "mechanical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "CUT - Fraser is not interested (confirmed Aug 2026). Previously a named priority exception in the master list; that is superseded. Do not re-suggest."
+  },
+  {
+    "name": "GE Aerospace",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "MOST PRECISELY DATED EMPLOYER IN THE TRACKER. Degree Apprenticeships 2027: Dowty & Feltham go live 8 Oct 2026, Cheltenham & Wales 20 Oct 2026, Prestwick 3 Nov 2026. Relocation required."
+  },
+  {
+    "name": "Leonardo",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Degree apprenticeships (STEM & business). Autumn 2026 inferred from GradCracker; Leonardo's own page looked stale (still cites autumn 2023). Treat with caution."
+  },
+  {
+    "name": "Frazer-Nash Consultancy",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "L6 Digital & Tech Solutions. CYBER PATHWAY STUDIED VIA SOLENT UNIVERSITY - genuinely local. Autumn 2026 inferred. Needs National Security Vetting. Bristol/Plymouth sites + Solent study."
+  },
+  {
+    "name": "GKN Aerospace",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "resources.md"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Genuine DEGREE route available. Isle of Wight (Cowes) and Bristol - both viable. Expect Nov 2026-Feb 2027 (2026: IoW closed 10 Feb, Filton ~21 Feb). Not yet followed on GradCracker."
+  },
+  {
+    "name": "L3Harris",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "state-file"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Major PORTSMOUTH-AREA defence employer (electronics, maritime autonomy). No cycle dates found. Not yet followed on GradCracker."
+  },
+  {
+    "name": "QinetiQ",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "state-file"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Nothing verifiable - no listings, no dates, no announcements. BUT QATS is at Boscombe Down near Salisbury, very commutable. Worth persistent manual checking despite the information vacuum."
+  },
+  {
+    "name": "MBDA UK",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "L6 degree apprenticeships incl. Software Engineering. Missiles/defence, clearance gates. 2027 register-interest live, dates unknown."
+  },
+  {
+    "name": "JLR",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "JCB",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Cummins",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Scania",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Boeing UK",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Worcester Bosch Group",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "BSH",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "ASSA ABLOY",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Caterpillar UK Ltd",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Capgemini Engineering",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Honeywell Aerospace",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Amentum",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Aureos",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "RINA Consulting",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "DNV",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "BIP.Verco",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Martin-Baker",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "resources.md"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "In resources.md aerospace & defence only - no state record, no checklist item anywhere before this register."
+  },
+  {
+    "name": "SETA",
+    "tier": 3,
+    "discipline": "mechanical",
+    "sources": [
+      "state-file"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Southampton Engineering Training Association, Millbrook - the only genuinely local source. CRAFT/ADVANCED (L3/L4) ONLY: electro-technical, instrumentation, machining, maintenance, welding, pipefitting, project control, CAD/design. Does NOT offer degree-level (L6). Sept 2027 interest form is live. NOT a primary target for a candidate with three A-levels targeting degree routes - revisit only if degree applications do not progress."
+  },
+  {
+    "name": "Sellafield Ltd",
+    "tier": 4,
+    "discipline": "nuclear",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Degree apprenticeships (nuclear). Autumn 2026 inferred. Register-interest live now. Cumbria - relocation."
+  },
+  {
+    "name": "Babcock International Group",
+    "tier": 4,
+    "discipline": "nuclear",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "CONFIRMED opens October 2026 for Degree & Graduate Apprenticeships; Intermediate/Higher/Modern open December. 2027 named explicitly in their register-interest copy. No fixed close - assessment runs continually to ~May. Job alerts available - REGISTER NOW. Defence work, security clearance applies. Not yet followed on GradCracker."
+  },
+  {
+    "name": "EDF Energy",
+    "tier": 4,
+    "discipline": "nuclear",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Includes the Nuclear Engineering Degree Apprenticeship (NEDA). Expect late Jan 2027 - the 2026 window was 26 Jan-22 Feb, only 4 weeks. Talent Community live - join now. Register Your Interest 2027 also live on Higherin. Hinkley/Sizewell."
+  },
+  {
+    "name": "Rolls-Royce",
+    "tier": 4,
+    "discipline": "nuclear",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Advanced & degree (aerospace, defence, SMR). Not confirmed; expect Dec 2026-Feb 2027. Do not confuse with Rolls-Royce Motor Cars (BMW, Goodwood) - separate company. Also track Rolls-Royce SMR separately. Derby/Bristol/Birmingham."
+  },
+  {
+    "name": "UK Atomic Energy Authority",
+    "tier": 4,
+    "discipline": "nuclear",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Engineering/technical (fusion). CONFLICTING: site says autumn 2026 but the last two campaigns both went live in January. Watch both windows. Talent community at earlycareerstalent@ukaea.uk. Culham, Oxfordshire."
+  },
+  {
+    "name": "Sizewell C",
+    "tier": 4,
+    "discipline": "nuclear",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Nuclear construction & engineering. Recruits via EDF - Young SZC is Suffolk/Norfolk focused, so EDF is the better channel. No window published."
+  },
+  {
+    "name": "Ministry of Defence - Submarine Delivery Agency",
+    "tier": 4,
+    "discipline": "nuclear",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Degree apprenticeships exist; 2027 dates TBC. Nationality/residency gates apply - confirmed clear for Fraser."
+  },
+  {
+    "name": "UK National Nuclear Laboratory",
+    "tier": 4,
+    "discipline": "nuclear",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Noted as already in the GradCracker follows but had no state record before this register."
+  },
+  {
+    "name": "Nuclear Decommissioning Authority Group",
+    "tier": 4,
+    "discipline": "nuclear",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Nuclear Graduates",
+    "tier": 4,
+    "discipline": "nuclear",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": ""
+  },
+  {
+    "name": "Dstl",
+    "tier": 5,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "STRONGEST FIT IN THE CIVIL SERVICE TRACK. L6 degree apprenticeships across all STEM. GBP14,358-27,010. Confirmed pattern: recruits in February for the following September. Porton Down ~35mi. Requires UK national, no dual nationality, 5 years residency - all confirmed clear for Fraser (Aug 2026)."
+  },
+  {
+    "name": "MI5, MI6 and GCHQ",
+    "tier": 5,
+    "discipline": "other",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "GCHQ Infrastructure Engineering Apprenticeship requires three A-level passes with two in STEM - Fraser's combination satisfies this cleanly. Software Engineering route wants 72 UCAS points + GCSE 4 in English and Maths. 2027 dates TBC. MI5/MI6 do not fit the engineering route."
+  },
+  {
+    "name": "British Army",
+    "tier": 5,
+    "discipline": "other",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Rolling - no window to miss. Ammunition Technician (EOD/weapons), Intelligence Analyst, Network Engineer, Data Analyst. L4, GBP26,334. Military engineering route, separate category."
+  },
+  {
+    "name": "Royal Navy",
+    "tier": 5,
+    "discipline": "other",
+    "sources": [
+      "state-file"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Rolling. ACCELERATED APPRENTICE SCHEME IS THE A-LEVEL ROUTE SPECIFICALLY - join as Probationary Leading Hand, two ranks above standard entry. Weapon or Air Engineering."
+  },
+  {
+    "name": "Royal Air Force",
+    "tier": 5,
+    "discipline": "other",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "Rolling. 23 apprenticeship roles. Note RAF pilot is a separate officer route, not an apprenticeship."
+  },
+  {
+    "name": "3M",
+    "tier": 5,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Kept per Adam - diversified conglomerate, materials/chemical/mechanical mix."
+  },
+  {
+    "name": "Maersk",
+    "tier": 5,
+    "discipline": "other",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Kept per Adam - marine/shipping engineering, separate sector."
+  },
+  {
+    "name": "Perenco",
+    "tier": 5,
+    "discipline": "other",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Oil & gas extraction, but runs a Structural Engineering graduate programme specifically - closer to civil/structural than typical oil & gas. Master list open question: worth a closer look if it is a genuine fit."
+  },
+  {
+    "name": "OCU Group",
+    "tier": 5,
+    "discipline": "other",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Utilities infrastructure services, but the listed role was Quantity Surveyor (commercial route)."
+  },
+  {
+    "name": "Medical Research Council",
+    "tier": 5,
+    "discipline": "other",
+    "sources": [
+      "gradcracker"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Biomedical research, not engineering."
+  },
+  {
+    "name": "Met Office",
+    "tier": 5,
+    "discipline": "other",
+    "sources": [
+      "resources.md"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "NOT YET CHECKED. Exeter. Strong Physics fit - needs checking on their own careers page."
+  },
+  {
+    "name": "UK Space Agency",
+    "tier": 5,
+    "discipline": "other",
+    "sources": [
+      "resources.md"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "NOT YET CHECKED. Strong Physics fit - needs checking on their own careers page."
+  },
+  {
+    "name": "HMRC",
+    "tier": 5,
+    "discipline": "other",
+    "sources": [
+      "state-file"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Was bundled into a single four-organisation state record, so could not be tracked independently. Nothing found - absence of search evidence, not confirmed absence of a scheme."
+  },
+  {
+    "name": "DVSA",
+    "tier": 5,
+    "discipline": "other",
+    "sources": [
+      "higherin"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Apprenticeships confirmed to exist; no STEM-specific roles or dates found."
+  },
+  {
+    "name": "Civil Service Career Launch",
+    "tier": 5,
+    "discipline": "other",
+    "sources": [
+      "state-file"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "ELIGIBILITY BLOCKER CONFIRMED - requires aged 16+ AND NOT IN FULL-TIME EDUCATION, so Fraser cannot apply while at school. Also only a Level 3 Business Administrator qualification (weak return on Maths/Physics/Chemistry) and Birmingham/Manchester/London only. Fallback, not a target."
+  },
+  {
+    "name": "Civil Service Fast Track",
+    "tier": 5,
+    "discipline": "other",
+    "sources": [
+      "state-file"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "Better fit than Career Launch (L4). Historically opens March-early April. VERIFY whether the not-in-full-time-education rule applies here too - that determines whether it is usable at all. Needs a registrations.md action item, which it currently lacks."
+  },
+  {
+    "name": "CBRE Group",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Charles River",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Barratt Redrow",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "FCDO Services",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "JLES Group",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "GTR/Govia Thameslink Railway",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Knorr-Bremse Rail Systems",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "IMI",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "STFC",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "John Lewis Partnership",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Specsavers",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Boots",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Cala Group",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Ridge",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "CBG Consultants",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Cundall",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Atelier Ten",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Sygna",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Tarmac",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Holcim",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Genuit Group",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Epwin Group",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Flannery Plant Hire",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Stanmore",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Creator Scaffold Designs",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Aurora Energy Research",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Ofgem",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Risktec Solutions",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "KBC",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Valpak",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Zestec",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Energy Innovation Centre",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "EnerHy CDT",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Switch2 Energy",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Amazon",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Tesco",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Aston Martin Aramco",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Cisco",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "McLaren Automotive",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Mercedes-AMG PETRONAS F1",
+    "tier": 0,
+    "discipline": "other",
+    "sources": [
+      "gradcracker",
+      "higherin"
+    ],
+    "verdict": "cut",
+    "last_checked": "2026-08-20",
+    "notes": "Cut from the master list - do not re-suggest."
+  }
+]

@@ -2,7 +2,19 @@
 
 Four tracks: **Engineering apprenticeships**, **Pilot**, **British American Tobacco**, **Civil Service**, aimed at a September 2027 start (end of Year 13 / A-levels in Maths, Physics, Chemistry). Today's date is used by the daily watch to work out which phase we're in — update the boundaries below if real dates shift.
 
-## Current phase: Phase 1 — Research & Registration (through ~September 2026)
+## Current phase: Phase 2 — Windows Open (September – December 2026)
+
+> **Phase boundary crossed 20 August 2026.** Phase 1 (research and registration) is over as the
+> primary activity. **October 2026 is the densest month of the entire cycle** — Airbus, Babcock,
+> GE Aerospace (8 and 20 October) and the Amazing Apprenticeships bumper listing all land in it,
+> and National Grid opens even earlier, in September. Several of these close when full rather than
+> on a date, so week-one applications matter more than deadlines do.
+>
+> The Phase 1 material below stays as reference — the reading list and registration checklist are
+> still the right things to work through, and most of the checklist is still undone (5 of 65
+> items ticked). It just no longer has the luxury of being deadline-free.
+
+### Phase 1 material — Research & Registration (still relevant, no longer the priority)
 
 Most September-2027-start application windows genuinely aren't open yet. The job right now is reading enough to know what each path actually involves day to day, and registering everywhere so alerts start arriving with zero deadline pressure — not applying yet.
 

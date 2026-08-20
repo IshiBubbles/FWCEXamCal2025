@@ -1,5 +1,16 @@
 # Registration Checklist
 
+> **Last synced: 20 August 2026.** 5 of 65 items ticked.
+> Of the four primary sources, only **Gradcracker** is done. **Higherin is still not set up**
+> and this file itself calls it the biggest gap in the whole setup — it is the only aggregator
+> of the live "Register Your Interest 2027" listings. **GOV.UK Find an Apprenticeship** and the
+> **Amazing Apprenticeships Vacancy Snapshot** are also outstanding; that last one is how
+> October's bumper listing (1,600+ vacancies) arrives automatically, so leaving it means
+> remembering it manually in the busiest month of the cycle.
+>
+> Re-sync this file before each phase boundary. The digest reports the checkbox state and never
+> ticks anything itself — only Fraser or Adam should tick.
+
 Sites and accounts Fraser should register on, ordered by value. Tick a box only once it's genuinely done — the digest reads this file, so an inaccurate tick just produces a misleading digest.
 
 **Full refresh 17 August 2026.** With Phase 2 opening in weeks, everything in the "do first" block below is worth doing this month.
