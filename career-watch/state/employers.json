@@ -143,57 +143,57 @@
     "name": "Mott MacDonald",
     "tier": 1,
     "discipline": "civil",
-    "work_setting": "desk",
-    "dossier": false,
+    "work_setting": "mixed",
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "Consultancy - desk-based design. Confirm fit with Fraser before applying."
+    "notes": "Research 20 Aug 2026: its own water apprenticeship text says 'attending site visits to assess variations and monitor progress' - so more than pure desk work. Counterweight: an apprentice review says they 'expected more opportunities to visit sites'. Has a Southampton office (Mountbatten House) but no Southampton apprenticeship location. CAUTION: a 'BBC incl. Maths and preferably Chemistry or Physics' string appeared attributed to both Mott MacDonald AND Arcadis - at least one is wrong."
   },
   {
     "name": "Arup",
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "Recruited Building Services Electrical L6 AND Civil Engineering L4 in Southampton in 2026 at GBP27-28k - among the highest starting salaries found, and confirms annual Southampton cycles. 2026 cycle closed May 2026."
+    "notes": "Research 20 Aug 2026: the only consultancy with a confirmed annual SOUTHAMPTON cycle (applications open ~February, so expect Feb 2027). Two 2026 roles: Level 6 Building Services Electrical at Twenty 3 Brunswick Place, and Level 4 Civil Engineering delivered by Southampton Solent University. Note the trade-off - the DEGREE-level Southampton route is Building Services Electrical (Fraser's #3); civil in Southampton is only Level 4. RETRACTION: the GBP27-28k figure previously in this tracker is NOT verified - both listings say 'Competitive', and aggregator data suggests GBP21-24k. Arup moved its South Coast team from Winchester into Southampton in March 2026 - a strong local hook."
   },
   {
     "name": "Arcadis",
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "Register Your Interest - Civil Engineer Degree Apprenticeship 2027 live on Higherin. Consultancy caveat."
+    "notes": "Research 20 Aug 2026: apprentice reviews are all CAD, Civil3D and BIM with no site mention - desk-leaning. Register-your-interest form for the 2027 civil degree apprenticeship is live on Higherin. CAUTION: a 'BBC incl. Maths and preferably Chemistry or Physics' string appeared attributed to both Arcadis AND Mott MacDonald - at least one is wrong."
   },
   {
     "name": "AtkinsRealis",
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "Apprenticeships Levels 3-7. Reopen autumn 2026 confirmed; Nov open / end-Feb close inferred from prior cycle. Talent Community + Connectr mentoring both live."
+    "notes": "Research 20 Aug 2026: apprentice feedback includes 'some work on CAD for long periods' - desk-leaning. Levels 3-7 available. No nationality or security-clearance clause is attributed here despite the defence and nuclear work - the AWE contamination trap was explicitly avoided."
   },
   {
     "name": "Skanska",
@@ -304,14 +304,14 @@
     "name": "AECOM",
     "tier": 1,
     "discipline": "civil",
-    "work_setting": "desk",
-    "dossier": false,
+    "work_setting": "mixed",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "HIGH PRIORITY GAP - was bookmark-only with no state record. Civil Engineering Apprentice (Water) found at Basingstoke ~35mi, genuinely commutable. UK & Ireland scheme runs L3-L6, up to 100 apprentices/year."
+    "notes": "Research 20 Aug 2026 - CONFIRMED and time-critical: 'Civil Engineering Apprentice / Water', Basingstoke, Hampshire, hybrid, working on 'live water infrastructure projects across Hampshire'. ~35mi and genuinely commutable. Applications open SEPTEMBER/OCTOBER each year with NO deadline, so the window is weeks away. CAVEAT: one variant names Level 3 technician training while other AECOM material describes Level 6 - the level must be confirmed in a browser."
   },
   {
     "name": "Farrans Construction",
@@ -396,13 +396,13 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Consultancy caveat."
+    "notes": "Research 20 Aug 2026: heavily south-coast by contract - on Southern Water's AMP8 framework and Wessex Water's Capital Delivery Partner - but its nearest apprenticeship is Taunton, ~95mi. Entry-requirement strings found came from a mixed result set and are not trusted."
   },
   {
     "name": "STRABAG UK and ZUBLIN",
@@ -422,13 +422,13 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Structural consultancy."
+    "notes": "Research 20 Aug 2026: has a Romsey office ~8 MILES from Southampton (physical security design, from its MFD acquisition) - but its only UK apprenticeships are in Dalgety Bay, Fife."
   },
   {
     "name": "Tilbury Douglas",
@@ -551,21 +551,21 @@
     "name": "NSG Environmental",
     "tier": 1,
     "discipline": "civil",
-    "work_setting": "mixed",
-    "dossier": false,
+    "work_setting": "site",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "Research 20 Aug 2026: genuinely field-based work ('onsite implementation', health physics monitoring), Aldermaston office ~40mi - but the only visible apprenticeship is LEVEL 2, not a degree. Level 6 nuclear programmes naming BAE Systems and Westinghouse surfaced on these searches and are explicitly NOT attributed to NSG."
   },
   {
     "name": "Binnies",
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -577,27 +577,27 @@
     "name": "Haskoning",
     "tier": 1,
     "discipline": "civil",
-    "work_setting": "desk",
-    "dossier": false,
+    "work_setting": "field",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
-    "verdict": "watch",
+    "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "Consultancy caveat."
+    "notes": "Research 20 Aug 2026: runs River and Coastal Resilience (Brighton, GBP24,570, BBB incl. Maths, BEng at Brighton) and Maritime apprentice streams. The discipline is intrinsically survey-based, but no snippet confirmed site visits - the highest-value browser check among the consultancies."
   },
   {
     "name": "Hoare Lea",
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Building services consultancy - check fit."
+    "notes": "Research 20 Aug 2026: no 2026 project could be found, so the 'what they're working on' paragraph and the hook are deliberately EMPTY rather than invented. Needs a browser visit before any letter is written."
   },
   {
     "name": "WSP",
@@ -629,48 +629,48 @@
     "name": "Dalkia Energy Services",
     "tier": 1,
     "discipline": "civil",
-    "work_setting": "field",
-    "dossier": false,
+    "work_setting": "site",
+    "dossier": true,
     "sources": [
       "state-file"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "EDF Group. Roles found were construction/commercial (Construction Manager / Quantity Surveyor L6) rather than core engineering - lower priority. 2026 cycle closed May 2026."
+    "notes": "Research 20 Aug 2026: not a consultancy - Dalkia installs and commissions ('will lead the installation and commissioning of the complete MEP services' at Great Ormond Street). Genuinely boots-on-ground, but its one Level 6 route is Apprentice Construction Manager in London, and it is not civil."
   },
   {
     "name": "Pell Frischmann Consultants",
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "state-file"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Electrical & Electronic L6 / Civil Senior Technician L4. 2026 cycle closed June 2026. Deprioritised - roles were construction/commercial rather than core engineering."
+    "notes": "Research 20 Aug 2026: the advertised apprenticeship is a desk-based L4 HNC in Digital Engineering - BUT the firm holds M6 J10 detailed design AND SITE SUPERVISION, plus Portsmouth PFI bridge management (~20mi). Exactly the WSP-Guildford pattern, and the best speculative-enquiry target on the list: ask whether a site-facing route exists."
   },
   {
     "name": "National Grid",
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "field",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "MOST TIME-CRITICAL ITEM. Higher & Degree Apprenticeships (power, electrical, digital) open September 2026. Needs A-levels. No visa sponsorship. Closes early if full - apply day one. Talent pool needs a CV upload (Beamery); one page is enough."
+    "notes": "RETRACTION 20 Aug 2026: the previous note said 'closes early if full - apply day one'. That could NOT be corroborated from any National Grid source; the exact phrasing was found verbatim for NESO and Thales, so it appears to have bled across. Treat early closure as an operating assumption, not a fact. Opening pattern IS verified: 'the online application process becomes available in September, ready for those awarded places to begin the following September' - so the 2027 intake opens now. No published 2027 date found. The route Fraser wants is Substation Higher Apprentice (Chiltern), Electricity Transmission, 3 years, training as a substation engineer; the Warwick Network Operations family is office/analysis. Named regions Chiltern, SW Chiltern, Severn, Essex - NO Hampshire or south-coast region found anywhere, which is the key unknown. Two conflicting A-level specs exist; Fraser clears both. All salary figures are third-party and unverified. Their listed 'communication skills, attention to detail' bullets look like the standard Find-an-Apprenticeship checkbox set rather than their own person spec - do not quote back."
   },
   {
     "name": "NESO",
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
@@ -684,35 +684,35 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "In resources.md but had no state record before this register."
+    "notes": "Research 20 Aug 2026: has a Southampton site, but the route there is LEVEL 3 RAIL ONLY. Exactly the Colas Rail pattern - local presence, wrong route. Do not be drawn by the postcode."
   },
   {
     "name": "Schneider Electric",
     "tier": 2,
     "discipline": "electrical",
-    "work_setting": "plant",
-    "dossier": false,
+    "work_setting": "field",
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "Research 20 Aug 2026: the Salisbury role (~25mi) is the best-evidenced field role in the electrical round - UPS commissioning - but it is Level 4 at ~GBP21k. The Level 6 routes are at Telford and Scarborough."
   },
   {
     "name": "ScottishPower",
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "field",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
@@ -726,7 +726,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "field",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
@@ -740,7 +740,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "field",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
@@ -752,36 +752,36 @@
     "name": "Eaton",
     "tier": 2,
     "discipline": "electrical",
-    "work_setting": "plant",
-    "dossier": false,
+    "work_setting": "mixed",
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
-    "verdict": "watch",
+    "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "VERIFIED 20 Aug 2026. Brook Road, Wimborne BH21 2BJ, ~35mi - THE ONLY COMMUTABLE LEVEL 6 found in the electrical round. Fully funded BEng, GBP22,500 with structured yearly increases, 3 years 6 months, 37hrs Mon-Fri, some shift work on placement rotations. Day release at Bournemouth College in year 3, then Bournemouth University from year 4. Products: air-to-air refuelling and actuation. Start date 1 Sept, so expect the same slot in 2027. CORRECTION: the standard is 'Product design and development engineer (degree) Level 6' - design-led, not plant maintenance - so tagged mixed rather than plant. Rotations do include R&D and Integrated Project Teams. Fraser's #4 discipline."
   },
   {
     "name": "RWE",
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "field",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Master list open question: Higherin showed RWE Supply & Trading and RWEST as separate followed cards with different review counts. Treated as one company here - confirm on the Higherin account."
+    "notes": "MASTER-LIST QUESTION ANSWERED 20 Aug 2026: 'RWEST' is simply the in-house abbreviation for RWE Supply & Trading GmbH - ONE entity (Companies House BR007373/FC024935, Swindon). The two Higherin cards are a duplicate-employer artefact; merge them. RWE does run a UK school-leaver apprenticeship but it is a LEVEL 3 NVQ offshore wind technician role, GBP17,510, Rhyl then Grimsby, closing around February."
   },
   {
     "name": "Thales",
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "mixed",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
@@ -795,20 +795,20 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Master list open question: confirm whether they run a school-leaver/degree apprenticeship route rather than being grad/PhD-only for chip design."
+    "notes": "MASTER-LIST QUESTION ANSWERED 20 Aug 2026: yes, Arm runs genuine school-leaver apprenticeships - L4 Software Engineering, L6 Software Engineer DTS, L6 Embedded Electronic Systems Design with the University of Staffordshire at GBP29,000. BUT there is NO apprenticeship into CPU/GPU IP design; that remains graduate/PhD. All locations Cambridge, Manchester or Sheffield, and the window is early 2027 rather than September 2026. Recommendation: drop - wrong discipline, wrong geography."
   },
   {
     "name": "National Gas",
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "field",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -821,7 +821,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -834,33 +834,33 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "field",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
-    "verdict": "watch",
+    "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "In resources.md but had no state record before this register."
+    "notes": "Research 20 Aug 2026: SSEN has depots in the New Forest, Portsmouth and Petersfield, 15-30mi - perfect field work on Fraser's own local network. But the only confirmed route is a 2-year CRAFT traineeship at GBP17,666, and no SSE degree apprenticeship could be pinned to a southern base. HIGHEST-VALUE PHONE CALL ON THE LIST: ask whether anything above craft level runs from those depots."
   },
   {
     "name": "Seaway7",
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "site",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Offshore wind."
+    "notes": "Research 20 Aug 2026: graduate scheme only, no apprenticeship route found."
   },
   {
     "name": "Subsea7",
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "site",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -873,7 +873,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -886,85 +886,85 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "site",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "Research 20 Aug 2026: no apprenticeship route found, and no hook that passes a swap test."
   },
   {
     "name": "Aegis Energy",
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "site",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "EV/decarbonised transport infrastructure."
+    "notes": "Research 20 Aug 2026: no apprenticeship route found; live projects could not be established either."
   },
   {
     "name": "ABB Ltd",
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "Research 20 Aug 2026: apprenticeship route could not be established at all, nor any live project."
   },
   {
     "name": "Roke",
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "Research 20 Aug 2026: Romsey, EIGHT MILES from Southampton, and it runs real Level 6 routes - but every one is software, AI or project management, in a desk/lab setting. Right distance, wrong work."
   },
   {
     "name": "BMT",
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "Research 20 Aug 2026: graduate entry, preferably Master's - not a school-leaver route."
   },
   {
     "name": "ExxonMobil",
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "Fawley site is ~10mi - the closest option found. Maintenance Engineering (Instrumentation/Electrical/Mechanical), 3 yrs. Expect Feb 2027 (2026 window Feb-12 Apr). 4 GCSEs incl. Maths/Science/English. Must be 18 at start. ADVANCED/CRAFT LEVEL, NOT DEGREE - weigh honestly against three A-levels. Runs open evenings."
+    "notes": "Research 20 Aug 2026: ~10 miles - the closest option on the entire list. NO Level 6 route exists, now or historically (searched three ways); degree-level hiring is graduate (2:1 required) or industrial placement, neither open to Fraser. BUT the apprenticeship awards 'a level 3 BTEC qualification or a level 4 HNC, depending on your previous qualifications' - three A-levels should put him on the HNC track. No sponsored degree progression found; ask at an open evening. 2026 cycle opened ~10 Mar, closed 12 Apr, 1 Sept start, GBP20,240 rising to ~GBP30k by year 3. Genuinely hands-on: year 1 is four days college / one day site, year 2 flips, year 3 is site full-time, and their own copy says apprentices are 'quite likely to find yourself working at height on the Refinery from many of the towers and platforms'. The 18-at-commencement rule is satisfied - Fraser's DOB clears 18 by 31 Aug 2027. First year is spent at SETA Millbrook. VERIFICATION 20 Aug 2026: the SETA link is confirmed - apprentices spend year one at SETA Millbrook across trades. BUT the confirmed qualification path is NVQ Level 2 in year one then a Level 3 Advanced Apprenticeship in years two and three, which CONFLICTS with the 'level 3 BTEC or level 4 HNC' line. Confirming whether an HNC track exists is now the single most important question for an open evening, because it decides whether three A-levels count for anything here."
   },
   {
     "name": "INEOS",
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -977,7 +977,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -1031,7 +1031,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
@@ -1240,7 +1240,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -1253,7 +1253,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -1265,22 +1265,22 @@
     "name": "bp",
     "tier": 2,
     "discipline": "chemical",
-    "work_setting": "plant",
-    "dossier": false,
+    "work_setting": "desk",
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "In resources.md but had no state record before this register."
+    "notes": "Research 20 Aug 2026: bp does run Level 6, but the named routes are project controls and HR at Sunbury and Canary Wharf - desk work, not plant. The partner-college string found was not trusted."
   },
   {
     "name": "Shell",
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
@@ -1294,33 +1294,33 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
-    "verdict": "watch",
+    "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "Research 20 Aug 2026: the ONLY employer in this round advertising 'a range of opportunities from Level 3 to Level 7 degree apprenticeships' alongside genuine refinery process-operator (12 posts) and maintenance apprenticeships. Degree level plus real plant work - but Stanlow is ~215mi, so relocation."
   },
   {
     "name": "Technip Energies",
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "mixed",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "Research 20 Aug 2026: no school-leaver route found."
   },
   {
     "name": "SLB",
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "field",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -1333,52 +1333,52 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "mixed",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "Research 20 Aug 2026: no school-leaver route found. Note: Kent plc is a Solent Cluster member, and the Cluster's member list looks like the best untapped source of local process employers."
   },
   {
     "name": "Fluor",
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "mixed",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "Research 20 Aug 2026: Farnborough, ~35mi - the closest large engineering employer in this slice - but NO apprenticeship route could be found. Worth one browser check on geography alone."
   },
   {
     "name": "Morgan Advanced Materials",
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "Research 20 Aug 2026: no school-leaver route found."
   },
   {
     "name": "Edwards",
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
-    "verdict": "watch",
+    "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "SLEEPER HIT of round 2. Burgess Hill, ~55mi. Degree apprenticeships in Electronic, Mechanical and Software engineering, entry line reads '3 A levels at Grade C+ (to include Maths and 1 other STEM subject)', and 'Degree Apprenticeships opening in Autumn 2026' - squarely in Fraser's window. High-priority browser check. VERIFIED 20 Aug 2026: the '3 A levels at Grade C+ (to include Maths and 1 other STEM subject)' requirement is confirmed verbatim, with BTEC L3/L4 Electrical/Electronic as the alternative. Selection is an online competency assessment then an in-person selection day at Burgess Hill. CAVEAT: the only 2026 listings that surfaced are graduate and Year-in-Industry (closing 30 Jan 2026) plus one Machining Apprentice vacancy - so do not assume a degree apprenticeship vacancy exists until it is seen."
   },
   {
     "name": "Institution of Chemical Engineers (IChemE)",
@@ -1452,7 +1452,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -1793,13 +1793,13 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "state-file"
     ],
-    "verdict": "watch",
+    "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "Southampton Engineering Training Association, Millbrook - the only genuinely local source. CRAFT/ADVANCED (L3/L4) ONLY: electro-technical, instrumentation, machining, maintenance, welding, pipefitting, project control, CAD/design. Does NOT offer degree-level (L6). Sept 2027 interest form is live. NOT a primary target for a candidate with three A-levels targeting degree routes - revisit only if degree applications do not progress."
+    "notes": "KEY STRUCTURAL FINDING 20 Aug 2026: SETA is the TRAINING ARM of the ExxonMobil Fawley apprenticeship - Fawley apprentices spend year one at SETA Millbrook, and ExxonMobil has funded SETA directly (GBP6,000 donation, instrumentation equipment, 'Transfer to Transform' levy transfer). SETA and Fawley are NOT competing options; they are the same route seen from two ends. No degree apprenticeship, but a real ladder: SETA delivers HNC L4 and HND L5, then university top-up to L6. Confirmed member employers: Murray Technical Services, SMC Group, Ingenieur Ltd - six further names could NOT be attributed because seta.co.uk, an unrelated North East organisation of the same name, contaminates the results. Sept 2027 interest form is the right entry point; employer vacancies from ~Jan-Feb 2027, jobs fair early Feb. Honest read: it does under-use three A-levels, but register anyway as a cheap parallel channel three miles from home. VERIFIED 20 Aug 2026: Millbrook centre opened 1969; Fawley apprentices learn welding, fitting, electrical, machining and plating there in year one, deliberately across trades to give 'extra awareness when working on site at Fawley'."
   },
   {
     "name": "Sellafield Ltd",

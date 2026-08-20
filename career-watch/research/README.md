@@ -6,15 +6,21 @@ These exist for one purpose: so that when Fraser fills in an application form or
 interview, he can demonstrate that he has actually researched the company. Every entry is
 written to be quotable more or less straight into an application.
 
-| File | Covers |
-|---|---|
-| `tier1-civil.md` | Civil and infrastructure — his #1 discipline |
-| `tier2-electrical.md` | Power, grid, energy |
-| `tier2-chemical.md` | Process, FMCG manufacturing, pharma |
-| `tier3-mechanical.md` | Mechanical, automotive, aerospace, defence |
-| `nuclear.md` | Nuclear sector |
-| `other.md` | Military, civil service, diversified |
-| `criteria-index.md` | Every stated person-spec criterion, ranked by how many employers ask for it |
+| File | Covers | Status |
+|---|---|---|
+| `browser-checks.md` | **Start here.** The prioritised action list — what to open in a real browser, and which decision it unblocks | live |
+| `tier1-civil.md` | Civil and infrastructure — his #1 discipline | ✅ 50 of 50 |
+| `tier2-chemical.md` | Heavy process and refining, plus the two local sub-degree options | 16 of 33 |
+| `tier2-electrical.md` | Power, grid, energy | ✅ 22 of 22 |
+| `criteria-index.md` | Every stated person-spec criterion, ranked by how many employers ask for it | 88 employers |
+| `tier3-mechanical.md` | Mechanical, automotive, aerospace, defence | to come |
+| `nuclear.md` | Nuclear sector | to come |
+| `other.md` | Military, civil service, diversified | to come |
+
+**88 of 159 live employers researched.** Remaining: Tier 2 pharma and food (17), Tier 3 mechanical
+and aerospace (29), nuclear (10), other (15). Tier 3 matters less on discipline but holds the
+strongest *local* options anywhere on the list — BAE Maritime Portsmouth, Airbus Portsmouth, GKN
+on the Isle of Wight, Frazer-Nash studying at Solent.
 
 The 43 companies marked `cut` in `employers.json` are deliberately not researched. IChemE is a
 professional body rather than an employer, so it has no dossier.
