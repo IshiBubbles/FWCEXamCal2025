@@ -8,6 +8,31 @@ Companion files: **[resources.md](resources.md)** is the full bookmark backup ·
 
 ---
 
+## 🧭 Fraser's discipline preference ranking (read Aug 2026)
+
+Fraser read the standard engineering-discipline briefs and ranked them. This is the clearest signal yet of where his effort should concentrate, and it retroactively explains his shortlist above — TfL, Arcadis, Network Rail and Tetra Tech are all civil engineering, his #1 pick.
+
+| Rank | Discipline | His brief |
+|---|---|---|
+| **1** | **Civil Engineering** | Roads, bridges, railways, skyscrapers, stadiums, shopping centres |
+| **2** | **Chemical Engineering** | Turning raw materials into fuel, plastic, food; safety + environment |
+| **3** | **Electrical Engineering** | Electric cars, smartphone circuits, integrating renewables into the grid |
+| **4** | **Mechanical Engineering** | Fuel-efficient aircraft, nuclear power plants, robotic surgery |
+
+**How this reweights the existing tracker.** Track 1 as built currently skews heavily toward aerospace/defence — which is mostly **mechanical** (his #4). That's not wrong to keep watching, but it shouldn't get equal attention to civil/chemical/electrical any more. Practical effect:
+
+| Already-tracked employer | Discipline | Priority given his ranking |
+|---|---|---|
+| Network Rail, Arup, WSP, AtkinsRéalis, Mott MacDonald, Costain, Balfour Beatty, Kier, Laing O'Rourke, Galliford Try, Tetra Tech, Arcadis, TfL | 🟢 Civil | **Highest — matches rank 1** |
+| ExxonMobil, INEOS, Johnson Matthey, GSK, Unilever, P&G | 🟡 Chemical | **High — matches rank 2** |
+| National Grid, EDF, SSE, ScottishPower, RWE, UKAEA, NESO | 🟠 Electrical | **Medium — matches rank 3** |
+| Airbus, BAE, Rolls-Royce, GKN Aerospace, Babcock, GE Aerospace, Leonardo, Thales, MBDA, QinetiQ, Frazer-Nash | 🔴 Mechanical/aerospace | **Lower — matches rank 4, but keep watching as breadth/fallback** |
+| Dstl, MI5/MI6/GCHQ, AWE | ⚪ Cross-discipline / not one of the four | Judge case by case — some roles are civil or electrical within these employers |
+
+**Recommendation:** don't drop the mechanical/aerospace employers — they're well-established local options and Dyson/AWE-style employers often run mixed disciplines within one scheme — but when time is limited, prioritise checking civil and chemical employers first, and treat GradCracker alerts from Airbus/BAE/Rolls-Royce/GKN as lower urgency than alerts from Network Rail/Arup/WSP/AtkinsRéalis/ExxonMobil. Worth actively sourcing a few more named civil engineering employers (e.g. Mace, Skanska, Balfour Beatty degree schemes, HS2) to build out rank 1 further, since that's currently thinner than the aerospace/defence list.
+
+---
+
 ## 🚨 Phase change: Phase 1 → Phase 2 is happening now
 
 Today is two weeks from the Phase 2 boundary. **The application season for September 2027 starts opens in weeks, not months.** The critical window is **late September → end of November 2026, with October the single densest month.**
