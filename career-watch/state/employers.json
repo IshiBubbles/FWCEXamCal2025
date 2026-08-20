@@ -1571,53 +1571,53 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "LIGHT PASS 20 Aug 2026 - best of the eight distant manufacturers. Level 6 Applied Professional Engineering, BEng (Hons) with Warwick/WMG, four years, Midlands (Gaydon/Whitley/Solihull). Snippet-level entry requirements - A-level Maths at grade B plus a second A-level in Physics, Chemistry or D&T at C - MATCH FRASER'S SUBJECTS EXACTLY. JLR also takes registrations of interest for the following year, which is his 2027 mechanism. Against it: ~180mi, relocation only, and mechanical is his #4. Site-to-pathway mapping is unconfirmed."
   },
   {
     "name": "JCB",
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "LIGHT PASS 20 Aug 2026: genuine Level 6 Engineering Degree apprenticeship at Rocester, ~48 months, ~112 tariff points, applications October-December. Real, but ~180mi and squarely mechanical - watch rather than apply."
   },
   {
     "name": "Cummins",
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "LIGHT PASS 20 Aug 2026: Level 6 Customer Engineering at Huddersfield (Sheffield AMRC, Mechanical Manufacture BEng) and Level 6 Electro-Mechanical at Daventry (Warwick). Daventry is the only near-ish site. Snippets came from an earlier cycle. Entry grades not quoted - not attributable to a named Cummins snippet."
   },
   {
     "name": "Scania",
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
-    "verdict": "watch",
+    "verdict": "cut",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "LIGHT PASS 20 Aug 2026 - DROP. Level 3 Heavy Vehicle Technician only, delivered through branches and dealers. The targeted Level 6 search returned only other employers' vacancies, a textbook findapprenticeship bleed which was NOT attributed to Scania. No degree route exists."
   },
   {
     "name": "Boeing UK",
@@ -1637,52 +1637,52 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
-    "verdict": "watch",
+    "verdict": "cut",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "LIGHT PASS 20 Aug 2026 - DROP. The Cecil Duckworth scheme is a four-year LEVEL 3. The Clay Cross 'engineering placements' advertised on Bright Network are undergraduate industrial placements, not apprenticeships. No degree route exists."
   },
   {
     "name": "BSH",
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
-    "verdict": "watch",
+    "verdict": "cut",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "LIGHT PASS 20 Aug 2026 - DROP. No UK manufacturing; only an expired payroll apprentice vacancy surfaced. Business-function entry at best, no engineering degree route."
   },
   {
     "name": "ASSA ABLOY",
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
-    "verdict": "watch",
+    "verdict": "cut",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "LIGHT PASS 20 Aug 2026 - DROP. The promising-sounding 'Apprentice Development Engineer' at Willenhall is explicitly a LEVEL 3 Mechatronics Maintenance Technician standard via In-Comm. A University of Wolverhampton BEng manufacturing degree apprenticeship exists in the same region but nothing links ASSA ABLOY to it - the dots were deliberately not joined."
   },
   {
     "name": "Caterpillar UK Ltd",
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "LIGHT PASS 20 Aug 2026: multiple clearly-labelled Level 6 routes at Peterborough and Desford - manufacturing engineer, product design & development, and electro-mechanical with the University of Nottingham. The visible cycle was a Sept 2026 start, the intake just before Fraser's, so 2027 vacancies should appear autumn 2026. Relocation only. Entry grades were not quoted because they could not be attributed to a named Caterpillar snippet."
   },
   {
     "name": "Capgemini Engineering",
