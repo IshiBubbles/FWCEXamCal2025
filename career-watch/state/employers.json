@@ -4,6 +4,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "site",
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
@@ -16,20 +17,22 @@
     "name": "Costain Group",
     "tier": 1,
     "discipline": "civil",
-    "work_setting": "site",
+    "work_setting": "desk",
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "Confirmed Degree Apprentice Civil and Structural Engineer. 2026 cycle launched ~170 positions across disciplines."
+    "notes": "Research 20 Aug 2026: the documented L6 route is Civil AND Structural, explicitly 'producing CAD and Engineering design deliverables', with design capability centred in Manchester. A desk job away from home, not a site job."
   },
   {
     "name": "Kier Group",
     "tier": 1,
     "discipline": "civil",
     "work_setting": "site",
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
@@ -43,6 +46,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "site",
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
@@ -56,6 +60,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "site",
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
@@ -69,6 +74,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "site",
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
@@ -82,6 +88,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "field",
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
@@ -94,20 +101,22 @@
     "name": "Thames Water",
     "tier": 1,
     "discipline": "civil",
-    "work_setting": "field",
+    "work_setting": "mixed",
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "Confirmed L6 Civil Engineering Degree Apprentice, BEng (Hons) with LSBU, hybrid 4-day week + 1 training day. 112 UCAS points incl. Maths + Chemistry or Physics - matches Fraser's A-levels well. Reading, ~1-1.5hrs. GOV.UK VAC2000020359."
+    "notes": "Research 20 Aug 2026: entry requirement CONFIRMED at 112 UCAS points including Maths and either Chemistry or Physics - Fraser satisfies it twice over. BEng (Hons), one training day/week, Reading ~50mi hybrid, GBP23,500, four-day week. But stated duties include preparing engineering diagrams using CAD, so not purely field. Company under live special-administration pressure - the 2027 intake in current form is not guaranteed."
   },
   {
     "name": "Severn Trent",
     "tier": 1,
     "discipline": "civil",
     "work_setting": "field",
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
@@ -120,20 +129,22 @@
     "name": "Southern Water",
     "tier": 1,
     "discipline": "civil",
-    "work_setting": "field",
+    "work_setting": "desk",
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Only a Level 3 ICA Technician apprenticeship found (Millbrook, closed). No L6 civil engineering degree apprenticeship could be confirmed. Struck through in registrations.md; do not rely on without direct verification."
+    "notes": "Research 20 Aug 2026: five searches found NO Level 6 civil engineering apprenticeship. Named degree routes are Commercial Specialist (Quantity Surveying) and Category Specialist (Procurement) - both desk/commercial. Civil engineering is absent from the list of its 135 current apprentices. Tripling early-careers recruitment in 2026, so email their early-careers team in autumn 2026 rather than keep searching. Southampton-local, so tempting - do not let that cost a cycle."
   },
   {
     "name": "Mott MacDonald",
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -147,6 +158,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -160,6 +172,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -173,6 +186,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -186,6 +200,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "site",
+    "dossier": true,
     "sources": [
       "higherin"
     ],
@@ -198,6 +213,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "site",
+    "dossier": true,
     "sources": [
       "higherin"
     ],
@@ -210,6 +226,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "field",
+    "dossier": true,
     "sources": [
       "higherin"
     ],
@@ -222,6 +239,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "field",
+    "dossier": true,
     "sources": [
       "higherin"
     ],
@@ -233,19 +251,21 @@
     "name": "Environment Agency",
     "tier": 1,
     "discipline": "civil",
-    "work_setting": "mixed",
+    "work_setting": "field",
+    "dossier": true,
     "sources": [
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "Research 20 Aug 2026: the degree apprenticeship appears to be the mandatory upskilling route for new starters in Flood & Coastal Risk Management FIELD OPERATIONS - the strongest work-setting evidence found in round 1. Entry requirements, salary and a civils-specific 2027 route all unconfirmed."
   },
   {
     "name": "Amey",
     "tier": 1,
     "discipline": "civil",
     "work_setting": "field",
+    "dossier": true,
     "sources": [
       "higherin"
     ],
@@ -257,20 +277,22 @@
     "name": "Colas Rail",
     "tier": 1,
     "discipline": "civil",
-    "work_setting": "site",
+    "work_setting": "desk",
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "Research 20 Aug 2026: has a depot at Dutton Lane, EASTLEIGH (~7 miles) and runs the South Rail Systems Alliance - a verified GBP2bn 10-year framework with AECOM and Network Rail covering Wessex. But its only evidenced Level 6 routes are quantity surveying and project management, in Birmingham. Worth one email to ask whether a civils route exists."
   },
   {
     "name": "John Sisk & Son",
     "tier": 1,
     "discipline": "civil",
     "work_setting": "site",
+    "dossier": true,
     "sources": [
       "higherin"
     ],
@@ -283,6 +305,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -295,6 +318,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "site",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -307,6 +331,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "site",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -318,19 +343,21 @@
     "name": "Multiplex",
     "tier": 1,
     "discipline": "civil",
-    "work_setting": "site",
+    "work_setting": "mixed",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "Research 20 Aug 2026: NO civil engineering route found. Available disciplines are Quantity Surveying, Construction Management, Estimating and Building Services - commercial and management routes. London-only. Deprioritise."
   },
   {
     "name": "Robertson Group",
     "tier": 1,
     "discipline": "civil",
     "work_setting": "site",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -342,19 +369,21 @@
     "name": "Severfield",
     "tier": 1,
     "discipline": "civil",
-    "work_setting": "site",
+    "work_setting": "plant",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Structural steel specialist."
+    "notes": "Research 20 Aug 2026: three searches found no degree-level engineering route - only Level 2/3 fabrication and welding at Dalton and Lostock. Setting is factory fabrication rather than site."
   },
   {
     "name": "Soil Engineering",
     "tier": 1,
     "discipline": "civil",
     "work_setting": "site",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -367,6 +396,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -379,6 +409,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "site",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -391,6 +422,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -402,19 +434,21 @@
     "name": "Tilbury Douglas",
     "tier": 1,
     "discipline": "civil",
-    "work_setting": "site",
+    "work_setting": "mixed",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "Research 20 Aug 2026: the civil strand is LEVEL 3 ('Site Engineers of the future' - perfect setting, wrong level). Its Level 6 route is Construction Management."
   },
   {
     "name": "Vista Civil Engineering",
     "tier": 1,
     "discipline": "civil",
     "work_setting": "site",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -427,6 +461,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "site",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -439,6 +474,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "site",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -451,6 +487,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "field",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -463,6 +500,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "field",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -475,6 +513,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "field",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -487,6 +526,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "plant",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -499,6 +539,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "site",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -511,6 +552,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "mixed",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -523,6 +565,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -535,6 +578,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -547,6 +591,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -559,6 +604,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
+    "dossier": true,
     "sources": [
       "resources.md"
     ],
@@ -570,19 +616,21 @@
     "name": "HS2",
     "tier": 1,
     "discipline": "civil",
-    "work_setting": "site",
+    "work_setting": "desk",
+    "dossier": true,
     "sources": [
       "resources.md"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Apprenticeships continue despite scope changes (2,000+ to date). 2026 recruitment opened 9 Feb 2026. Often sits with construction partners/JVs (e.g. Balfour Beatty VINCI SYSTRA) rather than HS2 Ltd directly - check which entity is hiring. Midlands/London focused."
+    "notes": "Research 20 Aug 2026: HS2 Ltd itself recruits only five apprentices, in project controls and commercial (L3/L4, Birmingham/London). The site-based CIVIL ENGINEERING apprenticeships sit with Balfour Beatty VINCI (West Midlands, 26 apprentices), SCS JV (London tunnels) and BBV SYSTRA. Applying 'to HS2' would land him in an office - apply to the JV instead."
   },
   {
     "name": "Dalkia Energy Services",
     "tier": 1,
     "discipline": "civil",
     "work_setting": "field",
+    "dossier": false,
     "sources": [
       "state-file"
     ],
@@ -595,6 +643,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "state-file"
     ],
@@ -607,6 +656,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "field",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -620,6 +670,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -633,6 +684,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -646,6 +698,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -659,6 +712,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "field",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -672,6 +726,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "field",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -685,6 +740,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "field",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -697,6 +753,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -710,6 +767,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "field",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -723,6 +781,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "mixed",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -736,6 +795,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -748,6 +808,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "field",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -760,6 +821,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -772,6 +834,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "field",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -784,6 +847,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "site",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -796,6 +860,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "site",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -808,6 +873,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -820,6 +886,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "site",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -832,6 +899,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "site",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -844,6 +912,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -856,6 +925,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -868,6 +938,7 @@
     "tier": 2,
     "discipline": "electrical",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -880,6 +951,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -892,6 +964,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -904,6 +977,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -916,6 +990,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "lab",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -929,6 +1004,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -942,6 +1018,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -954,6 +1031,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -966,6 +1044,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -978,6 +1057,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -990,6 +1070,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1002,6 +1083,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1014,6 +1096,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1026,6 +1109,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1038,6 +1122,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1050,6 +1135,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1062,6 +1148,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "lab",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -1075,6 +1162,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "lab",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1087,6 +1175,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "lab",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1099,6 +1188,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "lab",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1111,6 +1201,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "lab",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1123,6 +1214,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "lab",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1135,6 +1227,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "lab",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1147,6 +1240,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1159,6 +1253,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1171,6 +1266,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -1184,6 +1280,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -1197,6 +1294,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1209,6 +1307,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "mixed",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1221,6 +1320,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "field",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1233,6 +1333,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "mixed",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1245,6 +1346,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "mixed",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1257,6 +1359,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1269,6 +1372,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1281,6 +1385,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1293,6 +1398,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1305,6 +1411,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -1318,6 +1425,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "state-file"
     ],
@@ -1330,6 +1438,7 @@
     "tier": 3,
     "discipline": "other",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -1343,6 +1452,7 @@
     "tier": 1,
     "discipline": "civil",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1355,6 +1465,7 @@
     "tier": 0,
     "discipline": "mechanical",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1367,6 +1478,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -1380,6 +1492,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -1393,6 +1506,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1405,6 +1519,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "resources.md"
     ],
@@ -1417,6 +1532,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "state-file"
     ],
@@ -1429,6 +1545,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "mixed",
+    "dossier": false,
     "sources": [
       "state-file"
     ],
@@ -1441,6 +1558,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1453,6 +1571,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1465,6 +1584,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1477,6 +1597,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -1490,6 +1611,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1502,6 +1624,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1514,6 +1637,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1526,6 +1650,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1538,6 +1663,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1550,6 +1676,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1562,6 +1689,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1574,6 +1702,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1586,6 +1715,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "mixed",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1598,6 +1728,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1610,6 +1741,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1622,6 +1754,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1634,6 +1767,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1646,6 +1780,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "resources.md"
     ],
@@ -1658,6 +1793,7 @@
     "tier": 3,
     "discipline": "mechanical",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "state-file"
     ],
@@ -1670,6 +1806,7 @@
     "tier": 4,
     "discipline": "nuclear",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -1683,6 +1820,7 @@
     "tier": 4,
     "discipline": "nuclear",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -1696,6 +1834,7 @@
     "tier": 4,
     "discipline": "nuclear",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -1709,6 +1848,7 @@
     "tier": 4,
     "discipline": "nuclear",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1721,6 +1861,7 @@
     "tier": 4,
     "discipline": "nuclear",
     "work_setting": "mixed",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1733,6 +1874,7 @@
     "tier": 4,
     "discipline": "nuclear",
     "work_setting": "site",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1745,6 +1887,7 @@
     "tier": 4,
     "discipline": "nuclear",
     "work_setting": "mixed",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1757,6 +1900,7 @@
     "tier": 4,
     "discipline": "nuclear",
     "work_setting": "lab",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1769,6 +1913,7 @@
     "tier": 4,
     "discipline": "nuclear",
     "work_setting": "mixed",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1781,6 +1926,7 @@
     "tier": 4,
     "discipline": "nuclear",
     "work_setting": "mixed",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1793,6 +1939,7 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "lab",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -1806,6 +1953,7 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1818,6 +1966,7 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "field",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1830,6 +1979,7 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "field",
+    "dossier": false,
     "sources": [
       "state-file"
     ],
@@ -1842,6 +1992,7 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "field",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1854,6 +2005,7 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -1867,6 +2019,7 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "field",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1879,6 +2032,7 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "plant",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1891,6 +2045,7 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "site",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1903,6 +2058,7 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker"
     ],
@@ -1915,6 +2071,7 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "resources.md"
     ],
@@ -1927,6 +2084,7 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "resources.md"
     ],
@@ -1939,6 +2097,7 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "state-file"
     ],
@@ -1951,6 +2110,7 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "field",
+    "dossier": false,
     "sources": [
       "higherin"
     ],
@@ -1963,6 +2123,7 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "state-file"
     ],
@@ -1975,6 +2136,7 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "desk",
+    "dossier": false,
     "sources": [
       "state-file"
     ],
@@ -1987,6 +2149,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2000,6 +2163,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2013,6 +2177,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2026,6 +2191,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2039,6 +2205,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2052,6 +2219,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2065,6 +2233,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2078,6 +2247,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2091,6 +2261,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2104,6 +2275,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2117,6 +2289,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2130,6 +2303,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2143,6 +2317,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2156,6 +2331,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2169,6 +2345,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2182,6 +2359,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2195,6 +2373,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2208,6 +2387,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2221,6 +2401,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2234,6 +2415,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2247,6 +2429,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2260,6 +2443,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2273,6 +2457,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2286,6 +2471,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2299,6 +2485,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2312,6 +2499,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2325,6 +2513,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2338,6 +2527,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2351,6 +2541,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2364,6 +2555,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2377,6 +2569,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2390,6 +2583,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2403,6 +2597,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2416,6 +2611,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2429,6 +2625,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2442,6 +2639,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2455,6 +2653,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2468,6 +2667,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2481,6 +2681,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2494,6 +2695,7 @@
     "tier": 0,
     "discipline": "other",
     "work_setting": "n/a",
+    "dossier": false,
     "sources": [
       "gradcracker",
       "higherin"
