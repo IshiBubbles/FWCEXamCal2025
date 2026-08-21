@@ -76,6 +76,7 @@ Three files, three questions.
 | `career-watch/state/applications.json` | What has Fraser actually done? |
 | `career-watch/state/pilot.json` | The cadet schemes — separate because they carry cost, funding and medical fields |
 | `career-watch/research/*.md` | What each company does, what it is currently working on, and its stated person-spec criteria — the material an application is written from |
+| `career-watch/ACTION.md` | **The coordinator's page — what to actually do next.** Generated, never hand-edited |
 
 `career-watch/state/archive/` holds superseded files. Do not read them for current state.
 
@@ -103,7 +104,9 @@ Infer the mode from the request. `watch` is the default.
 Full routine below. Writes state files and `career-watch/digests/`.
 
 ### status — read-only
-Answer "where are we?" from the state files without writing anything. Lead with the
+If `career-watch/ACTION.md` is current, read it out rather than recomputing —
+it is generated from the same state files. Otherwise answer from the state files directly, and offer
+to regenerate. Either way, write nothing. Lead with the
 application pipeline, then what is open now, then what opens next, then anything closing
 within 14 days. Keep it short — this is a question, not a report.
 
@@ -174,6 +177,14 @@ touched.
 
 If a new opportunity appears for a company with no dossier in `career-watch/research/`, write
 one — the research is what makes the opportunity actionable rather than just visible.
+
+**Then regenerate the action page:** `python3 career-watch/scripts/build_action.py`. Every count and
+date in `ACTION.md` is read from the state files, so it stays true only if it is rebuilt after the
+state changes. **Never hand-edit `ACTION.md`** — the judgement sections live in the generator script
+so they are versioned, and an edit to the markdown will be silently overwritten on the next run.
+Regenerating is also a genuine consistency check: it caught two stale rows the first time it ran (a
+withdrawn Civil Service scheme still listed as opening in March, and BAE still dated January after
+the window had been settled as November).
 
 Then write `career-watch/digests/YYYY-MM-DD.md`, `career-watch/digests/YYYY-MM-DD.html`,
 and overwrite `career-watch/digests/latest-email.html` with the same HTML. The workflow
