@@ -1,16 +1,28 @@
 # Registration Checklist
 
-> **Last synced: 20 August 2026.** 6 of 65 items ticked.
-> Two of the four primary sources are done: **Gradcracker** (93 employers followed, alerts
-> active) and **Amazing Apprenticeships** (subscribed — the next Higher & Degree Vacancy
-> Listing is expected in October, and it is the bumper edition of the year).
-> Still outstanding: **Higherin**, which this file itself calls the biggest gap in the whole
-> setup — it is the only aggregator of the live "Register Your Interest 2027" listings and it
-> is where four of Fraser's five shortlisted roles came from. Also **GOV.UK Find an
-> Apprenticeship** (account plus a saved search, Southampton 25 miles).
+> **Last synced: 21 August 2026.** 16 of 67 items ticked — up from 6, after a productive day.
 >
-> Re-sync this file before each phase boundary. The digest reports the checkbox state and never
-> ticks anything itself — only Fraser or Adam should tick.
+> **All four primary sources are now live.** Gradcracker (93 employers, alerts active, WSP added),
+> Amazing Apprenticeships (subscribed — the bumper October listing arrives automatically),
+> **Higherin** (done 21 Aug, and it was the biggest single gap in the whole setup — four of Fraser's
+> five shortlisted roles came from it), and **GOV.UK Find an Apprenticeship** (account, saved search
+> and email alerts, Southampton 25 miles).
+>
+> **Talent pools done 21 Aug:** National Grid (CV uploaded), Babcock, MBDA, EDF, AtkinsRéalis,
+> Sellafield, UKAEA. With Airbus, AWE and Network Rail already in place, that covers every employer
+> with a confirmed autumn or winter window.
+>
+> **What is genuinely outstanding now**, in order of value:
+> 1. **UCAS Smart Alerts** — the best filtering of any board, and a five-minute signup.
+> 2. **BAE Systems Insight Experience** — Year 13 eligible, and the dates need checking in **early
+>    September**. BAE has no alert option, so nothing will remind you.
+> 3. **The two learning items** — Springpod experiences and BA Speedbird-Z. Both are marked
+>    📚 LEARNING TO DO rather than ticked, because registering is not the same as doing them and the
+>    certificate is what an application can actually use.
+> 4. **GKN Aerospace** and **L3Harris** on Gradcracker.
+>
+> Re-sync this file before each phase boundary. The digest reports the checkbox state and never ticks
+> anything itself — only Fraser or Adam should tick.
 
 Sites and accounts Fraser should register on, ordered by value. Tick a box only once it's genuinely done — the digest reads this file, so an inaccurate tick just produces a misleading digest.
 
@@ -20,7 +32,7 @@ Sites and accounts Fraser should register on, ordered by value. Tick a box only 
 
 ## 🚨 Do first — highest value, all free, no application window needed
 
-- [ ] **Higherin account** → [higherin.com](https://higherin.com)
+- [x] **Higherin account** → [higherin.com](https://higherin.com)
   *Biggest gap in the setup. Only place aggregating the live "Register Your Interest 2027" listings, plus 48,000+ apprentice reviews for choosing schemes and interview prep. Note: absorbed RateMyApprenticeship in Aug 2025 — same company, so this replaces that entry rather than adding to it.*
 - [ ] **SETA — register interest for September 2027** → [setatraining.co.uk/apprenticeships/current_vacancies.html](https://www.setatraining.co.uk/apprenticeships/current_vacancies.html)
   *Local group training association at Millbrook, inside Southampton. Craft/advanced level only (L3/4) — not degree-level. Register only if degree-level applications don't progress.*
@@ -28,21 +40,22 @@ Sites and accounts Fraser should register on, ordered by value. Tick a box only 
   *Best filtering of any board. Set interest + location + travel radius.*
 - [x] **Amazing Apprenticeships "Vacancy Snapshot"** → [amapps.uk/vacancies](https://amapps.uk/vacancies)
   *This is how the October bumper Higher & Degree Listing arrives automatically.*
-- [ ] **GOV.UK Find an Apprenticeship — account + saved search** → [findapprenticeship.service.gov.uk](https://www.findapprenticeship.service.gov.uk)
-  *Southampton, 25-mile radius, all sectors, email alerts on.*
-- [ ] **2–3 Springpod virtual work experiences** → [springpod.com](https://www.springpod.com/virtual-work-experience/search)
-  *Free, 6–10 hrs each, certificate that genuinely counts on applications. Do these before the October rush.*
+- [x] **GOV.UK Find an Apprenticeship — account + saved search** → [findapprenticeship.service.gov.uk](https://www.findapprenticeship.service.gov.uk)
+  *Done 21 Aug 2026 — account, saved search and email alerts all on. Southampton, 25-mile radius, all sectors.*
+  **This is the item that covers the two WSP Southampton vacancies** (`VAC1000346490`, `VAC1000300404`). They are GOV.UK listings, not Gradcracker ones, so a Gradcracker follow may not surface them — this saved search is what actually catches them. The two actions look interchangeable and are not.
+- [ ] **📚 LEARNING TO DO — complete 2–3 Springpod virtual work experiences** → [springpod.com](https://www.springpod.com/virtual-work-experience/search)
+  *Registered 21 Aug 2026, none started yet. Deliberately left unticked: registration was never the point — the **completion certificate** is what goes on an application. Free, 6–10 hrs each. Do these before the October rush, when everything else lands at once.*
 - [x] **Gradcracker** → [gradcracker.com](https://www.gradcracker.com) — following 93 employers, alerts active
-  *Still worth adding: Babcock International, GKN Aerospace, WSP, L3Harris.*
+  *WSP added 21 Aug 2026. Still worth adding: **GKN Aerospace** and **L3Harris**.*
 
 ## Employer talent pools — 2027-specific, live right now
-- [ ] [Babcock International job alerts](https://earlycareers.babcockinternational.com/apply/register-for-job-alerts/) — **opens October 2026**
-- [ ] [MBDA](https://www.mbdacareers.co.uk/early-careers/apprenticeships) — 2027 register-interest live, dates unknown
-- [ ] [EDF Apprenticeship Talent Community](https://careers.edfenergy.com/apprenticeships) — **4-week window only in Jan/Feb, don't miss it**
-- [ ] [AtkinsRéalis Talent Community + Connectr mentoring](https://careers.atkinsrealis.com/uk-early-careers/apprenticeships)
-- [ ] [Sellafield register interest](https://talent.sellafieldsites.com/flows/register-your-interest-in-apprenticeship-opportunities-at-sellafield-ltd) — *Cumbria, relocation*
-- [ ] [UKAEA talent community](https://careers.ukaea.uk/early-careers/apprenticeships/) — earlycareerstalent@ukaea.uk
-- [ ] [National Grid](https://jobs.nationalgrid.com/uk/early-careers/apprenticeships) — 🔴 **opens September 2026.** Talent pool needs a CV upload; a simple one-page CV is fine at this stage
+- [x] [Babcock International job alerts](https://earlycareers.babcockinternational.com/apply/register-for-job-alerts/) — **opens October 2026**
+- [x] [MBDA](https://www.mbdacareers.co.uk/early-careers/apprenticeships) — 2027 register-interest live, dates unknown
+- [x] [EDF Apprenticeship Talent Community](https://careers.edfenergy.com/apprenticeships) — **4-week window only in Jan/Feb, don't miss it**
+- [x] [AtkinsRéalis Talent Community + Connectr mentoring](https://careers.atkinsrealis.com/uk-early-careers/apprenticeships)
+- [x] [Sellafield register interest](https://talent.sellafieldsites.com/flows/register-your-interest-in-apprenticeship-opportunities-at-sellafield-ltd) — *Cumbria, relocation*
+- [x] [UKAEA talent community](https://careers.ukaea.uk/early-careers/apprenticeships/) — earlycareerstalent@ukaea.uk
+- [x] [National Grid](https://jobs.nationalgrid.com/uk/early-careers/apprenticeships) — **registered 21 Aug 2026, CV uploaded.** 🔴 Still note: the *application* opens September 2026 and is separate from the talent pool
 - [x] [Airbus careers](https://www.airbus.com/en/careers) — registered. 🔴 **Opens October 2026, no closing date — apply week one**
 - [x] [AWE careers](https://www.awe.co.uk/careers) — registered. ⚠️ *18 by 31 Aug 2027 + British citizenship required*
 - [x] [Network Rail early careers](https://www.earlycareers.networkrail.co.uk) — registered for 2027
@@ -52,7 +65,9 @@ Sites and accounts Fraser should register on, ordered by value. Tick a box only 
 - [ ] [QinetiQ portal alerts](https://careers.qinetiq.com) — no info available, but QATS is at Boscombe Down near Salisbury
 - [ ] [L3Harris](https://www.l3harris.com/careers) — 🆕 Portsmouth defence employer
 - [ ] [ExxonMobil Fawley](https://www.exxonmobil-fawley.co.uk/to-apply/) — Feb 2027; watch for [open evenings](https://www.exxonmobil-fawley.co.uk/open-evenings/)
-- [ ] [Arup](https://www.arup.com/careers) — recruited in **Southampton** in 2026 at £27–28k
+- [x] [AECOM](https://aecom.com/uk-ireland-apprentice-careers/) — **followed 21 Aug 2026, including the degree apprenticeship.** 🔴 Civil Engineering Apprentice (Water) at **Basingstoke, ~35mi and genuinely commutable**, working on live Hampshire water infrastructure. Applications open **September/October each year with no deadline**, so the window is weeks away. ⚠️ Confirm whether it is Level 3 or Level 6 — sources conflict
+- [ ] [Arup](https://www.arup.com/careers) — recruited in **Southampton** in 2026
+  ⚠️ The £27–28k figure previously here is **not verified** — both 2026 listings say "Competitive". Note also that the *degree*-level Southampton route is Building Services Electrical; civil in Southampton is only Level 4
 
 ## 🌟 Fraser's shortlisted roles — register interest NOW
 
@@ -115,6 +130,8 @@ Sites and accounts Fraser should register on, ordered by value. Tick a box only 
 ## Track 2 — Pilot
 - [x] [British Airways future pilots](https://careers.ba.com/future-pilots) — practice test ~75% done
   ⚠️ **Important:** the 2026 window closed 23 April 2026. The practice test is on BA's year-round *preparation* page and **carries nothing forward** — a fresh application is required in the next window, inferred ~mid-April 2027.
+- [ ] **📚 LEARNING TO DO — British Airways Speedbird-Z (Connectr platform)** → [britishairways.connectr.co.uk/inspire](https://britishairways.connectr.co.uk/inspire/)
+  *Free BA careers platform, live year-round and open now — no window to wait for. Gives light-touch mentoring from around 20 BA staff "buddies", plus learning modules on application technique and employability. BA's own figure: **students who use Speedbird-Z are six times more likely to receive a BA apprenticeship offer.** 40,000+ users since 2019. Serves **both** the pilot cadet route and the engineering apprenticeships, so it is useful whichever way Fraser goes. Pairs naturally with the Springpod work above.*
 - [ ] **Diarise ~mid-April 2027** for the BA Speedbird window
 - [ ] **Diarise early February 2027** for Jet2FlightPath — the 2026 window was only ~2.5 weeks
 - [ ] [British Airways engineering apprenticeships](https://careers.ba.com/apprentices) — **opens Autumn 2026**

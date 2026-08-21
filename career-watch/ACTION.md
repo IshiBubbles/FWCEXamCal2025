@@ -1,6 +1,6 @@
 # Fraser's apprenticeship search - action page
 
-**As at 20 August 2026.** Regenerate with `python3 career-watch/scripts/build_action.py`.
+**As at 21 August 2026.** Regenerate with `python3 career-watch/scripts/build_action.py`.
 
 Every number and date below is read from the state files, so this page cannot drift away from the data. Sources: `state/employers.json` (coverage, verdicts, work settings), `state/opportunities.json` (windows and closing dates), `state/applications.json` (pipeline), `registrations.md` (registration progress). Judgement sections come from `career-watch/research/` and are versioned in the generator script.
 
@@ -15,22 +15,41 @@ Every number and date below is read from the state files, so this page cannot dr
 | Still to research | 3 - ABP Southampton, DP World Southampton, University of Portsmouth / BAE Systems Digital Intelligence - Space Systems Engineering |
 | Marked worth real effort | **49** |
 | Work setting | 110 boots-on-ground, 16 mixed, 37 desk or lab |
-| Registrations done | **6 of 65** |
+| Registrations done | **16 of 67** |
 | Applications submitted | **0** |
 
 **The research is a long way ahead of the action.** That gap is what this page is for.
 
 ## Do this month
 
-Ordered by what unblocks the most. The first two are about ten minutes each and gate everything else.
+The unticked items from `registrations.md`, so this list shrinks as things get done rather than repeating work already finished.
 
-1. **Create the Higherin account.** It is the only aggregator of the live "Register Your Interest 2027" listings, and **four of Fraser's five shortlisted roles came from it.** Still the single biggest gap.
-2. **GOV.UK Find an Apprenticeship** - account plus a saved search: Southampton, 25 miles, all sectors, email alerts on.
-3. **National Grid talent pool** - opens September, needs a CV upload before then.
-4. **Register interest:** Babcock (opens October), AtkinsRealis Talent Community, EDF Talent Community, Network Rail, MBDA, Sellafield, UKAEA.
-5. **Both WSP Southampton vacancies** - the only genuinely local degree-level civil roles found anywhere. Reopens November.
-6. **AECOM Basingstoke** (~35mi, commutable) - applications open September/October with **no deadline**, so the window is weeks away. Confirm whether it is Level 3 or Level 6.
-7. **2-3 Springpod virtual work experiences** - free, 6-10 hours, certificate. Do them before October.
+**Highest value first:**
+
+1. **UCAS Smart Alerts** - best filtering of any board, five-minute signup.
+2. **BAE Systems Insight Experience** - Year 13 eligible, dates need checking in **early September**. BAE has no alert option, so nothing will remind you.
+3. **GKN Aerospace** and **L3Harris** on Gradcracker.
+
+**Learning, not registering** - these are marked 📚 in the checklist because signing up is not the same as doing them, and the certificate is what an application can use:
+
+- complete 2–3 Springpod virtual work experiences → springpod.com
+- British Airways Speedbird-Z (Connectr platform) → britishairways.connectr.co.uk/inspire
+
+**Everything still open in the priority sections (13):**
+
+- *🚨 Do first — highest value, all free, no application window needed* — SETA — register interest for September 2027 → setatraining.co.uk/apprenticeships/current_vacancies.html
+- *🚨 Do first — highest value, all free, no application window needed* — UCAS Smart Alerts → ucas.com/apprenticeships/subscribe-alerts
+- *Employer talent pools — 2027-specific, live right now* — GKN Aerospace — Isle of Wight and Bristol routes
+- *Employer talent pools — 2027-specific, live right now* — BAE Systems — ⚠️ no alert option exists; GradCracker follow is the only alert. Check monthly from November 2026
+- *Employer talent pools — 2027-specific, live right now* — BAE Systems Insight Experience — Year 13 eligible, check dates early September
+- *Employer talent pools — 2027-specific, live right now* — QinetiQ portal alerts — no info available, but QATS is at Boscombe Down near Salisbury
+- *Employer talent pools — 2027-specific, live right now* — L3Harris — 🆕 Portsmouth defence employer
+- *Employer talent pools — 2027-specific, live right now* — ExxonMobil Fawley — Feb 2027; watch for open evenings
+- *Employer talent pools — 2027-specific, live right now* — Arup — recruited in Southampton in 2026
+- *Track 2 — Pilot* — Diarise ~mid-April 2027 for the BA Speedbird window
+- *Track 2 — Pilot* — Diarise early February 2027 for Jet2FlightPath — the 2026 window was only ~2.5 weeks
+- *Track 2 — Pilot* — British Airways engineering apprenticeships — opens Autumn 2026
+- *Track 2 — Pilot* — easyJet / CAE — 🟢 open now, but ⚠️ ~€115,000 self-funded
 
 ## Windows opening, in date order
 

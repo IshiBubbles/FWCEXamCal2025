@@ -13,7 +13,7 @@ from collections import Counter
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 STATE = ROOT / "career-watch" / "state"
 RESEARCH = ROOT / "career-watch" / "research"
-TODAY = "20 August 2026"          # the date the research was compiled
+TODAY = "21 August 2026"          # date of the last review; dossiers were compiled 20 Aug
 MONTH_NAMES = {"01":"January","02":"February","03":"March","04":"April","05":"May","06":"June",
                "07":"July","08":"August","09":"September","10":"October","11":"November","12":"December"}
 
@@ -47,6 +47,22 @@ def windows(opps, limit=None):
 
 def closing(opps):
     return sorted([o for o in opps if o.get("closes")], key=lambda o: o["closes"])
+
+
+def outstanding(limit=None):
+    """Unticked registration items, with the section they sit in. Derived, so it cannot go stale."""
+    t = (ROOT / "career-watch" / "registrations.md").read_text()
+    out, section = [], ""
+    for line in t.split("\n"):
+        if line.startswith("## "):
+            section = line[3:].strip()
+        m = re.match(r"- \[ \] (.+)", line)
+        if m:
+            label = m.group(1)
+            label = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", label)   # strip md links
+            label = label.replace("**", "").replace("*", "").strip()
+            out.append((section, label))
+    return out if limit is None else out[:limit]
 
 def settings(emp):
     c = Counter(e["work_setting"] for e in emp)
@@ -133,21 +149,26 @@ def build():
         f"| Applications submitted | **{pc.get('applied', 0)}** |\n\n"
         "**The research is a long way ahead of the action.** That gap is what this page is for."))
 
-    # 2. this month
-    L.append(section("Do this month",
-        "Ordered by what unblocks the most. The first two are about ten minutes each and gate everything else.\n\n"
-        "1. **Create the Higherin account.** It is the only aggregator of the live \"Register Your Interest 2027\" "
-        "listings, and **four of Fraser's five shortlisted roles came from it.** Still the single biggest gap.\n"
-        "2. **GOV.UK Find an Apprenticeship** - account plus a saved search: Southampton, 25 miles, all sectors, "
-        "email alerts on.\n"
-        "3. **National Grid talent pool** - opens September, needs a CV upload before then.\n"
-        "4. **Register interest:** Babcock (opens October), AtkinsRealis Talent Community, EDF Talent Community, "
-        "Network Rail, MBDA, Sellafield, UKAEA.\n"
-        "5. **Both WSP Southampton vacancies** - the only genuinely local degree-level civil roles found anywhere. "
-        "Reopens November.\n"
-        "6. **AECOM Basingstoke** (~35mi, commutable) - applications open September/October with **no deadline**, "
-        "so the window is weeks away. Confirm whether it is Level 3 or Level 6.\n"
-        "7. **2-3 Springpod virtual work experiences** - free, 6-10 hours, certificate. Do them before October."))
+    # 2. this month - derived from registrations.md so it cannot list finished work
+    PRIORITY = ["Do first", "Employer talent pools", "Track 2 — Pilot"]
+    items = outstanding()
+    hot = [(sec, lab) for sec, lab in items if any(k in sec for k in PRIORITY)]
+    learning = [(sec, lab) for sec, lab in items if "LEARNING TO DO" in lab]
+    hot = [x for x in hot if x not in learning]
+    body = ("The unticked items from `registrations.md`, so this list shrinks as things get done rather "
+            "than repeating work already finished.\n\n**Highest value first:**\n\n"
+            "1. **UCAS Smart Alerts** - best filtering of any board, five-minute signup.\n"
+            "2. **BAE Systems Insight Experience** - Year 13 eligible, dates need checking in **early "
+            "September**. BAE has no alert option, so nothing will remind you.\n"
+            "3. **GKN Aerospace** and **L3Harris** on Gradcracker.\n\n")
+    if learning:
+        body += ("**Learning, not registering** - these are marked 📚 in the checklist because signing up is "
+                 "not the same as doing them, and the certificate is what an application can use:\n\n" +
+                 "\n".join(f"- {lab.replace('📚 LEARNING TO DO — ', '').replace('📚 LEARNING TO DO - ', '')}"
+                            for _, lab in learning) + "\n\n")
+    body += (f"**Everything still open in the priority sections ({len(hot)}):**\n\n" +
+             "\n".join(f"- *{sec}* — {lab}" for sec, lab in hot))
+    L.append(section("Do this month", body))
 
     # 3. windows
     seen, rows = set(), []
