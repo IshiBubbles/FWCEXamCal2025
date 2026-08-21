@@ -2,7 +2,7 @@
 
 Every **stated person-spec criterion** found across the research dossiers, grouped by theme and ranked by how many employers ask for it.
 
-Compiled **20 August 2026**. Currently covers Tier 1 civil only (104 employers, 382 criteria). Later rounds extend it.
+Compiled **20 August 2026**. Currently covers Tier 1 civil only (134 employers, 494 criteria). Later rounds extend it.
 
 ## What this file is for
 
@@ -14,21 +14,21 @@ This answers **"which STAR moments should Fraser bank first?"** The themes at th
 
 | Rank | Theme | Employers | Verbatim |
 |---|---|---|---|
-| 1 | Willingness to learn | 61 | 50 |
-| 2 | Digital and technical skills | 31 | 21 |
-| 3 | Teamwork and collaboration | 24 | 14 |
-| 4 | Initiative and drive | 22 | 17 |
-| 5 | Leadership and responsibility | 22 | 15 |
-| 6 | Sustainability and environment | 19 | 14 |
-| 7 | Problem solving | 19 | 8 |
-| 8 | Communication | 12 | 6 |
-| 9 | Attention to detail and accuracy | 10 | 3 |
-| 10 | Safety | 10 | 6 |
-| 11 | Commercial awareness | 9 | 5 |
-| 12 | Integrity and values | 8 | 8 |
-| 13 | Resilience and working under pressure | 8 | 6 |
+| 1 | Willingness to learn | 79 | 57 |
+| 2 | Digital and technical skills | 37 | 22 |
+| 3 | Teamwork and collaboration | 31 | 19 |
+| 4 | Initiative and drive | 26 | 20 |
+| 5 | Leadership and responsibility | 25 | 16 |
+| 6 | Sustainability and environment | 21 | 15 |
+| 7 | Problem solving | 21 | 10 |
+| 8 | Communication | 16 | 9 |
+| 9 | Safety | 14 | 9 |
+| 10 | Attention to detail and accuracy | 13 | 4 |
+| 11 | Integrity and values | 10 | 9 |
+| 12 | Commercial awareness | 10 | 5 |
+| 13 | Resilience and working under pressure | 9 | 7 |
 | 14 | Customer and stakeholder focus | 7 | 6 |
-| 15 | Organisation and time management | 5 | 2 |
+| 15 | Organisation and time management | 6 | 2 |
 | 16 | Numeracy | 2 | 1 |
 
 ### What that means for the STAR bank
@@ -41,7 +41,7 @@ The thinnest areas against this list are commercial awareness, and anything requ
 
 ## Willingness to learn
 
-**61 employers:** AECOM, AWE (Atomic Weapons Establishment), Airbus (Airbus Defence & Space), Amentum, Amey (Amey Consulting), Anglian Water, Arcadis, Arm, AtkinsRéalis, Aureos, BAM (BAM Construct UK / BAM Nuttall), BIP.Verco, BMT, BOC / Linde, Balfour Beatty, Binnies, Bouygues UK, Capgemini Engineering, Centrica, Costain Group, Dalkia Energy Services, Eaton, Edwards (Edwards Vacuum), Farrans Construction, GE Vernova, GKN Aerospace, HS2 (and the entity that actually recruits), Haskoning, Hoare Lea, Honeywell Aerospace, INEOS, Kent (Kent plc), Kier Group, Leonardo, MWH Treatment, Mace Construct, Martin-Baker Aircraft Company, Mott MacDonald, National Gas, National Grid, National Highways, Pell Frischmann, QinetiQ, RINA Consulting, RWE, SETA (Southampton Engineering Training Association Ltd), SLB (formerly Schlumberger), Severfield, Severn Trent, Shell, Skanska UK, Southern Water, Stantec, Sulzer, Tetra Tech, Thames Water, Thornton Tomasetti, Veolia UK, VolkerWessels UK, WSP UK, bp
+**79 employers:** AECOM, AWE (Atomic Weapons Establishment), Airbus (Airbus Defence & Space), Amentum, Amey (Amey Consulting), Anglian Water, Arcadis, Arm, AtkinsRéalis, Aureos, BAM (BAM Construct UK / BAM Nuttall), BIP.Verco, BMT, BOC / Linde, Babcock International, Balfour Beatty, Binnies, Bouygues UK, British Army, Britvic / Carlsberg Britvic, Capgemini Engineering, Centrica, CooperVision, Costain Group, DVSA (Driver and Vehicle Standards Agency), Dalkia Energy Services, Dstl (Defence Science and Technology Laboratory), Eaton, Edwards (Edwards Vacuum), Farrans Construction, GE Vernova, GKN Aerospace, HMRC, HS2 (and the entity that actually recruits), Haskoning, Hoare Lea, Honeywell Aerospace, INEOS, Kent (Kent plc), Kier Group, Leonardo, MI5 / MI6 / GCHQ, MOD Submarine Delivery Agency (SDA), MWH Treatment, Mace Construct, Martin-Baker Aircraft Company, Met Office, Mott MacDonald, National Gas, National Grid, National Highways, Nuclear Decommissioning Authority (NDA) Group — including Nuclear Restoration Services, OCU Group, Pell Frischmann, Perenco, Pfizer, Procter & Gamble, QinetiQ, RINA Consulting, RWE, Rolls-Royce (Submarines) — ⚠️ and the two traps, Royal Air Force, Royal Navy, SETA (Southampton Engineering Training Association Ltd), SLB (formerly Schlumberger), Severfield, Severn Trent, Shell, Skanska UK, Southern Water, Stantec, Sulzer, Tetra Tech, Thames Water, Thornton Tomasetti, Veolia UK, VolkerWessels UK, WSP UK, bp
 
 *Verbatim — safe to mirror*
 
@@ -95,6 +95,13 @@ The thinnest areas against this list are commercial awareness, and anything requ
 - **Aureos** — the perfect blend of practical learning and professional development
 - **BIP.Verco** — Whether it's strategy, technical engineering, data analytics or software development, you'll impact a range of significant zero carbon challenges, alongside leading sustainability experts
 - **BIP.Verco** — Career paths are tailored to you and your personal goals with flexible working, wellness action plans, personal development reviews, paid professional memberships and support with charterships in your chosen field
+- **Procter & Gamble** — Support offer: "access to internal and external training, support from apprenticeship programme leaders and a buddy system", training in "electrical competency and PLC Fault Finding
+- **Pfizer** — a supportive, welcoming, and exciting place to work where you'll get the opportunity to contribute to meaningful work whilst receiving tailored support from both your team and your training provider
+- **Babcock International** — creativity, curiosity and a passion to learn" —  *(this is Babcock's own stated headline for what they seek in apprentices; short enough to be quotable, but confirm on the live "What we are looking for" page)
+- **MOD Submarine Delivery Agency (SDA)** — you must have the **right of abode in the UK** and have been **ordinarily a resident in the EEA** (including other countries determined within the EEA or those with bilateral agreements) **for at least the previous three years on the first day of learning
+- **Nuclear Decommissioning Authority (NDA) Group — including Nuclear Restoration Services** — hands-on learning with some of the most experienced nuclear professionals in the world, alongside first-class training providers to support college-based study" —  *(good letter-bait: NRS is selling hands-on explicitly)
+- **Royal Navy** — With experience and further training, you could be promoted to Petty Officer and beyond.
+- **Royal Air Force** — You will gain the apprenticeship as part of your phase two training, in total the process of gaining your apprenticeship can last 1 year to 3 years of training.
 
 *Paraphrased — signal only, do not quote*
 
@@ -125,11 +132,30 @@ The thinnest areas against this list are commercial awareness, and anything requ
 - **Honeywell Aerospace** — Electromechanical route: "work alongside qualified and experienced engineers to develop your engineering skills whilst undertaking part-time academic studies… offers hands-on experience, mentorship, and opportunities for growth
 - **Amentum** — structured Continuous Professional Development programmes with unlimited learning opportunities
 - **RINA Consulting** — At RINA, they encourage their professionals to learn new skills and offer structured and diversified growth paths
+- **Britvic / Carlsberg Britvic** — Combines college-based learning with real-world experience, workplace mentor throughout
+- **CooperVision** — Level 3 Machining Technician training course, 3 years 6 months, via Southampton Engineering Training Association Limited
+- **Babcock International** — Mindset, attitude and approach are key for success; training develops behaviours in **adaptability, communication and teamwork
+- **Babcock International** — Some behaviours are instinctive, some transferrable from other areas of your life, some can be learned —  *(useful framing for a covering letter: it invites non-work examples)
+- **Rolls-Royce (Submarines) — ⚠️ and the two traps** — Level 6 combining paid employment with part-time university study for a bachelor's-equivalent qualification
+- **Nuclear Decommissioning Authority (NDA) Group — including Nuclear Restoration Services** — Level 6 delivered as the "Government approved Level 6 Nuclear Scientist Nuclear Engineering Degree Apprenticeship Standard" through Bridgwater & Taunton College, Cannington, with on-the-job training at your allocated NRS site
+- **Dstl (Defence Science and Technology Laboratory)** — Dstl looks for a genuine interest in the area of study as well as a positive attitude"**, and **"while they're not expecting high level technical skills, they want to see genuine interest and motivation in your application."**  — a strongly usable steer for the personal statement: motivation over technical polish.
+- **MI5 / MI6 / GCHQ** — a three-year apprenticeship where you'll study towards an accredited level 6 apprenticeship qualification"** (Software Engineering)
+- **Royal Navy** — You need to be aged 17 to 39 (You can start your application from 16.5 years old however you must be at least 17 years old on day of entry to basic training)."**  — note this is *lower* than Dstl's 18-at-start rule, so the Navy is available to him earlier.
+- **British Army** — £26,334, both during training and after completing basic trade training"** (Ammunition Technician)
+- **British Army** — you'll learn to inspect, repair, store and destroy everything from rifle ammunition to guided weapons, and you will work with Army Units and UK security services, deploying bomb disposal robots"** (Ammunition Technician)
+- **Met Office** — a work-based training programme at the Met Office Headquarters in Exeter, including 30 days per year of training at the National Physical Laboratory in Teddington
+- **HMRC** — Entry is **one of**: **"completion of a Level 3 Software Development Apprenticeship with QA or equivalent qualification, OR an A-level in Science, Technology, Engineering or Mathematics (STEM) subject and successful completion of an aptitude test, OR a BTEC Diploma in IT and successful completion of an aptitude test, OR 2 years' experience in a relevant role."**  — Fraser meets the second limb on any one of his three A-levels, subject to the aptitude test.
+- **HMRC** — This role combines hands-on software development experience with structured learning, enabling you to contribute to critical government digital services whilst developing your professional skills"**  — note "hands-on" here means writing code, not physical work.
+- **HMRC** — With 20% time reserved for training, you'll earn while progressing towards completion of an 18-24-month apprenticeship
+- **DVSA (Driver and Vehicle Standards Agency)** — The apprenticeship includes a Level 3 qualification in HGV maintenance, and the training programme lasts around 16 weeks.
+- **DVSA (Driver and Vehicle Standards Agency)** — Apprenticeships offer a fantastic opportunity to grow skills, develop and learn whilst working within an innovative organisation committed to Keeping Britain's Roads Safe.
+- **OCU Group** — the opportunity to contribute to live project environments from an early stage, building practical experience alongside structured learning
+- **Perenco** — Perenco UK has partnered with Humberside Engineering Training Association (HETA) to offer a 3 Year Apprenticeship programme to aspiring engineers.
 
 
 ## Digital and technical skills
 
-**31 employers:** Amey (Amey Consulting), Anglian Water, Arcadis, Arm, Aureos, BAM (BAM Construct UK / BAM Nuttall), BIP.Verco, BOC / Linde, Binnies, Capgemini Engineering, Costain Group, Edwards (Edwards Vacuum), Frazer-Nash Consultancy, GRAHAM, Haskoning, Honeywell Aerospace, Kier Group, Laing O'Rourke, Leonardo, MBDA UK, MWH Treatment, Martin-Baker Aircraft Company, Mott MacDonald, National Grid, Pell Frischmann, Roke (Roke Manor Research), STRABAG UK and ZÜBLIN, ScottishPower, Tetra Tech, Thames Water, Transport for London (TfL)
+**37 employers:** Amey (Amey Consulting), Anglian Water, Arcadis, Arm, Aureos, BAM (BAM Construct UK / BAM Nuttall), BIP.Verco, BOC / Linde, Binnies, Capgemini Engineering, Church & Dwight, Costain Group, Dstl (Defence Science and Technology Laboratory), Edwards (Edwards Vacuum), Frazer-Nash Consultancy, GRAHAM, HMRC, Haskoning, Honeywell Aerospace, Kier Group, Laing O'Rourke, Leonardo, MBDA UK, MI5 / MI6 / GCHQ, MWH Treatment, Martin-Baker Aircraft Company, Met Office, Mott MacDonald, National Grid, Pell Frischmann, Roke (Roke Manor Research), Royal Navy, STRABAG UK and ZÜBLIN, ScottishPower, Tetra Tech, Thames Water, Transport for London (TfL)
 
 *Verbatim — safe to mirror*
 
@@ -154,6 +180,7 @@ The thinnest areas against this list are commercial awareness, and anything requ
 - **Aureos** — You'll gain hands-on experience from day one, working alongside industry experts on real projects, while completing a structured academic qualification through a trusted training provider
 - **BIP.Verco** — Whether it's strategy, technical engineering, data analytics or software development, you'll impact a range of significant zero carbon challenges, alongside leading sustainability experts
 - **BIP.Verco** — more than 35 years' experience, they combine expert advice, real-world delivery and digital technology to make companies active participants in building a better future
+- **Church & Dwight** — excellent problem-solving skills and keen attention to detail
 
 *Paraphrased — signal only, do not quote*
 
@@ -175,11 +202,18 @@ The thinnest areas against this list are commercial awareness, and anything requ
 - **ScottishPower** — Apprenticeships include engineering, overhead lines, fitting, jointing, data and digital roles, project management and more
 - **MBDA UK** — Fully funded 4-year programme toward "BSc (Honours) qualification in Digital and Technology Solutions
 - **Honeywell Aerospace** — Electromechanical route: "work alongside qualified and experienced engineers to develop your engineering skills whilst undertaking part-time academic studies… offers hands-on experience, mentorship, and opportunities for growth
+- **Dstl (Defence Science and Technology Laboratory)** — Dstl looks for a genuine interest in the area of study as well as a positive attitude"**, and **"while they're not expecting high level technical skills, they want to see genuine interest and motivation in your application."**  — a strongly usable steer for the personal statement: motivation over technical polish.
+- **MI5 / MI6 / GCHQ** — you'll need 72 UCAS points by September 2026, as well as GCSE grade 4/C or above in English language and Maths, or equivalent Functional Skills Level 2"** (Software Engineering)
+- **MI5 / MI6 / GCHQ** — a three-year apprenticeship where you'll study towards an accredited level 6 apprenticeship qualification"** (Software Engineering)
+- **Royal Navy** — A Body Mass Index (BMI) between 18 and 28 (between 17 and 27 if under 18)."**  — a real, physical, non-academic gate that most employers in this search do not have.
+- **Met Office** — excellent attention to detail and a desire to work accurately within a team, plus a strong interest in Programming and/or Instrumentation and Electronics
+- **HMRC** — Entry is **one of**: **"completion of a Level 3 Software Development Apprenticeship with QA or equivalent qualification, OR an A-level in Science, Technology, Engineering or Mathematics (STEM) subject and successful completion of an aptitude test, OR a BTEC Diploma in IT and successful completion of an aptitude test, OR 2 years' experience in a relevant role."**  — Fraser meets the second limb on any one of his three A-levels, subject to the aptitude test.
+- **HMRC** — This role combines hands-on software development experience with structured learning, enabling you to contribute to critical government digital services whilst developing your professional skills"**  — note "hands-on" here means writing code, not physical work.
 
 
 ## Teamwork and collaboration
 
-**24 employers:** AECOM, Anglian Water, Arcadis, Balfour Beatty, Binnies, Costain Group, EET Fuels (Essar Oil UK), GE Aerospace, HS2 (and the entity that actually recruits), Haskoning, INEOS, Johnson Matthey, Kier Group, Martin-Baker Aircraft Company, Mott MacDonald, Multiplex UK, National Highways, Network Rail, Pell Frischmann, Schneider Electric, Severn Trent, Skanska UK, Thornton Tomasetti, Tilbury Douglas
+**31 employers:** AECOM, Anglian Water, Arcadis, Babcock International, Balfour Beatty, Binnies, Church & Dwight, Costain Group, EDF Energy, EET Fuels (Essar Oil UK), GE Aerospace, HS2 (and the entity that actually recruits), Haskoning, INEOS, Johnson Matthey, Kier Group, Martin-Baker Aircraft Company, Met Office, Mott MacDonald, Multiplex UK, National Highways, Network Rail, Pell Frischmann, Perenco, Pfizer, Schneider Electric, Severn Trent, Skanska UK, Syngenta, Thornton Tomasetti, Tilbury Douglas
 
 *Verbatim — safe to mirror*
 
@@ -197,6 +231,11 @@ The thinnest areas against this list are commercial awareness, and anything requ
 - **Johnson Matthey** — a strong awareness of safety, good attention to detail, a methodical approach to work, and the ability to communicate clearly and work collaboratively with others
 - **Johnson Matthey** — help the Maintenance team in the skilled execution of Planned, Reactive & Corrective ... maintenance activities under supervision and mentoring guidance
 - **Martin-Baker Aircraft Company** — Apprentices *"learn about Martin-Baker through exposure to various Engineering & Manufacturing disciplines with full team support
+- **Church & Dwight** — effective communication and teamwork abilities
+- **Syngenta** — Huddersfield context: "working alongside a world-class team maintaining complex computer-controlled manufacturing plant
+- **Pfizer** — a supportive, welcoming, and exciting place to work where you'll get the opportunity to contribute to meaningful work whilst receiving tailored support from both your team and your training provider
+- **EDF Energy** — the ability to work both independently and in a team
+- **Perenco** — Initially apprentices will work Monday to Friday 37.5 hours per week when they join site. Once they are competent and have been allocated to a team, they will move to shift working which is 7 days on, 7 days off, 12-hour shifts.
 
 *Paraphrased — signal only, do not quote*
 
@@ -214,11 +253,14 @@ The thinnest areas against this list are commercial awareness, and anything requ
 - **EET Fuels (Essar Oil UK)** — Skills sought on one listing: "communication, problem-solving, analytical abilities, and team working"  — **note these are GOV.UK's standard skill-tag vocabulary and appear on thousands of adverts, so treat as low-signal, not as EET Fuels' own person spec.
 - **Schneider Electric** — Salisbury role duties: "installation and commissioning of uninterrupted power supply equipment, modifications to plant and equipment, and supporting maintenance and inspection teams
 - **GE Aerospace** — You'll be enrolled in the BEng Hons Aerospace Engineering degree at the University of The West of England (Bristol) with a series of work placements within engineering teams" —  (near-verbatim but reflowed by the search engine)
+- **Babcock International** — Mindset, attitude and approach are key for success; training develops behaviours in **adaptability, communication and teamwork
+- **Met Office** — The Metrology Technician Apprentice will support the Laboratory team with a wide range of measurement tasks, laboratory duties and scientific research within the Calibration Laboratory.
+- **Met Office** — excellent attention to detail and a desire to work accurately within a team, plus a strong interest in Programming and/or Instrumentation and Electronics
 
 
 ## Initiative and drive
 
-**22 employers:** Aegis Energy, Airbus (Airbus Defence & Space), Amey (Amey Consulting), Arcadis, AtkinsRéalis, BAM (BAM Construct UK / BAM Nuttall), Balfour Beatty, Centrica, Colas Rail UK, DNV, Dalkia Energy Services, E.ON UK, INEOS, John Sisk & Son, Laing O'Rourke, Midsummer Energy, National Highways, Network Rail, SSE, STRABAG UK and ZÜBLIN, Tetra Tech, Veolia UK
+**26 employers:** Aegis Energy, Airbus (Airbus Defence & Space), Amey (Amey Consulting), Arcadis, AtkinsRéalis, BAM (BAM Construct UK / BAM Nuttall), Babcock International, Balfour Beatty, Centrica, Church & Dwight, Colas Rail UK, DNV, DVSA (Driver and Vehicle Standards Agency), Dalkia Energy Services, E.ON UK, EDF Energy, INEOS, John Sisk & Son, Laing O'Rourke, Midsummer Energy, National Highways, Network Rail, SSE, STRABAG UK and ZÜBLIN, Tetra Tech, Veolia UK
 
 *Verbatim — safe to mirror*
 
@@ -239,6 +281,9 @@ The thinnest areas against this list are commercial awareness, and anything requ
 - **Aegis Energy** — accelerating the decarbonisation of commercial transport, by building a national network of clean, multi-energy hubs
 - **Airbus (Airbus Defence & Space)** — you may have been part of an engineering club at school or perhaps you enjoy fixing mechanical and electrical things in your spare time"* — offered as how to evidence passion for engineering  — **this is the single most useful sentence in the entry for STAR purposes
 - **DNV** — you'll work alongside more than 100 specialists at Spadeadam, gaining hands-on experience in electrical and mechanical activities across a wide range of client projects — from gas explosion and fire testing to hydrogen-powered homes and next-generation energy systems
+- **Church & Dwight** — a strong passion for engineering and the FMCG industry
+- **Babcock International** — creativity, curiosity and a passion to learn" —  *(this is Babcock's own stated headline for what they seek in apprentices; short enough to be quotable, but confirm on the live "What we are looking for" page)
+- **EDF Energy** — a passion for engineering in the nuclear industry"** —  *(short, distinctive, and worth mirroring — this is the single best phrase in the EDF material for Fraser given his genuine interest)
 
 *Paraphrased — signal only, do not quote*
 
@@ -255,11 +300,12 @@ The thinnest areas against this list are commercial awareness, and anything requ
 - **INEOS** — enthusiastic Modern Apprentices" who will "learn and develop new and valuable skills, working alongside highly experienced colleagues in a unique and challenging environment.
 - **SSE** — opportunities for apprentices in roles including as a Lines Person, Jointer or Electrical Fitter in their Energy Networks business
 - **Airbus (Airbus Defence & Space)** — Demonstrate a passion for engineering through educational choices or hobbies
+- **DVSA (Driver and Vehicle Standards Agency)** — Apprenticeships offer a fantastic opportunity to grow skills, develop and learn whilst working within an innovative organisation committed to Keeping Britain's Roads Safe.
 
 
 ## Leadership and responsibility
 
-**22 employers:** AECOM, Amentum, Anglian Water, Arcadis, AtkinsRéalis, BOC / Linde, Balfour Beatty, Capgemini Engineering, GE Aerospace, GRAHAM, HS2 (and the entity that actually recruits), Hoare Lea, Honeywell Aerospace, Johnson Matthey, Kent (Kent plc), Kier Group, Laing O'Rourke, Morgan Advanced Materials, National Grid, Skanska UK, Southern Water, Thames Water
+**25 employers:** AECOM, Amentum, Anglian Water, Arcadis, AtkinsRéalis, BOC / Linde, Balfour Beatty, Britvic / Carlsberg Britvic, Capgemini Engineering, GE Aerospace, GRAHAM, HS2 (and the entity that actually recruits), Hoare Lea, Honeywell Aerospace, Johnson Matthey, Kent (Kent plc), Kier Group, Laing O'Rourke, Morgan Advanced Materials, National Grid, OCU Group, Procter & Gamble, Skanska UK, Southern Water, Thames Water
 
 *Verbatim — safe to mirror*
 
@@ -278,6 +324,7 @@ The thinnest areas against this list are commercial awareness, and anything requ
 - **Anglian Water** — The apprentice "will develop capability in key accountabilities including **Design Excellence, Health & Safety, Project Management / Site Surveys, Collaboration and Transformation**"  (same caveat — aggregator mirror of the vacancy)
 - **Johnson Matthey** — help the Maintenance team in the skilled execution of Planned, Reactive & Corrective ... maintenance activities under supervision and mentoring guidance
 - **Capgemini Engineering** — You'll cover many modules such as Software lifecycle, System Context, Leadership & Design approaches
+- **Procter & Gamble** — Support offer: "access to internal and external training, support from apprenticeship programme leaders and a buddy system", training in "electrical competency and PLC Fault Finding
 
 *Paraphrased — signal only, do not quote*
 
@@ -292,11 +339,14 @@ The thinnest areas against this list are commercial awareness, and anything requ
 - **GE Aerospace** — Work placements "typically cover mechanical design, composites design, mechanical analysis, stress analysis, aero-acoustics, controls, electronics and systems engineering and manufacturing engineering, with support from technical and pastoral mentors from both Dowty and the university
 - **Honeywell Aerospace** — Electromechanical route: "work alongside qualified and experienced engineers to develop your engineering skills whilst undertaking part-time academic studies… offers hands-on experience, mentorship, and opportunities for growth
 - **Amentum** — When you join Amentum, you'll be provided with bespoke work packages and tailored mentoring
+- **Britvic / Carlsberg Britvic** — Combines college-based learning with real-world experience, workplace mentor throughout
+- **OCU Group** — designed for those looking to step into higher-level roles that demand specialised knowledge and increased responsibility
+- **OCU Group** — All apprentices are fully supported throughout OCU Apprenticeship Programme with mentors, buddies and scheduled progress reviews.
 
 
 ## Sustainability and environment
 
-**19 employers:** Aegis Energy, Anglian Water, BIP.Verco, Balfour Beatty, Binnies, Centrica, Dalkia Energy Services, E.ON UK, Farrans Construction, INEOS, Mott MacDonald, NATS (air traffic services), National Highways, Network Rail, Stantec, Tetra Tech, Thames Water, Tilbury Douglas, Veolia UK
+**21 employers:** Aegis Energy, Anglian Water, BIP.Verco, Balfour Beatty, Binnies, Centrica, Dalkia Energy Services, E.ON UK, Farrans Construction, INEOS, Mott MacDonald, NATS (air traffic services), National Highways, Network Rail, OCU Group, Stantec, Syngenta, Tetra Tech, Thames Water, Tilbury Douglas, Veolia UK
 
 *Verbatim — safe to mirror*
 
@@ -314,6 +364,7 @@ The thinnest areas against this list are commercial awareness, and anything requ
 - **E.ON UK** — Apprentices gain expertise in areas such as district heating networks, hydrogen innovation, and low-carbon energy production
 - **Aegis Energy** — accelerating the decarbonisation of commercial transport, by building a national network of clean, multi-energy hubs
 - **BIP.Verco** — Whether it's strategy, technical engineering, data analytics or software development, you'll impact a range of significant zero carbon challenges, alongside leading sustainability experts
+- **Syngenta** — Huddersfield role purpose: "Your role will be to maintain complex manufacturing plants to the highest safety, health and environmental standards and ensure they are available to deliver on promises made to the business. You will be involved with preventative maintenance, planned maintenance and breakdown response.
 
 *Paraphrased — signal only, do not quote*
 
@@ -327,11 +378,12 @@ The thinnest areas against this list are commercial awareness, and anything requ
 - **Farrans Construction** — Farrans describes apprenticeships as "a live and exciting learning environment" where "you can relate what you see on site to what you are learning on your course"  — useful because it is explicitly site-framed, but confirm wording before quoting
 - **Tilbury Douglas** — Ability to work in a multi-functional and dynamic team environment, assisting with the smooth running of a variety of projects
 - **INEOS** — enthusiastic Modern Apprentices" who will "learn and develop new and valuable skills, working alongside highly experienced colleagues in a unique and challenging environment.
+- **OCU Group** — the opportunity to contribute to live project environments from an early stage, building practical experience alongside structured learning
 
 
 ## Problem solving
 
-**19 employers:** ABB Ltd, AECOM, Arcadis, BIP.Verco, Binnies, Capgemini Engineering, EET Fuels (Essar Oil UK), John Sisk & Son, Laing O'Rourke, MBDA UK, Mott MacDonald, Multiplex UK, NSG Environmental, National Grid, Network Rail, SLB (formerly Schlumberger), STRABAG UK and ZÜBLIN, Stantec, Thames Water
+**21 employers:** ABB Ltd, AECOM, Arcadis, BIP.Verco, Binnies, Capgemini Engineering, Church & Dwight, EET Fuels (Essar Oil UK), GSK, John Sisk & Son, Laing O'Rourke, MBDA UK, Mott MacDonald, Multiplex UK, NSG Environmental, National Grid, Network Rail, SLB (formerly Schlumberger), STRABAG UK and ZÜBLIN, Stantec, Thames Water
 
 *Verbatim — safe to mirror*
 
@@ -343,6 +395,8 @@ The thinnest areas against this list are commercial awareness, and anything requ
 - **ABB Ltd** — ABB in the UK supplies around £500m of electrification, motion and automation solutions annually in a wide range of market sectors
 - **Capgemini Engineering** — study a BSc (Hons) in Digital & Technology Solutions at Sheffield Hallam, work on real projects, build industry skills and earn £20,000 a year
 - **BIP.Verco** — Whether it's strategy, technical engineering, data analytics or software development, you'll impact a range of significant zero carbon challenges, alongside leading sustainability experts
+- **Church & Dwight** — excellent problem-solving skills and keen attention to detail
+- **GSK** — Then "work across multiple engineering departments on approximate 12-month rotations, working with experienced engineering technicians responding to equipment breakdowns, fault finding/problem solving issues and supporting completion of routine maintenance
 
 *Paraphrased — signal only, do not quote*
 
@@ -361,7 +415,7 @@ The thinnest areas against this list are commercial awareness, and anything requ
 
 ## Communication
 
-**12 employers:** Arcadis, BAE Systems Maritime Services, Binnies, EET Fuels (Essar Oil UK), GRAHAM, INEOS, John Sisk & Son, Johnson Matthey, National Grid, National Highways, Network Rail, Tetra Tech
+**16 employers:** Arcadis, BAE Systems Maritime Services, Babcock International, Binnies, British Army, Church & Dwight, EET Fuels (Essar Oil UK), GRAHAM, INEOS, John Sisk & Son, Johnson Matthey, National Grid, National Highways, Network Rail, Royal Navy, Tetra Tech
 
 *Verbatim — safe to mirror*
 
@@ -371,6 +425,9 @@ The thinnest areas against this list are commercial awareness, and anything requ
 - **INEOS** — you will need to have (or be working towards) four National 5's (or equivalent) in Maths and English; Engineering Science or Chemistry; plus, one from Biology, Physics, Graphic Communications, Environmental Science or the completion of related qualifications.
 - **Johnson Matthey** — a strong awareness of safety, good attention to detail, a methodical approach to work, and the ability to communicate clearly and work collaboratively with others
 - **BAE Systems Maritime Services** — Project Management degree route: *"communication, schedule management, budgeting and cost control, stakeholder management, risk management and project governance
+- **Church & Dwight** — effective communication and teamwork abilities
+- **Royal Navy** — You'll maintain and operate complex communication, sensor and weapon systems, guaranteeing missiles, guns and anti-submarine torpedoes are fully operational.
+- **British Army** — Networks Engineer is an expert in computer network deployment and operation, and military radio communications.
 
 *Paraphrased — signal only, do not quote*
 
@@ -382,17 +439,45 @@ The thinnest areas against this list are commercial awareness, and anything requ
 - **John Sisk & Son** — Strong communication skills
 - **EET Fuels (Essar Oil UK)** — Skills sought on one listing: "communication, problem-solving, analytical abilities, and team working"  — **note these are GOV.UK's standard skill-tag vocabulary and appear on thousands of adverts, so treat as low-signal, not as EET Fuels' own person spec.
 - **National Grid** — Behavioural attributes listed across postings: communication, attention to detail, organisation, problem solving, presentation, number skills, analytical skills, logical thinking, patience, adaptability, safety awareness, reliability, responsibility.
+- **Babcock International** — Mindset, attitude and approach are key for success; training develops behaviours in **adaptability, communication and teamwork
+
+
+## Safety
+
+**14 employers:** Anglian Water, Balfour Beatty, DVSA (Driver and Vehicle Standards Agency), GSK, Johnson Matthey, Laing O'Rourke, National Grid, National Highways, Royal Navy, SLB (formerly Schlumberger), Skanska UK, Syngenta, Tetra Tech, Thames Water
+
+*Verbatim — safe to mirror*
+
+- **Tetra Tech** — The role will provide valuable experience in balancing technical, environmental, safety and constructability considerations, helping you develop into a well-rounded engineer capable of contributing to multidisciplinary projects
+- **Balfour Beatty** — We are Safe" — *"Safety is our license to operate"*; unrelenting and uncompromising commitment to **Zero Harm
+- **Balfour Beatty** — Role expectation: *"You'll work on site and in the office, learning to design, build and maintain structures while ensuring everything is built correctly and safely
+- **Skanska UK** — Duty: *"Producing permits such as permits to excavate or vegetation clearance permits, and managing daily diary of site activities
+- **Anglian Water** — The apprentice "will develop capability in key accountabilities including **Design Excellence, Health & Safety, Project Management / Site Surveys, Collaboration and Transformation**"  (same caveat — aggregator mirror of the vacancy)
+- **Johnson Matthey** — a strong awareness of safety, good attention to detail, a methodical approach to work, and the ability to communicate clearly and work collaboratively with others
+- **Syngenta** — Huddersfield role purpose: "Your role will be to maintain complex manufacturing plants to the highest safety, health and environmental standards and ensure they are available to deliver on promises made to the business. You will be involved with preventative maintenance, planned maintenance and breakdown response.
+- **GSK** — Year one: college one day a week, "gain an understanding of engineering principles and workshop safety
+- **Royal Navy** — Nationality / residency:** **"You must be a British or British Dual National, who has lived in the UK continuously for the 5 years prior to applying."**  Note this wording *permits* dual nationality, unlike some defence employers. Fraser's position is already confirmed satisfied. Security clearance applies as standard to service personnel.
+
+*Paraphrased — signal only, do not quote*
+
+- **Laing O'Rourke** — Eligibility: must be eligible to work in the UK with a valid work permit
+- **Thames Water** — Role content: assist in planning, designing and managing civil engineering projects across Thames Water's network; prepare and update engineering diagrams, documents and specifications using tools like CAD; collect and analyse technical data to develop practical engineering solutions; ensure work meets health and safety standards, environmental regulations and sustainability goals; support quality, budget and schedule management using project systems  (this reads like the vacancy's own "what you'll be doing" list but the exact bullet wording is not confirmed)
+- **National Highways** — Programme promise: "You'll gain on site experience and knowledge and you'll learn about the technical side of engineering as well as how our contracts work and how innovation can improve safety and efficiency"  — near-verbatim in the snippet but not confirmed as an exact quote
+- **SLB (formerly Schlumberger)** — Field Specialist Trainees "receive intensive training in troubleshooting, technical procedures, safety, and client interaction."  — **and this is the graduate/trainee route, not an apprenticeship.
+- **National Grid** — Behavioural attributes listed across postings: communication, attention to detail, organisation, problem solving, presentation, number skills, analytical skills, logical thinking, patience, adaptability, safety awareness, reliability, responsibility.
+- **DVSA (Driver and Vehicle Standards Agency)** — Apprenticeships offer a fantastic opportunity to grow skills, develop and learn whilst working within an innovative organisation committed to Keeping Britain's Roads Safe.
 
 
 ## Attention to detail and accuracy
 
-**10 employers:** AWE (Atomic Weapons Establishment), Johnson Matthey, Kier Group, National Grid, QinetiQ, STRABAG UK and ZÜBLIN, Skanska UK, Southern Water, Thames Water, Tilbury Douglas
+**13 employers:** AWE (Atomic Weapons Establishment), AstraZeneca, Church & Dwight, Johnson Matthey, Kier Group, Met Office, National Grid, QinetiQ, STRABAG UK and ZÜBLIN, Skanska UK, Southern Water, Thames Water, Tilbury Douglas
 
 *Verbatim — safe to mirror*
 
 - **Kier Group** — you'll be able to resolve design and development problems that occur along the way and ensure a high quality project is delivered
 - **Skanska UK** — Duty: *"Surveying the site and setting out for the construction operatives, and checking the quality of construction operatives' work
 - **Johnson Matthey** — a strong awareness of safety, good attention to detail, a methodical approach to work, and the ability to communicate clearly and work collaboratively with others
+- **Church & Dwight** — excellent problem-solving skills and keen attention to detail
 
 *Paraphrased — signal only, do not quote*
 
@@ -403,33 +488,36 @@ The thinnest areas against this list are commercial awareness, and anything requ
 - **National Grid** — Behavioural attributes listed across postings: communication, attention to detail, organisation, problem solving, presentation, number skills, analytical skills, logical thinking, patience, adaptability, safety awareness, reliability, responsibility.
 - **QinetiQ** — For engineering apprenticeships, they often require maths, physics and chemistry at A Level"*  ⚠️ **Flagging this one hard.** It would be a remarkably exact match to Fraser's subject combination, which is precisely why I distrust it — it reads like generic careers-site guidance and the search engine attributed it loosely across a UCAS employer profile and two aggregator pages rather than to a QinetiQ vacancy. **Do not quote this to QinetiQ.** It is, however, a reasonable reason to be optimistic and to send the email.
 - **AWE (Atomic Weapons Establishment)** — Residency:** **no separate years-of-residency requirement was found** — AWE's published gate is **British National + age 18 by 31 August**, which is a nationality-and-age test rather than a residency-span test.  **This is worth noting precisely because it differs from BAE's, and is a good example of why the two must not be merged.
+- **AstraZeneca** — Level 6 Quality Control: 4-year fixed-term contract, start 7 September 2026
+- **Met Office** — excellent attention to detail and a desire to work accurately within a team, plus a strong interest in Programming and/or Instrumentation and Electronics
 
 
-## Safety
+## Integrity and values
 
-**10 employers:** Anglian Water, Balfour Beatty, Johnson Matthey, Laing O'Rourke, National Grid, National Highways, SLB (formerly Schlumberger), Skanska UK, Tetra Tech, Thames Water
+**10 employers:** AWE (Atomic Weapons Establishment), Anglian Water, Aureos, Babcock International, Balfour Beatty, MOD Submarine Delivery Agency (SDA), Network Rail, QinetiQ, Skanska UK, Thornton Tomasetti
 
 *Verbatim — safe to mirror*
 
-- **Tetra Tech** — The role will provide valuable experience in balancing technical, environmental, safety and constructability considerations, helping you develop into a well-rounded engineer capable of contributing to multidisciplinary projects
-- **Balfour Beatty** — We are Safe" — *"Safety is our license to operate"*; unrelenting and uncompromising commitment to **Zero Harm
-- **Balfour Beatty** — Role expectation: *"You'll work on site and in the office, learning to design, build and maintain structures while ensuring everything is built correctly and safely
-- **Skanska UK** — Duty: *"Producing permits such as permits to excavate or vegetation clearance permits, and managing daily diary of site activities
-- **Anglian Water** — The apprentice "will develop capability in key accountabilities including **Design Excellence, Health & Safety, Project Management / Site Surveys, Collaboration and Transformation**"  (same caveat — aggregator mirror of the vacancy)
-- **Johnson Matthey** — a strong awareness of safety, good attention to detail, a methodical approach to work, and the ability to communicate clearly and work collaboratively with others
+- **Thornton Tomasetti** — you are joining a world-industry leading engineering consultancy and will be provided with training and support to develop valuable skills and earn qualifications to establish yourself as a valued member of the Test & Evaluation team
+- **Balfour Beatty** — We are Lean" — *"We create value for our customers and drive continuous improvement"* / eliminating waste and improving operational efficiency
+- **Balfour Beatty** — We are Trusted" — *"We deliver on our promises and we do the right thing
+- **Balfour Beatty** — Five core behaviours: **Talk Positively, Collaborate Relentlessly, Encourage Constantly, Make a Difference, Value Everyone
+- **Skanska UK** — Duty: *"Applying ethical principles, identifying and analysing ethical concerns and making reasoned ethical choices
+- **Anglian Water** — We build trust", "We do the right thing", "We are always exploring" — stated company values  (found as a structured values list, but via a third-party aggregator — confirm on anglianwatercareers.co.uk before quoting)
+- **AWE (Atomic Weapons Establishment)** — Depending on your apprenticeship, you'll study at one of AWE's trusted education partners, with information provided in job advertisements"*  — confirms the partner varies by route and is only published per-vacancy
+- **Aureos** — You'll gain hands-on experience from day one, working alongside industry experts on real projects, while completing a structured academic qualification through a trusted training provider
+- **Babcock International** — RESIDENCY / NATIONALITY (stated separately, as required):** Babcock states that programmes are **subject to Security Clearance and Trade Control restrictions**, and that **"your place of birth, nationality, citizenship, or residency you hold or have held may impact which programmes you are eligible for"** — , with one important caveat: **this wording was surfaced from Babcock's *graduate* FAQ pages, not confirmed on the apprenticeship FAQ.** Some business units "may require you to satisfy Ministry of Defence security clearance" — . **No specific number-of-years residency figure could be attributed to Babcock.** I am explicitly refusing to import the "5 years continuous UK residency" or "British National only" strings seen elsewhere in this round — those belong to Sellafield and to MOD/SDA respectively and must not be attached to Babcock. Fraser's nationality and residency are already confirmed satisfied, so this is a factual note, not a risk.
 
 *Paraphrased — signal only, do not quote*
 
-- **Laing O'Rourke** — Eligibility: must be eligible to work in the UK with a valid work permit
-- **Thames Water** — Role content: assist in planning, designing and managing civil engineering projects across Thames Water's network; prepare and update engineering diagrams, documents and specifications using tools like CAD; collect and analyse technical data to develop practical engineering solutions; ensure work meets health and safety standards, environmental regulations and sustainability goals; support quality, budget and schedule management using project systems  (this reads like the vacancy's own "what you'll be doing" list but the exact bullet wording is not confirmed)
-- **National Highways** — Programme promise: "You'll gain on site experience and knowledge and you'll learn about the technical side of engineering as well as how our contracts work and how innovation can improve safety and efficiency"  — near-verbatim in the snippet but not confirmed as an exact quote
-- **SLB (formerly Schlumberger)** — Field Specialist Trainees "receive intensive training in troubleshooting, technical procedures, safety, and client interaction."  — **and this is the graduate/trainee route, not an apprenticeship.
-- **National Grid** — Behavioural attributes listed across postings: communication, attention to detail, organisation, problem solving, presentation, number skills, analytical skills, logical thinking, patience, adaptability, safety awareness, reliability, responsibility.
+- **Network Rail** — Respects individuals who are "driven, hardworking" and uphold Network Rail's values and behaviours; employees expected to work openly and honestly in line with the **Nolan Principles
+- **QinetiQ** — For engineering apprenticeships, they often require maths, physics and chemistry at A Level"*  ⚠️ **Flagging this one hard.** It would be a remarkably exact match to Fraser's subject combination, which is precisely why I distrust it — it reads like generic careers-site guidance and the search engine attributed it loosely across a UCAS employer profile and two aggregator pages rather than to a QinetiQ vacancy. **Do not quote this to QinetiQ.** It is, however, a reasonable reason to be optimistic and to send the email.
+- **MOD Submarine Delivery Agency (SDA)** — National Diploma in engineering with a minimum value of 96 UCAS points, or equivalent STEM-based qualifications (BTEC L3 advanced diploma, HNC, HND)
 
 
 ## Commercial awareness
 
-**9 employers:** Aegis Energy, BAE Systems Maritime Services, Bouygues UK, Costain Group, DNV, Eaton, National Highways, STRABAG UK and ZÜBLIN, Thames Water
+**10 employers:** Aegis Energy, AstraZeneca, BAE Systems Maritime Services, Bouygues UK, Costain Group, DNV, Eaton, National Highways, STRABAG UK and ZÜBLIN, Thames Water
 
 *Verbatim — safe to mirror*
 
@@ -446,32 +534,12 @@ The thinnest areas against this list are commercial awareness, and anything requ
 - **National Highways** — Programme promise: "You'll gain on site experience and knowledge and you'll learn about the technical side of engineering as well as how our contracts work and how innovation can improve safety and efficiency"  — near-verbatim in the snippet but not confirmed as an exact quote
 - **STRABAG UK and ZÜBLIN** — Interested in commercial processes
 - **Eaton** — Bedhampton role: "37 hour per week contract with supported day release and study time… fully funded 4-year Level 3 Engineering apprenticeship through CEMAST (Fareham College Group)
-
-
-## Integrity and values
-
-**8 employers:** AWE (Atomic Weapons Establishment), Anglian Water, Aureos, Balfour Beatty, Network Rail, QinetiQ, Skanska UK, Thornton Tomasetti
-
-*Verbatim — safe to mirror*
-
-- **Thornton Tomasetti** — you are joining a world-industry leading engineering consultancy and will be provided with training and support to develop valuable skills and earn qualifications to establish yourself as a valued member of the Test & Evaluation team
-- **Balfour Beatty** — We are Lean" — *"We create value for our customers and drive continuous improvement"* / eliminating waste and improving operational efficiency
-- **Balfour Beatty** — We are Trusted" — *"We deliver on our promises and we do the right thing
-- **Balfour Beatty** — Five core behaviours: **Talk Positively, Collaborate Relentlessly, Encourage Constantly, Make a Difference, Value Everyone
-- **Skanska UK** — Duty: *"Applying ethical principles, identifying and analysing ethical concerns and making reasoned ethical choices
-- **Anglian Water** — We build trust", "We do the right thing", "We are always exploring" — stated company values  (found as a structured values list, but via a third-party aggregator — confirm on anglianwatercareers.co.uk before quoting)
-- **AWE (Atomic Weapons Establishment)** — Depending on your apprenticeship, you'll study at one of AWE's trusted education partners, with information provided in job advertisements"*  — confirms the partner varies by route and is only published per-vacancy
-- **Aureos** — You'll gain hands-on experience from day one, working alongside industry experts on real projects, while completing a structured academic qualification through a trusted training provider
-
-*Paraphrased — signal only, do not quote*
-
-- **Network Rail** — Respects individuals who are "driven, hardworking" and uphold Network Rail's values and behaviours; employees expected to work openly and honestly in line with the **Nolan Principles
-- **QinetiQ** — For engineering apprenticeships, they often require maths, physics and chemistry at A Level"*  ⚠️ **Flagging this one hard.** It would be a remarkably exact match to Fraser's subject combination, which is precisely why I distrust it — it reads like generic careers-site guidance and the search engine attributed it loosely across a UCAS employer profile and two aggregator pages rather than to a QinetiQ vacancy. **Do not quote this to QinetiQ.** It is, however, a reasonable reason to be optimistic and to send the email.
+- **AstraZeneca** — Level 6 Quality Control: 4-year fixed-term contract, start 7 September 2026
 
 
 ## Resilience and working under pressure
 
-**8 employers:** AECOM, Arcadis, BIP.Verco, Binnies, INEOS, Kier Group, Mott MacDonald, Multiplex UK
+**9 employers:** AECOM, Arcadis, BIP.Verco, Binnies, INEOS, Kier Group, MOD Submarine Delivery Agency (SDA), Mott MacDonald, Multiplex UK
 
 *Verbatim — safe to mirror*
 
@@ -481,6 +549,7 @@ The thinnest areas against this list are commercial awareness, and anything requ
 - **Kier Group** — Building Structures team role: *"you will work alongside a team of experts on local and national projects... help to deliver the best, most resilient and efficient structures for any type of building
 - **Multiplex UK** — Selection: *"a simple application (CV and short form), followed by a gamified online assessment designed to challenge your problem-solving skills. Next is a video interview, and if successful, you'll be invited to a dynamic and exciting assessment centre where you'll collaborate on real-world scenarios
 - **BIP.Verco** — Whether it's strategy, technical engineering, data analytics or software development, you'll impact a range of significant zero carbon challenges, alongside leading sustainability experts
+- **MOD Submarine Delivery Agency (SDA)** — you must have the **right of abode in the UK** and have been **ordinarily a resident in the EEA** (including other countries determined within the EEA or those with bilateral agreements) **for at least the previous three years on the first day of learning
 
 *Paraphrased — signal only, do not quote*
 
@@ -508,7 +577,7 @@ The thinnest areas against this list are commercial awareness, and anything requ
 
 ## Organisation and time management
 
-**5 employers:** Mace Construct, National Grid, National Highways, Network Rail, Skanska UK
+**6 employers:** DVSA (Driver and Vehicle Standards Agency), Mace Construct, National Grid, National Highways, Network Rail, Skanska UK
 
 *Verbatim — safe to mirror*
 
@@ -520,6 +589,7 @@ The thinnest areas against this list are commercial awareness, and anything requ
 - **Network Rail** — enthusiastic individuals who are logical thinkers with an organised mindset"  (phrasing appeared in a snippet of the Network Rail scheme page but could not be confirmed as an exact quote)
 - **National Highways** — work to timescales
 - **National Grid** — Behavioural attributes listed across postings: communication, attention to detail, organisation, problem solving, presentation, number skills, analytical skills, logical thinking, patience, adaptability, safety awareness, reliability, responsibility.
+- **DVSA (Driver and Vehicle Standards Agency)** — Apprenticeships offer a fantastic opportunity to grow skills, develop and learn whilst working within an innovative organisation committed to Keeping Britain's Roads Safe.
 
 
 ## Numeracy
@@ -630,6 +700,34 @@ Kept separate because these are gates and process, not qualities to evidence wit
 - **Boeing UK** — Wider entry standard: "ideally suited to school leavers at GCSE or A-Level (or equivalent) who can demonstrate a minimum of 5 GCSEs (or equivalent) at grade C/4 or above, including Mathematics and English `[verbatim]`
 - **Amentum** — Project Manager (Level 6): "a minimum of 5 GCSEs at Grades 9 to 4 including Mathematics and English Language, and at least 96 UCAS points at A-Level/T-Level `[paraphrased]`
 - **Capgemini Engineering** — A Levels grade CCC / Merit Merit Merit or equivalent `[paraphrased]`
+- **Unilever** — a minimum of two A-Levels at grade 6 (B) including a mathematical-based subject and a science/technology/engineering-related subject `[paraphrased]`
+- **Unilever** — Alternative entry: Engineering BTEC Level 3 with at least 120 credits at DM, or an EAL engineering Diploma at D `[paraphrased]`
+- **Unilever** — a minimum of three GCSEs at grade 5/C or above (including maths and English) `[paraphrased]`
+- **Nestlé** — Maths and English Language GCSEs (or equivalent) at grades 9–4 (A*–C if taken before 2017) `[verbatim]`
+- **PepsiCo** — 5 GCSEs at grade 4/5 in Maths, English, and Science `[paraphrased]`
+- **Coca-Cola Europacific Partners (CCEP)** — GCSE grade 4 (England) or National 5 qualifications at grade C or above (Scotland) in English and Maths `[verbatim]`
+- **Church & Dwight** — GCSEs completed, with A Levels preferred or equivalent `[verbatim]`
+- **Babcock International** — Minimum **96 UCAS points** (e.g. BTEC MMM) plus **GCSE Maths and English grade 4** — , and ⚠️ **this was attached to the Project Management degree apprenticeship specifically, not to engineering.** Do not assume it applies to Electro-Mechanical. `[paraphrased]`
+- **Babcock International** — Electro-Mechanical role: **minimum grade 5 in higher-level Mathematics and Physics `[paraphrased]`
+- **EDF Energy** — GCSEs at grade C/4 or above in English and Maths `[paraphrased]`
+- **EDF Energy** — Minimum **102 UCAS points**, ideally A-levels in Maths and a Science subject, or a relevant Level 3 qualification `[paraphrased]`
+- **Rolls-Royce (Submarines) — ⚠️ and the two traps** — Post-16 school leavers who have completed A-levels, Scottish Highers or equivalent — , and from a third-party wiki-style source rather than Rolls-Royce `[paraphrased]`
+- **Sellafield Ltd** — Minimum of **5 GCSEs at Grades 9 to 4 (Grades A\* to C) including Mathematics, English Language and one Science or Engineering subject `[verbatim]`
+- **Sellafield Ltd** — minimum of **96 UCAS points at A-Level / T-Level**, **STEM subjects preferred** (e.g. Mathematics, Chemistry, Biology, Physics or Science) **but not mandatory `[verbatim]`
+- **Sellafield Ltd** — Other Level 3 STEM qualifications may be considered; vocational equivalents at Level 3 or higher treated as equivalent UCAS points `[paraphrased]`
+- **MOD Submarine Delivery Agency (SDA)** — 3 A Levels which must include Mathematics, Science and one other subject**" at grades C–A*/4–9 —  *(this is the route Fraser would use, and Maths + Physics + Chemistry satisfies it outright) `[verbatim]`
+- **MOD Submarine Delivery Agency (SDA)** — 5 GCSEs at grade C–A*/4–9 including English Language, Mathematics and a Science/Engineering subject plus two additional subjects `[verbatim]`
+- **Nuclear Decommissioning Authority (NDA) Group — including Nuclear Restoration Services** — Specific GCSE / A-level / UCAS entry requirements for the Level 6 — . ⚠️ I am **refusing to import** Sellafield's "96 UCAS points + 5 GCSEs including Maths, English and a Science" here even though both are NDA-group bodies, because NRS recruits through Energus on its own terms. The **st0289 standard's** generic guidance ("typically 5 GCSEs grade C or above including English, Maths and a Science"; "employers set their own entry requirements but typically a minimum of 96 UCAS points") is **the standard's wording, not NRS's** — tagged  and attributed to the standard, not the employer. `[paraphrased]`
+- **Dstl (Defence Science and Technology Laboratory)** — five Grade 4-9 (C+) GCSEs or equivalent, including English and Maths `[paraphrased]`
+- **Dstl (Defence Science and Technology Laboratory)** — three A-Level standard or equivalent qualifications in Mathematics and at least one further STEM-based subject"**  — **this is an exact match to Fraser: Maths + Physics + Chemistry.** No grade thresholds were recoverable from snippets. `[paraphrased]`
+- **MI5 / MI6 / GCHQ** — three A-level passes for entry onto the scheme, with two of those A-levels needing to be in a science, technology, engineering or maths (STEM) subject"** (Infrastructure Engineering)  — Fraser satisfies this cleanly with all three in STEM. `[paraphrased]`
+- **Royal Navy** — At least 48 UCAS points in A-Levels (or equivalent) in Mathematics and a STEM subject (minimum grade D or above in each subject)."**  ⚠️ Attributed specifically to the **Air Engineering** pathway; I did not separately verify the Weapon Engineering bar, though it is likely to be the same or similar. Verify per pathway. `[verbatim]`
+- **Royal Navy** — A minimum of three GCSEs (or equivalent) at grade 4 or above, including English Language, Mathematics and at least one science. `[paraphrased]`
+- **British Army** — entry requirements include being between 16.5 and 35.5 years old with 5 GCSEs at Grade A–C/9-4, including Maths, English Language and either Physics, Science, or Integrated Science"** (Ammunition Technician)  — note this is a **GCSE-based** bar; **no A-level requirement was found**, so his A-levels are surplus rather than required. `[paraphrased]`
+- **Royal Air Force** — These apprenticeships range from a level 2 (equivalent to 5 GCSEs), a level 3 (equivalent to 2 'A' levels) all the way through to a level 7, which is equivalent to a Masters degree. `[verbatim]`
+- **Met Office** — Three GCSEs in English, maths and a relevant science subject, or equivalent qualifications are required. Other relevant or prior experience may also be considered as an alternative. `[paraphrased]`
+- **OCU Group** — A Levels or equivalent (typically 2 A Levels)"** (Apprentice Electrical Power Networks Engineer L4)  — Fraser exceeds this with three. `[paraphrased]`
+- **Perenco** — Maintenance and Operations Engineering Technician, Level 3 (A level) `[verbatim]`
 
 ## Practical eligibility
 
@@ -658,6 +756,14 @@ Right to work, residency, driving licence and travel expectations. The **driving
 - **MBDA UK** — British Citizen or a Dual UK national with British citizenship" —  — **this is MBDA's own nationality clause, from MBDA's security & vetting page. It is genuinely theirs. `[verbatim]`
 - **Capgemini Engineering** — be able to obtain SC clearance (requiring continuous UK residency for the last 5 years and potentially UK nationality for some roles)" —  ⚠️ **and flagged.** This string is a summariser's gloss, not confirmed Capgemini advert wording, and it is dangerously close to the standard defence-sector clearance boilerplate that has already bled between employers in this project. **Treat as unverified. `[paraphrased]`
 - **DNV** — A full clean UK driving license and your own transport will make getting to the Spadeadam site more convenient, though if you don't yet have a driving license, DNV will support you through a high intensity driving course when eligible `[verbatim]`
+- **Nestlé** — Lived in the UK for 3 years prior to the apprenticeship start date `[verbatim]`
+- **Nestlé** — Right to work in the UK that is not time-limited and does not require sponsorship under the Skilled Worker route, either at the start of the scheme or on completion `[verbatim]`
+- **Coca-Cola Europacific Partners (CCEP)** — You must have the right to work in the UK and have lived in the UK for three years `[verbatim]`
+- **Babcock International** — Drug and alcohol testing** required in addition to security clearance `[paraphrased]`
+- **EDF Energy** — RESIDENCY (stated separately):** eligibility for **Security Vetting**, "typically requiring **UK residency for 3 of the last 5 years**" — . Note this **3-of-5** figure is materially *different* from Sellafield's **5 years continuous** and from MOD/SDA's **UK Nationals only + 3 years EEA residence**. That divergence is a good sign the figures are not cross-contaminated, but each still needs its own browser check. Fraser's are already confirmed satisfied. `[paraphrased]`
+- **Sellafield Ltd** — RESIDENCY (stated separately):** "This role requires **higher level of National Security Vetting** where applicants must typically have **5 years of continuous residency in the UK**. Factors such as your nationality, any nationalities you may have previously held, and your place of birth can restrict the level of clearance you're able to achieve." — , sourced from the Sellafield 2026 degree apprenticeship posting itself, so attribution is sound. ⚠️ **Note this is a different figure from EDF's 3-of-5 and from MOD's UK-Nationals-only — do not swap them.** Fraser's are confirmed satisfied. `[verbatim]`
+- **MOD Submarine Delivery Agency (SDA)** — Posts **may require Developed Vetting (DV)** once in post; the level of security needed is **Security Check (SC)**, for which you should usually have been **continuously resident in the UK for 5 years** immediately before clearance action commences; overseas living or extensive travel may lengthen the process `[verbatim]`
+- **Nuclear Decommissioning Authority (NDA) Group — including Nuclear Restoration Services** — apprenticeships are available to anyone **aged 18 or over** as **level 2 health physics monitors**, **level 3 mechanical and electrical engineering technicians** or **level 6 nuclear engineering degrees `[verbatim]`
 
 ## Selection process
 
@@ -665,6 +771,7 @@ What the application actually involves.
 
 - **WSP UK** — Must pass an online skills enablers assessment / Behavioural Based Assessment as an essential part of recruitment `[paraphrased]`
 - **VolkerWessels UK** — Selection: application review, then an assessment centre day of practical activities, group exercises and a technical or competency-based interview `[paraphrased]`
+- **Procter & Gamble** — Selection: online assessments, CV screening, attendance at an on-site one-day bootcamp `[paraphrased]`
 
 ## Programme structure and outcome
 
@@ -684,6 +791,10 @@ Degree awarded, partner university, length, professional accreditation.
 - **SSE** — Process: "submit an online application ahead of the vacancy closing date, providing information about yourself, and then complete online tests to help assess your fit for an Apprentice or Trainee role `[paraphrased]`
 - **GE Aerospace** — Prestwick route: "rotate across mechanics, fitters, electricians, machinists, welders, and office support to gain broad competence `[paraphrased]`
 - **RINA Consulting** — RINA recruits regularly and offers degree apprenticeships, placements, and graduate positions" — , and unsupported by any vacancy `[paraphrased]`
+- **Dstl (Defence Science and Technology Laboratory)** — Placement structure: **"Apprentices experience various placements over the three years, each lasting 8-10 weeks, situated at Porton Down and other Dstl sites. `[paraphrased]`
+- **Royal Navy** — It will also be recognised by Professional Institutions, so you can take a streamlined route to registering as an EngTech or an IEng. `[verbatim]`
+- **HMRC** — £31,096 - £33,270"** (Edinburgh posting)  ⚠️ Verify: implausibly high for an apprentice rate. `[paraphrased]`
+- **DVSA (Driver and Vehicle Standards Agency)** — £32,507 — base £26,607 plus £5,900 allowances** (VSA vacancy, closed 17 Aug 2026)  — this is a **substantive VSA role**, not an apprentice rate. `[paraphrased]`
 
 ## Other
 
@@ -759,14 +870,37 @@ Did not fit a theme.
 - **Capgemini Engineering** — Located in Telford or Worthing, you will work alongside inspiring experts on impactful projects `[verbatim]`
 - **DNV** — £20,000 a year with £2k salary increases for each completed apprenticeship year, alongside annual pay reviews `[verbatim]`
 - **BIP.Verco** — They recruit from all STEM disciplines `[paraphrased]`
+- **Unilever** — Must pass the University of Sheffield AMRC selection process in addition to Unilever's `[paraphrased]`
+- **Procter & Gamble** — at least 18 years of age or older by 01/09/2025 `[verbatim]`
+- **Nestlé** — Must be 18 by 1st August 2026 `[verbatim]`
+- **Coca-Cola Europacific Partners (CCEP)** — No previous technical experience is necessary. `[verbatim]`
+- **Church & Dwight** — a basic understanding of mechanical and electrical systems is preferred but not required `[verbatim]`
+- **Vertex Pharmaceuticals** — Laboratory Scientist role: "work within the Biology Department undertaking research to discover therapies for serious diseases `[verbatim]`
+- **CooperVision** — Wage banded by age, £14,722.50 to £23,809.50 `[paraphrased]`
+- **Babcock International** — Entry requirements "depend on the type and level of apprenticeship you are applying for" with detail on individual vacancies `[paraphrased]`
+- **MOD Submarine Delivery Agency (SDA)** — Due to the secure nature of these positions, **posts will be reserved for UK Nationals only**" / "because of the classification of much of the role, all posts will be open to **UK Nationals only `[verbatim]`
+- **Dstl (Defence Science and Technology Laboratory)** — Applicants must be aged 18 and over when starting the course. `[paraphrased]`
+- **MI5 / MI6 / GCHQ** — 18 months to complete"** (Infrastructure Engineering) `[paraphrased]`
+- **Royal Navy** — You'll start your naval career as a Probationary Leading Hand. This is two ranks higher than most Engineering Technicians. `[verbatim]`
+- **British Army** — 2 years and 6 months long, with 40 hours a week"** (Ammunition Technician) `[paraphrased]`
+- **British Army** — Electronic Warfare & Signals Intelligence Operator is an expert in both tactical electro-magnetic, cyber and signals intelligence on the battlefield and close tactical support. `[verbatim]`
+- **Royal Air Force** — The RAF currently has 23 roles to choose from that come with RAF apprenticeships `[verbatim]`
+- **Royal Air Force** — All of these apprenticeships are rated 'Outstanding' by Ofsted. `[verbatim]`
+- **Royal Air Force** — Engineering accounts for nearly 60 per cent of all new apprentices `[paraphrased]`
+- **Met Office** — full time, 37 hours per week `[paraphrased]`
+- **Civil Service Fast Track** — No current criteria exist. All quoted bullets above are  and drawn from third-party aggregators, not from a live Fast Track spec — do not rely on any of them. `[paraphrased]`
+- **DVSA (Driver and Vehicle Standards Agency)** — DVSA offers a variety of Apprenticeships from Level 3 to Level 7 in a multitude of professions. `[paraphrased]`
+- **DVSA (Driver and Vehicle Standards Agency)** — As a Vehicle Standards Assessor, you will conduct technical examinations on vehicles to ensure they meet legal roadworthiness requirements"**, on **"lorries, buses, coaches, and trailers. `[paraphrased]`
+- **OCU Group** — a structured programme lasting approximately 30 months `[paraphrased]`
+- **OCU Group** — Apprenticeships are open to all, no matter what your age or background, often making an apprenticeship the best option if you're looking to change your career or upskill your role. `[paraphrased]`
 
 ---
 
 # Gaps — criteria that could not be established
 
-Coverage is better than the raw count suggests: **88 of 107 employers yielded at least one behavioural criterion.** Most entries below are an employer where the academic requirements were found but the *behavioural* person-spec panel was not, so the gap is partial rather than total.
+Coverage is better than the raw count suggests: **111 of 140 employers yielded at least one behavioural criterion.** Most entries below are an employer where the academic requirements were found but the *behavioural* person-spec panel was not, so the gap is partial rather than total.
 
-**Nothing behavioural at all for these 19** — these are the ones where coaching genuinely has no criteria to work from: Arup, BAE Systems (group-level Advanced & Degree schemes), BASF, Boeing UK, Environment Agency, ExxonMobil Fawley, Fluor, Galliford Try, JDR Cable Systems, L3Harris Technologies (L3Harris ASV), NESO (National Energy System Operator), Robertson Group, Siemens, Soil Engineering (Soil Engineering Geoservices Limited), Subsea7, Technip Energies, Thales, United Utilities, Vista Civil Engineering.
+**Nothing behavioural at all for these 29** — these are the ones where coaching genuinely has no criteria to work from: Arup, BAE Systems (group-level Advanced & Degree schemes), BASF, Boeing UK, Civil Service Fast Track, Coca-Cola Europacific Partners (CCEP), Environment Agency, ExxonMobil Fawley, Fluor, Galliford Try, JDR Cable Systems, L3Harris Technologies (L3Harris ASV), NESO (National Energy System Operator), Nestlé, PepsiCo, Robertson Group, Rolls-Royce SMR — separate entity, checked on its own, Sellafield Ltd, Siemens, Soil Engineering (Soil Engineering Geoservices Limited), Subsea7, Technip Energies, Thales, UK Atomic Energy Authority (UKAEA), UK Space Agency, Unilever, United Utilities, Vertex Pharmaceuticals, Vista Civil Engineering.
 
 Each needs a browser check — see the browser-check list in the relevant tier file. Until then, coaching for these employers works from banked evidence and says the person-spec is unknown, rather than guessing at it.
 
@@ -780,6 +914,7 @@ Each needs a browser check — see the browser-check list in the relevant tier f
 - **Anglian Water** — Wider "what you'll bring" / behavioural bullets
 - **Arm** — Arm's own behavioural person spec
 - **Arup** — Behavioural / person-spec bullets for the Southampton roles; Actual salary figure
+- **AstraZeneca** — Academic entry requirements for any AstraZeneca apprenticeship; Person-spec bullets
 - **AtkinsRéalis** — A-level grade requirements; Person-spec / competency bullets
 - **Aureos** — Level, qualification, grades, UCAS points; Behavioural / competency bullets; Residency / nationality:** . Aureos does nuclear decommissioning work, which typically carries site-access vetting, but **no clause was found and none is claimed.
 - **BAE Systems (group-level Advanced & Degree schemes)** — Full person-spec bullets for a specific commutable degree vacancy
@@ -789,17 +924,25 @@ Each needs a browser check — see the browser-check list in the relevant tier f
 - **BIP.Verco** — Apprenticeship-specific criteria of any kind —  **(because no apprenticeship was found); Residency / nationality:** . No clause found; a commercial sustainability consultancy is unlikely to impose one.
 - **BMT** — Any school-leaver entry requirement
 - **BOC / Linde** — Engineering apprenticeship entry requirements, locations, 2027 window — ****.
+- **Babcock International** — Full person-spec bullet list for the engineering degree apprenticeship
 - **Balfour Beatty** — A person-spec list of the "what we're looking for" type for the degree apprenticeship specifically
 - **Binnies** — A-level / UCAS entry requirements; Named partner university
 - **Boeing UK** — Behavioural / values bullets; Residency / nationality:** . **Explicit refusal:** Boeing Defence UK work on Apache at an Army Air Corps station will involve security vetting and very likely **US ITAR export-control** constraints, but **no Boeing-specific residency or nationality string was returned by any search** and none of the MBDA or Capgemini clauses found elsewhere in this round may be transplanted here.
 - **Bouygues UK** — Bouygues UK's own behavioural person spec / values bullets
+- **British Army** — Nationality / residency / clearance:** not recovered in this round for the Army specifically. ⚠️ Army nationality rules differ from the Navy's and from Dstl's, and I will not import either.  Fraser's position is already confirmed satisfied.
+- **Britvic / Carlsberg Britvic** — Entry qualifications (GCSE grades, subjects); Person-spec bullets
 - **Capgemini Engineering** — Behavioural / competency bullets; Residency:** see the flagged bullet above. Treated as **unverified**, not established.
 - **Centrica** — Entry grades; Person-spec bullets
+- **Church & Dwight** — Level, salary, duration and college partner
+- **Coca-Cola Europacific Partners (CCEP)** — Behavioural / values bullets
 - **Colas Rail UK** — Colas Rail's own person-spec / behaviours for the degree apprenticeship programmes
+- **CooperVision** — Academic entry requirements (GCSE grades and subjects); Person-spec / behavioural bullets
 - **Costain Group** — Costain's own "what we're looking for" behavioural person spec — . I searched their careers, early-careers and apprenticeships pages and the Gradcracker hub; snippets returned programme mechanics but no bulleted person spec. Note in particular that I could **not** confirm any values wording, so nothing about Costain's values should be quoted in an application.
 - **DNV** — A-level grades / UCAS points / GCSE requirements — .** Notably absent from every snippet. Given the Warwick BEng, expect a real academic bar.; Behavioural / competency bullets; Residency / nationality:** . DNV is a commercial assurance body, not a defence prime, so a nationality gate is less likely than for the primes above — but **nothing was found and nothing is claimed.
+- **DVSA (Driver and Vehicle Standards Agency)** — Academic entry requirements for any DVSA apprenticeship:; Nationality / residency / clearance:** not recovered. Standard Civil Service rules would apply.
 - **Dalkia Energy Services** — Grades, salary, closing date, person spec
 - **E.ON UK** — Entry requirements for the Electro-mechanical degree apprenticeship; Person-spec bullets
+- **EDF Energy** — Full behavioural/competency framework and assessment-centre criteria
 - **EET Fuels (Essar Oil UK)** — Full entry requirements, A-level route, Level 6/7 route detail, 2027 window — ****.
 - **Eaton** — Entry grades for either; Person-spec bullets
 - **Edwards (Edwards Vacuum)** — Person-spec / behavioural bullets, salary, duration, partner university, exact 2027 window — ****.
@@ -812,7 +955,9 @@ Each needs a browser check — see the browser-check list in the relevant tier f
 - **GE Vernova** — Entry requirements; Person-spec bullets
 - **GKN Aerospace** — Full person-spec bullets; Residency:** no residency or nationality clause was found in any GKN snippet.  **Do not import defence-sector clearance language here** — GKN is a commercial aerostructures supplier and its wording is likely different.
 - **GRAHAM** — A-level/UCAS entry requirement for the England apprenticeship; Behavioural person spec / values bullets for the apprenticeship
+- **GSK** — Entry qualifications (GCSE grades, subjects, whether A-levels are welcomed); Person-spec / behavioural bullets
 - **Galliford Try** — Behavioural person spec / values bullets; Specific A-level or UCAS-point requirement for a Level 6 civil route
+- **HMRC** — Nationality / residency / clearance:** not recovered. Standard Civil Service nationality rules and baseline personnel security would apply. ⚠️ Not importing another department's clause.
 - **HS2 (and the entity that actually recruits)** — Nothing role-specific found for the BBV civil engineering apprenticeship — no academic requirements or person-spec wording could be established.
 - **Haskoning** — Behavioural person-spec bullets
 - **Hoare Lea** — Salary; Behavioural / competency bullets
@@ -827,9 +972,12 @@ Each needs a browser check — see the browser-check list in the relevant tier f
 - **Laing O'Rourke** — A discrete bulleted person spec for the civil engineering degree apprenticeship
 - **Leonardo** — A-level grades / UCAS tariff; GCSE requirement; Residency / nationality:** . **Explicit refusal to attribute:** Leonardo is a defence prime and will certainly gate some roles on nationality and continuous UK residency, but **no Leonardo-specific residency string was returned by any search**. The MBDA string ("British Citizen or a Dual UK national with British citizenship", "lived in the UK for the past 5 years") and the Capgemini SC string both surfaced in this same round. **Neither belongs to Leonardo and neither may be copied across.** This is precisely the contamination pattern that produced the AWE clause error in a prior round.
 - **MBDA UK** — Wider person-spec / behavioural bullets — . No competency or values bullets were returned; STAR mapping needs the live advert.
+- **MI5 / MI6 / GCHQ** — Person-spec behavioural bullets:; Nationality / residency / clearance:** the agencies operate the highest vetting tier (DV) and publish sole-British-nationality and long-residency rules. ⚠️ **I did not recover a clean verbatim clause in this round and I am not reconstructing one from memory or from a neighbouring employer's wording.**  Fraser's nationality/residency position is already confirmed satisfied, so this is a process point only.
+- **MOD Submarine Delivery Agency (SDA)** — Behavioural / Civil Service Success Profiles criteria (Civil Service roles normally specify Behaviours, Strengths and Technical elements) —  ⚠️ I have **not** listed Civil Service Success Profile behaviours here even though they are near-certain to apply, because I could not confirm *which* ones this vacancy names. Guessing them would be invention.
 - **MWH Treatment** — Any academic entry requirements (GCSE/A-level grades); Any person-spec / behaviours
 - **Mace Construct** — Mace's "what we're looking for" / values-based person spec — . Searched macegroup.com apprentices and FAQ pages, careers.macegroup.com, the Gradcracker Mace Construct hub, the UCAS employer profile and findapprenticeship VAC1000347986. I could not establish Mace's stated values wording at all, so he should not reference "Mace values" in a letter.
 - **Martin-Baker Aircraft Company** — Level 6 entry requirements, person-spec bullets, competencies; Residency:** **no residency or nationality clause was found anywhere in the Martin-Baker material.**  **Do not assume one.** Martin-Baker is a private manufacturer, not an MOD-site operator, and ITAR/export-control conditions (plausible given F-35 work) are a *different* legal regime from UK National Security Vetting. **I will not attribute any clearance string to this company.
+- **Met Office** — Salary:; Nationality / residency / clearance:** not recovered. As a government agency with defence customers, some level of vetting is likely, but I found no clause and will not invent one.
 - **Midsummer Energy** — Everything else
 - **Morgan Advanced Materials** — All apprenticeship criteria — ****.
 - **Multiplex UK** — Behavioural person spec / values bullets
@@ -838,18 +986,29 @@ Each needs a browser check — see the browser-check list in the relevant tier f
 - **NSG Environmental** — Any engineering apprenticeship person spec, grades, salary or closing date
 - **National Gas** — Entry grades; Person-spec bullets
 - **National Grid** — Full person spec / "what we're looking for" bullets for a named 2027 programme
+- **Nestlé** — Behavioural / competency bullets, and whether A-levels are considered or over-qualify
 - **Network Rail** — The named values themselves
+- **Nuclear Decommissioning Authority (NDA) Group — including Nuclear Restoration Services** — Behavioural / person-spec bullets; RESIDENCY (stated separately):** **** for NRS specifically. Nuclear site access will involve vetting, but **no NRS-attributable residency clause was found and I am not borrowing Sellafield's 5-year string despite the shared parent organisation.** Fraser's are confirmed satisfied.
+- **OCU Group** — Salary:; Nationality / residency / clearance:** none found, and none would be expected — a private utilities contractor, though some client sites (e.g. water or energy assets) can require their own vetting.
 - **Pell Frischmann** — Grades / UCAS requirements, salary, closing date, behavioural bullets
+- **PepsiCo** — No previous engineering experience required; Behavioural / person-spec bullets
+- **Perenco** — Academic entry requirements (GCSE/A-level grades):; Salary for the apprentice route:  — the "low £30Ks" figure belongs to the **graduate** scheme and must not be applied to the apprenticeship.; Nationality / residency / clearance:** none found; not expected for a private oil and gas operator, though **offshore medical and survival training (e.g. OGUK medical, BOSIET)** would be standard for any offshore element. ⚠️ I did not evidence that for Perenco specifically.
+- **Pfizer** — Academic entry requirements; Person-spec bullets
+- **Procter & Gamble** — Academic entry requirements (GCSE/A-level grades) for the engineering apprenticeship; Person-spec / competency bullets
 - **QinetiQ** — Level, duration, qualification awarded, salary, person-spec bullets; Residency:** . QinetiQ operates an MOD site under an MOD contract, so vetting conditions are near-certain in practice — **but no QinetiQ-specific wording was retrieved and I am not attributing anyone else's.
 - **RINA Consulting** — Level, title, university, grades, UCAS points, salary, duration; Behavioural / competency bullets; Residency / nationality:** . RINA Consulting Defence Ltd works with defence ministries and primes so vetting is plausible on some roles, but **no clause was found and none is claimed.** Do not import the MBDA clause.
 - **RWE** — Behavioural person spec
 - **Robertson Group** — Robertson's own "what we look for" bullets
 - **Roke (Roke Manor Research)** — Roke's own person-spec / behaviours, and salary
+- **Rolls-Royce (Submarines) — ⚠️ and the two traps** — Specific A-level subject and grade requirements for the Nuclear Submarines Engineering Degree Apprenticeship; Behavioural / person-spec bullets; RESIDENCY (stated separately):** **.** ⚠️ Rolls-Royce Submarines is a defence nuclear employer and a residency/nationality gate is highly likely, but **no such clause was surfaced for Rolls-Royce in my searches and I am refusing to import one from Babcock, Sellafield or MOD/SDA.** This is precisely the contamination the brief warned about. Fraser's are confirmed satisfied regardless.
+- **Rolls-Royce SMR — separate entity, checked on its own** — Entry requirements; Person-spec bullets; RESIDENCY:** . Not inferred from any other employer.
+- **Royal Air Force** — Per-role academic bars, salary, and age limits:; Nationality / residency / clearance:** not recovered. ⚠️ Not importing the Royal Navy's clause.  Fraser's position is already confirmed satisfied.
 - **SETA (Southampton Engineering Training Association Ltd)** — Entry qualification bar for apprentices (GCSE grades, subjects) — ****; SETA has a "How do I apply" page that should carry it, and it may in any case defer to each employer.; Person-spec / attitude bullets — ****.; Employer/member list — ****, and see the explicit refusal to attribute Met Office / Cyclife Aquila / Score Group / Williams Engineering / IME Repair Services / BAT above.
 - **SLB (formerly Schlumberger)** — Apprenticeship entry requirements, level, salary, window — ****. The only UK apprenticeship evidence is a closed 2025 vacancy whose requirements did not surface.
 - **SSE** — Entry grades for any SSE degree apprenticeship; Person-spec bullets
 - **Schneider Electric** — Grade/UCAS entry requirements for any Schneider programme; Person-spec bullets
 - **ScottishPower** — Entry grades / UCAS; Person-spec bullets
+- **Sellafield Ltd** — Behavioural / competency person-spec bullets for the degree apprenticeship
 - **Severfield** — Any academic entry requirements for the Level 3 Metal Fabricator route; Severfield's own person-spec / behaviours
 - **Severn Trent** — Severn Trent's own person-spec / "what we're looking for" bullets
 - **Shell** — Entry grades, A-level subjects, locations, salary, closing dates — ****. Repeated searches returned only navigation-level text from `shell.co.uk`.
@@ -859,6 +1018,7 @@ Each needs a browser check — see the browser-check list in the relevant tier f
 - **Southern Water** — Person-spec / "what we're looking for" for any engineering degree apprenticeship; Entry requirements (UCAS points, A-levels, GCSEs) for any Level 6 route; Salary, programme length, partner university
 - **Subsea7** — Entry grades
 - **Sulzer** — Entry qualifications (GCSE grades/subjects) for either role — ****. This is a notable gap: neither advert's requirements section came back in any snippet.; Person-spec / behaviours — ****.
+- **Syngenta** — Jealott's Hill PT&E entry requirements (A-level grades and subjects); Jealott's Hill salary
 - **Technip Energies** — for every bullet — no UK apprenticeship person spec exists to quote because no UK apprenticeship was found.; Graduate Process Engineer / Industrial Placement requirements — ****, and in any case **not applicable to Fraser**.
 - **Tetra Tech** — A-level / UCAS entry requirements; Salary; Named partner university
 - **Thales** — Behavioural/person-spec bullets
@@ -866,8 +1026,12 @@ Each needs a browser check — see the browser-check list in the relevant tier f
 - **Thornton Tomasetti** — Any person spec for a UK structural/civil apprenticeship; Grades, salary, closing dates
 - **Tilbury Douglas** — Full "what we are looking for" panel from the live vacancy
 - **Transport for London (TfL)** — Person-spec / "what we're looking for" behavioural bullets and TfL values
+- **UK Atomic Energy Authority (UKAEA)** — Entry requirements for the Level 6 routes; Person-spec / behavioural bullets; RESIDENCY (stated separately):** **.** UKAEA is a civil research body and I found **no** residency or nationality clause attributable to it. ⚠️ **I am explicitly refusing to infer one** from the defence employers in this round — it would be exactly the contamination error flagged in the brief. If anything, a civil fusion research organisation is the *least* likely here to impose a hard nationality gate, but that is reasoning, not evidence.
+- **UK Space Agency** — No UKSA apprenticeship person spec exists to quote.; Nationality / residency / clearance:** not applicable in the absence of a route; as a Civil Service body, standard nationality rules and baseline vetting would apply to any future scheme.
+- **Unilever** — Behavioural / person-spec bullets (values, competencies)
 - **United Utilities** — Person-spec / "what we're looking for" bullets; Entry requirements for a Level 6 civils apprenticeship  (the BBC/112-point spec surfaced in searches is **probably another employer's** — see warning above; do not use)
 - **Veolia UK** — Any Level 6 civil engineering entry requirements, salary, partner university
+- **Vertex Pharmaceuticals** — Academic entry requirements for either route; Person-spec bullets
 - **Vista Civil Engineering** — Any person-spec / "what we're looking for" wording
 - **VolkerWessels UK** — Specific A-level grades, UCAS points, nationality and age requirements —  (see the accuracy warning above; do **not** assume the BBC/112-point figures apply); Behavioural person spec / values bullets
 - **WSP UK** — Any explicit competency/behaviour person-spec bullets (e.g. teamwork, communication, attention to detail wording on the GOV.UK vacancy "Skills" panel)

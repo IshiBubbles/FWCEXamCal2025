@@ -289,8 +289,19 @@ honest fit read.
 All 159 live employers outside pharma, nuclear and "other" have now been researched. The finding
 that matters most for Fraser's actual choices:
 
-> **Airbus Defence & Space at Portsmouth (~20mi) is the only confirmed local degree-level
-> apprenticeship in the entire search.** Airbus's own page names Portsmouth as offering a *"Degree or
+> **CORRECTED 20 August 2026 — there are TWO confirmed near-local degree-level routes, not one,
+> and possibly a third.** The final research round found that **Dstl** places *"the majority of
+> apprenticeships … at Porton Down near Salisbury, or **Portsdown West near Fareham**"* — Portsdown
+> West is roughly **20 miles**, comparable to Airbus. Two Level 6 routes are confirmed **at Portsdown West specifically** — Software Engineering and Data
+> Science, both computing and desk-leaning — while the **Engineering (Mechanical/Electronics)**
+> pathway exists but could **not** be pinned to that site. So the hands-on question there is open,
+> and it is the same trap as Airbus's Portsmouth-badged-but-Chippenham-based degree. Its entry
+> requirement is a literal match though: *"three A-Level standard … in Mathematics
+> and at least one further STEM-based subject."* Also found, not previously on the master list at
+> all: a **BEng (Hons) Space Systems Engineering degree apprenticeship with the University of
+> Portsmouth and BAE Systems Digital Intelligence** (~20mi, Level 6). So:
+>
+> **Airbus Defence & Space, Portsmouth (~20mi)** — confirmed, fees covered.** Airbus's own page names Portsmouth as offering a *"Degree or
 > Technical Apprenticeship in systems and software engineering, project management, and
 > **electromechanical** engineering"*, calls it *"a key centre for engineering in space and
 > intelligence systems"*, and **covers all fees**. **Its October 2026 window is therefore the single

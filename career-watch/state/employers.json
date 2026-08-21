@@ -989,36 +989,36 @@
     "name": "GSK",
     "tier": 2,
     "discipline": "chemical",
-    "work_setting": "lab",
-    "dossier": false,
+    "work_setting": "plant",
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Pharma."
+    "notes": "THE ONE PHARMA ENTRY WHERE 'it's lab work' IS THE WRONG VERDICT. GSK Worthing (~60mi): Mechatronics Technician Level 3, 12-month rotations across engineering departments, breakdown response and fault-finding, GBP18,400 rising to GBP25,400 after year one. Level 3 not degree. Assessment centres run February to April."
   },
   {
     "name": "Unilever",
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Kept per Adam - FMCG chemical production interest."
+    "notes": "THE STANDOUT EXCEPTION in the food/FMCG slice: a genuine BEng Chemical Engineering degree apprenticeship via the University of Sheffield AMRC, on an A-level entry route. Nearly every other food and drink engineering route found is Level 3 craft. But it does not run in the south - relocation."
   },
   {
     "name": "Procter & Gamble",
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -1044,7 +1044,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
@@ -1057,7 +1057,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
@@ -1070,7 +1070,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
@@ -1083,7 +1083,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
@@ -1096,20 +1096,20 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Kept per Adam."
+    "notes": "Research 20 Aug 2026: Beckton (~95mi), relocation. Level 3 craft engineering route, opens February. REFUSED: entry requirements attributed to Britvic that were actually college course pages."
   },
   {
     "name": "Church & Dwight",
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
@@ -1122,33 +1122,33 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
-    "verdict": "watch",
+    "verdict": "cut",
     "last_checked": "2026-08-20",
-    "notes": "Kept per Adam."
+    "notes": "DO NOT APPLY (20 Aug 2026): the Banbury site is CLOSING - 167 jobs, wound down by December 2026 - while aggregators are still serving its apprenticeship listing."
   },
   {
     "name": "Cargill",
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Kept per Adam."
+    "notes": "Research 20 Aug 2026: undergraduate placements rather than school-leaver apprenticeships. REFUSED: a 'Cargill' Trafford Park maintenance apprenticeship that was actually DEMATIC."
   },
   {
     "name": "British American Tobacco",
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "lab",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
@@ -1162,7 +1162,7 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "lab",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
@@ -1175,65 +1175,65 @@
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "lab",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Pharma."
+    "notes": "Research 20 Aug 2026: the Cogent Skills 'Pfizer Apprenticeships 2027' register-your-interest page is ALREADY LIVE - a cheap early action. Lab-leaning."
   },
   {
     "name": "MSD",
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "lab",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Pharma."
+    "notes": "Research 20 Aug 2026: undergraduate placements wearing apprenticeship clothing, not a school-leaver route."
   },
   {
     "name": "Johnson & Johnson",
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "lab",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Pharma."
+    "notes": "Research 20 Aug 2026: undergraduate placements, not school-leaver apprenticeships. REFUSED: 'Johnson & Johnson' Level 3 engineering apprenticeships that were actually JOHNSON CONTROLS, Stockport."
   },
   {
     "name": "AstraZeneca",
     "tier": 2,
     "discipline": "chemical",
     "work_setting": "lab",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Pharma."
+    "notes": "Research 20 Aug 2026: AstraZeneca's DEGREE apprenticeships are Quality Control and Laboratory Scientist - bench work, against Fraser's stated preference. Its site list for ENGINEERING could not be confirmed; the list circulating belongs to the GRADUATE programme and was deliberately not transferred. Hook left blank rather than invented."
   },
   {
     "name": "CooperVision",
     "tier": 2,
     "discipline": "chemical",
-    "work_setting": "lab",
-    "dossier": false,
+    "work_setting": "plant",
+    "dossier": true,
     "sources": [
       "higherin"
     ],
-    "verdict": "watch",
+    "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "Contact lens manufacturing."
+    "notes": "ONLY LOCAL FIND in the 18-employer pharma/food slice, and it is SIX MILES AWAY. Level 3 Machining Technician at Eastleigh SO53, training provider SETA - the third time SETA has appeared as the provider behind a local route. Plus a historic Manufacturing Support Engineer Apprentice at Hamble. Sits in the pharma group but is a PRECISION MANUFACTURER, NOT A LAB, and contact lens work is polymer and hydrogel chemistry so Fraser's Chemistry A-level has a real hook. Building The Vision Centre, 107,000 sq ft at Adanac Park, completing 2026. Level 3 not degree - confirm the 2027 intake and level."
   },
   {
     "name": "BOC, Linde",
@@ -1806,167 +1806,167 @@
     "tier": 4,
     "discipline": "nuclear",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Degree apprenticeships (nuclear). Autumn 2026 inferred. Register-interest live now. Cumbria - relocation."
+    "notes": "Research 20 Aug 2026: 750 apprentices and 24 pathways both check out. BUT the 'second in England' ranking is the HIGHERiN table - in the same year Sellafield placed 49TH in the Sunday Times table. Cite the ranking with its source or it reads as inflated. Cumbria, so relocation."
   },
   {
     "name": "Babcock International Group",
     "tier": 4,
     "discipline": "nuclear",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "CONFIRMED opens October 2026 for Degree & Graduate Apprenticeships; Intermediate/Higher/Modern open December. 2027 named explicitly in their register-interest copy. No fixed close - assessment runs continually to ~May. Job alerts available - REGISTER NOW. Defence work, security clearance applies. Not yet followed on GradCracker."
+    "notes": "BEST HANDS-ON-PLUS-DEGREE COMBINATION FOUND ANYWHERE IN THE PROJECT. The Devonport Electro-Mechanical Engineering Degree Apprenticeship: 5 years, BEng via University of Warwick, but delivered as ONLY FOUR WEEKS A YEAR AT UNIVERSITY with the rest on site in the Submarine Commissioning Group - the least desk-bound degree programme in the whole search. Entry seen: minimum grade 5 in HL Maths and Physics, matching Fraser's A-levels. Salary Yr1 GBP25,364 rising to GBP39,120 by Yr5 (2026-intake figures; the 2027 posting is not live). CONFIRMED opens October 2026 for Degree and Graduate; Intermediate/Higher/Modern in December. No fixed close - continual assessment to ~May, SO EARLY APPLICATION GENUINELY MATTERS and the relocation decision needs making BEFORE October, not during it. Devonport is a relocation."
   },
   {
     "name": "EDF Energy",
     "tier": 4,
     "discipline": "nuclear",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "Includes the Nuclear Engineering Degree Apprenticeship (NEDA). Expect late Jan 2027 - the 2026 window was 26 Jan-22 Feb, only 4 weeks. Talent Community live - join now. Register Your Interest 2027 also live on Higherin. Hinkley/Sizewell."
+    "notes": "Research 20 Aug 2026: expect late January 2027 - the 2026 window was 26 Jan to 22 Feb, only FOUR WEEKS. Includes the Nuclear Engineering Degree Apprenticeship (NEDA). Talent Community live - join now. Hinkley Point and Sizewell. CAUTION: 'NEDA' is a shared industry name and NRS runs one too, so check which employer a NEDA listing belongs to. Sizewell C recruitment runs through EDF, so treat SZC as a location preference inside this application."
   },
   {
     "name": "Rolls-Royce",
     "tier": 4,
     "discipline": "nuclear",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Advanced & degree (aerospace, defence, SMR). Not confirmed; expect Dec 2026-Feb 2027. Do not confuse with Rolls-Royce Motor Cars (BMW, Goodwood) - separate company. Also track Rolls-Royce SMR separately. Derby/Bristol/Birmingham."
+    "notes": "WEAKEST ENTRY IN THE ROUND, stated as such: no confirmed 2027 window, entry requirements, reliable salary, work setting or dated programme news. Needs a browser pass before it earns any application effort. TWO TRAPS, ONE OF WHICH FIRED LIVE: searching 'Rolls-Royce apprenticeship' surfaces ROLLS-ROYCE MOTOR CARS (BMW, Goodwood) at the top - dangerous because Goodwood is ~45mi and looks local, but it is a different company. And ROLLS-ROYCE SMR is a third distinct entity - see its own row. REFUSED: an 'AAB' figure attributed to Rolls-Royce that was generic multi-employer guidance."
   },
   {
     "name": "UK Atomic Energy Authority",
     "tier": 4,
     "discipline": "nuclear",
-    "work_setting": "mixed",
-    "dossier": false,
+    "work_setting": "lab",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Engineering/technical (fusion). CONFLICTING: site says autumn 2026 but the last two campaigns both went live in January. Watch both windows. Talent community at earlycareerstalent@ukaea.uk. Culham, Oxfordshire."
+    "notes": "Research 20 Aug 2026: Culham, Oxfordshire (~70mi) has a confirmed Level 6 route but it is LAB-LEANING, which is against Fraser's preference. The window remains genuinely conflicting - their site says autumn, the last two campaigns went live in January. Watch both. Talent community: earlycareerstalent@ukaea.uk. REFUSED: any residency clause - none could be attributed to UKAEA."
   },
   {
     "name": "Sizewell C",
     "tier": 4,
     "discipline": "nuclear",
     "work_setting": "site",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Nuclear construction & engineering. Recruits via EDF - Young SZC is Suffolk/Norfolk focused, so EDF is the better channel. No window published."
+    "notes": "NO DIRECT FRONT DOOR worth chasing (20 Aug 2026). EDF provides SZC's recruitment as a support service while SZC transitions out of the EDF group, and NEDA (SZC) is advertised as an EDF role. YOUNG SZC IS RESTRICTED TO 16-21-YEAR-OLDS LIVING IN SUFFOLK OR NORFOLK - Fraser is outside the catchment. Treat Sizewell C as a location preference inside the January EDF application."
   },
   {
     "name": "Ministry of Defence - Submarine Delivery Agency",
     "tier": 4,
     "discipline": "nuclear",
-    "work_setting": "mixed",
-    "dossier": false,
+    "work_setting": "desk",
+    "dossier": true,
     "sources": [
       "higherin"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Degree apprenticeships exist; 2027 dates TBC. Nationality/residency gates apply - confirmed clear for Fraser."
+    "notes": "Research 20 Aug 2026: Abbey Wood has a confirmed Level 6 route but it is DESK-LEANING. Nationality and residency gates apply and are already satisfied for Fraser. Note that standard st0289 and the Cannington college placement are shared across EDF, NRS, SDA and Derby - a requirement attached to a STANDARD is not an EMPLOYER's person spec."
   },
   {
     "name": "UK National Nuclear Laboratory",
     "tier": 4,
     "discipline": "nuclear",
     "work_setting": "lab",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Noted as already in the GradCracker follows but had no state record before this register."
+    "notes": "PROGRAMME PAUSED (20 Aug 2026): NNL's apprenticeship programme is paused for 2026 with no confirmed 2027 intake. School-leaver routes do exist at Level 3 and Level 6 when running, so a one-line email to earlycareers@uknnl.com is the entire action."
   },
   {
     "name": "Nuclear Decommissioning Authority Group",
     "tier": 4,
     "discipline": "nuclear",
-    "work_setting": "mixed",
-    "dossier": false,
+    "work_setting": "plant",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
-    "verdict": "watch",
+    "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "THE SLEEPER OF THE NUCLEAR SLICE. NRS, within the NDA group, runs LEVEL 6 nuclear engineering degree apprenticeships at allocated sites, and its site list includes WINFRITH, DORSET (~45mi) and HARWELL (~65mi). Level 6 vacancies were CONFIRMED at Oldbury, Hinkley and Sizewell but NOT at Winfrith or Harwell - flagged rather than claimed. IF A WINFRITH ROUTE EXISTS IT IS THE ONLY NUCLEAR DEGREE APPRENTICESHIP IN BRITAIN FRASER COULD DO FROM HOME. Highest-value browser check in the round. REFUSED: Sellafield's 5-year residency clause against NRS despite the shared parent."
   },
   {
     "name": "Nuclear Graduates",
     "tier": 4,
     "discipline": "nuclear",
     "work_setting": "mixed",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
-    "verdict": "watch",
+    "verdict": "not_a_route",
     "last_checked": "2026-08-20",
-    "notes": ""
+    "notes": "NOT A ROUTE - eliminated with confidence 20 Aug 2026. It is a TWO-YEAR POST-GRADUATION scheme with three secondments and a MINIMUM 2:2 AT BACHELOR'S LEVEL. No school-leaver entry exists. The master list's inclusion was based on a wrong premise."
   },
   {
     "name": "Dstl",
     "tier": 5,
     "discipline": "other",
-    "work_setting": "lab",
-    "dossier": false,
+    "work_setting": "mixed",
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
     ],
     "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "STRONGEST FIT IN THE CIVIL SERVICE TRACK. L6 degree apprenticeships across all STEM. GBP14,358-27,010. Confirmed pattern: recruits in February for the following September. Porton Down ~35mi. Requires UK national, no dual nationality, 5 years residency - all confirmed clear for Fraser (Aug 2026)."
+    "notes": "MAJOR FIND 20 Aug 2026 - A SECOND NEAR-LOCAL LEVEL 6 OPTION. Dstl's own material: 'the majority of apprenticeships are based at Porton Down near Salisbury, or PORTSDOWN WEST NEAR FAREHAM' - Portsdown West is ~20mi from Southampton, comparable to Airbus Portsmouth. Four named Level 6 programmes confirmed: Ordnance/Munitions/Explosives; Embedded Electronics; Cyber Technologies & Solutions; Engineering (Mechanical/Electronics). Entry requirement is a LITERAL match: 'three A-Level standard... in Mathematics and at least one further STEM-based subject.' Work setting genuinely MIXED not lab - apprentice reviews cite CNC manufacture, kit built for field trials, workshop days alongside report writing. GBP14,358-27,010. THREE UNKNOWNS: which site each programme sits at; whether the provider really is University of Wales Trinity Saint David (would mean block release in Wales); and an unresolved contradiction between 'recruits February for the following September' and Feb-2026 adverts carrying 1 APRIL start dates. REFUSED: an 'A degree in STEM is also expected' string that surfaced inside Dstl apprenticeship results - logically incompatible with a Level 6 degree apprenticeship, almost certainly spliced from the graduate page. VERIFIED 20 Aug 2026: Portsdown West confirmed as a Dstl apprenticeship site (Portsdown Hill Road, Fareham PO17 6AD), and two LEVEL 6 routes are confirmed THERE - Software Engineer (BSc Digital & Technology Solutions, fully funded) and BSc (Hons) Data Science. BUT BOTH ARE COMPUTING AND DESK-LEANING. The Engineering (Mechanical or Electronics Pathway) apprenticeship exists but its location could NOT be confirmed as Portsdown West. Same trap as Airbus Portsmouth-badged-but-Chippenham-based: a site that hosts apprenticeships is not proof it hosts the one you want. TOP BROWSER CHECK."
   },
   {
     "name": "MI5, MI6 and GCHQ",
     "tier": 5,
     "discipline": "other",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "GCHQ Infrastructure Engineering Apprenticeship requires three A-level passes with two in STEM - Fraser's combination satisfies this cleanly. Software Engineering route wants 72 UCAS points + GCSE 4 in English and Maths. 2027 dates TBC. MI5/MI6 do not fit the engineering route."
+    "notes": "Research 20 Aug 2026: GCHQ's Infrastructure Engineering apprenticeship requires three A-level passes with two in STEM, which Fraser satisfies cleanly; the Software Engineering route wants 72 UCAS points plus GCSE grade 4 English and Maths. 2027 dates not established. MI5 and MI6 do not fit an engineering route. REFUSED: synthesising a nationality clause by borrowing the Royal Navy's verified wording."
   },
   {
     "name": "British Army",
     "tier": 5,
     "discipline": "other",
     "work_setting": "field",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
@@ -1979,20 +1979,20 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "field",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "state-file"
     ],
     "verdict": "active",
     "last_checked": "2026-08-20",
-    "notes": "Rolling. ACCELERATED APPRENTICE SCHEME IS THE A-LEVEL ROUTE SPECIFICALLY - join as Probationary Leading Hand, two ranks above standard entry. Weapon or Air Engineering."
+    "notes": "FAR MORE ACCESSIBLE THAN THIS TRACKER ASSUMED. Accelerated Apprentice Scheme confirmed verbatim: 'You'll start your naval career as a Probationary Leading Hand. This is two ranks higher than most Engineering Technicians.' Entry bar from the Air Engineering page: 'at least 48 UCAS POINTS in A-Levels... in Mathematics and a STEM subject (minimum grade D or above)'. THE 120-UCAS-POINT FIGURE PREVIOUSLY ASSUMED WAS WRONG - Fraser would be a strong candidate, not marginal. Rolling entry so no window to miss, and trade training in Hampshire. Honest trade-offs: it is not a degree, and it is military service. VERIFIED 20 Aug 2026: the 48 UCAS point requirement is confirmed and holds across Weapon, Air, Marine (MEGS), Communications Information Systems and Submariner roles - 'at least 48 UCAS points in A-Levels (or equivalent) in Mathematics and STEM subject (minimum grade D or above in each subject)'. Alternative: NQF Level 3 Diploma at Merit in an engineering discipline."
   },
   {
     "name": "Royal Air Force",
     "tier": 5,
     "discipline": "other",
     "work_setting": "field",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
@@ -2005,7 +2005,7 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker",
       "higherin"
@@ -2019,39 +2019,39 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "field",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
-    "verdict": "watch",
+    "verdict": "cut",
     "last_checked": "2026-08-20",
-    "notes": "Kept per Adam - marine/shipping engineering, separate sector."
+    "notes": "PREMISE WRONG (20 Aug 2026): Maersk has NO Southampton connection. DP World is sole owner and operator of the Southampton container terminal on a licence extended to 2047. The Southampton port apprenticeships that surface belong to ABP - see the new ABP Southampton row."
   },
   {
     "name": "Perenco",
     "tier": 5,
     "discipline": "other",
     "work_setting": "plant",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Oil & gas extraction, but runs a Structural Engineering graduate programme specifically - closer to civil/structural than typical oil & gas. Master list open question: worth a closer look if it is a genuine fit."
+    "notes": "THE TRAP RAN THE OPPOSITE WAY (20 Aug 2026). A school-leaver route DOES exist - Apprentice Mechanical Technician, LEVEL 3, at Wytch Farm, Dorset (~40mi), 3 years via HETA. But no Perenco-branded 'Structural Engineering graduate programme' could be confirmed; that appears to be Gradcracker's discipline taxonomy rather than a named scheme. The master list's open question is answered: the premise was wrong."
   },
   {
     "name": "OCU Group",
     "tier": 5,
     "discipline": "other",
-    "work_setting": "site",
-    "dossier": false,
+    "work_setting": "field",
+    "dossier": true,
     "sources": [
       "gradcracker"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "Utilities infrastructure services, but the listed role was Quantity Surveyor (commercial route)."
+    "notes": "AN ENGINEERING APPRENTICESHIP DOES EXIST (20 Aug 2026): Apprentice Electrical Power Networks Engineer, Level 4, 30 months, two A-levels. The only vacancy found was Leeds, so geography is the open question rather than existence."
   },
   {
     "name": "Medical Research Council",
@@ -2070,34 +2070,34 @@
     "name": "Met Office",
     "tier": 5,
     "discipline": "other",
-    "work_setting": "desk",
-    "dossier": false,
+    "work_setting": "mixed",
+    "dossier": true,
     "sources": [
       "resources.md"
     ],
     "verdict": "watch",
     "last_checked": "2026-08-20",
-    "notes": "NOT YET CHECKED. Exeter. Strong Physics fit - needs checking on their own careers page."
+    "notes": "FIRST EVER CHECK 20 Aug 2026: a route exists but NOTHING ABOVE LEVEL 4 in the 2026 cohort. The one Physics-flavoured role is Metrology Technician (Level 3), Exeter plus 30 days a year at NPL Teddington. Useful find: the next cohort is advertised for FEBRUARY 2027."
   },
   {
     "name": "UK Space Agency",
     "tier": 5,
     "discipline": "other",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "resources.md"
     ],
-    "verdict": "watch",
+    "verdict": "cut",
     "last_checked": "2026-08-20",
-    "notes": "NOT YET CHECKED. Strong Physics fit - needs checking on their own careers page."
+    "notes": "CLEAR NO (20 Aug 2026, first ever check). Last apprentice cohort was 2017; apprenticeships are being 'reestablished between now and 2029'; internships are for degree students only."
   },
   {
     "name": "HMRC",
     "tier": 5,
     "discipline": "other",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "state-file"
     ],
@@ -2110,7 +2110,7 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "field",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "higherin"
     ],
@@ -2123,7 +2123,7 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "state-file"
     ],
@@ -2136,13 +2136,13 @@
     "tier": 5,
     "discipline": "other",
     "work_setting": "desk",
-    "dossier": false,
+    "dossier": true,
     "sources": [
       "state-file"
     ],
-    "verdict": "watch",
+    "verdict": "cut",
     "last_checked": "2026-08-20",
-    "notes": "Better fit than Career Launch (L4). Historically opens March-early April. VERIFY whether the not-in-full-time-education rule applies here too - that determines whether it is usable at all. Needs a registrations.md action item, which it currently lacks."
+    "notes": "SCHEME CLOSED - the eligibility question is moot (20 Aug 2026). Every substantive GOV.UK Fast Track page is now titled [Withdrawn] and the organisation page states the scheme has closed. The right conclusion is not 'no Civil Service' but GO DIRECT TO THE AGENCY rather than via a central scheme - which is exactly what Dstl is."
   },
   {
     "name": "CBRE Group",
@@ -2703,5 +2703,57 @@
     "verdict": "cut",
     "last_checked": "2026-08-20",
     "notes": "Cut from the master list - do not re-suggest."
+  },
+  {
+    "name": "Rolls-Royce SMR",
+    "tier": 4,
+    "discipline": "nuclear",
+    "work_setting": "plant",
+    "dossier": true,
+    "sources": [
+      "state-file"
+    ],
+    "verdict": "watch",
+    "last_checked": "2026-08-20",
+    "notes": "ADDED 20 Aug 2026 - a SEPARATE ENTITY from Rolls-Royce plc and from Rolls-Royce Motor Cars, and checked on its own. Small modular reactors. Confirmed apprentice functions are supply chain, project management, manufacturing, security, IT, procurement and HR - NO ENGINEERING APPRENTICESHIP CONFIRMED. REFUSED: any residency clause; none could be attributed."
+  },
+  {
+    "name": "ABP Southampton",
+    "tier": 1,
+    "discipline": "civil",
+    "work_setting": "site",
+    "dossier": false,
+    "sources": [
+      "resources.md"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "NEW LEAD 20 Aug 2026, not on the master list. Associated British Ports runs the Southampton port apprenticeships that surface in local searches - Marine Operations, LEVEL 4, GBP22,913, September 2026 intake. LOCAL. Needs a proper dossier; this row exists so it is not lost."
+  },
+  {
+    "name": "DP World Southampton",
+    "tier": 1,
+    "discipline": "civil",
+    "work_setting": "site",
+    "dossier": false,
+    "sources": [
+      "resources.md"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "NEW LEAD 20 Aug 2026, not on the master list. DP World is the sole owner and operator of the Southampton container terminal, on a licence extended to 2047 - so it, not Maersk, is the local port employer. LOCAL. Apprenticeship offering not yet researched."
+  },
+  {
+    "name": "University of Portsmouth / BAE Systems Digital Intelligence - Space Systems Engineering",
+    "tier": 3,
+    "discipline": "mechanical",
+    "work_setting": "mixed",
+    "dossier": false,
+    "sources": [
+      "resources.md"
+    ],
+    "verdict": "active",
+    "last_checked": "2026-08-20",
+    "notes": "NEW LEAD 20 Aug 2026, not on the master list. BEng (Hons) Space Systems Engineering DEGREE APPRENTICESHIP, Level 6, ~20mi, delivered with BAE Systems Digital Intelligence and billed as the UK's first space degree apprenticeship. A potential THIRD near-local Level 6 route alongside Airbus Portsmouth and Dstl Portsdown West. Needs a proper dossier."
   }
 ]
