@@ -4853,4 +4853,25 @@ DTEND;TZID=Europe/London:20270404T120000
 LOCATION:Hiltingbury Recreation Ground
 DESCRIPTION:Fraser football fixture - Winchester City FC U18 Black
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kestrels vs Reading Rockets
+DTSTART;TZID=Europe/London:20260912T090000
+DTEND;TZID=Europe/London:20260912T110000
+LOCATION:Sports Complex
+DESCRIPTION:Quinn basketball fixture - Kestrels
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sussex Storm vs Kestrels
+DTSTART;TZID=Europe/London:20260919T080000
+DTEND;TZID=Europe/London:20260919T130000
+LOCATION:Away
+DESCRIPTION:Quinn basketball fixture - Kestrels
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kestrels vs Worthing Thunder
+DTSTART;TZID=Europe/London:20260926T143000
+DTEND;TZID=Europe/London:20260926T163000
+LOCATION:Places Leisure
+DESCRIPTION:Quinn basketball fixture - Kestrels
+END:VEVENT
 END:VCALENDAR
