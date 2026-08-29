@@ -4729,8 +4729,8 @@ DESCRIPTION:Shift A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AFC Hiltingbury Youth U18 Hawks vs Winchester City FC U18 Black
-DTSTART;TZID=Europe/London:20260906T100000
-DTEND;TZID=Europe/London:20260906T120000
+DTSTART;TZID=Europe/London:20260906T120000
+DTEND;TZID=Europe/London:20260906T140000
 LOCATION:Hiltingbury Recreation Ground
 DESCRIPTION:Fraser football fixture - Winchester City FC U18 Black
 END:VEVENT
