@@ -8,7 +8,7 @@
     "status": "opens_imminently_september_2026",
     "opens": "2026-09",
     "closes": null,
-    "date_confidence": "INFERRED from National Grid's own stated pattern ('applications become available in September, ready for those awarded places to begin the following September'), not a published 2027 date. MOST TIME-CRITICAL ITEM IN THE TRACKER.",
+    "date_confidence": "INFERRED from National Grid's own stated pattern ('applications become available in September, ready for those awarded places to begin the following September'), not a published 2027 date. MOST TIME-CRITICAL ITEM IN THE TRACKER. RE-CHECKED 2026-08-30: still not open, no exact day published anywhere found.",
     "link": "https://careers.nationalgrid.com/new-talent/apprentices/higher-degree-apprenticeships",
     "first_seen": "2026-08-13",
     "gradcracker_alert": true,
@@ -45,7 +45,7 @@
     "notes": "No fixed close - assessment runs continually through to around May. Job alerts available at https://earlycareers.babcockinternational.com/apply/register-for-job-alerts/ - REGISTER NOW. Defence work, so security clearance applies. Not currently followed on GradCracker - worth adding."
   },
   {
-    "employer": "AtkinsRéalis",
+    "employer": "AtkinsR\u00e9alis",
     "role": "Apprenticeships Levels 3-7 (engineering and non-technical)",
     "level": "Advanced / Higher / Degree",
     "location": "UK-wide",
@@ -155,10 +155,10 @@
     "level": "Advanced / Degree",
     "location": "Various UK sites",
     "cycle": "September 2027",
-    "status": "confirmed_opens_january_2027",
+    "status": "date_conflict_unresolved",
     "opens": "2027-01",
     "closes": null,
-    "date_confidence": "CONFIRMED from BAE's own degree-apprenticeship page: applications open January 2027. Consistent with prior cycles closing Jan-Feb. No closing date published.",
+    "date_confidence": "CONFIRMED from BAE's own degree-apprenticeship page: applications open January 2027. Consistent with prior cycles closing Jan-Feb. No closing date published. RE-CHECKED 2026-08-30: conflict remains UNRESOLVED. 2026 cycle confirmed opened early Nov 2025 (supports Nov 2026 open for 2027), but the 'confirmed January 2027' note could not be re-verified or disproved this run. Check monthly from November through January.",
     "link": "https://www.baesystems.com/en/careers/careers-in-the-uk/apprenticeships/degree",
     "first_seen": "2026-08-09",
     "gradcracker_alert": true,
@@ -222,7 +222,7 @@
     "link": "https://www.gradcracker.com/hub/120/dstl/search/degree-apprenticeships",
     "first_seen": "2026-08-17",
     "gradcracker_alert": true,
-    "notes": "STRONG FIT AND COMMUTABLE - Porton Down is ~35 miles from Southampton. First-year salary £14,358-£27,010 depending on level. Civil Service employer: expect UK nationality/residency requirements and National Security Vetting. NOTE: dual nationality can be disqualifying for Dstl - verify Fraser's status early rather than in February 2027. Apply via Civil Service Jobs and Find an Apprenticeship. Contact dstlrecruitment@dstl.gov.uk"
+    "notes": "STRONG FIT AND COMMUTABLE - Porton Down is ~35 miles from Southampton. First-year salary \u00a314,358-\u00a327,010 depending on level. Civil Service employer: expect UK nationality/residency requirements and National Security Vetting. NOTE: dual nationality can be disqualifying for Dstl - verify Fraser's status early rather than in February 2027. Apply via Civil Service Jobs and Find an Apprenticeship. Contact dstlrecruitment@dstl.gov.uk"
   },
   {
     "employer": "Rolls-Royce plc",
@@ -323,7 +323,7 @@
     "status": "opens_november_2026",
     "opens": "2026-11",
     "closes": null,
-    "date_confidence": "Employer indicates applications reopen November 2026. Month-level only.",
+    "date_confidence": "Employer indicates applications reopen November 2026. Month-level only. RE-CHECKED 2026-08-30: both Southampton listings (VAC1000346490, VAC1000300404) still resolve as normal live pages, not closed. No closing date confirmed via search snippets (WebFetch blocked). The 'reopens November 2026' note may describe WSP's wider annual cycle rather than these two specific vacancies - verify directly in a browser.",
     "link": "https://www.wsp.com/en-gb/careers/apprenticeships",
     "first_seen": "2026-08-17",
     "gradcracker_alert": false,
@@ -372,7 +372,7 @@
     "link": "https://www.army.mod.uk/careers/",
     "first_seen": "2026-08-13",
     "gradcracker_alert": false,
-    "notes": "£26,334 starting salary. Ammunition Technician is highly technical (EOD and weapons systems) and directly relevant to Fraser's defence interest. Appeared in the Amazing Apprenticeships April 2026 listing. Because it is rolling, this is a genuine fallback that doesn't depend on hitting a window."
+    "notes": "\u00a326,334 starting salary. Ammunition Technician is highly technical (EOD and weapons systems) and directly relevant to Fraser's defence interest. Appeared in the Amazing Apprenticeships April 2026 listing. Because it is rolling, this is a genuine fallback that doesn't depend on hitting a window."
   },
   {
     "employer": "Royal Navy",
@@ -492,6 +492,51 @@
     "link": "https://www.arup.com/careers",
     "first_seen": "2026-08-17",
     "gradcracker_alert": true,
-    "notes": "LOCALLY RELEVANT: Arup confirmed recruiting Building Services Electrical (L6) and Civil Engineering (L4) apprentices in SOUTHAMPTON in the 2026 cycle at £27,000-£28,000 starting salary - one of the highest starting salaries seen. That confirms they run Southampton cycles annually. Already following on GradCracker."
+    "notes": "LOCALLY RELEVANT: Arup confirmed recruiting Building Services Electrical (L6) and Civil Engineering (L4) apprentices in SOUTHAMPTON in the 2026 cycle at \u00a327,000-\u00a328,000 starting salary - one of the highest starting salaries seen. That confirms they run Southampton cycles annually. Already following on GradCracker."
+  },
+  {
+    "employer": "National Highways",
+    "role": "Civil Engineering Degree Apprenticeship, Level 6, leads to Chartered Civil Engineer",
+    "level": "Level 6",
+    "location": "South East roads incl. M27/M3 corridor; no confirmed Southampton office",
+    "cycle": "September 2027",
+    "status": "confirmed_opens_february_2027",
+    "opens": "2027-02",
+    "closes": null,
+    "date_confidence": "RESOLVED 2026-08-30: September 2026 applications were for the outgoing (now closed) cycle. The 2027 cycle opens February 2027, timed to National Apprenticeship Week, for a September 2027 start.",
+    "link": "https://careers.nationalhighways.co.uk/graduates-placements-and-apprenticeships/apprenticeships/civil-engineering-degree-apprenticeship/",
+    "first_seen": "2026-08-20",
+    "gradcracker_alert": true,
+    "notes": "Civil engineering, matches Fraser's #1 discipline ranking. Set a calendar reminder for February 2027 rather than checking repeatedly before then."
+  },
+  {
+    "employer": "Tetra Tech",
+    "role": "Degree Apprentice - Civil Engineer, Renewable Energy Infrastructure (onshore/offshore wind, BESS, hydro)",
+    "level": "Degree",
+    "location": "Edinburgh",
+    "cycle": "September 2027",
+    "status": "LIVE_APPLICATION_open_now",
+    "opens": null,
+    "closes": null,
+    "date_confidence": "CONFIRMED live application (not register-interest) on GradCracker, re-confirmed live 2026-08-30. No closing date found in search snippets on either check. CORRECTION 2026-08-30: location is Edinburgh, not UK-wide as first logged - this is a relocation role.",
+    "link": "https://www.gradcracker.com/hub/1108/tetra-tech/degree-apprenticeship/81851/degree-apprentice-civil-engineer-renewable-energy-infrastructure",
+    "first_seen": "2026-08-20",
+    "gradcracker_alert": true,
+    "notes": "Fraser's own find, shortlisted as a priority. Civil engineering, matches his #1 discipline ranking. HIGH URGENCY - check the page directly for the actual closing date rather than assuming time remains; a genuine live vacancy with no known deadline is the riskiest kind to leave unchecked."
+  },
+  {
+    "employer": "DIO (Defence Infrastructure Organisation, MoD)",
+    "role": "BEng Civil and Infrastructure Engineering degree apprenticeship, partnered with University of Warwick, 5-year programme, taught via seven one-week residential blocks",
+    "level": "Level 6",
+    "location": "Bicester, Huntingdon, Andover area, Warminster",
+    "cycle": "September 2027",
+    "status": "prior_cycle_closed_next_tbc",
+    "opens": null,
+    "closes": null,
+    "date_confidence": "2026 cohort (start 1 Jul 2026) closed applications 29 Oct 2025. A 2027 cycle would be expected around a similar time (autumn 2026) but no date published yet.",
+    "link": null,
+    "first_seen": "2026-08-30",
+    "gradcracker_alert": false,
+    "notes": "NEW 2026-08-30. Civil engineering, matches Fraser's #1 discipline ranking. \u00a329,580/yr pro rata. No Southampton site, but Warminster/Andover are within reasonable relocation-with-lodging distance. Worth a GradCracker/direct-site follow once a URL is confirmed."
   }
 ]

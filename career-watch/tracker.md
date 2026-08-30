@@ -2,6 +2,11 @@
 
 **Full refresh: 17 August 2026.** Treated as a first run — every entry re-verified from scratch rather than carried forward.
 
+> ## 🔔 Sweep update — 30 August 2026
+> Priority items re-checked. **National Highways conflict now RESOLVED** (Feb 2027, National Apprenticeship Week — see below). **National Grid has NOT yet opened** as of today (2 days out from its stated September window — check daily from tomorrow). **BAE Systems conflict remains UNRESOLVED** — nothing new found either way. **WSP's two Southampton listings still show as live, normal pages** (not "you can no longer apply") — no confirmed closing date found; the "reopens November 2026" note may describe WSP's wider apprenticeship cycle rather than these two specific vacancies, which is worth clarifying by checking the pages directly. **Tetra Tech's renewable-energy civil apprenticeship is confirmed real and live but is based in Edinburgh, not "UK-wide"** as previously logged — no closing date found. One genuinely new named civil engineering employer surfaced: **DIO (Defence Infrastructure Organisation, MoD)** — see below. Civil Service Career Launch and the pilot cadet schemes are unchanged. Full detail in each section below and in `career-watch/digests/2026-08-30.md`.
+>
+> **Method note:** WebFetch was blocked by the network proxy for every careers domain tried this run (findapprenticeship.service.gov.uk, nationalgrid, baesystems, wsp, gradcracker) — all findings below are from WebSearch result snippets, not direct page loads. Treat unconfirmed items accordingly.
+
 > ⚠️ **Verification caveat.** The network proxy in this environment blocks direct page loads for essentially every careers domain. Everything below comes from search-result snippets *quoting* those pages, not from reading the live page. Snippets can be cached. **The three actionable autumn dates (National Grid September, Airbus October, Babcock October) should be confirmed by loading the pages in a normal browser before Fraser relies on them.**
 
 Companion files: **[resources.md](resources.md)** is the full bookmark backup · **[registrations.md](registrations.md)** is the action checklist · **[reading-plan.md](reading-plan.md)** is the phased plan.
@@ -88,7 +93,7 @@ Fraser has identified five specific roles worth pursuing, all with a civil/infra
 
 | Employer | Role | Location | Link | Status |
 |---|---|---|---|---|
-| **Tetra Tech** | Degree Apprentice — Civil Engineer, Renewable Energy Infrastructure | UK-wide | [GradCracker](https://www.gradcracker.com/hub/1108/tetra-tech/degree-apprenticeship/81851/degree-apprentice-civil-engineer-renewable-energy-infrastructure) | 🔴 **LIVE APPLICATION — apply now, not just register interest** |
+| **Tetra Tech** | Degree Apprentice — Civil Engineer, Renewable Energy Infrastructure | **Edinburgh** (corrected 30 Aug 2026 — not UK-wide as previously logged; role supports onshore/offshore wind, BESS and hydro projects) | [GradCracker](https://www.gradcracker.com/hub/1108/tetra-tech/degree-apprenticeship/81851/degree-apprentice-civil-engineer-renewable-energy-infrastructure) | 🔴 **LIVE APPLICATION, re-confirmed live 30 Aug 2026 — but no closing date found in search snippets either time. Check the page directly for the actual deadline before assuming there's time; Edinburgh is a relocation role, factor that into urgency.** |
 | **Transport for London** | Register Your Interest — Degree Apprenticeships 2027 | London | [Higherin](https://higherin.com/jobs/43598/transport-for-london/register-your-interest-degree-apprenticeships-2027) | 🟢 Register-interest form live |
 | **Arcadis** | Register Your Interest — Civil Engineer Degree Apprenticeship 2027 | UK-wide | [Higherin](https://higherin.com/jobs/43391/arcadis/register-your-interest-civil-engineer-degree-apprenticeship-2027) | 🟢 Register-interest form live |
 | **EDF Energy** | Register Your Interest — Degree Apprenticeship Programmes 2027 | Multiple (Hinkley, Sizewell) | [Higherin](https://higherin.com/jobs/42891/edf-energy/register-your-interest-degree-apprenticeship-programmes-2027) | 🟢 Register-interest form live |
@@ -122,7 +127,7 @@ Researched **20 August 2026** in response to his discipline ranking (civil #1). 
 ### Relocation-only, no south coast link found
 | Employer | Status | Location |
 |---|---|---|
-| **National Highways** | Confirmed L6 Civil Engineering Degree Apprenticeship, leads to Chartered Civil Engineer. ⚠️ **Conflicting window information** — one source says Feb 2027, another suggests advertising from Sept 2026 for a Sept 2027 start. On GradCracker. Manages South East roads incl. M27/M3 corridor, but no confirmed Southampton office. | TBC — verify directly |
+| **National Highways** | Confirmed L6 Civil Engineering Degree Apprenticeship, leads to Chartered Civil Engineer. ✅ **RESOLVED 30 Aug 2026:** September 2026 applications are for the outgoing cycle and are now closed; the 2027 cycle opens **February 2027, timed to National Apprenticeship Week**, for a September 2027 start. The "Sept 2026" mention was about the closed prior cycle, not a second opening. On GradCracker. Manages South East roads incl. M27/M3 corridor, but no confirmed Southampton office. | **Feb 2027** — set a reminder |
 | **Skanska UK** | Confirmed Degree Apprentice Civil Engineer, BEng at Coventry University, IEng/MICE route. Needs 112 UCAS points from 3 A-levels/T-Levels/BTECs, 5 GCSEs incl. Maths/English, **3 years' UK residency required.** UK-wide rotational (1–9 month site rotations), relocation allowance offered. | UK-wide — effectively relocation |
 | **HS2** | Apprenticeships continue despite project scope changes (2,000+ apprentices to date). 2026 recruitment opened **9 February 2026**. ⚠️ Often sits with construction partners/JVs (e.g. Balfour Beatty VINCI SYSTRA) rather than HS2 Ltd directly — check which entity is hiring. | Midlands/London-focused |
 | **Costain** | Confirmed Degree Apprentice Civil and Structural Engineer. 2026 cycle launched with ~170 positions across disciplines. On GradCracker. | Not specified — check current vacancies |
@@ -132,7 +137,12 @@ Researched **20 August 2026** in response to his discipline ranking (civil #1). 
 ### Checked and not confirmed to exist
 - **Southern Water** — only a Level 3 ICA Technician apprenticeship found (Millbrook, already closed). **No Level 6 civil engineering degree apprenticeship could be confirmed.** Don't rely on this one without direct verification.
 
-**Recommended next actions:** register interest / set GradCracker alerts on WSP (top priority — genuinely local), AECOM, Thames Water and Balfour Beatty now. Re-check National Highways, Skanska, HS2, Costain, Mace and Galliford Try directly on their own pages in October–November 2026, when 2027 cycles are more likely to have published.
+**Recommended next actions:** register interest / set GradCracker alerts on WSP (top priority — genuinely local), AECOM, Thames Water and Balfour Beatty now. Re-check Skanska, HS2, Costain, Mace and Galliford Try directly on their own pages in October–November 2026, when 2027 cycles are more likely to have published. National Highways is now resolved to Feb 2027 (see above) — set a calendar reminder rather than checking repeatedly.
+
+### New this sweep (30 August 2026)
+| Employer | Status | Location |
+|---|---|---|
+| **DIO — Defence Infrastructure Organisation (MoD)** 🆕 | Genuine L6 **BEng Civil and Infrastructure Engineering** degree apprenticeship, partnered with **University of Warwick**, 5-year programme, £29,580/yr pro rata, taught via seven one-week residential blocks. 2026 cohort (start 1 Jul 2026) closed applications **29 Oct 2025** — a 2027 cycle would be expected to open around a similar time (autumn 2026), but no 2027 date has been published yet. Worth a GradCracker/direct-site follow. | Bicester, Huntingdon, Andover area, Warminster — no Southampton site, but Warminster/Andover are within reasonable relocation-with-lodging distance |
 
 ---
 
@@ -141,12 +151,12 @@ Researched **20 August 2026** in response to his discipline ranking (civil #1). 
 ### Confirmed autumn 2026 openings
 | Employer | Status | Local? |
 |---|---|---|
-| **National Grid** | 🔴 **Opens September 2026 — most time-critical item.** Needs A-levels. No visa sponsorship. Closes early if full. | Eakring/Warwick/Wokingham |
+| **National Grid** | 🔴 **Opens September 2026 — most time-critical item. Checked 30 Aug 2026: NOT yet open.** No exact day published anywhere found — still just "applications become available in September." Needs A-levels. No visa sponsorship. Closes early if full. **Check daily from 1 September.** | Eakring/Warwick/Wokingham |
 | **Airbus** | 🔴 **Opens October 2026 — confirmed on their own page. No closing date; may close without notice.** Degree route needs A-levels. | **Airbus Defence & Space has a Portsmouth site — commutable** |
 | **Babcock International** | 🟠 Opens October 2026 (degree/graduate); December for other levels. Rolling assessment to ~May. Job alerts live. | Devonport/Bristol/Rosyth |
 | **GE Aerospace** | 🟠 Dowty & Feltham **8 Oct**, Cheltenham & Wales **20 Oct**, Prestwick **3 Nov** — most precisely dated employer in the tracker | Relocation |
 | **AtkinsRéalis** | 🟠 Autumn 2026, historically Nov open / end-Feb close. Talent Community + Connectr mentoring both live. | UK-wide |
-| **WSP** | 🟢 **Two Civil Engineering Degree Apprenticeship roles found directly in Southampton** (Planning Development; Building Structures) on GOV.UK Find an Apprenticeship. 2026 cycle ran Oct 2025–Apr 2026; reopening inferred **November 2026**. Needs BBC A-levels or equiv, GCSE C/5 English/Maths/Science, grade C min in Maths/Further Maths. | **✅ Southampton itself — genuinely local, not relocation** |
+| **WSP** | 🟢 **Two Civil Engineering Degree Apprenticeship roles found directly in Southampton** (Planning Development VAC1000346490; Building Structures VAC1000300404) on GOV.UK Find an Apprenticeship. **Re-checked 30 Aug 2026: both listing pages still resolve as normal live pages** (not the site's "you can no longer apply" wording), but no closing date could be confirmed via search snippets — WebFetch to the GOV.UK page was blocked, so this is not fully verified. The "reopens November 2026" note from the prior run may describe WSP's *wider* annual apprenticeship cycle (which historically ran Oct–Apr) rather than these two specific vacancies — worth clarifying by opening the pages directly in a browser. Needs BBC A-levels or equiv, GCSE C/5 English/Maths/Science, grade C min in Maths/Further Maths. | **✅ Southampton itself — genuinely local, not relocation** |
 
 ### Autumn 2026 stated but unconfirmed
 | Employer | Status | Local? |
@@ -161,7 +171,7 @@ Researched **20 August 2026** in response to his discipline ranking (civil #1). 
 ### Winter 2026 / early 2027
 | Employer | Status | Local? |
 |---|---|---|
-| **BAE Systems** | ⚠️ **Nov 2026 or Jan 2027 — sources conflict. Check monthly from November.** Min 2 A-levels; some schemes want 3 incl. Maths + 96 UCAS points. BPSS required; many roles need 5–10 yrs continuous UK residency. **No notify option — GradCracker follow is the only alert.** | Various |
+| **BAE Systems** | ⚠️ **Nov 2026 or Jan 2027 — sources still conflict as of 30 Aug 2026 sweep, no resolution found.** Confirmed pattern: the 2026 cycle opened early November 2025, supporting a Nov 2026 open for 2027; but the tracker's earlier "confirmed January 2027" note (quoting BAE's own degree-apprenticeship page) could not be re-verified or disproved this run. **Check monthly from November, and don't rule out a check in early January either.** Min 2 A-levels; some schemes want 3 incl. Maths + 96 UCAS points. BPSS required; many roles need 5–10 yrs continuous UK residency. **No notify option — GradCracker follow is the only alert.** | Various |
 | **BAE Systems Maritime** | ⚠️ **Strongest local defence option.** 251 extra Early Careers places announced, **173 split between GCSE and A-level entry**. Royal Navy surface fleet, carriers, Type 45s, radar and underwater weapons. | **Portsmouth ~20mi — commutable** |
 | **EDF Energy** | Expect late Jan 2027. 2026 window was **26 Jan – 22 Feb: only 4 weeks.** Includes the **Nuclear Engineering Degree Apprenticeship (NEDA)**. Talent Community live — join now. | Hinkley/Sizewell |
 | **ExxonMobil Fawley** | Expect Feb 2027 (2026: Feb–12 Apr). 4 GCSEs incl. Maths/Science/English. **Must be 18 at start.** ⚠️ **Advanced/craft level, NOT degree** — weigh honestly against three A-levels. Runs open evenings. | **~10mi — closest option** |
@@ -282,7 +292,7 @@ What BAT Southampton actually offers is **12-month undergraduate placements** (P
 | Thames Water | Thornton Tomasetti | UK Atomic Energy Authority | UK National Nuclear Laboratory |
 | Unilever | United Utilities | Veolia UK | |
 
-**Worth adding to the follows:** Babcock International · GKN Aerospace · WSP · L3Harris
+**Worth adding to the follows:** Babcock International · GKN Aerospace · WSP · L3Harris · DIO (Defence Infrastructure Organisation)
 
 ---
-Last full refresh: **17 August 2026** — treated as a first run, all entries re-verified. Next review should be **1 September 2026** for the National Grid opening.
+Last full refresh: **17 August 2026**, treated as a first run. **Priority sweep: 30 August 2026** — National Highways conflict resolved (Feb 2027); National Grid confirmed not yet open; BAE conflict unresolved; WSP and Tetra Tech re-checked live with corrections; DIO added as a new named civil engineering employer. Next review should be **1 September 2026** for the National Grid opening.
