@@ -8,8 +8,8 @@ Sites and accounts Fraser should register on, ordered by value. Tick a box only 
 
 ## 🚨 Do first — highest value, all free, no application window needed
 
-- [ ] **Higherin account** → [higherin.com](https://higherin.com)
-  *Biggest gap in the setup. Only place aggregating the live "Register Your Interest 2027" listings, plus 48,000+ apprentice reviews for choosing schemes and interview prep. Note: absorbed RateMyApprenticeship in Aug 2025 — same company, so this replaces that entry rather than adding to it.*
+- [x] **Higherin account** → [higherin.com](https://higherin.com) — ✅ done, confirmed 30 Aug 2026
+  *Only place aggregating the live "Register Your Interest 2027" listings, plus 48,000+ apprentice reviews for choosing schemes and interview prep. Note: absorbed RateMyApprenticeship in Aug 2025 — same company, so this replaces that entry rather than adding to it.*
 - [ ] **SETA — register interest for September 2027** → [setatraining.co.uk/apprenticeships/current_vacancies.html](https://www.setatraining.co.uk/apprenticeships/current_vacancies.html)
   *Local group training association at Millbrook, inside Southampton. Craft/advanced level only (L3/4) — not degree-level. Register only if degree-level applications don't progress.*
 - [ ] **UCAS Smart Alerts** → [ucas.com/apprenticeships/subscribe-alerts](https://www.ucas.com/apprenticeships/subscribe-alerts)
