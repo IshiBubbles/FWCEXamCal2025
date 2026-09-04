@@ -4893,4 +4893,16 @@ DTEND;TZID=Europe/London:20260906T150000
 LOCATION:Arborfield Green Leisure Centre, Sheerlands Rd, Reading
 DESCRIPTION:Aspire South 26-27 U13 Boys Trials - Registration fee £30.00 - Meet 09:30
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:REMINDER: Quinn Tile Barn trip today
+DTSTART;TZID=Europe/London:20260916T070000
+DTEND;TZID=Europe/London:20260916T073000
+DESCRIPTION:REMINDER: Quinn Tile Barn trip today
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn - Tile Barn KES Residential Trip
+DTSTART;TZID=Europe/London:20260916T090000
+DTEND;TZID=Europe/London:20260916T170000
+DESCRIPTION:Quinn - Tile Barn KES Residential Trip
+END:VEVENT
 END:VCALENDAR
