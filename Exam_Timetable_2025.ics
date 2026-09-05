@@ -4905,4 +4905,67 @@ DTSTART;TZID=Europe/London:20260916T090000
 DTEND;TZID=Europe/London:20260916T170000
 DESCRIPTION:Quinn - Tile Barn KES Residential Trip
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn U12 Mixed - AWAY vs Southampton Suns
+DTSTART;TZID=Europe/London:20261003T130000
+DTEND;TZID=Europe/London:20261003T150000
+LOCATION:Redbridge Community School, Cuckmere Lane, Southampton, SO16 9RJ
+DESCRIPTION:Quinn basketball - U12 Mixed Conference
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn U12 Mixed - HOME vs Surrey Rams
+DTSTART;TZID=Europe/London:20261017T110000
+DTEND;TZID=Europe/London:20261017T130000
+LOCATION:SOLENT SPORTS COMPLEX, Solent University East Park Terrace, Southampton SO14 0YN
+DESCRIPTION:Quinn basketball - U12 Mixed Conference
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn U12 Mixed - AWAY vs Worthing Thunder & Bears Blue
+DTSTART;TZID=Europe/London:20261101T140000
+DTEND;TZID=Europe/London:20261101T160000
+LOCATION:Durrington High School, The Boulevard, Worthing, BN13 1JX
+DESCRIPTION:Quinn basketball - U12 Mixed Conference
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn U12 Mixed - AWAY vs Portsmouth Force
+DTSTART;TZID=Europe/London:20261108T143000
+DTEND;TZID=Europe/London:20261108T163000
+LOCATION:Admiral Lord Nelson School, Dundas Lane, Portsmouth, PO3 5XT
+DESCRIPTION:Quinn basketball - U12 Mixed Conference
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn U12 Mixed - HOME vs Cobham Cobras
+DTSTART;TZID=Europe/London:20261114T110000
+DTEND;TZID=Europe/London:20261114T130000
+LOCATION:SOLENT SPORTS COMPLEX, Solent University East Park Terrace, Southampton SO14 0YN
+DESCRIPTION:Quinn basketball - U12 Mixed Conference
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn U12 Mixed - AWAY vs Brighton Cougars
+DTSTART;TZID=Europe/London:20261121T140000
+DTEND;TZID=Europe/London:20261121T160000
+LOCATION:Dorothy Stringer School, Brighton and Hove, BN1 6PZ
+DESCRIPTION:Quinn basketball - U12 Mixed Conference
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn U12 Mixed - HOME vs Sussex Storm II
+DTSTART;TZID=Europe/London:20261128T110000
+DTEND;TZID=Europe/London:20261128T130000
+LOCATION:PLACES LEISURE CENTRE, Passfield Ave, Eastleigh SO50 9NL
+DESCRIPTION:Quinn basketball - U12 Mixed Conference
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn U12 Mixed - AWAY vs Worthing Thunder & Bears Grey
+DTSTART;TZID=Europe/London:20261206T110000
+DTEND;TZID=Europe/London:20261206T130000
+LOCATION:Durrington High School, The Boulevard, Worthing, BN13 1JX
+DESCRIPTION:Quinn basketball - U12 Mixed Conference
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn U12 Mixed - HOME vs Southampton Suns
+DTSTART;TZID=Europe/London:20261212T110000
+DTEND;TZID=Europe/London:20261212T130000
+LOCATION:SOLENT SPORTS COMPLEX, Solent University East Park Terrace, Southampton SO14 0YN
+DESCRIPTION:Quinn basketball - U12 Mixed Conference
+END:VEVENT
 END:VCALENDAR
