@@ -4968,4 +4968,67 @@ DTEND;TZID=Europe/London:20261212T130000
 LOCATION:SOLENT SPORTS COMPLEX, Solent University East Park Terrace, Southampton SO14 0YN
 DESCRIPTION:Quinn basketball - U12 Mixed Conference
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn Aspire South - Provisional
+DTSTART;TZID=Europe/London:20260906T100000
+DTEND;TZID=Europe/London:20260906T103000
+LOCATION:Arborfield Green Leisure Centre, Sheerlands Road, Reading, RG2 9GB
+DESCRIPTION:Quinn Aspire South - Provisional
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn Aspire South - Provisional
+DTSTART;TZID=Europe/London:20261026T100000
+DTEND;TZID=Europe/London:20261026T103000
+LOCATION:Arborfield Green Leisure Centre, Sheerlands Road, Reading, RG2 9GB
+DESCRIPTION:Quinn Aspire South - Provisional
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn Aspire South - Provisional
+DTSTART;TZID=Europe/London:20261027T100000
+DTEND;TZID=Europe/London:20261027T103000
+LOCATION:Arborfield Green Leisure Centre, Sheerlands Road, Reading, RG2 9GB
+DESCRIPTION:Quinn Aspire South - Provisional
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn Aspire South - Provisional
+DTSTART;TZID=Europe/London:20261221T100000
+DTEND;TZID=Europe/London:20261221T103000
+LOCATION:Arborfield Green Leisure Centre, Sheerlands Road, Reading, RG2 9GB
+DESCRIPTION:Quinn Aspire South - Provisional
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn Aspire South - Provisional
+DTSTART;TZID=Europe/London:20261222T100000
+DTEND;TZID=Europe/London:20261222T103000
+LOCATION:Arborfield Green Leisure Centre, Sheerlands Road, Reading, RG2 9GB
+DESCRIPTION:Quinn Aspire South - Provisional
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn Aspire South - Provisional
+DTSTART;TZID=Europe/London:20270103T100000
+DTEND;TZID=Europe/London:20270103T103000
+LOCATION:Arborfield Green Leisure Centre, Sheerlands Road, Reading, RG2 9GB
+DESCRIPTION:Quinn Aspire South - Provisional
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn Aspire South - Provisional
+DTSTART;TZID=Europe/London:20270215T100000
+DTEND;TZID=Europe/London:20270215T103000
+LOCATION:Arborfield Green Leisure Centre, Sheerlands Road, Reading, RG2 9GB
+DESCRIPTION:Quinn Aspire South - Provisional
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn Aspire South - Provisional
+DTSTART;TZID=Europe/London:20270216T100000
+DTEND;TZID=Europe/London:20270216T103000
+LOCATION:Arborfield Green Leisure Centre, Sheerlands Road, Reading, RG2 9GB
+DESCRIPTION:Quinn Aspire South - Provisional
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn Aspire South - Provisional
+DTSTART;TZID=Europe/London:20270218T100000
+DTEND;TZID=Europe/London:20270218T103000
+LOCATION:Arborfield Green Leisure Centre, Sheerlands Road, Reading, RG2 9GB
+DESCRIPTION:Quinn Aspire South - Provisional
+END:VEVENT
 END:VCALENDAR
