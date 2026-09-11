@@ -4764,8 +4764,8 @@ DESCRIPTION:Fraser football fixture - Winchester City FC U18 Black
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Warsash Wasps Sports U18 vs Winchester City FC U18 Black
-DTSTART;TZID=Europe/London:20261025T100000
-DTEND;TZID=Europe/London:20261025T120000
+DTSTART;TZID=Europe/London:20261025T140000
+DTEND;TZID=Europe/London:20261025T160000
 LOCATION:Warsash Wasps Football Ground
 DESCRIPTION:Fraser football fixture - Winchester City FC U18 Black
 END:VEVENT
