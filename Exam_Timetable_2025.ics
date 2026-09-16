@@ -4743,8 +4743,8 @@ DESCRIPTION:Fraser football fixture - Winchester City FC U18 Black
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winchester City FC U18 Black vs BTC (Southampton) Youth U18 Reds
-DTSTART;TZID=Europe/London:20260920T100000
-DTEND;TZID=Europe/London:20260920T120000
+DTSTART;TZID=Europe/London:20260920T173000
+DTEND;TZID=Europe/London:20260920T193000
 LOCATION:Charters Community Stadium
 DESCRIPTION:Fraser football fixture - Winchester City FC U18 Black
 END:VEVENT
