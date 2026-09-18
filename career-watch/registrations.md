@@ -42,10 +42,15 @@ Sites and accounts Fraser should register on, ordered by value. Tick a box only 
 - [ ] [ExxonMobil Fawley](https://www.exxonmobil-fawley.co.uk/to-apply/) — Feb 2027; watch for [open evenings](https://www.exxonmobil-fawley.co.uk/open-evenings/)
 - [ ] [Arup](https://www.arup.com/careers) — recruited in **Southampton** in 2026 at £27–28k
 
+## 🆕 Live and actionable now (added 18 Sept 2026)
+
+- [ ] 🟢 **[Farrans Construction — apprenticeships (Civil Engineering, Construction Management, Quantity Surveying)](https://www.farrans.com/apprenticeships/)**
+  **Confirmed live with a firm deadline — closes ~December 2026.** The only item in the whole tracker with both a confirmed live status and a known closing date. Belfast/Dunmurry HQ, also London/Edinburgh/Leeds — relocation required, no Southampton presence. Apply now rather than waiting.
+
 ## 🌟 Fraser's shortlisted roles — register interest NOW
 
 - [ ] 🔴 **[Tetra Tech — Degree Apprentice Civil Engineer (Renewable Energy Infrastructure)](https://www.gradcracker.com/hub/1108/tetra-tech/degree-apprenticeship/81851/degree-apprentice-civil-engineer-renewable-energy-infrastructure)**
-  ⚠️ **This is a live, genuine application — not a register-interest form.** Check the closing date on the page immediately and submit a full application (CV, personal statement, etc). Highest urgency item in this list.
+  ⚠️ **Still unresolved after four sweeps (18 Sept 2026) — confirmed still live via search, but no closing date ever found.** This is a live, genuine application — not a register-interest form. A direct browser check is genuinely overdue. Highest urgency item in this list.
 - [ ] [Transport for London — Register Your Interest Degree Apprenticeships 2027](https://higherin.com/jobs/43598/transport-for-london/register-your-interest-degree-apprenticeships-2027)
   *Live now on Higherin. Register interest form.*
 - [ ] [Arcadis — Register Your Interest Civil Engineer Degree Apprenticeship 2027](https://higherin.com/jobs/43391/arcadis/register-your-interest-civil-engineer-degree-apprenticeship-2027)
