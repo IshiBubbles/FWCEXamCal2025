@@ -5031,4 +5031,11 @@ DTEND;TZID=Europe/London:20270218T103000
 LOCATION:Arborfield Green Leisure Centre, Sheerlands Road, Reading, RG2 9GB
 DESCRIPTION:Quinn Aspire South - Provisional
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BTC (Southampton) Youth U18 Yellows vs Winchester City FC U18 Black - Salvage Cup
+DTSTART;TZID=Europe/London:20261018T120000
+DTEND;TZID=Europe/London:20261018T140000
+LOCATION:BTC Sports Club #1
+DESCRIPTION:Fraser football fixture - U18's Salvage Cup (2nd Round)
+END:VEVENT
 END:VCALENDAR
