@@ -5052,4 +5052,16 @@ DTEND;TZID=Europe/London:20261018T140000
 LOCATION:BTC Sports Club #1
 DESCRIPTION:Fraser football fixture - U18's Salvage Cup (2nd Round)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:REMINDER: Aspire Parent Webinar tonight at 7pm
+DTSTART;TZID=Europe/London:20261012T070000
+DTEND;TZID=Europe/London:20261012T073000
+DESCRIPTION:Reminder - Aspire Parent Webinar is tonight at 7pm via Microsoft Teams: https://teams.microsoft.com/meet/3843684422569594?p=AALvTvJMaxBvse8Phj
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aspire Parent Webinar
+DTSTART;TZID=Europe/London:20261012T190000
+DTEND;TZID=Europe/London:20261012T200000
+DESCRIPTION:Basketball England Aspire Parent Webinar - Aspire programme overview, player development pathway, parent support & expectations, live Q&A. Join on Microsoft Teams: https://teams.microsoft.com/meet/3843684422569594?p=AALvTvJMaxBvse8Phj
+END:VEVENT
 END:VCALENDAR
