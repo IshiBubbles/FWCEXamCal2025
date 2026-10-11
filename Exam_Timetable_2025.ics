@@ -5064,4 +5064,10 @@ DTSTART;TZID=Europe/London:20261012T190000
 DTEND;TZID=Europe/London:20261012T200000
 DESCRIPTION:Basketball England Aspire Parent Webinar - Aspire programme overview, player development pathway, parent support & expectations, live Q&A. Join on Microsoft Teams: https://teams.microsoft.com/meet/3843684422569594?p=AALvTvJMaxBvse8Phj
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NavigATE: How to search and apply for apprenticeships' webinar
+DTSTART;TZID=Europe/London:20261021T153000
+DTEND;TZID=Europe/London:20261021T161500
+DESCRIPTION:Webinar on searching and applying for apprenticeships
+END:VEVENT
 END:VCALENDAR
