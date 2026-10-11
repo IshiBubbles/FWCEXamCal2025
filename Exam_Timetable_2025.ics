@@ -5070,4 +5070,11 @@ DTSTART;TZID=Europe/London:20261021T153000
 DTEND;TZID=Europe/London:20261021T161500
 DESCRIPTION:Webinar on searching and applying for apprenticeships
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidi - Dragon Fly Workshop & ESRC Festival of Social Science
+DTSTART;TZID=Europe/London:20261020T160000
+DTEND;TZID=Europe/London:20261020T193000
+LOCATION:Highfield Campus
+DESCRIPTION:Dragon Fly Workshop at 4:00pm. At 6:00pm, pupils attend ESRC Festival of Social Science event: Girls, Green Choices and the Cost of Living. Collection at 7:30pm from front of Building 100 at Highfield Campus.
+END:VEVENT
 END:VCALENDAR
