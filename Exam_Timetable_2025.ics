@@ -5077,4 +5077,16 @@ DTEND;TZID=Europe/London:20261020T193000
 LOCATION:Highfield Campus
 DESCRIPTION:Dragon Fly Workshop at 4:00pm. At 6:00pm, pupils attend ESRC Festival of Social Science event: Girls, Green Choices and the Cost of Living. Collection at 7:30pm from front of Building 100 at Highfield Campus.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:REMINDER: Aspire Parent Webinar in 15 minutes
+DTSTART;TZID=Europe/London:20261019T184500
+DTEND;TZID=Europe/London:20261019T185000
+DESCRIPTION:Reminder - Aspire Parent Webinar starts at 7:00pm. Join on Microsoft Teams: https://teams.microsoft.com/meet/3663124237250242?p=aEBDpcPgDyRUeeOfoA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aspire Parent Webinar - Strength & Conditioning for Youth Basketball
+DTSTART;TZID=Europe/London:20261019T190000
+DTEND;TZID=Europe/London:20261019T200000
+DESCRIPTION:Basketball England Aspire Parent Webinar - The Importance of Strength & Conditioning for Youth Basketball Players. Presented by Mark Williams, Lead Strength & Conditioning Coach, Basketball England. Join on Microsoft Teams: https://teams.microsoft.com/meet/3663124237250242?p=aEBDpcPgDyRUeeOfoA
+END:VEVENT
 END:VCALENDAR
