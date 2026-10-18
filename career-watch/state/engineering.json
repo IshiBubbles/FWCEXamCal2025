@@ -16,7 +16,7 @@
   },
   {
     "employer": "Airbus",
-    "role": "Engineering / Digital / Manufacturing Apprenticeships (multiple), incl. Test Engineering degree route",
+    "role": "Engineering / Digital / Manufacturing Apprenticeships (multiple), incl. Test Engineering degree route [COMMERCIAL AIRCRAFT ONLY - see separate Airbus Defence and Space entry]",
     "level": "Advanced / Degree",
     "location": "Various UK sites (Filton, Broughton, Newport, Portsmouth, Stevenage)",
     "cycle": "September 2027",
@@ -27,7 +27,7 @@
     "link": "https://www.airbus.com/en/careers/students-and-graduates/apprentices/apprenticeships-in-the-united-kingdom",
     "first_seen": "2026-08-09",
     "gradcracker_alert": true,
-    "notes": "NO fixed closing date - Airbus states applications may close at any time without notice, so apply in the first days of October. Craft/Technician needs 5 GCSEs grade 4/C+ incl. Maths, English, Science; Degree apprenticeships additionally need A-levels/BTEC (Fraser's Maths/Physics/Chemistry is a strong fit). Airbus Defence & Space roles carry security-clearance and nationality constraints. Correction from earlier tracker: the previous closes:2027-02-28 was wrong - there is no published closing date."
+    "notes": "NO fixed closing date - Airbus states applications may close at any time without notice, so apply in the first days of October. Craft/Technician needs 5 GCSEs grade 4/C+ incl. Maths, English, Science; Degree apprenticeships additionally need A-levels/BTEC (Fraser's Maths/Physics/Chemistry is a strong fit). Airbus Defence & Space roles carry security-clearance and nationality constraints. Correction from earlier tracker: the previous closes:2027-02-28 was wrong - there is no published closing date. CLARIFIED 2026-10-18: this entry covers Airbus's COMMERCIAL AIRCRAFT routes (Bristol/Broughton) only, closing 26 Oct 2026. Airbus Defence and Space is a SEPARATE entity with different, later-closing roles - see new entry."
   },
   {
     "employer": "Babcock International",
@@ -42,7 +42,7 @@
     "link": "https://earlycareers.babcockinternational.com/apprenticeships/",
     "first_seen": "2026-08-17",
     "gradcracker_alert": false,
-    "notes": "No fixed close - assessment runs continually through to around May. Job alerts available at https://earlycareers.babcockinternational.com/apply/register-for-job-alerts/ - REGISTER NOW. Defence work, so security clearance applies. Not currently followed on GradCracker - worth adding. Civil Engineer role leads to BSc (Hons) Civil Engineering via University of Plymouth (5yr block-release) - directly matches Fraser's #1 discipline ranking. Building Services Engineer leads to BEng (Hons) Building Services Engineering via UWE Bristol (5yr day-release, CIBSE-accredited). Both require on-site presence at Devonport >=3 days/week; BPSS and possibly SC clearance likely given dockyard location; some Babcock Devonport roles are UK-nationals-only - verify per-role."
+    "notes": "No fixed close - assessment runs continually through to around May. Job alerts available at https://earlycareers.babcockinternational.com/apply/register-for-job-alerts/ - REGISTER NOW. Defence work, so security clearance applies. Not currently followed on GradCracker - worth adding. Civil Engineer role leads to BSc (Hons) Civil Engineering via University of Plymouth (5yr block-release) - directly matches Fraser's #1 discipline ranking. Building Services Engineer leads to BEng (Hons) Building Services Engineering via UWE Bristol (5yr day-release, CIBSE-accredited). Both require on-site presence at Devonport >=3 days/week; BPSS and possibly SC clearance likely given dockyard location; some Babcock Devonport roles are UK-nationals-only - verify per-role. CORROBORATED 2026-10-18 via Amazing Apprenticeships Oct 2026 Higher & Degree Listing (independent dated source): confirms both Fraser-found roles (open now, closes Dec 2026, GBP15,000-25,000+). Additional roles found: Civil & Structural Engineering Degree Apprentice (Warrington); Chemical & Process Engineer Degree Apprentice (Warrington) and Process & Plant Engineer Degree Apprentice (Devonport) - both match Fraser's #2 discipline (chemical). Babcock's full 2027 degree cycle is live across Devonport, Bristol, Warrington, Leicester, Humberside."
   },
   {
     "employer": "AtkinsR\u00e9alis",
@@ -192,7 +192,7 @@
     "link": "https://careers.edfenergy.com/apprenticeships",
     "first_seen": "2026-08-17",
     "gradcracker_alert": true,
-    "notes": "NEDA is directly on-target for energy engineering. Apprenticeship Talent Community signup available - JOIN NOW so the window doesn't get missed; four weeks is easy to miss. EDF is also the recruiting channel for Sizewell C apprenticeships."
+    "notes": "NEDA is directly on-target for energy engineering. Apprenticeship Talent Community signup available - JOIN NOW so the window doesn't get missed; four weeks is easy to miss. EDF is also the recruiting channel for Sizewell C apprenticeships. CORROBORATED 2026-10-18 via Amazing Apprenticeships Oct 2026 Listing: Electrical Engineering, Nuclear Engineering, and Chemistry (NP) - Level 6, Hinkley Point C - all GBP26,170, open January 2027, close February 2027. Chemistry (NP) role matches Fraser's #2 discipline."
   },
   {
     "employer": "ExxonMobil Fawley",
@@ -260,10 +260,10 @@
     "level": "Degree",
     "location": "Stevenage, Bristol, Bolton",
     "cycle": "September 2027",
-    "status": "register_interest_open_dates_tbc",
-    "opens": null,
-    "closes": null,
-    "date_confidence": "CONFIRMED that a 2027 intake is coming - MBDA's site says closed for Sept 2026 and invites register-your-interest for 2027. NO month stated - dates unknown.",
+    "status": "CONFIRMED_LIVE_dated_vacancies",
+    "opens": "2026-10",
+    "closes": "2027-01",
+    "date_confidence": "UPGRADED 2026-10-18 via Amazing Apprenticeships Oct 2026 Listing: register-interest status has converted into specific, dated Level 6 (and one L4) degree apprenticeships. Electrical Engineering and Mechanical Engineering Degree Apprentice (Stevenage) close November 2026; Electro-Mechanical, Software Engineering, Seeker & Datalink Systems, Test Calibration & Maintenance (Bolton) close January 2027. All open October 2026. No longer register-interest only.",
     "link": "https://www.mbdacareers.co.uk/early-careers/apprenticeships",
     "first_seen": "2026-08-17",
     "gradcracker_alert": true,
@@ -568,5 +568,20 @@
     "first_seen": "2026-10-18",
     "gradcracker_alert": false,
     "notes": "Matches Fraser's #1 discipline (civil engineering) with a genuine Southampton precedent across two prior cycles. Worth adding to GradCracker follows and checking directly as autumn progresses."
+  },
+  {
+    "employer": "Airbus Defence and Space",
+    "role": "Project Manager Degree Apprentice, Space Engineer Degree Apprentice (both Portsmouth, L6); Hardware Engineer - Electronics, Software Engineer Degree Apprentice (both Newport, L6); Project Management Office, Space Systems Degree Apprentice (both Stevenage, L6); Space Mechanical Electrical Engineering Apprentice (Portsmouth, L4)",
+    "level": "Level 4/6",
+    "location": "Portsmouth, Newport, Stevenage",
+    "cycle": "September 2027",
+    "status": "CONFIRMED_OPEN_closes_march_2027",
+    "opens": "2026-10",
+    "closes": "2027-03",
+    "date_confidence": "CONFIRMED 2026-10-18 via Amazing Apprenticeships Oct 2026 Higher & Degree Listing (independent dated source). All roles open October 2026, close March 2027. GBP22,000-23,000 starting salary.",
+    "link": null,
+    "first_seen": "2026-10-18",
+    "gradcracker_alert": false,
+    "notes": "SEPARATE ENTITY FROM AIRBUS COMMERCIAL AIRCRAFT - do not confuse with the Bristol/Broughton routes closing 26 Oct 2026. Portsmouth site is genuinely commutable from Southampton (~20mi), far more locally relevant than Bristol/Broughton. March 2027 close gives much more time than the commercial routes."
   }
 ]
