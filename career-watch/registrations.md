@@ -46,6 +46,10 @@ Sites and accounts Fraser should register on, ordered by value. Tick a box only 
 
 - [ ] 🟢 **[Farrans Construction — apprenticeships (Civil Engineering, Construction Management, Quantity Surveying)](https://www.farrans.com/apprenticeships/)**
   **Confirmed live with a firm deadline — closes ~December 2026.** The only item in the whole tracker with both a confirmed live status and a known closing date. Belfast/Dunmurry HQ, also London/Edinburgh/Leeds — relocation required, no Southampton presence. Apply now rather than waiting.
+- [ ] 🟢 **[Babcock — Civil Engineer Degree Apprenticeship, Devonport Plymouth](https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC2000058716)** — Fraser-found, 18 Oct 2026
+  **Confirmed live, closes 7 December 2026.** Directly matches Fraser's #1 discipline (civil engineering). Leads to BSc (Hons) via University of Plymouth. Verify entry requirements on GOV.UK before applying.
+- [ ] 🟢 **[Babcock — Building Services Engineer Degree Apprenticeship, Devonport Plymouth](https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC2000058715)** — Fraser-found, 18 Oct 2026
+  **Confirmed live, closes 7 December 2026.** Electrical/building-services adjacent. Leads to BEng (Hons) via UWE Bristol, CIBSE-accredited.
 
 ## 🌟 Fraser's shortlisted roles — register interest NOW
 

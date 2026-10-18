@@ -35,14 +35,14 @@
     "level": "Degree",
     "location": "Various UK sites (Devonport, Bristol, Rosyth)",
     "cycle": "September 2027",
-    "status": "confirmed_opens_october_2026",
+    "status": "TWO_LIVE_DEGREE_ROLES_FOUND_closes_7dec2026",
     "opens": "2026-10",
-    "closes": null,
-    "date_confidence": "CONFIRMED month from Babcock's own early-careers site: Degree and Graduate Apprenticeships open in October; Intermediate/Higher/Modern open in December. 2027 named explicitly in their register-interest copy. Exact day not published.",
+    "closes": "2026-12-07",
+    "date_confidence": "CONFIRMED month from Babcock's own early-careers site: Degree and Graduate Apprenticeships open in October; Intermediate/Higher/Modern open in December. 2027 named explicitly in their register-interest copy. Exact day not published. CONFIRMED LIVE 2026-10-18 (Fraser-found): two specific degree apprenticeship vacancies at Devonport, Plymouth - Civil Engineer Degree Apprenticeship (GOV.UK VAC2000058716) and Building Services Engineer Degree Apprenticeship (VAC2000058715), both posted 15 Oct 2026, both closing 7 Dec 2026 (one aggregator shows 8 Dec - minor discrepancy), both for 1 Sept 2027 start. Not independently verified via direct fetch (proxy blocked) - verify on GOV.UK directly.",
     "link": "https://earlycareers.babcockinternational.com/apprenticeships/",
     "first_seen": "2026-08-17",
     "gradcracker_alert": false,
-    "notes": "No fixed close - assessment runs continually through to around May. Job alerts available at https://earlycareers.babcockinternational.com/apply/register-for-job-alerts/ - REGISTER NOW. Defence work, so security clearance applies. Not currently followed on GradCracker - worth adding."
+    "notes": "No fixed close - assessment runs continually through to around May. Job alerts available at https://earlycareers.babcockinternational.com/apply/register-for-job-alerts/ - REGISTER NOW. Defence work, so security clearance applies. Not currently followed on GradCracker - worth adding. Civil Engineer role leads to BSc (Hons) Civil Engineering via University of Plymouth (5yr block-release) - directly matches Fraser's #1 discipline ranking. Building Services Engineer leads to BEng (Hons) Building Services Engineering via UWE Bristol (5yr day-release, CIBSE-accredited). Both require on-site presence at Devonport >=3 days/week; BPSS and possibly SC clearance likely given dockyard location; some Babcock Devonport roles are UK-nationals-only - verify per-role."
   },
   {
     "employer": "AtkinsR\u00e9alis",
