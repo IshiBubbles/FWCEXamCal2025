@@ -5096,4 +5096,16 @@ DTEND;TZID=Europe/London:20261218T010000
 LOCATION:The Harbour Hotel, Southampton
 DESCRIPTION:Celebrate Christmas with Promega Thursday\nArrival drinks from 18:45\nDinner served at 19:45\nCarriages at Midnight\nRSVP 01/11/26
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidi - DofE Bronze Practice Expedition
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270401
+DESCRIPTION:DofE Bronze Practice Expedition - 30-31 March 2027. Attendance subject to completion of Volunteering, Physical and Skills sections.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidi - DofE Bronze Qualifying Expedition
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270621
+DESCRIPTION:DofE Bronze Qualifying Expedition - 19-20 June 2027. Attendance subject to completion of Volunteering, Physical and Skills sections.
+END:VEVENT
 END:VCALENDAR
