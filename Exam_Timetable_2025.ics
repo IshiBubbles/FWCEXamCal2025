@@ -5108,4 +5108,10 @@ DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270621
 DESCRIPTION:DofE Bronze Qualifying Expedition - 19-20 June 2027. Attendance subject to completion of Volunteering, Physical and Skills sections.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quinn Kestrels Bowling Party
+DTSTART;TZID=Europe/London:20261128T163000
+DTEND;TZID=Europe/London:20261128T183000
+DESCRIPTION:Quinn Kestrels bowling party
+END:VEVENT
 END:VCALENDAR
