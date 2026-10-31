@@ -4771,15 +4771,15 @@ DESCRIPTION:Fraser football fixture - Winchester City FC U18 Black
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winchester City FC U18 Black vs AFC Stoneham Youth U18 Falcons
-DTSTART;TZID=Europe/London:20261101T100000
-DTEND;TZID=Europe/London:20261101T120000
+DTSTART;TZID=Europe/London:20261101T110000
+DTEND;TZID=Europe/London:20261101T130000
 LOCATION:Charters Community Stadium
 DESCRIPTION:Fraser football fixture - Winchester City FC U18 Black
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nursling & Shirley Youth U18 Tigers vs Winchester City FC U18 Black
-DTSTART;TZID=Europe/London:20261115T140000
-DTEND;TZID=Europe/London:20261115T160000
+DTSTART;TZID=Europe/London:20261115T121500
+DTEND;TZID=Europe/London:20261115T141500
 LOCATION:Cantell School
 DESCRIPTION:Fraser football fixture - Winchester City FC U18 Black
 END:VEVENT
@@ -5113,5 +5113,12 @@ SUMMARY:Quinn Kestrels Bowling Party
 DTSTART;TZID=Europe/London:20261128T163000
 DTEND;TZID=Europe/London:20261128T183000
 DESCRIPTION:Quinn Kestrels bowling party
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winchester City FC U18 Black vs Hythe & Dibden Youth U18 Warriors - Salvage Cup
+DTSTART;TZID=Europe/London:20261122T100000
+DTEND;TZID=Europe/London:20261122T120000
+LOCATION:Charters Community Stadium
+DESCRIPTION:Fraser football fixture - U18's Salvage Cup (3rd Round)
 END:VEVENT
 END:VCALENDAR
