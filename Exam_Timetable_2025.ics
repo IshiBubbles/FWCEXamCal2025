@@ -5121,4 +5121,18 @@ DTEND;TZID=Europe/London:20261122T120000
 LOCATION:Charters Community Stadium
 DESCRIPTION:Fraser football fixture - U18's Salvage Cup (3rd Round)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imma - Wake in Christchurch
+DTSTART;TZID=Europe/London:20261121T120000
+DTEND;TZID=Europe/London:20261122T000000
+LOCATION:Christchurch
+DESCRIPTION:Imma attending wake in Christchurch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imma - Angie Leaving Celebration (Hinckley)
+DTSTART;TZID=Europe/London:20261128T120000
+DTEND;TZID=Europe/London:20261129T120000
+LOCATION:Leonardo Hotel, Hinckley
+DESCRIPTION:Angie Leaving Celebration in Hinckley. Imma attending. Hotel booked via booking.com - Leonardo Hotel.
+END:VEVENT
 END:VCALENDAR
