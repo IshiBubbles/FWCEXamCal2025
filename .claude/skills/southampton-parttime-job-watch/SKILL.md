@@ -39,10 +39,11 @@ Then it writes a short daily digest to a markdown file, attempts to email it, an
   - Lidl: https://careers.lidl.co.uk/search-results
   - Iceland Foods: https://careers.icelandfoods.co.uk/
   - Hollywood Bowl: https://careers.hollywoodbowlgroup.co.uk/job-search?places_position=50.90489%2C-1.40431&places_query=Southampton%2C%20Hampshire%2C%20England#search-results (Southampton pre-filtered)
+  - GO! Southampton (city centre Business Improvement District - runs a dedicated jobs board for city centre live vacancies, good cross-check for West Quay-area retail/hospitality roles): https://gosouthampton.co.uk/jobs
 - **Excluded employers (do not search or list, per Adam's preference):**
   - **KFC** - Adam isn't interested in working there (doesn't like chicken). Skip KFC entirely in both the Indeed sweep and named-employer checks - don't search for it, and don't include any KFC results even if they surface incidentally in a broader search.
 - **Coverage tiering (re-check periodically, update this list as Indeed's index changes):**
-  - **Required (check the employer's own site every run - Indeed is thin/empty for these):** Boots, Matalan, Sainsbury's, McDonald's, Showcase Cinemas, Vue Cinemas, IKEA, Hollywood Bowl.
+  - **Required (check the employer's own site every run - Indeed is thin/empty for these):** Boots, Matalan, Sainsbury's, McDonald's, Showcase Cinemas, Vue Cinemas, IKEA, Hollywood Bowl, GO! Southampton.
   - **Secondary (Indeed shows decent Southampton-area coverage - spot-check the site every few runs instead):** Tesco, Asda, Domino's, Costa, Greggs, Lidl, Iceland Foods.
 - **Delivery:**
   - **Primary (always works):** write the digest to a dated markdown file, `parttime-job-watch/digests/Job-Digest-YYYY-MM-DD.md`, every run.
