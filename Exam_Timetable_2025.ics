@@ -4827,9 +4827,9 @@ DESCRIPTION:Fraser football fixture - Winchester City FC U18 Black
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winchester City FC U18 Black vs Warsash Wasps Sports U18
-DTSTART;TZID=Europe/London:20270228T100000
-DTEND;TZID=Europe/London:20270228T120000
-LOCATION:Charters Community Stadium
+DTSTART;TZID=Europe/London:20261213T100000
+DTEND;TZID=Europe/London:20261213T120000
+LOCATION:Charters Community Stadium #1
 DESCRIPTION:Fraser football fixture - Winchester City FC U18 Black
 END:VEVENT
 BEGIN:VEVENT
